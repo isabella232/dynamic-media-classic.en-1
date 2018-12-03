@@ -1,0 +1,100 @@
+---
+title: Working with PSD files
+seo-title: Working with PSD files
+description: null
+seo-description: Learn how to work with PSD files.
+uuid: bcd31673-eaa0-4048-998c-77ec9b4ddeb6
+acrolinxstatus: not_checked
+contentOwner: admin
+cq-gepid: scene7/using/WSC1F542D1-027D-47f4-93F3-0D52D8A5D997,scene7/using/WSF86E4D7B-16B2-45d5-8FFF-2888EA50B713,scene7/using/WS348D3870-9326-417a-958C-72BB9FA993F0
+cq-lastmodifiedby: rbrough
+content-type: reference
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
+discoiquuid: eefed0fc-0531-4f67-99d6-86789f731651
+donotlocalize: false
+gep-conversion-script-version: head1_20111213
+lr-creator: admin
+lr-lastmodified: 2018-05-21T08 23 44.115-0400
+lr-lastmodifiedby: admin
+pagelayout: video
+sidecolumn: left
+sortdate: 2018-05-21T08 23 00.000-0400
+index: y
+internal: n
+snippet: y
+---
+
+# Working with PSD files{#working-with-psd-files}
+
+PSD (Photoshop Document files) are most often used in Scene7 to create templates. When you upload a PSD file, you can create a Scene7 template automatically from the file (select the Create Template option on the Upload screen).
+
+SPS creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
+
+## PSD upload options {#psd-upload-options}
+
+Options for uploading PSD files are located under Photoshop Options in Upload Job Options. You can crop a file, choose a color profile for it, use it to create a template, and select an anchor.
+
+These options are available when uploading PSD files:
+
+**Crop** (located under Crop Options.) Choose Trim to automatically crop white space from the edges of a PSD file; choose Manual to crop sides of the PSD file:
+
+**Trim** Select the Trim Away Based On menu and choose Color or Transparency.
+
+If you choose the Color option, select the Corner menu and choose the corner of the PSD with the color that best represents the white-space color you want to crop.
+
+Drag the slider to specify a tolerance from 0 through 1:
+
+To trim based on color, specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PSD. Numbers closer to 1 allow for more color difference.
+
+To trim based on transparency, specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
+
+**Manual** Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, a half-inch is cropped from each side of the image.
+
+**Color Profile** (Located under Color Profile Options.) Choose an option:
+
+**Convert To sRGB (default)** Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
+
+**Keep Original Color Space** Retains the original color space of the image.
+
+**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS. See ICC profiles.
+
+**Maintain Layers** Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail view and selecting the layer panel. See Viewing and editing layers in a PSD file.
+
+**Create Template** Creates a template from the layers in the PSD file.
+
+**Extract Text** Extracts the text so that users can search for text in a Viewer.
+
+**Extend Layers To Background Size** Extends the size of ripped image layers to the size of the background layer.
+
+**Layer Naming** Layers in the PSD file are uploaded as separate images. Choose an option to name these images in the Scene7 Publishing System:
+
+**Layer Name** Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file, not their default layer names.
+
+**Photoshop and Layer Number** Names the images after their layer numbers in the PSD file, ignoring original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called Spring Ad.psd is named Spring Ad_2 even if it had a non-default name in Photoshop.
+
+**Photoshop and Layer Name** Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named Price Tag in a PSD file named SpringAd is named Spring Ad_Price Tag. A layer with the default name Layer 2 is called Spring Ad_2.
+
+**Anchor** Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images to best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
+
+## Viewing and editing layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
+
+If you selected the Maintain Layers option when you uploaded your PSD, Scene7 ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail view.
+
+1. Double-click the full PSD file in the Browse Panel to open it in Detail view.
+
+   ***note**: Make sure that you open the full asset and not one of the PSD layers.*
+
+1. Click Layers to open the Layers panel. All the layers appear as separate images in the Layers panel.
+1. Double-click a layer to open it and do any of the following:
+
+    * Click the Image Map icon to create an image map on the layer. (See [Creating Image Maps](creating-image-maps.md#creating_image_maps).)
+    * Click the Zoom Targets icon to create zoom targets on the layer. (See [Creating zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+    * Click the Crop icon to crop the layer. (See [Cropping an image](cropping-image.md#cropping_an_image).)
+    * Click Sharpen to sharpen the layer. (See [Sharpening an image](sharpening-image.md#sharpening_an_image).)
+    * Click the Adjust to adjust the layer. (See [Adjusting an image](adjusting-image.md#adjusting_an_image).)
+
+1. Click Save or Save As.
+1. To view or edit a different layer, click an arrow at the bottom of the layer preview.
+1. To exit the layer Detail view, click the Grid view icon.
+

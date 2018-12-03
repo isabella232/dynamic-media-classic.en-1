@@ -1,0 +1,248 @@
+---
+title: Creating a PDF document
+seo-title: Creating a PDF document
+description: null
+seo-description: Learn how to create a PDF document using the Web-to-Print process in Dynamic Media Classic.
+uuid: 5db3dc7a-90f2-4658-a0cd-bb05fdab09cd
+acrolinxstatus: not_checked
+contentOwner: admin
+cq-gepid: scene7/using/WSa76520b89656fb55121d09ad131727a2828-8000,scene7/using/WSa76520b89656fb55121d09ad131727a2828-7fff,scene7/using/WSe9d8ea9e424e2732-477b9b5b13176d60a23-8000,scene7/using/WSa76520b89656fb55-146d54fa131871bddff-8000
+cq-lastmodifiedby: rbrough
+content-type: reference
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_publishing
+discoiquuid: 9816a16f-b863-451d-9b38-14aa8f1ba596
+donotlocalize: false
+gep-conversion-script-version: head1_20111213
+lr-creator: admin
+lr-lastmodified: 2018-05-21T08 23 42.903-0400
+lr-lastmodifiedby: admin
+pagelayout: video
+sidecolumn: left
+sortdate: 2018-05-21T08 23 00.000-0400
+index: y
+internal: n
+snippet: y
+---
+
+# Creating a PDF document{#creating-a-pdf-document}
+
+The final step in the Web-to-Print process is generating the customized PDF. After end-users personalize the template using the web application you created, they create a final PDF document. This final PDF is generally sent to a print service provider for professional-grade printing. To make sure that the final PDF prints as expected, developers use the correct joboptions file and set up fonts, printer marks, and colors correctly.
+
+## Setting up PDF Presets {#setting-up-pdf-presets}
+
+Specify the PDF compatibility level and printer settings by creating and uploading a PDF joboptions file to the Scene7 Server. For example, you can choose to select PDF/X-4 compliant PDF output (recommended for PDF print publishing workflows). You can create the joboptions file in your authoring software (such as Adobe Illustrator), or in Acrobat. Always check with your printer, who can advise you on the appropriate job option settings for your print job.
+
+For more information on creating joboptions files, and for information on creating a joboptions file in Acrobat, see Adobe Acrobat Help.
+
+To create a joboptions file in Illustrator:
+
+1. Choose Edit &gt; Adobe PDF Presets.
+1. In the dialog box, select the preset you want to use.
+
+   The following Job Option Settings are supported by Scene7:
+
+<table cellpadding="4" cellspacing="0"> 
+ <tbody> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>General</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"> 
+    <ul> 
+     <li><p>Compatibility</p></li> 
+     <li><p>Object Level Compression</p></li> 
+     <li><p>Embed thumbnails</p></li> 
+     <li><p>Optimize for fast web view</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Images</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"> 
+    <ul> 
+     <li><p>Downsample</p></li> 
+     <li><p>Resolution</p></li> 
+     <li><p>Threshold</p></li> 
+     <li><p>Compression for color, gray, and mono</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Fonts</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"> 
+    <ul> 
+     <li><p>Embed all fonts (fonts are embedded by default)</p></li> 
+     <li><p>Embed OpenType fonts</p></li> 
+     <li><p>Subset embedded fonts when percent of characters used is less than:</p></li> 
+     <li><p>Always Embed List</p></li> 
+     <li><p>Never Embed List</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Color</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"> 
+    <ul> 
+     <li><p>Color Strategy (Tag only images is treated as tag everything)</p></li> 
+     <li><p>Document Rendering Intent</p></li> 
+     <li><p>Only the following working spaces are supported for 4.2.5. 4.3 will allow you to use any customer provide profile that has been uploaded to IPS.</p></li> 
+     <li><p>As a workaround you can specify the destination color space for the artwork to be converted to using the default color profiles for the company.</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>RGB</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"> 
+    <ul> 
+     <li><p>e-sRGB</p></li> 
+     <li><p>scRGB with encoding range [-4.0, 4.0]</p></li> 
+     <li><p>Lab D50</p></li> 
+     <li><p>PCS XYZ</p></li> 
+     <li><p>Flat XYZ</p></li> 
+     <li><p>Linear ROMM-RGB</p></li> 
+     <li><p>ROMM-RGB</p></li> 
+     <li><p>sYCC 8-bit</p></li> 
+     <li><p>e-sYCC 8-bit</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Gray</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"> 
+    <ul> 
+     <li><p>Gray Gamma 1.8</p></li> 
+     <li><p>Gray Gamma 2.2</p></li> 
+     <li><p>Dot Gain 10%</p></li> 
+     <li><p>Dot Gain 15%</p></li> 
+     <li><p>Dot Gain 20%</p></li> 
+     <li><p>Dot Gain 25%</p></li> 
+     <li><p>Dot Gain 30%</p></li> 
+     <li><p>sGray</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Preserve CMYK values for calibrated CMYK color spaces</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"><p></p></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Advanced</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"><p>Preserve OPI comments is always turned on</p></td> 
+  </tr> 
+  <tr> 
+   <td class="row-nocellborder" valign="top" width="NaN%"><p>Standards</p></td> 
+   <td class="cellrowborder" valign="top" width="NaN%"><p>Compliance Standard</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+   >[!NOTE]
+   >
+   >Scene7 ignores printer mark settings in the joboptions file. Rather, printer marks are configured through the use of Scene7 URL commands.
+
+1. Click Export, then specify a name and location and click Save.
+1. Upload the job options file as an asset to the Scene7 Publishing System.
+
+   Use it with your published template by referring to it in the URL. For example:
+
+   `http://yourpublishserver.scene7.com/is/agm/SiliconPublishing/PetNews?&fmt=pdf,cmyk&joboption=SPSfilenameid`
+
+## Preparing the PDF for print {#preparing-the-pdf-for-print}
+
+Before finalizing the PDF for print, make sure you follow the guidelines in this section.
+
+**Images**
+
+Make sure that all images in your publish job have been uploaded to your Scene7 Server and published.
+
+**Fonts**
+
+Make sure that all fonts in your publish job have been uploaded to your Scene7 Server and published. Be certain that you have legal rights to host the fonts if you plan to allow end-users to change them.
+
+**Image resolution (pixels per inch)**
+
+The resolution of bitmap images is preserved by the Scene7 server in generated print-ready PDFs. Scene7 upscales image resolution if necessary. For optimal results, leave the resolution at the default value (typically 72 dpi) when previewing on web. The default resolution for all the images in your company is set in the Publish Settings/Image Server window in the Default Print Resolution section. Higher resolutions (such as 300dpi) can result in longer processing time and should only be applied to a print-ready PDF. Use the imageRes= command in the URL to manually override the default resolution for PDF jobs.
+
+**Color Management**
+
+Your document and images can use grayscale, CMYK, named spot colors, RGB, or Lab color models. Each can be either uncalibrated or calibrated by employing an ICC color profile. For best results, embed the profile in the generated print-ready PDF. The Scene7 Server does this by default. Make sure that all required color profiles have been uploaded to the Scene7 platform. Preferably, make sure that the color management options set in your design application, match those set in your Scene7 Server:
+
+**Design application color management settings:** In the Color Settings of your authoring application (such as Adobe Illustrator), specify the RGB and CMYK color profiles in the Working Spaces section.
+
+**Scene7 color management settings:** Typically, the color management settings in the design application should match the default color profiles in your Scene7 server. You can find these settings in the Publish Setup/Image Server window.
+
+## Displaying printer marks {#displaying-printer-marks}
+
+You might create a PDF for either of these cases:
+
+* A finished document
+* An intermediate document, such as a film or plate, which may be sent to a printer for production
+
+An intermediate document might contain additional production content, such as bleed margins, printer marks, and so on. This content is usually shown outside the boundaries of the finished page.
+
+All marks available from the "Add Printer Marks" screen in Acrobat are supported. The printer marks are controlled with the `printerMark` parameter. The syntax is `&printerMark=trim marks, bleed marks, registration marks, color bars, page information, style, line weight, layer embed`.
+
+* trim marks = 0|1
+* bleed marks = 0|1
+* registration marks = 0|1
+* color bars = 0|1
+* page information = 0|1
+* style = Illustrator | IllustratorJ | QuarkXPress
+* line weight = 0.125 | 0.25 | 0.50
+* layer embed = 0|1
+
+When preparing a document for print production, printer marks may be needed to help the print service align separation films for producing proofs, measure film for correct calibration and ink density, trim film to size, and so on. Printer marks indicate the boundaries of document boxes such as trim boxes and bleed boxes. Production-related content may include:
+
+**Media box** The boundaries of the physical medium on which the page will be printed. Content outside the media box can safely be discarded without affecting the meaning of the file.
+
+**Bleed box** The region to which the contents of the page are clipped when output in a production environment. The bleed box may include areas needed to accommodate the physical limitations of cutting, folding, and trimming equipment. The default value is the page's crop box.
+
+**Trim box** The intended dimensions of the finished page after trimming. The trim box may be smaller than the media box to allow for production-related content, such as printing instructions, cut marks, and color bars. The default value is the page's crop box.
+
+**Art box** The extent of the page's meaningful content (including potential white space) as intended by the page's creator. The default value is the page's crop box.
+
+You can use the modifiers shown in this table to replicate the printer marks available in Adobe Illustrator, InDesign, and Acrobat:
+
+<table cellpadding="4" cellspacing="0"> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e22145" valign="top" width="NaN%"><p>Modifier/Values</p></th> 
+   <th class="cellrowborder" id="d19e22148" valign="top" width="NaN%"><p>Description</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code">bleedMargin</span>=top,left,bottom,right</p></td> 
+   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Specified in Acrobat with the Set Page Boxes option. Select BleedBox, then specify the margins with the Margin Controls option.</p><p>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going inwards. Values (0-1000) are in points.</p><p>New height=original height - (top+bottom)</p><p>New width= original width - (left+right)</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code"></span><span class="code">mediaMargin</span>=top,left,bottom,right</p></td> 
+   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Specified in Acrobat with the Set Page Boxes option. Modify Custom Page Size under the Change Page Size option.</p><p>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going outwards. Values (0-1000) are in points.</p><p>New height=top+bottom+original height</p><p>New width=top+bottom+original width</p><p>The new height and new width values determine the new page size of the generated PDF.</p><p>Once a new Media Box is defined, all calculations of trim margin and bleed margin need to consider the new Media Box as the edge of the artwork.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code"></span><span class="code">trimMargin</span>=top,left,bottom,right</p></td> 
+   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Specified in Acrobat with the Set Page Boxes option. Select Trim Box, then specify the margins with the Margin Controls option.</p><p>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going inwards. Values (0-1000) are in points.</p><p>New height=original height - (top+bottom)</p><p>New width=original width - (left+right)</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code">printerMark</span>= trim marks, bleed marks, registration marks, color bars, page information, style, line weight, layer embed</p></td> 
+   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Values are as follows:</p><p>trim marks = 0,1 (default is 0)</p><p>bleed marks = 0,1 (default is 0)</p><p>registration marks = 0,1 (default is 0)</p><p>color bars = 0,1 (default is 0)</p><p>page information = 0,1 (default is 0)</p><p>style = <span class="code">Default</span>, <span class="code">InDesignJ1</span>, <span class="code">InDesignJ2</span>, <span class="code">Illustrator</span>, <span class="code">illustratorJ</span>, <span class="code">QuarkXPress</span> (default is <span class="code">Default</span>)</p><p>line weight= 0.125-0.2, both values inclusive (default is 0.25)</p><p>layer embed = 0, 1, with 1 creating a new layer containing all printer marks (default is 1)</p><p>Depending on what style is used, the marks and color bars appear different and match with the corresponding styles used by Acrobat.</p><p></p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+Note the following about printer marks:
+
+* Specify bleed margins, trim margins, and media margins through URL calls when specifying printer marks. Specifying printer marks without specifying these margins causes these marks to appear outside the visible region of the generated PDF. Also, the trim marks and bleed marks overlap.
+* Specifying the same margin values for the trim margin and bleed margin results in trim marks and bleed marks overlapping when both these flags are set to 1 in `&printerMark`.
+* Specifying fmt=swf/image formats through URL calls results in output without any printer marks or margins because this feature is specific to PDF output.
+* Specifying `&printerMark=`through the URL results in default values being used for all parameters. Specifying `&printerMark=1` results in trim marks being set to 1 and default values for other parameters. But to set the nth element to ON, all the (n-1) parameters need to be specified through URL.
+* Specifying only one value for `&trimMargin`, `&bleedMargin`, and `&mediaMargin` results in that value being applied to all the top, bottom, left, and right margins of the original artwork.
+* Specifying only the top and left values through `&trimMargin`, `&bleedMargin`, and `&mediaMargin` results in the top value being assigned to the bottom value and the left value being equal to the right.
+* Not specifying the right value through `&trimMargin`, `&bleedMargin`, and `&mediaMargin` results in the left value being assigned to the right.
+* For a multi-page PDF, printer marks/margins are applied to all the pages (in Acrobat, users can select page ranges for printer marks/margins).
+* The output of a PDF with printer marks/margins enabled matches exactly with Acrobat X unless otherwise specified.
+
+If you want to create a PDF/X-4 compliant PDF file through the &joboption modifier in the URL, you should be aware of the limitations related to printer marks specified in the PDF ISO_15930-7-2008.pdf:
+
+* Each Page object of a PDF file includes a MediaBox. Each Page object in a PDF/X-4 conforming file shall include a TrimBox or an ArtBox, but not both. The MediaBox may be included by inheritance.
+* If the BleedBox is present, the ArtBox or the TrimBox shall not extend beyond the boundaries of the BleedBox. If the CropBox is present, none of the ArtBox, the TrimBox, or the BleedBox shall extend beyond the boundaries of the CropBox.
+* None of the ArtBox, the TrimBox, the CropBox, or the BleedBox shall extend beyond the boundaries of the MediaBox.
+* Some industry practices require the use of the BleedBox. Appropriate trade practices should be followed.
+* The use of the TrimBox is recommended over the use of the ArtBox.
+* All annotations other than TrapNet and PrinterMark annotations shall have a value for Rect lying completely outside the BleedBox (or the TrimBox or the ArtBox if no BleedBox is present). All PrinterMark annotations shall have a value for Rect lying completely outside the TrimBox or ArtBox. A PDF/X-4 conforming reader may completely ignore annotations except for PDF TrapNet annotations.
+* A Rect shall be regarded as completely outside a bounding box if all of the coordinates of the Rect lie either outside the bounding box or on its edge, and the intersection of the two rectangles is zero.
+* If the ViewerPreferences dictionary contains the ViewArea, ViewClip, PrintArea or PrintClip keys, each of these keys present shall have the value MediaBox or (if a BleedBox is present in all page objects of the file) BleedBox.
+

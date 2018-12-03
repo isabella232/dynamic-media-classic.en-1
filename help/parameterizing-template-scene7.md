@@ -1,0 +1,220 @@
+---
+title: Parameterizing a template in Scene7
+seo-title: Parameterizing a template in Scene7
+description: null
+seo-description: Learn how to parameterize a template in Dynamic Media Classic (Scene7)
+uuid: 62cd1e3c-b03a-4492-9c9b-f2c52c3abd2e
+contentOwner: admin
+cq-gepid: scene7/using/WSef8d5860223939e2-d19776312a7267a200-8000,scene7/using/WSC9928983-F038-4880-ACD8-B31B8A2C6BB0,scene7/using/WS931A08AF-60EA-41a2-86AF-3744A68CDB56,scene7/using/WSE1FA7DAE-51C9-4c7a-8C0A-CD01E70406CD,scene7/using/WSef8d5860223939e2-141e2c7712f1259bb1b-7ffe,scene7/using/WSd968ca97bf00cf72-5eedd3a113268dc80f5-8000
+cq-lastmodifiedby: rbrough
+content-type: reference
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_publishing
+discoiquuid: 2909ecdc-df60-48b8-b61b-c5baf0d766ed
+gep-conversion-script-version: head1_20111213
+lr-creator: admin
+lr-lastmodified: 2018-05-21T08 23 43.791-0400
+lr-lastmodifiedby: admin
+moreHelpPaths: /content/help/en/experience-manager/morehelp/template_publishing;/content/help/en/experience-manager/morehelp/template_publishing
+sortdate: 2018-05-21T08 23 00.000-0400
+index: y
+internal: n
+snippet: y
+---
+
+# Parameterizing a template in Scene7{#parameterizing-a-template-in-scene}
+
+After you upload an Illustrator template that you saved as Scene7 FXG to the Scene7 Publishing System, you can define its variable elements. Do so by parameterizing variable elements in the Template Publishing Build and Preview screens. Scene7 offers tools for defining text and object parameters on layers and their respective properties. You can also create different versions of a template.
+
+Parameterizing an FXG template allows you to customize the variability of text, images, and graphics in the template. For example, you can parameterize a line of text so that end users can modify the text through a web user interface. You can define empty text fields as variable so that end users can fill these fields with personalized text. You can also parameterize the attributes and properties of design elements in the S7 Template Publishing Build screen.
+
+>[!NOTE]
+>
+>Parameterizing the template in Scene7 is not required if you plan to use DOM manipulation.
+
+## Defining parameters in FXG templates {#defining-parameters-in-fxg-templates}
+
+Follow these steps in Scene7 to define parameters for an FXG template:
+
+1. In the Browse window, select the FXG file.
+1. Click Build and choose Template Publishing, or click the file’s Edit button.
+
+   The Template Publishing screen opens.
+
+   <!-- 
+
+Comment Type: remark
+Last Modified By: unknown unknown 
+Last Modified Date: 
+
+<p>Select LRCo\FXG\Welcome_Summit_10 (FXG file) and choose Build &gt; Template Publishing.</p>
+
+ -->
+
+   ![](assets/wp_fxg_edit.png)
+
+1. In the Layers panel in the Template Publishing screen, select the layer with the elements that you want to parameterize.
+
+   >[!NOTE]
+   >
+   >Click the eye icon on and off to make sure that you select the object you want.
+
+1. In the Properties panel, click a parameter in the Name column (to parameterize text) or Parameter column (to parameterize objects).
+
+   **Text** Click in the text field (scroll to the bottom of the Properties list to find it). The Parameters dialog box appears. Select the text that you want to parameterize and click Add. You can create multiple parameters from the same text property by selecting different portions of the text and adding parameters for each portion. To change the name of the parameter, click it, enter a new name, and click Close.
+
+   **Objects** Click a box in the Parameter column. The Edit Parameter dialog box appears. Enter a name and click OK.
+
+   To customize multiple attributes at once with the same value, use the same parameter name for each attribute. For example, if your template has a rectangle and a star, you can type `newcolor` as the Parameter name for the SolidColor color attribute of each. Whenever you change the `newcolor` value, both the rectangle and the star change to the new color.
+
+1. Specify a default value for the attribute in the Value or Data field. Set all properties for the selected object to specify the exact appearance you want.
+1. (Optional) Repeat steps 3- 5 for all objects or layers that you want to parameterize. 
+1. Click Save or Save As.
+1. Click Preview to open the FXG Preview window and see the parameters you created with their default values.
+
+## Show or hide an object or layer in the FXG template {#show-or-hide-an-object-or-layer-in-the-fxg-template}
+
+Hidden objects and layers are not visible in preview or output, but are not deleted from the file. You can make them visible again as desired. Visibility is an attribute that you can make variable. Clicking the eye icon on or off sets the default value for the visibility of an object or layer.
+
+1. In the Objects panel, click the eye icon next to an object or layer name to hide it in the file. 
+1. Click again to make the object visible.
+
+## Create different versions of a template {#create-different-versions-of-a-template}
+
+You can edit attributes to create different versions of the template for different uses.
+
+In the Template Publishing screen, click Save As to save the file as a new FXG template without overwriting the original FXG template.
+
+## Using stroked text {#using-stroked-text}
+
+Stroked text is an example of how you can parameterize attributes. Scene7 supports these stroked text features:
+
+* Width of stroke
+* Dashed stroke pattern
+* Different join styles
+* Different cap end styles
+* Overprinting of stroke
+* Separate color handling for stroke, including spot color support
+
+This table describes the attributes that support stroked text.
+
+<table cellpadding="4" cellspacing="0"> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e21285" valign="top" width="NaN%"><p>Attribute</p></th> 
+   <th class="cellrowborder" id="d19e21288" valign="top" width="NaN%"><p>Description</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:fill</span> &lt;Boolean&gt; (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies whether fill is enabled for text. Default is true.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:stroke</span> &lt;Boolean&gt; (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies whether stroke is enabled for text. Default is false.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:weight</span> &lt;number&gt; (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the weight of the stroke for text in points. Default is 1 point.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:joints </span>&lt;string&gt; (<span class="code">miter</span>, <span class="code">round</span>, <span class="code">bevel</span>) (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the type of join of the stroke. Default is <span class="code">round</span>.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:caps</span> &lt;string&gt; (<span class="code">none</span>, <span class="code">round</span>, <span class="code">square</span>) (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the type of cap of the stroke. Default is <span class="code">round</span>.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:miterLimit</span> &lt;number&gt; (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the limit of the miter when join is miter join for the stroke. Default is 4.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeOverprint</span> &lt;Boolean&gt; (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies whether the overprint is enabled for stroke. Default is false.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeColorName</span> (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Same as <span class="code">s7:colorName</span>, except it defines the name of the color for the stroke.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeColorValue</span> (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Same as <span class="code">s7:colorValue</span>, except it defines the value of the color being used for the stroke.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeColorspace</span> (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Same as <span class="code">s7:colorspace</span>, except it defines the colorspace of the stroke.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">flm:dashPattern</span> &lt;array&gt; (S7FXG Only)</p></td> 
+   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>By default there are no patterns for the dashes and gaps. This attribute defines the dash/gap pattern of the stroke. The first value is the dash of the stroke. The second is the gap in between the dashes. You can extend the array for multiple values in the same manner with alternate values being specified as dash and gap.</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## Using warped text {#using-warped-text}
+
+Warped text enables you to modify the appearance of text with effects like wave, flag, stretch, and so on.
+
+Warped text is supported for RichText objects. Text can be vertical or horizontal, and can be point text, area text, and type-on-a-path text. The entire text object must be selected before warped text can be applied.
+
+Warped text can be created in Adobe Illustrator.
+
+When warping text, you can set the following attributes:
+
+* Style
+* Direction
+* Bend
+* Horizontal distortion
+* Verticle distortion
+
+Each attribute contains a set of values.
+
+<table cellpadding="4" cellspacing="0"> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e21463" valign="top" width="NaN%"><p>Attribute</p></th> 
+   <th class="cellrowborder" id="d19e21466" valign="top" width="NaN%"><p>Values</p></th> 
+   <th class="cellrowborder" id="d19e21469" valign="top" width="NaN%"><p>Default</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Style<span class="code">s7:warpStyle </span></p></td> 
+   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p><span class="code">nonearcarcLowerarcUpperarchbulgeshellLowershellUpperflagwavefishrisefishEyeinflatesqueezetwist</span></p></td> 
+   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p><span class="code">none</span></p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Direction<span class="code">s7:warpDirection</span></p></td> 
+   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p><span class="code">horizontalvertical</span></p></td> 
+   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p><span class="code">horizontal</span></p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Bend<span class="code">s7:warpBend</span></p></td> 
+   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p>-1 to 1</p></td> 
+   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p>0.5 </p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Horizontal Distortion<span class="code">s7:warpHorizontalDistortion</span></p></td> 
+   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p>-1 to 1</p></td> 
+   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p>0</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Verticle Distortion<span class="code">s7:warpVerticalDistortion</span></p></td> 
+   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p>-1 to 1</p></td> 
+   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p>0</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!NOTE]
+>
+>For `inflate` and `fishEye`, changing the `s7:warpDirection` flag between horizontal and vertical does not have any effect on the output.
+
+For more information about creating and using warped text, see the Adobe Illustrator documentation.
+
+>[!MORE_LIKE_THIS]
+>
+>* [Create the initial template in Illustrator](create-initial-template-illustrator.md#create_the_initial_template_in_illustrator)
+>* [Upload files for Template Publishing](upload-files-template-publishing.md#upload_files_for_template_publishing)

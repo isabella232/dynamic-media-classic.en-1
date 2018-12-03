@@ -1,0 +1,111 @@
+---
+title: "Quick Start: Spin Sets"
+seo-title: "Quick Start: Spin Sets"
+description: null
+seo-description: An introduction and Quick Start to Spin Set to help you get up and running quickly.
+uuid: a46721bb-1546-4c5d-9458-d921d168d567
+acrolinxstatus: not_checked
+contentOwner: admin
+cq-gepid: scene7/using/WS28282599-BC50-4031-B597-191D408EAA9C
+cq-lastmodifiedby: rbrough
+content-type: reference
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
+discoiquuid: 626baeba-701c-46d4-a25e-3d21f7f7dd79
+donotlocalize: false
+gep-conversion-script-version: head1_20111213
+lr-creator: admin
+lr-lastmodified: 2018-05-21T08 23 44.335-0400
+lr-lastmodifiedby: admin
+moreHelpPaths: /content/help/en/experience-manager/morehelp/spin_sets;/content/help/en/experience-manager/morehelp/spin_sets
+pagelayout: video
+sidecolumn: left
+sortdate: 2018-05-21T08 23 00.000-0400
+index: y
+internal: n
+snippet: y
+---
+
+# Quick Start: Spin Sets{#quick-start-spin-sets}
+
+A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Scene7 offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
+
+![]()
+
+Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To call attention to the use of an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
+
+See [Creating Image Maps](creating-image-maps.md).
+
+**Quick Start**
+
+This Spin Sets Quick Start is designed to get up and running quickly with Spin Set techniques in Scene7. Follow steps 1 through 7. At the end of each step is a cross-reference to a topic heading where you can find more information if you need it.
+
+**1. Creating and uploading the images**
+
+At minimum, you need 8-12 shots of an item for a one-dimensional Spin Set and 16-24 for a two-dimensional Spin Set. The shots must be taken at regular intervals to give the impression that the item is rotating and being flipped. For example, if a one-dimensional Spin Set includes 12 shots, rotate the item 30 degrees (360/12) for each shot.
+
+Select the Upload button on the Global Navigation bar to upload spin images from your computer or network to the Scene7 Publishing System.
+
+See [Guidelines for shooting Spin Set images](creating-spin-set.md#guidelines_for_shooting_spin_set_images).
+
+**2. Creating a Spin Set**
+
+To create a Spin Set, click the Build button and choose Spin Sets. In the Spin Set Size dialog box, choose how many rows and cells you want, and click OK. Then drag images into the grid on the Spin Set screen.
+
+See [Creating a Spin Set](creating-spin-set.md#creating_a_spin_set).
+
+<!-- 
+
+Comment Type: remark
+Last Modified By: unknown unknown 
+Last Modified Date: 
+
+<p>See <a href="#UnresolvedLink-sc7_spinsets_sp.xml#WS98ca2e6790647c06-245331fc135ab744793-8000">Including Image Maps in Spin Sets</a> to add clickable, hotspot regions, known as Image Maps, to images in a Spin Set. </p>
+
+ -->
+
+<!-- 
+
+Comment Type: remark
+Last Modified By: unknown unknown 
+Last Modified Date: 
+
+<p>See also <a href="#UnresolvedLink-sc7_spinsets_sp.xml#WS98ca2e6790647c06229f600f135ab7cc461-8000">Managing InfoPanel content</a>.</p>
+
+ -->
+
+**3. Editing a Spin Set**
+
+To edit a Spin Set, select its Edit rollover button. The Spin Set screen opens. Add, remove, and change the position of images. You can change the position of rows in two-dimensional spin sets.
+
+See [Editing a Spin Set](creating-spin-set.md#editing_a_spin_set).
+
+**4. Setting up Spin Set Viewer Presets**
+
+Administrators can create Spin Set Viewer Presets. These presets determine the look of the Spin Set Viewer. To set up a new Spin Set Viewer Preset, select the Setup button on the Global Navigation bar. On the Setup screen, display Application Setup options, and then select Viewer Presets.
+
+On the Viewer Presets screen, select the Add menu and choose Spin Set Viewer in the Add Viewer Preset dialog box. Then choose options in the Configure Viewer screen.
+
+See [Setting up Spin Set Viewer Presets](setting-spin-set-viewer-presets.md#setting_up_spin_set_viewer_presets).
+
+**5. Previewing a Spin Set**
+
+Select your Spin Set in the Browse Panel and click its rollover Preview button. On the Preview screen, hold down the mouse button and drag the pointer left or right to visually “spin” the item.
+
+See [Previewing a Spin Set](previewing-spin-set.md#previewing_a_spin_set).
+
+**6. Publishing a Spin Set**
+
+Publishing a Spin Set places it on Scene7 servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Scene7 Image servers to your web site or application.
+
+To publish a Spin Set, mark it for publish by selecting the **Mark for Publish** icon beside its name in the Browse Panel. Click **Publish** on the Global Navigation bar to initiate a publish. On the Publish screen, click **Start Publish**.
+
+See [Publishing a Spin Set](publishing-spin-set.md#publishing_a_spin_set).
+
+**7. Linking a Spin Set to a web page**
+
+Scene7 creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview screen.
+
+Select the Spin Set, and then click **Preview**. The Preview screen opens. Select a Spin Set Viewer Preset. Then click **Copy URL**.
+
+See [Linking a Spin Set to a web page](linking-spin-set-web-page.md#linking_a_spin_set_to_a_web_page).

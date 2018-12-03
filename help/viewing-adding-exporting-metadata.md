@@ -1,0 +1,320 @@
+---
+title: Viewing, adding, and exporting metadata
+seo-title: Viewing, adding, and exporting metadata
+description: null
+seo-description: Learn how to view, add, and export metadata.
+uuid: 827e9f7f-8cdf-4d15-bcda-17f412e8396e
+acrolinxstatus: not_checked
+contentOwner: admin
+cq-gepid: scene7/using/WS259993e42159a215-1c6a66df1265272619e-7fec,scene7/using/WSef8d5860223939e2c412c0012ea1799bda-8000,scene7/using/WS259993e42159a215-1c6a66df1265272619e-7feb,scene7/using/WSd7ad7b2a61f2993e-74ded170126917f8769-8000,scene7/using/WS259993e42159a215-1c6a66df1265272619e-7fea,scene7/using/WSef8d5860223939e2-6d2019a2128b7ac5907-8000,scene7/using/WS259993e42159a2152e8f3d741268b2893e5-8000,scene7/using/WSef8d5860223939e2-e32148f12b17c9da22-8000,scene7/using/WSd968ca97bf03cf72-5e3dd3a113268dc80f5-8000
+cq-lastmodifiedby: rbrough
+content-type: reference
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
+discoiquuid: aa1c51c9-9ff5-4224-bc13-77136404e698
+donotlocalize: false
+gep-conversion-script-version: head1_20111213
+lr-creator: admin
+lr-lastmodified: 2018-05-21T08 23 44.967-0400
+lr-lastmodifiedby: admin
+moreHelpPaths: /content/help/en/experience-manager/morehelp/managing_assets;/content/help/en/experience-manager/morehelp/managing_assets
+pagelayout: video
+sidecolumn: left
+sortdate: 2018-05-21T08 23 00.000-0400
+index: y
+internal: n
+snippet: y
+---
+
+# Viewing, adding, and exporting metadata{#viewing-adding-and-exporting-metadata}
+
+You can store information specific to the files you work with in the Scene7 Publishing System; this information is called *metadata*. You can use metadata in Scene7 for organizing, searching, filtering, and sorting your assets.
+
+Metadata appears in Detail view along with Scene7-generated information, such as the file creation date, publishing date, and keywords. To view metadata, open the asset in Detail view and select the Metadata panel. You can enter and edit metadata in Detail view.
+
+Some metadata is embedded directly into a file. If a file contains this metadata, Scene7 automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Scene7 recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail view. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
+
+For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp_en](http://www.adobe.com/go/learn_s7_xmp_en).
+
+## View metadata {#view-metadata}
+
+To view an asset’s metadata, open the asset in Detail view, and click the Metadata panel. Then choose an option on the Metadata View menu to select a set of metadata fields. Scene7 offers these Metadata Views:
+
+**Compact View** A basic list of values.
+
+**IPTC** Values as defined by the International Press Telecommunications Council.
+
+**XMP** Values as defined by the extensible metadata platform.
+
+Administrators can create Metadata Views. These views also appear on the Metadata Views menu. For information about creating Metadata Views, see [Metadata Views](application-setup.md#metadata_views).
+
+## Manually enter metadata for an asset {#manually-enter-metadata-for-an-asset}
+
+1. Open the asset in Detail view.
+1. Open the Metadata panel and do one or both of the following:
+
+    * Choose a Metadata View to determine which metadata fields appear in the panel.
+    * Choose a Preset Value and click Apply to populate metadata fields with preset values. Company administrators create these preset values.
+
+1. Enter values in the Metadata panel.
+
+>[!NOTE]
+>
+>To edit the metadata of several assets at once, select the assets and choose File &gt; Edit Info. Edits you make to metadata in the Edit Info window apply to all the assets you selected.
+
+## Add or edit keywords {#add-or-edit-keywords}
+
+In addition to metadata, you can use keywords to assist in searching and managing your assets.
+
+If you’ve added keywords to other files during this session, or if you’ve removed keywords from your list, they appear in the Keyword Suggestions table.
+
+1. Open the file in Detail View.
+1. Click Keywords.
+1. To add keywords, do any of the following:
+
+    * Type a keyword in the text box and click Add.
+    * Click a keyword in the Keyword Suggestions table.
+
+1. To remove a keyword, select it and click Remove. It moves to the Keyword Suggestions table.
+
+>[!NOTE]
+>
+>You can add keywords to files as you upload them to Scene7. In the Upload Job Options dialog box, choose Additional Metadata and enter keywords. See [Upload options](uploading-files.md#upload_options).
+
+## Import metadata {#import-metadata}
+
+Rather than manually enter metadata one asset at a time, you can import metadata for many different assets from a tab-delimited or XML file. Entering the metadata in a tab-delimited or XML file and importing the file is less time-consuming than entering metadata in individual assets. In the first row of the tab-delimited file, enter the ID and the names of fields for which you want to record metadata. In each subsequent row, enter an asset ID name followed by metadata values. Fields that are not included in the tab-delimited or XML file are not modified. To import metadata from an XML file, make sure that you conform to the DTD.
+
+>[!NOTE]
+>
+>You can create a template for entering metadata so that it can be properly imported to Scene7 Publishing System. After you create the template, you can use it to enter the metadata. See [Create a template for entering metadata to upload](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
+
+You can find more information about standardized properties at: http://www.adobe.com/devnet/xmp.html
+
+1. In the Browse Panel, select the images to which you want to add metadata from the tab-delimited or XML file.
+1. Click **File** &gt; **Import Metadata**.
+1. In the **Upload Metadata** dialog box, click **Browse**.
+1. In the **Select files to upload** dialog box, select the tab-delimited or XML file with the metadata.
+1. Enter a job name.
+1. Click **Upload**.
+
+**Identifying different metadata types in the import**
+
+Keep the following in mind when identifying different metadata types to import:
+
+* User Defined Fields are identified by their name as created in Setup &gt; Application Setup &gt; Metadata &gt; User-Defined fields. Use the Generate file functionality to get a list of all defined UDFs in the correct import format.
+* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in Setup &gt; Application Setup &gt; Metadata &gt; Metadata Schema editor. The technical names can be found in documentation of related XMP schema. Note that XMP properties names do not appear in the Generate file feature.
+* Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Note that Metadata Schema properties names do not appear in the Generate file feature.
+
+For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix "dc" and “subject” is the technical XMP name. The prefix and technical XMP name are combined into the "dc:subject" full property name. In the XML metadata import format, "dc.subject" must be the property name. In the tab-delimited import format it must be the column-header.
+
+**Import Keywords**
+
+Keywords can be imported as comma separated list. If a comma appears in any of the individual values, it needs to be escaped by a backslash (\). A literal backslash is the usual double-backslash (\\).
+
+For example, a metadata import file containing the value "Hello\, World!,back\\slash,foo" for "dc:subject" sets three XMP keywords on the asset: "Hello, World!," "back\slash," and "foo."
+
+**Import XMP and Metadata Schema metadata XMP files**
+
+The XML import accepts only valid XML. When importing XMP or Metadata Schema fields the namespace prefix is added and behaves here like a XMP-namespace. This namespace must be declare e.g. in the top-level tag.
+
+For example:
+
+```as3
+<ips > 
+    <ghw_object vc_objectname="img_001" dc:subject="word1,word2" 
+</ips>
+```
+
+**Import XMP and Metadata Schema metadata Tab Delimited files**
+
+The prefix must be added to the related column header of the import field.
+
+## Import metadata (via FTP) {#import-metadata-via-ftp}
+
+You can import metadata for multiple files by entering the metadata in a tab-delimited or XML file and selecting the Process metadata files option on the Upload (Via FTP) screen.
+
+Make sure the data in the tab-delimited or XML file is in the correct format. In the first row, enter the ID field followed by the names of metadata fields to be modified. In each subsequent row, enter an asset ID name followed by metadata values. Fields that are not included in the tab-delimited or XML file are not modified.
+
+Click the Upload button on the Global Navigation Bar, and on the Jobs screen, select the Via FTP tab to import the metadata. Then click Job Options. In the Upload Job Options dialog box, Choose Process metadata files.
+
+## Batch rename IDs using metadata {#batch-rename-ids-using-metadata}
+
+Using metadata imported from a tab-delimited file or XML file, you can rename Scene7 Publishing System IDs. The imported metadata is applied only to the images specified in the metadata file itself. It doesn't matter whether images are selected on the Browse Panel.
+
+To rename an image’s Scene7 Publishing System ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called* new_vc_objectname* to the XML data.
+
+For example:
+
+<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="rows" summary=""> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e13606" valign="top" width="NaN%"><p>ipsid</p></th> 
+   <th class="cellrowborder" id="d19e13609" valign="top" width="NaN%"><p>newipsid</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13606 " valign="top" width="NaN%"><p>testjacket_1</p></td> 
+   <td class="cellrowborder" headers="d19e13609 " valign="top" width="NaN%"><p>Jacket_test_1</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13606 " valign="top" width="NaN%"><p>testjacket_blue</p></td> 
+   <td class="cellrowborder" headers="d19e13609 " valign="top" width="NaN%"><p>Jacket_test_2</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+The job log for the Metadata job will show which IDs were successfully renamed and which ones were not.
+
+## Create a template for entering metadata to upload {#create-a-template-for-entering-metadata-to-upload}
+
+Scene7 offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Scene7 Publishing System. Follow these steps to create a template for use in recording and importing metadata to Scene7 Publishing System:
+
+1. Select image assets with metadata fields you want for your template.
+1. Choose File &gt; Import Metadata.
+1. Select Image for the Asset Properties Type.
+1. From the Generate File menu, select Tab Delimited Template, Asset's XML Metadata, or XML DTD.
+1. Click Generate.
+1. In the dialog box that appears, copy the data. Use this data to construct the template.
+
+## Working with Metadata Schemas {#working-with-metadata-schemas}
+
+A company administrator can view a list of all available schemas. Open Application Setup -&gt; Metadata -&gt; Metadata Schema.
+
+Initially, the list of global standard schemas like XMP are hidden. They can be shown using the checkbox at the bottom of the list.
+
+The company administrator can create a new custom schema, or edit an existing custom schema.
+
+You can use the Metadata Schema Editor to perform the following actions:
+
+<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e13682" valign="top" width="NaN%"><p>Action</p></th> 
+   <th class="cellrowborder" id="d19e13685" valign="top" width="NaN%"><p>Description</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Add</p></td> 
+   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Adds a new property to the schema. A modal dialog collects the information: ID, Label, Structure and Data Type.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Add Choice Value</p></td> 
+   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Adds a new selectable choice to a property with structure Open Choice or Closed Choice. All choice values have the same type. You must select the property itself to enable the button.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Edit</p></td> 
+   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Edit the Label of a property or choice value. You can only change the Label, ID, and type information is immutable.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Move Up / Move Down</p></td> 
+   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag &amp; drop is not supported at this time.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Delete</p></td> 
+   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Deletes a property or choice value from the schema. This does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View.If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server.</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+The system automatically generates a custom schema for User-defined fields with the prefix "s7udf". These are the existing User-defined Fields and are edited in their own Setup section.
+
+***note**: Changes to the schema never change the asset metadata itself. However, they are not visible for all SPS and Metadata Server functionality and can't be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in SPS and the Metadata Server.*
+
+The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside SPS. A schema is defined by a prefix, a namespace, and a list of properties.
+
+* Name
+
+  UI-Name for the schema. Used to identify the properties in Metadata Views and Advanced Search. Similar to XMP Sections like Basic, IPTC, PDF.
+
+* Prefix
+
+  Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
+
+* Namespace
+
+  Technical unique identifier for the schema, typically a URL in the form http://your.company.com/name/version/. See the list of standard schemas for examples. The namespace is not visible in the SPS UI, but is used to store metadata in the XMP block.
+
+* Description
+
+  Free form description of the schema.
+
+>[!NOTE]
+>
+>The prefix and namespace cannot be edited. To change these properties, you must delete and re-create the schema.
+
+Properties describe the metadata that can be stored with this schema in the XMP block. A property consists of:
+
+<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e13761" valign="top" width="NaN%"><p>Property</p></th> 
+   <th class="cellrowborder" id="d19e13764" valign="top" width="NaN%"><p>Description</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>ID</p></td> 
+   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>Technical identifier for this property. The ID is not visible in SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as:</p> 
+    <ul> 
+     <li><p>No spaces</p></li> 
+     <li><p>No ".", ":", "$"</p></li> 
+     <li><p>No number as first character</p></li> 
+     <li><p>Best practice is to use a-z or A-Z as first character</p></li> 
+    </ul><p></p><p>Once created, the ID cannot be changed.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>Label</p></td> 
+   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>UI-Name for this property.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>Structure</p></td> 
+   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>Determines the type of the property together with Data Type. Structure can be one of:</p> 
+    <ul> 
+     <li><p>Simple Type: single value of data type</p></li> 
+     <li><p>Sequence: a list of values of the same data type</p></li> 
+     <li><p>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</p></li> 
+     <li><p>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</p></li> 
+    </ul></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>Data Type</p></td> 
+   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>Select from these available types:</p> 
+    <ul> 
+     <li><p>String</p></li> 
+     <li><p>Integer</p></li> 
+     <li><p>Float</p></li> 
+     <li><p>Yes/No (Boolean)</p></li> 
+     <li><p>Date</p></li> 
+    </ul></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+When the property has the structure Open Choice or Closed Choice, you must provide at least one Choice Value. Open Choice can be changed. Closed Choice cannot be changed. All Choice Values have the data type of the property.
+
+<table cellpadding="4" cellspacing="0"> 
+ <thead align="left"> 
+  <tr> 
+   <th class="cellrowborder" id="d19e13849" valign="top" width="NaN%"><p>Property</p></th> 
+   <th class="cellrowborder" id="d19e13852" valign="top" width="NaN%"><p>Description</p></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13849 " valign="top" width="NaN%"><p>ID</p></td> 
+   <td class="cellrowborder" headers="d19e13852 " valign="top" width="NaN%"><p>Technical identifier for this value. The ID is not visible in the SPS UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.</p></td> 
+  </tr> 
+  <tr> 
+   <td class="cellrowborder" headers="d19e13849 " valign="top" width="NaN%"><p>Label</p></td> 
+   <td class="cellrowborder" headers="d19e13852 " valign="top" width="NaN%"><p>UI-Name for this value.</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!MORE_LIKE_THIS]
+>
+>* [Viewer Presets](application-setup.md#viewer_presets)
+>* [Metadata Presets](application-setup.md#metadata_presets)
