@@ -26,9 +26,9 @@ internal: n
 snippet: y
 ---
 
-# Creating a template{#creating-a-template}
+# Creating a template {#creating-a-template}
 
-To create a template, click Build &gt; Template Basics. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
+To create a template, click **Build** &gt; **Template Basics**. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
 
 >[!NOTE]
 >
@@ -68,9 +68,9 @@ You can create a template from an existing template. Open the template, click **
 
 1. To create your template use one of the following methods:
 
-   **Select the PSD or images first** In the Browse Panel, select the PSD file or images you want for your template, click Build > Template Basics.
+   **Select the PSD or images first** In the Browse Panel, select the PSD file or images you want for your template, click **Build** > **Template Basics**.
 
-   **Start from the Template screen** Click Build > Template Basics. Select either Designer or Developer.
+   **Start from the Template screen** Click **Build** > **Template Basics**. Select either Designer or Developer.
 
 1. In the Enter Canvas Size dialog box, enter width and height measurements for your template.
 1. Select a folder in the Asset Library and drag the PSD file or images you want for your template onto the Template screen.
@@ -157,7 +157,9 @@ Use these tools on the Template screen to create templates:
 
 **Text Editor v4.3 and Text Editor v4.2** You can choose to use the latest and most fully featured text editor, Text Editor v4.3, or the previous text editor, Text Editor v4.2. When creating new templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template’s fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers such as Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
 
-***note**: Text Editor v4.2 will eventually be removed as an option in Scene7, so it is recommended that you use Text Editor 4.3 when possible. The Word Wrap option will be incorporated into a future release of the Text Editor.*
+>[!NOTE]
+>
+>Text Editor v4.2 will eventually be removed as an option in Scene7, so it is recommended that you use Text Editor 4.3 when possible. The Word Wrap option will be incorporated into a future release of the Text Editor.*
 
 **Designer and Developer** Select the option that best describes your role.
 
@@ -186,7 +188,7 @@ Use these tools on the Template screen to create templates:
     * Type text in the text box. Choose Copy Fit Text to make the text fit n the text box.
     * Paste text from the Clipboard into the text box.
 
-1. Click Apply, and then close the Text screen.
+1. Click **Apply**, and then close the Text screen.
 
 ### Format text {#format-text}
 
@@ -214,8 +216,6 @@ Follow these steps to format text in a text layer:
 
    **Line Spacing** Type or select a numeric value by which to adjust the amount of space between lines.
 
-   ![](assets/line_spacing.png)
-
    **Baseline Shift** Type or select a numeric value by which to move a selected character up or down relative to the baseline of the surrounding text. This option is especially useful when you’re hand-setting fractions or adjusting the position of inline graphics.
 
 >[!NOTE]
@@ -241,8 +241,6 @@ Follow these steps to format text in a text layer:
    **Indent First Line** Specify the amount by which you want to indent the first line of text.
 
    **Space Before Paragraph** Specify the amount of space you want to appear above the first line of text in the paragraph.
-
-   ![](assets/space_before.png)
 
    **Space After Paragraph** Specify the amount of space you want to appear below the last line of text in the paragraph.
 
@@ -279,7 +277,7 @@ The information provided in Source tab of the Text Editor is for your reference.
 
    Changes remain intact if you switch back and forth between Preview and Source view. 
 
-1. Click Apply to render the edits.
+1. Click **Apply** to render the edits.
 
 ## Working with layers {#working-with-layers}
 
@@ -395,9 +393,7 @@ To adjust a shadow or glow effect, start by selecting its name in the Layers lis
 
 ## Masking layers {#masking-layers}
 
-The Layers list offers a Mask button that specifies how the mask or alpha channel of a layer is used. Using the Mask button, you can apply the effect of a background layer to a particular layer or the entire parent layer in your template. Select a layer in the Layers list and select the Mask button  ![](assets/mask.png)
-
-to cycle through these states:
+The Layers list offers a Mask button that specifies how the mask or alpha channel of a layer is used. Using the Mask button, you can apply the effect of a background layer to a particular layer or the entire parent layer in your template. Select a layer in the Layers list and select the Mask button to cycle through the following states:
 
 * The background of the layer is opaque.
 * The layer content is inverted and the background of the layer is filled with solid black. 

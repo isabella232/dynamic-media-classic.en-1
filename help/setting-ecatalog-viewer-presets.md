@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Setting up eCatalog Viewer Presets{#setting-up-ecatalog-viewer-presets}
+# Setting up eCatalog Viewer Presets {#setting-up-ecatalog-viewer-presets}
 
 eCatalog Viewer Presets determine the style, behavior, and look of eCatalog Viewers. Scene7 provides eCatalog Viewer Presets, and you can create your own eCatalog Viewer Presets as well if you are an administrator.
 
@@ -42,9 +42,7 @@ Follow these steps to create a eCatalog Viewer Preset (you must be an administra
 1. On the Configure Viewer screen, enter a name for your eCatalog Viewer Preset.
 1. In the Configure Viewer screen, set the options you want.
 
-   Click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option to see its description.
+   Click the Info Tip icon adjacent to the option to see its description.
 
    The preview screen displays the viewer as you update and change settings.
 

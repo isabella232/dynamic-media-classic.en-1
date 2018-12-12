@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Viewing Image Sets{#viewing-image-sets}
+# Viewing Image Sets {#viewing-image-sets}
 
 You can view your Image Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Image Sets.
 
@@ -41,9 +41,7 @@ You can create and customize Viewer Presets to suit your needs.
 
 1. Choose options in the Configure Viewer screen.
 
-   To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+   To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Setting up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}
+# Setting up Zoom Viewer Presets {#setting-up-zoom-viewer-presets}
 
 Zoom Viewer Presets determine the style, behavior, and look of your Zoom viewers. Scene7 offers many options for customizing and skinning Viewers. Scene7 comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create new company Zoom Viewer Presets or edit a default preset and save it with a new name.
 
@@ -61,9 +61,7 @@ Follow these steps to create or edit a Zoom Viewer Preset:
 
 1. Specify settings as desired.
 
-   To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+   To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

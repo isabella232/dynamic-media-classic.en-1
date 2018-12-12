@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Setting up Spin Set Viewer Presets{#setting-up-spin-set-viewer-presets}
+# Setting up Spin Set Viewer Presets {#setting-up-spin-set-viewer-presets}
 
 Spin Set Viewer Presets determine the style, behavior, and look of your viewers. Scene7 comes with default Spin Set Viewer Presets. If you are an administrator, you can create your own Spin Set Viewer Presets as well. You can configure a Spin Set Viewer Preset with different colors, borders, fonts, and image settings.
 
@@ -37,9 +37,7 @@ Follow these steps to create a Spin Set Viewer Preset:
    The Configure Viewer screen opens.
 
 1. Type a name in the Preset Name box for the Spin Set Viewer preset.
-1. Specify other options as desired. To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+1. Specify other options as desired. To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

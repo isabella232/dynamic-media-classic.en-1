@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Setting up Image Presets{#setting-up-image-presets}
+# Setting up Image Presets {#setting-up-image-presets}
 
 Like a macro, an Image Preset is a predefined collection of sizing and formatting commands saved under a name. To understand how Image Presets work, suppose your web site requires each product image to appear at two different sizes: 500 x 500 pixels and 150 x 150 pixels. You create two Image Presets, one called “Enlarge” to display images at 500x500 pixels and one called “Thumbnail” to display images at 150 x 150 pixels. To deliver images at the “Enlarge” and “Thumbnail” size, a Scene7 Image Server looks up the definition of the Enlarge Image Preset and Thumbnail Image Preset. Then the server dynamically generates an image at the size and formatting specifications of each Image Preset.
 

@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Navigation basics{#navigation-basics}
+# Navigation basics {#navigation-basics}
 
 The Scene7 Publishing System screen includes three major areas: Global Navigation bar, Asset Library, and Browse Panel/Build Panel.
 
@@ -64,9 +64,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 Use the Asset Library to organize the assets you are working with. You can create folders and subfolders for organizing your assets in the Asset Library.
 
-At the top of the Asset Library panel are commands for locating assets. You can search for assets and filter to locate assets. Click the Trash icon  ![](assets/Trash_icon.png)
-
-at the bottom of the Asset Library to examine assets you deleted.
+At the top of the Asset Library panel are commands for locating assets. You can search for assets and filter to locate assets. Click the Trash iconat the bottom of the Asset Library to see assets you deleted.
 
 >[!NOTE]
 >
@@ -78,7 +76,7 @@ The Browse/Build Panel is where you do much of your work. What appears in this p
 
 **Browse mode** Select a folder in the Asset Library to view and work with its contents in the Browse Panel. This panel offers the File, Preview, Select All, Select None, and Sort menus for working with assets. You can also view assets in different ways by moving the slider or selecting the Grid View , List View , or Detail View button. Selecting the Detail View button or double-clicking an asset opens the asset in Detail view, where you can perform asset-dependent file operations.
 
-**Build mode** Click Build, then choose an option to start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build screen opens. You can select the assets you want to work with before or after you enter Build mode.
+**Build mode** Click **Build**, then choose an option to start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build screen opens. You can select the assets you want to work with before or after you enter Build mode.
 
 >[!MORE_LIKE_THIS]
 >

@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Searching assets{#searching-assets}
+# Searching assets {#searching-assets}
 
 To locate file assets in Scene7 Publishing System, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an advanced search, and filter for assets.
 
@@ -49,11 +49,9 @@ Use the Search field to conduct simple searches. You can search for items by nam
 To conduct a simple search:
 
 1. Select the folder in the Asset Library to search in a particular folder and its subfolders
-1. Click  ![](assets/search_button.png)
-
-   in the Asset Library and choose an option that describes how narrow or broad you want the search to be. You can choose Within All Files & Folders, Within Selected Folder, or Within Selected Folder & Subfolders.
+1. Click the Search button in the Asset Library and choose an option that describes how narrow or broad you want the search to be. You can choose Within All Files & Folders, Within Selected Folder, or Within Selected Folder & Subfolders.
 1. Enter a search term.
-1. Click Go or press Enter.
+1. Click **Go** or press Enter.
 
    The results of your search appear in the Browse Panel.
 
@@ -85,9 +83,9 @@ Specify any of the following criteria in your search:
 
 You can click the Remove Search Field button to remove a search field.
 
-Click Search to begin your search. The results of the search appear in the Browse Panel. You can change any search condition and click Search to run the search again.
+Click **Search** to begin your search. The results of the search appear in the Browse Panel. You can change any search condition and click **Search** to run the search again.
 
-Click Clear to clear search criteria and start a new search. Click Close when you finish searching to close the Search panel.
+Click **Clear** to clear search criteria and start a new search. Click **Close** when you finish searching to close the Search panel.
 
 ## Filter assets using metadata {#filter-assets-using-metadata}
 
@@ -113,9 +111,7 @@ Follow these steps to locate assets by filtering with their metadata values:
 
    See [Saving, repeating, and deleting filter operations](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
-1. Clicking the Field button  ![](assets/filters_field.png)
-
-   on a panel, follow these instructions to display the filtering menu and construct the filter operation:
+1. Click the Field button on a panel, then follow these instructions to display the filtering menu and construct the filter operation:
 
    **Choosing&#xA;a metadata field** Select the name of the field on the filtering menu.
 
@@ -139,9 +135,9 @@ Follow these steps to locate assets by filtering with their metadata values:
 
    >[!NOTE]
    >
-   >To temporarily remove a field from the filter operation, click Deselect All. This option is located at the top of each panel, above metadata values.
+   >To temporarily remove a field from the filter operation, click **Deselect All**. This option is located at the top of each panel, above metadata values.
 
-1. (Optional) To save the filter operation and be able to run it later, click the Select Preset button, choose Save Current As New Presets, and enter a name in the Save dialog box.
+1. (Optional) To save the filter operation and be able to run it later, click the Select Preset button, choose **Save Current As New Presets**, then enter a name in the Save dialog box.
 
 ### Saving, repeating, and deleting filter operations {#saving-repeating-and-deleting-filter-operations}
 
@@ -169,7 +165,7 @@ The Metadata Server Publish screen opens. This screen lets you set the following
 
 **Metadata Server Publish Fields** Select the fields to include in the metadata. This enables you to determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
 
-Click Publish Now to start the job. A confirmation appears, telling you the job has started.
+Click **Publish Now** to start the job. A confirmation appears, telling you the job has started.
 
 >[!MORE_LIKE_THIS]
 >

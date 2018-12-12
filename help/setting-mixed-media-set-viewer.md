@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Setting up a Mixed Media Set Viewer Preset{#setting-up-a-mixed-media-set-viewer-preset}
+# Setting up a Mixed Media Set Viewer Preset {#setting-up-a-mixed-media-set-viewer-preset}
 
 Mixed Media Set Viewer Presets determine the style, behavior, and look of your main viewer. When configuring a preset, you specify which other viewers you want to appear inside the Mixed Media Viewer. For example, if you’ve included an Image Set in your Mixed Media Set, specify an Image Set Viewer Preset for the Mixed Media Set Viewer.
 
@@ -67,9 +67,7 @@ You can choose to include all or some community features in the Mixed Media Set 
 
    **Visit** Click Live. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit Button. In the Visit URL box, type the URL to the web site that you want to open when the link is clicked.
 
-1. Specify other options as desired. To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+1. Specify other options as desired. To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

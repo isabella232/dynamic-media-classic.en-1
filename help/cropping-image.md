@@ -22,7 +22,7 @@ internal: n
 snippet: y
 ---
 
-# Cropping an image{#cropping-an-image}
+# Cropping an image {#cropping-an-image}
 
 You can crop images in the Scene7 Publishing System. The system retains information about images that were cropped so you can restore them to their original state. You can also crop an image and save the cropped version under a new name.
 
@@ -36,7 +36,7 @@ You can crop an image to remove white space around it, or crop an area of the im
 
 You can crop off the transparent or solid-color pixels from the edge of an image.
 
-1. To crop an image, click its rollover Edit button and choose Crop, or display it in the Browse Panel in Detail view and click the Crop button  ![](assets/Crop_up.png)
+1. To crop an image, click its rollover Edit button and click **Crop**, or display it in the Browse Panel in Detail view and click the Crop button.
 
    . The Crop Editor screen opens.
 1. Do one of the following:
@@ -44,7 +44,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
     * To trim color pixels, select the Trim menu and choose Color. The Auto Crop By Color dialog box appears. Select the Corner menu and choose a corner with the background color to crop away. Then enter a Tolerance setting from 0 through 1. The 0 setting crops pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference. Select the Crop button.
     * To trim transparent pixels, select the Trim menu and choose Transparent. The Auto Crop By Transparency dialog box appears. Enter a tolerance setting from 0 through 1. The 0 setting crops crop pixels only if they are totally transparent. Numbers closer to 1 allow for more transparency. Select the Crop button.
 
-1. Click Save.
+1. Click **Save**.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 
 ## Select an area to crop {#select-an-area-to-crop}
 
-1. To crop an image, click its rollover Edit button and choose **Crop**, or display it in the Browse Panel in Detail view and click **Crop** ![](assets/Crop_up.png).
+1. To crop an image, click its rollover Edit button and choose **Crop**, or display it in the Browse Panel in Detail view and click **Crop**.
 
 1. In the Crop Editor window, place the part of the image you do not want to crop in the crop box. What appears inside the box remains when you click **Save** and crop the image.
 1. To adjust the crop area, do one of the following:
@@ -65,7 +65,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 
 >[!NOTE]
 >
->To restore an image to its original state after you’ve cropped it, display the image in the Crop Editor screen and select the Reset button.
+>To restore an image to its original state after you have cropped it, display the image in the Crop Editor screen and select the Reset button.
 
 >[!MORE_LIKE_THIS]
 >
