@@ -45,7 +45,7 @@ To rename an asset:
 1. Select the asset in the Browse Panel, and do one of the following:
 
     * Select the name, type in a new name, and press Enter or click away from the name.
-    * Choose File &gt; Rename. The name of the asset is highlighted. Enter a new name and press Enter.
+    * Click **File** &gt; **Rename**. The name of the asset is highlighted. Enter a new name and press Enter.
 
 Be sure that you do not to enter the name of an existing Scene7 Publishing System asset.
 
@@ -61,8 +61,8 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 
 1. Do any of the following:
 
-    * To delete one or more assets, select the assets in the Browse Panel, and press Delete or choose File &gt; Delete.
-    * To delete a folder, select the folder in the Asset Library, and click Remove Folder  ![](assets/DeleteFolder.png)    
+    * To delete one or more assets, select the assets in the Browse Panel, and press Delete or click **File** &gt; **Delete**.
+    * To delete a folder, select the folder in the Asset Library, then click **Remove Folder**.
     
       .
 
@@ -80,7 +80,7 @@ Create the list of Scene7 Publishing System IDs and save it as a text (.txt) fil
 
 After you create the list, follow these steps to use it to delete assets:
 
-1. Choose File &gt; Delete Asset List.
+1. Click **File** &gt; **Delete Asset List**.
 1. In the Delete Asset list dialog box, browse or type the path to the text file with the list of assets you want to delete.
 1. Click the Delete button.
 
