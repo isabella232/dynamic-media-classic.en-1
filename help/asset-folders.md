@@ -48,17 +48,16 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 ## Creating folders {#creating-folders}
 
-Follow these steps to create a folder:
+To create folders:
 
 1. In the Asset Library, select the folder you want to create a folder in.
-1. Select the Add Folder button  ![](assets/AddFolder.png)
+1. At the top of the folder list, click the Add Folder button.
 
-   . This icon is located at the top of the folder list.
 1. Enter a descriptive name for your new folder or subfolder by typing it into the field next to the folder icon.
 
    >[!NOTE]
    >
-   >You can also create folders in Scene7 Publishing System when you upload files via FTP. Selecting the Include Subfolders option when you upload via FTP replicates the folder structure on your computer in the system. Files and subfolders on your computer or network are replicated in the Asset Library, and the assets you upload are placed in these folders.
+   >You can also create folders in Scene7 Publishing System when you upload files by way of FTP. Selecting the Include Subfolders option when you upload via FTP replicates the folder structure on your computer in the system. Files and subfolders on your computer or network are replicated in the Asset Library, and the assets you upload are placed in these folders.
 
 ## Deleting and renaming folders {#deleting-and-renaming-folders}
 
