@@ -56,19 +56,19 @@ A URL call for Image Sizing to Scene7 Image Servers has the following basic synt
 In a Scene7 Image Server URL, instructions to the server for displaying the image appear after the question mark (?). For example, this URL call delivers an image named “backpack” at a width of 250 pixels:
 
 ```as3
-http://s7d1.scene7.com/is/image/S7learn/backpack?wid=250
+https://s7d1.scene7.com/is/image/S7learn/backpack?wid=250
 ```
 
 An Image Preset URL contains all the modifier instructions for presenting the image at the proper size and formatting specifications. Without an Image Preset, notice all the modifier instructions after the question mark (?) in this URL string:
 
 ```as3
-http://s7d1.scene7.com/is/image/S7learn/backpack?wid=250&fmt=jpeg&qlt=80,0&resMode=sharp&op_usm=1.1,0.5,1,0
+https://s7d1.scene7.com/is/image/S7learn/backpack?wid=250&fmt=jpeg&qlt=80,0&resMode=sharp&op_usm=1.1,0.5,1,0
 ```
 
 However, in a URL string generated with an Image Preset, the name of the Image Preset appears in place of the instructions defined by the Image Preset. For example, referring to the long URL above, the URL string is:
 
 ```as3
-http://s7d1.scene7.com/is/image/S7learn/backpack?$Large$
+https://s7d1.scene7.com/is/image/S7learn/backpack?$Large$
 ```
 
 Image Preset names in URLs are enclosed in dollar signs ($). When a Scene7 Image Server encounters the Image Preset portion of the URL (the `Large` in this case), using the size and formatting instructions defined by the “Large” Image Preset.
@@ -86,7 +86,7 @@ img src="/company_images/products/backpack_thumbnail.jpg"
 you now use the `<IMG>`tag to replace the reference to a static image with an Image Preset call to the Scene7 platform. A sample call looks like this:
 
 ```as3
-img src="http://s7d2.scene7.com/is/image/S7learn/backpack_trns?$thumbnail$”
+img src="https://s7d2.scene7.com/is/image/S7learn/backpack_trns?$thumbnail$”
 ```
 
 In this example, a Scene7 Image Server “looks up” the definition of `$thumbnail$` and dynamically generates the appropriate image with the sizing and formatting specifications defined by the `thumbnail`Image Preset. In a URL string, all items except the product image filename ( `backpack_trns` in this case) are typically hardwired for the page template. The only element that is automatically inserted in the page template from your commerce server is the IPS ID or name of the image.

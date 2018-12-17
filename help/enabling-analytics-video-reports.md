@@ -20,13 +20,13 @@ Using Adobe Analytics heartbeat-based video reporting, you no longer need to ena
 
 * The integration of Adobe Analytics video reports with Scene7 supports solution variables, but not custom variables.
 
-  See [Configure Analytics Video Reporting](http://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/video_analytics_config.html) for more information about solution variables and custom variables.
+  See [Configure Analytics Video Reporting](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/video_analytics_config.html) for more information about solution variables and custom variables.
 
 * Out-of-the-box segments of one minute increments is supported. However, custom segment reporting, such as customer-defined milestones based on time increments, % milestone, or offset milestones, is not supported.
 
-For more information about Video Heartbeat requirements and setup, see [Measuring Video in Adobe Analytics using Video Heartbeat](http://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/).
+For more information about Video Heartbeat requirements and setup, see [Measuring Video in Adobe Analytics using Video Heartbeat](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/).
 
-If you are customizing your own viewer and want to use Video Heartbeat, see *Enabling Adobe Analytics Video Reports* in the Adobe Scene7 HTML5 Viewer SDK available for download through Adobe Developer Connection at [www.adobe.com/go/learn/learn_s7_devresources_en](http://www.adobe.com/go/learn/learn_s7_devresources_en).
+If you are customizing your own viewer and want to use Video Heartbeat, see *Enabling Adobe Analytics Video Reports* in the Adobe Scene7 HTML5 Viewer SDK available for download through Adobe Developer Connection at [www.adobe.com/go/learn/learn_s7_devresources_en](https://www.adobe.com/go/learn/learn_s7_devresources_en).
 
 >[!NOTE]
 >

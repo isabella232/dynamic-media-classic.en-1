@@ -136,9 +136,9 @@ Javascript:loadProduct(‘$$’);void(0);
 
 You place all of the values that do not change between Image Maps in the URL template. Add only the values that do change in the URL column in the Image Map list. For example:
 
-* URL template: j `avascript:loadProduct(‘http://www.examplesitehere.com/$$’);void(0);`
+* URL template: j `avascript:loadProduct(‘https://www.examplesitehere.com/$$’);void(0);`
 * URL value: `product.htm`
-* Actual URL generated: `javascript:loadProduct(‘http://www.examplesitehere.com/product.html);void(0);`
+* Actual URL generated: `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
 
 By default, the URL template includes a proprietary Scene7 JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Scene7 handlers:
 

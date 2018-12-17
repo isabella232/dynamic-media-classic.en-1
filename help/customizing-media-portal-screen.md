@@ -38,11 +38,11 @@ To access the style settings, choose **Setup** &gt; **Media Portal Setup** &gt; 
 
 For Media Portal users to see the style settings you choose, they must append `?company=(company name)` to the URL with which they access Media Portal. For example, to see style settings, Media Portal users who access the PortalCo company at the following:
 
-`http://s7sps1.scene7.com/MediaPortal`
+`https://s7sps1.scene7.com/MediaPortal`
 
 would use the following URL instead:
 
-`http://s7sps1.scene7.com/MediaPortal?company=PortalCo`
+`https://s7sps1.scene7.com/MediaPortal?company=PortalCo`
 
 Including the company name in the URL enables Media Portal to recognize which company a user wants to access and apply the company’s style settings accordingly.
 

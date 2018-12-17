@@ -111,7 +111,7 @@ To download and install Scene7-related SDKs, you must sign in to Developer Conne
   </tr> 
   <tr> 
    <td class="cellrowborder" headers="d19e364 " valign="top" width="NaN%"><p>Adobe Scene7 HTML5 Viewer SDK for Windows or MAC</p> </td> 
-   <td class="cellrowborder" headers="d19e367 " valign="top" width="NaN%"><p><a href="http://www.adobe.com/go/learn/learn_s7_devresources_en"></a>To download and install this SDK, see Accessing Adobe Scene7 SDKs through Adobe Developer Connection above.</p> </td> 
+   <td class="cellrowborder" headers="d19e367 " valign="top" width="NaN%"><p><a href="https://www.adobe.com/go/learn/learn_s7_devresources_en"></a>To download and install this SDK, see Accessing Adobe Scene7 SDKs through Adobe Developer Connection above.</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -128,7 +128,7 @@ To download and install Scene7-related SDKs, you must sign in to Developer Conne
  <tbody> 
   <tr> 
    <td class="cellrowborder" headers="d19e404 " valign="top" width="NaN%"><p>Reference Guide</p></td> 
-   <td class="cellrowborder" headers="d19e407 " valign="top" width="NaN%"><p><a href="http://www.adobe.com/go/learn_s7_webtoprint_en">www.adobe.com/go/learn_s7_webtoprint_en</a></p></td> 
+   <td class="cellrowborder" headers="d19e407 " valign="top" width="NaN%"><p><a href="https://www.adobe.com/go/learn_s7_webtoprint_en">www.adobe.com/go/learn_s7_webtoprint_en</a></p></td> 
   </tr> 
   <tr> 
    <td class="cellrowborder" headers="d19e404 " valign="top" width="NaN%"><p>Scene7 Solutions Accelerator SDK for Windows or OSX</p></td> 

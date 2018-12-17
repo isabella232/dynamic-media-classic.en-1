@@ -60,7 +60,7 @@ After you add a user, Scene7 Publishing System sends the user a Welcome e-mail m
 
    New users are sent a Welcome e-mail after you add them. The e-mail provides a temporary password and explains how to log on to the Scene 7 Publishing System.
 
-   If the user does not receive the welcome email, have them go the SPS login page (http://s7sps1.scene7.com), and click Forgot My Password. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
+   If the user does not receive the welcome email, have them go the SPS login page (https://s7sps1.scene7.com), and click Forgot My Password. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
 
    When adding new Media Portal users, you can also go to Setup &gt; Application Setup &gt; User Administration, then click Upload User List and select a .csv file containing no more than 500 users.
 

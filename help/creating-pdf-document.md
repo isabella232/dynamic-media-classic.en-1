@@ -127,7 +127,7 @@ To create a joboptions file in Illustrator:
 
    Use it with your published template by referring to it in the URL. For example:
 
-   `http://yourpublishserver.scene7.com/is/agm/SiliconPublishing/PetNews?&fmt=pdf,cmyk&joboption=SPSfilenameid`
+   `https://yourpublishserver.scene7.com/is/agm/SiliconPublishing/PetNews?&fmt=pdf,cmyk&joboption=SPSfilenameid`
 
 ## Preparing the PDF for print {#preparing-the-pdf-for-print}
 
