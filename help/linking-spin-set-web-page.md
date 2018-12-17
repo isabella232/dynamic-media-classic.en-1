@@ -46,7 +46,7 @@ Web sites and applications access Scene7 Image Server content, including Spin Se
 Spin Sets are deployed like all zoom viewers, by way of a dynamic page (ASP or JSP) that displays the Spin Set in a zoom window. The URL call to the Scene7 platform follows the same protocol on the zoom viewer. However, the Viewer Preset name depends on the Preset that your administrator defined as the default Spin Set Viewer Preset. For example, the following non-live, URL syntax example includes a Preset name called `viewer.jsp` and the SKU parameter is now the Spin Set name:
 
 ```as3
-http://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_spin
+https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_spin
 ```
 
 In this URL syntax example (the link is not live), notice a SKU number ( `sku=backpack_spin`). The string after `sku=` is the Spin Set name ( `backpack spin`).

@@ -22,14 +22,14 @@ If you use any of the predefined Scene7 HTML5 viewer presets, be aware that they
 
 The *Adobe Scene7 HTML5 Viewer SDK User Guide* is available as part of the SDK download from Adobe Developer Connection.
 
-See [www.adobe.com/go/learn/learn_s7_devresources_en](http://www.adobe.com/go/learn/learn_s7_devresources_en).
+See [www.adobe.com/go/learn/learn_s7_devresources_en](https://www.adobe.com/go/learn/learn_s7_devresources_en).
 
 ## Set up Adobe Analytics tracking from Scene7 Publishing System {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
 For all HTML5 viewers, add the following JavaScript to the HTML container, usually in the &lt;head&gt; element:
 
 ```as3
-<!-- ***** Site Catalyst Tracking ***** --><script type="text/javascript" src="http://s7d6.scene7.com/s7viewers/s_code.jsp?company=<SPS Company ID>&preset=companypreset-1"></script>
+<!-- ***** Site Catalyst Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<SPS Company ID>&preset=companypreset-1"></script>
 ```
 
 `Company` is set to the SPS company name. `&preset` is optional unless the company preset name is not `companypreset`. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, click **Copy URL** , and then look at the `preset=`parameter to find the company preset name.

@@ -54,14 +54,14 @@ AIR users must manually uninstall their existing app and reinstall from the web 
 
 For example, suppose you enter an image URL (including image presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
 
-`http://sample.scene7.com/is/image/Company/<ID>?$s7product$  
+`https://sample.scene7.com/is/image/Company/<ID>?$s7product$  
 `
 
-If the Template just contains `<ID>`, then SPS fills in the `http://<server>/is/image`, where `<server>` is the Publish Server Name that is defined in General Settings.
+If the Template just contains `<ID>`, then SPS fills in the `https://<server>/is/image`, where `<server>` is the Publish Server Name that is defined in General Settings.
 
 Setting the CDN Invalidate Template, selecting an image named Backpack_B, and then clicking **File** > **Invalidate CDN** results in the following generated URL in the CDN Invalidate interface:
 
-`http://sample.scene7.com/is/image/Company/Backpack_B?$s7product$  
+`https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$  
 `
 
 In the URL list box, click **Continue** to clear the cache for that specific image URL call. Note that you can also add URLs by typing or pasting them into the URL list box; you do not need to set the Template beforehand.
@@ -1350,7 +1350,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </thead> 
  <tbody> 
   <tr> 
-   <td class="cellrowborder" colspan="9" headers="d19e5331 d19e5333 d19e5336 d19e5339 d19e5342 d19e5345 d19e5348 d19e5351 d19e5354 " valign="top"><p><strong>eVideo Viewers</strong></p><p>Scene7 supports mobile video playback for MP4 H.264 video. You can find Blackberry devices that support this video format at the following:</p><p><a href="http://docs.blackberry.com/en/smartphone_users/deliverables/18349/711-01774-123_Supported_Media_Types_on_BlackBerry_Smartphones.pdf">Supported video formats on Blackberry</a></p><p>You can also find Windows devices that support this video format at the following:</p><p><a href="http://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx">Supported video formats on Windows Phone</a></p><p></p></td> 
+   <td class="cellrowborder" colspan="9" headers="d19e5331 d19e5333 d19e5336 d19e5339 d19e5342 d19e5345 d19e5348 d19e5351 d19e5354 " valign="top"><p><strong>eVideo Viewers</strong></p><p>Scene7 supports mobile video playback for MP4 H.264 video. You can find Blackberry devices that support this video format at the following:</p><p><a href="https://docs.blackberry.com/en/smartphone_users/deliverables/18349/711-01774-123_Supported_Media_Types_on_BlackBerry_Smartphones.pdf">Supported video formats on Blackberry</a></p><p>You can also find Windows devices that support this video format at the following:</p><p><a href="https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx">Supported video formats on Windows Phone</a></p><p></p></td> 
   </tr> 
   <tr> 
    <td class="cellrowborder" headers="d19e5331 " valign="top" width="NaN%"><p>Universal_HTML5_Video</p><p>(Includes support for closed captioning.)</p><p>See <a href="best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer">Best practice: Using the Universal HTML5 Video viewer</a>.</p></td> 
@@ -1560,7 +1560,7 @@ If you are exporting an HTML5 Viewer Preset, be sure that you have the HTML5 Vie
 
 See [Developer resources](developer-resources.md#developer_resources).
 
-Note that all default, out-of-box Viewer preset CSS files in SPS use relative image serving paths that point to assets located on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file located on `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`However, if you are hosting Viewer CSS files on your own site, you must resolve these relative image path by using an explicit path to the Image Server in your own environment. For illustration purposes, if you were to update the relative path above to an explicit path, it might look like the following, where `http://s7d1.scene7.com` is the direct path to your image server: `http://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+Note that all default, out-of-box Viewer preset CSS files in SPS use relative image serving paths that point to assets located on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file located on `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`However, if you are hosting Viewer CSS files on your own site, you must resolve these relative image path by using an explicit path to the Image Server in your own environment. For illustration purposes, if you were to update the relative path above to an explicit path, it might look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **To export an HTML5 Viewer Preset**
 
@@ -1570,7 +1570,7 @@ Note that all default, out-of-box Viewer preset CSS files in SPS use relative im
 ```
 
 ```as3
-http://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha
+https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha
 ```
 
 1. Click **Setup** &gt; **Viewer Presets**.

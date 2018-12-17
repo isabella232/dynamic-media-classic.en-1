@@ -56,7 +56,7 @@ In the example above, `Chapter 1` is the cue identifier and is optional. The cue
 
 Because you are using an HTML5 video viewer, ensure that the chapter file you create follows the WebVTT (Web Video Text Tracks) standard. The chapter filename extension is .vtt. You can learn more information about the WebVTT captioning standard.
 
-See [WebVTT: The Web Video Text Tracks format](http://dev.w3.org/html5/webvtt/).
+See [WebVTT: The Web Video Text Tracks format](https://dev.w3.org/html5/webvtt/).
 
 **To add chapter markers to video**
 

@@ -48,7 +48,7 @@ Image sharpening is the most complex aspect of controlling images on your websit
 
 Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
 
-On Adobe TV, watch [Sharpening an image with unsharp mask](http://tv.adobe.com/watch/visual-design-cs6/sharpening-an-image-with-unsharp-mask/).
+On Adobe TV, watch [Sharpening an image with unsharp mask](https://tv.adobe.com/watch/visual-design-cs6/sharpening-an-image-with-unsharp-mask/).
 
 With Scene7, you can sharpen images on ingestion, on delivery, or both. In most cases, however, you should sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
 
@@ -70,7 +70,7 @@ There are two image sharpening methods that you can use:
 
       For more information about how you set these three parameters, including best practices to use with the filter, see the following resources:
 
-      Scene7 Help topic on [Sharpening an image](http://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
+      Scene7 Help topic on [Sharpening an image](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
 
       Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
 

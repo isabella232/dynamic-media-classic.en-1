@@ -28,7 +28,7 @@ To use DOM manipulation, you create s7:elementIDs in your Illustrator file befor
 
 >[!NOTE]
 >
->Illustrator Plug-in for Web-to-Print (for converting Illustrator files) converts to FXG 2.0. For information about this specification, see [www.adobe.com/go/learn_s7_fxg2_en](http://www.adobe.com/go/learn_s7_fxg2_en).
+>Illustrator Plug-in for Web-to-Print (for converting Illustrator files) converts to FXG 2.0. For information about this specification, see [www.adobe.com/go/learn_s7_fxg2_en](https://www.adobe.com/go/learn_s7_fxg2_en).
 
 ## Creating s7:elementIDs in Illustrator files {#creating-s-elementids-in-illustrator-files}
 
