@@ -24,7 +24,7 @@ Scene7 offers two Template Publishing workflows, one for basic use cases and one
 
 >[!NOTE]
 >
->For more information about Scene7 web-to-print workflows, template creation, parameterization, DOM manipulation, and more, see the Web-to-Print Workflow Guide here: [www.adobe.com/go/learn_s7_webtoprint_en](http://www.adobe.com/go/learn_s7_webtoprint_en) . Download the Zip file to your local hard drive and extract its contents (the Scene7 Web-To-PrintWorkflow Tutorial document and tutorial assets).
+>For more information about Scene7 web-to-print workflows, template creation, parameterization, DOM manipulation, and more, see the Web-to-Print Workflow Guide here: [www.adobe.com/go/learn_s7_webtoprint_en](https://www.adobe.com/go/learn_s7_webtoprint_en) . Download the Zip file to your local hard drive and extract its contents (the Scene7 Web-To-PrintWorkflow Tutorial document and tutorial assets).
 
 **Quick Start**
 

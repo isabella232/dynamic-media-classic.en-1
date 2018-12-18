@@ -197,8 +197,8 @@ The following are best-practice tips for encoding source video files in Scene7 P
 
 For advice about video encoding, see the following:
 
-* Article: *Streaming 101: The Basics — Codecs, Bandwidth, Data Rate, and Resolution: * [www.adobe.com/go/learn_s7_streaming101_en](http://www.adobe.com/go/learn_s7_streaming101_en).
-* Video: *Video Encoding Basics: * [www.adobe.com/go/learn_s7_encoding_en](http://www.adobe.com/go/learn_s7_encoding_en).
+* Article: *Streaming 101: The Basics — Codecs, Bandwidth, Data Rate, and Resolution: * [www.adobe.com/go/learn_s7_streaming101_en](https://www.adobe.com/go/learn_s7_streaming101_en).
+* Video: *Video Encoding Basics: * [www.adobe.com/go/learn_s7_encoding_en](https://www.adobe.com/go/learn_s7_encoding_en).
 
 ### Source video files {#source-video-files}
 
@@ -237,7 +237,7 @@ The following table describes the recommended size, aspect ratio, and minimum bi
 
 You can obtain a file’s metadata by viewing its metadata in Scene7, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
 
-1. Go to this web page: [http://mediainfo.sourceforge.net/en/Download](http://mediainfo.sourceforge.net/en/Download).
+1. Go to this web page: [https://mediainfo.sourceforge.net/en/Download](https://mediainfo.sourceforge.net/en/Download).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
 1. After installation, either right-click the video file (Windows only) and select MediaInfo, or open MediaInfo and drag your video file into the application. You see all metadata associated with your video file, including its width, height, and fps.
 

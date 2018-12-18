@@ -55,11 +55,11 @@ For managing single video and Adaptive Video Sets, Scene7 supports the following
 
   Scene7 supports mobile video playback for MP4 H.264 video. You can find Blackberry devices that support this video format at the following website:
 
-  See [Supported video formats on Blackberry](http://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
+  See [Supported video formats on Blackberry](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
 
   You can find Windows devices that support this video format at the following:
 
-  See [Supported video formats on Windows Phone](http://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx).
+  See [Supported video formats on Windows Phone](https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx).
 
 * Play back the video using Scene7 Viewer Presets, including the following:
 

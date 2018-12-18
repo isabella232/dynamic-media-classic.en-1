@@ -33,7 +33,7 @@ Make sure that you have the following before using Scene7:
 The Welcome e-mail you received from your administrator provides you with the sign-in URL, your username, and a temporary password.
 
 1. Start your web browser.
-1. Go to the Scene7 sign-in URL (from the Welcome e-mail). Alternatively, you can sign in from the Scene7 web site ( [www.adobe.com/products/scene7.html](http://www.adobe.com/products/scene7.html)) by selecting the Client Login button.
+1. Go to the Scene7 sign-in URL (from the Welcome e-mail). Alternatively, you can sign in from the Scene7 web site ( [www.adobe.com/products/scene7.html](https://www.adobe.com/products/scene7.html)) by selecting the Client Login button.
 1. Enter your e-mail address in the User Name box.
 1. Enter your password in the Password box.
 1. Optionally, you can make your computer remember your e-mail address by selecting the Remember My User Name option.

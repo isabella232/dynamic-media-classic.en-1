@@ -125,8 +125,8 @@ Select the Resampling menu and choose an option. These options sharpen the image
 
 You could mix all three sharpening effects to achieve your final result. However, this is not recommended. Scene7 recommends you save your sharpening effects as part of an Image Preset.Image Presets allow you to package the most often used image modifiers to create a dynamically resized image in a small text string. An Image Preset contains values for the file format (usually JPEG for the web), pixel count and image sharpening. Instead of appending the URL with each image modifier needed to create a specific type of image size, you create a named Image Preset, such as “thumbnail,” configure the thumbnail Image Preset with the appropriate size, file format, and sharpening options, and then call the image using the Image Preset name. Image Presets shorten the length of the overall URL.These two URLs produce the same 350x350 JPEG image with sharpening:
 
-* `http://sample.scene7.com/is/image/S7train/Backpack_A?wid=350&hei=350&fmt=jpeg&qlt=85,0&resMode=sharp2&op_usm=0.9,1.0,8,0`
-* `http://sample.scene7.com/is/image/S7train/Backpack_A?$!_s7product$`
+* `https://sample.scene7.com/is/image/S7train/Backpack_A?wid=350&hei=350&fmt=jpeg&qlt=85,0&resMode=sharp2&op_usm=0.9,1.0,8,0`
+* `https://sample.scene7.com/is/image/S7train/Backpack_A?$!_s7product$`
 
 Image Presets can be changed and updated at any time. You will see the results of a change to an Image Preset after you publish and after the cache for the URL clears.
 

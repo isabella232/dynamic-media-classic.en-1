@@ -22,7 +22,7 @@ Scene7 offers training in the form of video tutorials, instructor-led workshops 
 
 Adobe Training Services provides in-depth, customized classroom training designed for your organization. Training can take the form of regional university-style classes, web-based sessions, or custom onsite workshops. Regional classes are open to all customers and held periodically at various locations across North America and EMEA. Custom sessions can be tailored for beginning to advanced users, end users, administrators, and IT staff.
 
-See [Adobe Training Services](http://training.adobe.com/training.html) [](http://www.adobe.com/go/learn_sc7_trainingrequest_en).
+See [Adobe Training Services](https://training.adobe.com/training.html) [](https://www.adobe.com/go/learn_sc7_trainingrequest_en).
 
 **Quick Start Video Tutorials**
 
@@ -34,7 +34,7 @@ See [Quick Start Video Tutorials](https://marketing.adobe.com/resources/help/en_
 
 Watch demonstrations of Scene7 features.
 
-See [Demos](http://www.adobe.com/solutions/web-experience-management/rich-media-assets-demos.html).
+See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media-assets-demos.html).
 
 **Getting Started chapter of Help**
 

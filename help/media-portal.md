@@ -18,6 +18,6 @@ snippet: y
 
 Adobe Media Portal provides companies with the ability to easily acquire, control, and distribute approved creative assets to external partners and channels, as well as internal business users. This browser-based, “self-serve” environment provides portal users with administrator-controlled “views” into Scene7 assets for easy access to upload, browse, search, preview, and export assets in corporate-approved formats.
 
-For more information about Media Portal including system requirements, see [www.adobe.com/go/learn_sc7_mediaportalusing_en](http://www.adobe.com/go/learn_sc7_mediaportalusing_en).
+For more information about Media Portal including system requirements, see [www.adobe.com/go/learn_sc7_mediaportalusing_en](https://www.adobe.com/go/learn_sc7_mediaportalusing_en).
 
 For information about administering Media Portal, see [Quick Start: Media Portal administration](quick-start-media-portal-administration.md#quick_start_media_portal_administration).

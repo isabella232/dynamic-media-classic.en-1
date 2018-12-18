@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# Specifying export options availableto Media Portal users{#specifying-export-options-availableto-media-portal-users}
+# Specifying export options available to Media Portal users {#specifying-export-options-available-to-media-portal-users}
 
 If the administrator gives them permission, Media Portal users can reformat images as they export them. For example, they can change the size, file format, and image quality. Automatically reformatting images as they are exported saves time by not having to reformat images separately. Moreover, administrators can create a preset —a pre-established selection of image format settings. You can use a preset when exporting images to reformat them to the specifications of your company.
 

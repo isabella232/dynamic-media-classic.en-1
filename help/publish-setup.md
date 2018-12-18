@@ -117,11 +117,11 @@ Scene7 Publishing and Image Serving have an interface that allows for the locali
 
 Without localization, an Image Server URL looks like the following:
 
-`http://server/is/image/company/image`
+`https://server/is/image/company/image`
 
 With localization, an Image Server URL adds the `locale=` parameter to the path, as in the following:
 
-`http://server/is/image/company/image?locale=de_DE`
+`https://server/is/image/company/image?locale=de_DE`
 
 On receipt of the http call by the Image Server, the `locale=` parameter is parsed through the localeMap field found in **Setup** &gt; **Application Setup** &gt; **Publish Setup** &gt; **Image Server** &gt; **Localization Support** group.
 
@@ -147,7 +147,7 @@ Whether a suffix value or a replacement value is applied depends on the Global L
  </thead> 
  <tbody> 
   <tr> 
-   <td class="cellrowborder" headers="d19e7390 " valign="top" width="NaN%"><p><span class="code">http://server/is/image/company/image?locale=de_DE</span></p></td> 
+   <td class="cellrowborder" headers="d19e7390 " valign="top" width="NaN%"><p><span class="code">https://server/is/image/company/image?locale=de_DE</span></p></td> 
    <td class="cellrowborder" headers="d19e7393 " valign="top" width="NaN%"><p><span class="code">de_DE,_DE,|fr_FR,_FR,</span></p></td> 
    <td class="cellrowborder" headers="d19e7396 " valign="top" width="NaN%"><p>Notice that there is no GlobalLocale defined. The locale parameter <span class="code">de_DE</span> is matched against the first entry in the localeMap. The first corresponding value <span class="code">_DE</span> is added as a suffix to the asset <span class="code">image_DE</span> and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value “” is used as a suffix, resulting in the image itself being returned.</p></td> 
   </tr> 
@@ -166,7 +166,7 @@ Whether a suffix value or a replacement value is applied depends on the Global L
  </thead> 
  <tbody> 
   <tr> 
-   <td class="cellrowborder" headers="d19e7431 " valign="top" width="NaN%"><p><span class="code">http://server/is/image/company/image-main-01?locale=de_DE</span></p></td> 
+   <td class="cellrowborder" headers="d19e7431 " valign="top" width="NaN%"><p><span class="code">https://server/is/image/company/image-main-01?locale=de_DE</span></p></td> 
    <td class="cellrowborder" headers="d19e7434 " valign="top" width="NaN%"><p><span class="code">GlobalLocale=main</span></p><p><span class="code">localeMap - de_DE,de,main|fr_FR,fr,main</span></p></td> 
    <td class="cellrowborder" headers="d19e7437 " valign="top" width="NaN%"><p>In the replacement example above, GlobalLocale is set to <span class="code">main</span>. The locale parameter <span class="code">de_DE</span> is matched against the first entry in the localeMap. The GlobalLocale substring is found and replaced with the first corresponding value de in the localeMap: <span class="code">image-de-01</span>. If it is found on the Image Server, it is returned. If not, the second value is replaced, resulting in <span class="code">image-main-01</span>.</p></td> 
   </tr> 

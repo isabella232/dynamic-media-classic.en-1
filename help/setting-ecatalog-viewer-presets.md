@@ -71,7 +71,7 @@ Follow these steps to create a eCatalog Viewer Preset (you must be an administra
 
 1. (Optional) In the Info Panel Settings, in the Response Template box, type the text you want to appear if Scene7 encounters an error in retrieving information for an image map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
 
-   ***Note**: To use this Response Template instead of the template defined in the eCatalog itself, add “fmt=1” to the end of the Information Server URL. For example: HTTP://.../$3$/$4$/$1$/?FMT=1.*
+   ***Note**: To use this Response Template instead of the template defined in the eCatalog itself, add “fmt=1” to the end of the Information Server URL. For example: https://.../$3$/$4$/$1$/?FMT=1.*
 
 1. Click **Save**.
 1. Click Default if you want the eCatalog Viewer Preset you created to be the one that is used to display eCatalogs on your web page.
