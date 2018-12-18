@@ -6,7 +6,7 @@ user-guide: null
 ---
 
 # Table of Contents {#table-of-contents}
-
++ [Introduction] (introduction.md) 
 + Introducing Scene7 {#intro}
     + [Overview Adobe Scene7 Publishing System desktop applications](scene7-publishing-system-desktop-applications.md)
     + [Developer resources](developer-resources.md)
