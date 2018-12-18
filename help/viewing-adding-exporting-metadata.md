@@ -223,7 +223,7 @@ The Metadata Schema Editor offers a graphical way to add or edit a custom compan
 
 * Namespace
 
-  Technical unique identifier for the schema, typically a URL in the form https://your.company.com/name/version/. See the list of standard schemas for examples. The namespace is not visible in the SPS UI, but is used to store metadata in the XMP block.
+  Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the SPS UI, but is used to store metadata in the XMP block.
 
 * Description
 

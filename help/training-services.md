@@ -40,4 +40,4 @@ See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media
 
 The Getting Started section of the Help system presents instructions for users who are new to Scene7. It explains the basics of the platform, navigation, setup, asset management, and building rich media.
 
-See [Getting started](/content/help/en/experience-manager/scene7/topics/getting-started).
+See [Getting started](scene7-platform-overview.md).

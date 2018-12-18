@@ -74,7 +74,7 @@ The Browse/Build Panel is where you do much of your work. What appears in this p
 
 >[!MORE_LIKE_THIS]
 >
->* [Managing assets](/content/help/en/experience-manager/scene7/topics/managing-assets)
+>* [Managing assets](about-managing-assets.md)
 >* [Viewing assets in the Browse Panel](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
 >* [Selecting assets in the Browse Panel](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
 >* [Searching assets](searching-assets.md#searching_assets)

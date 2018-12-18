@@ -31,7 +31,6 @@ Administrators can also set up Image Presets and Viewer Presets in the Setup scr
 
 >[!MORE_LIKE_THIS]
 >
->* [Setup](/content/help/en/experience-manager/scene7/topics/setup)
 >* [Scene7 user roles and privileges](administration-setup.md#user_administration)
 >* [Image Presets](application-setup.md#image_presets)
 >* [Viewer Presets](application-setup.md#viewer_presets)
