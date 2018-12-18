@@ -102,7 +102,7 @@ See also [Template Publishing](/#template_publishing).
  </tbody> 
 </table>
 
-    * **Mac**
+* **Mac**
 
     <table border="1" cellpadding="4" cellspacing="0" frame="border" id="WSac64270ea1b22722-107e390916129c79406-7fe1" rules="all" summary=""> 
  <thead align="left"> 

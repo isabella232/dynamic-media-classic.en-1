@@ -48,4 +48,4 @@ Including the company name in the URL enables Media Portal to recognize which co
 
 You can learn more about communicating URL changes to Media Portal users, and setting up a Welcome e-mail message so new users receive the correct Media Portal URL.
 
-See [Email Communications](#UnresolvedLink-sc7_setup_se.xml#WS874C2EDC-7FFA-4449-ACDD-FFD8AFF40E6F) and [Set up the Welcome e-mail message for Media Portal users](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
+See [Set up the Welcome e-mail message for Media Portal users](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
