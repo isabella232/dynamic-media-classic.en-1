@@ -36,7 +36,7 @@ Technical support offerings are designed to meet the needs of any size company. 
   </tr> 
   <tr>
    <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>SLA (Service Level Agreements)</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p><a href="http://www.adobe.com/support/programs/policies/sla.html">http://www.adobe.com/support/programs/policies/sla.html</a>.</p></td> 
+   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p><a href="https://www.adobe.com/support/programs/policies/sla.html">https://www.adobe.com/support/programs/policies/sla.html</a>.</p></td> 
   </tr> 
   <tr>
    <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Supported Users</p></td> 

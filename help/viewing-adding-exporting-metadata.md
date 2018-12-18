@@ -22,7 +22,7 @@ Metadata appears in Detail view along with Scene7-generated information, such as
 
 Some metadata is embedded directly into a file. If a file contains this metadata, Scene7 automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Scene7 recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail view. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
 
-For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp_en](http://www.adobe.com/go/learn_s7_xmp_en).
+For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en).
 
 ## View metadata {#view-metadata}
 
@@ -77,7 +77,7 @@ Rather than manually enter metadata one asset at a time, you can import metadata
 >
 >You can create a template for entering metadata so that it can be properly imported to Scene7 Publishing System. After you create the template, you can use it to enter the metadata. See [Create a template for entering metadata to upload](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
 
-You can find more information about standardized properties at: http://www.adobe.com/devnet/xmp.html
+You can find more information about standardized properties at: https://www.adobe.com/devnet/xmp.html
 
 1. In the Browse Panel, select the images to which you want to add metadata from the tab-delimited or XML file.
 1. Click **File** &gt; **Import Metadata**.
@@ -223,7 +223,7 @@ The Metadata Schema Editor offers a graphical way to add or edit a custom compan
 
 * Namespace
 
-  Technical unique identifier for the schema, typically a URL in the form http://your.company.com/name/version/. See the list of standard schemas for examples. The namespace is not visible in the SPS UI, but is used to store metadata in the XMP block.
+  Technical unique identifier for the schema, typically a URL in the form https://your.company.com/name/version/. See the list of standard schemas for examples. The namespace is not visible in the SPS UI, but is used to store metadata in the XMP block.
 
 * Description
 

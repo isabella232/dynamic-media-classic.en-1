@@ -20,9 +20,9 @@ SEO is the process of improving the volume of traffic to a Web site from search 
 
 Using Scene7 Video SEO, you can leverage video metadata to provide search engines with descriptions of your videos. Scene7 provides the ability to create Video Sitemaps and mRSS feeds. These are standard XML files for submitting video information to search engines:
 
-**Video Sitemap** Informs Google exactly where and what the video content is on a site. Consequently, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see http://www.google.com/support/webmasters/bin/answer.py?answer=80471.
+**Video Sitemap** Informs Google exactly where and what the video content is on a site. Consequently, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see https://www.google.com/support/webmasters/bin/answer.py?answer=80471.
 
-**mRSS (Media Really Simple Syndication) feed** Used by content publishers to feed media files into Yahoo! Video Search. For information about mRSS feeds, see http://www.rssboard.org/media-rss.
+**mRSS (Media Really Simple Syndication) feed** Used by content publishers to feed media files into Yahoo! Video Search. For information about mRSS feeds, see https://www.rssboard.org/media-rss.
 
 >[!NOTE]
 >
@@ -95,8 +95,8 @@ The Generation Settings area lists input fields for the Video Sitemap and/or mRS
 
 Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of the company:
 
-* http://{publish-server}/is/content/{companyname}/mrss-feed.xml
-* http://{publish-server}/is/content/{companyname}/video-sitemap.xml
+* https://{publish-server}/is/content/{companyname}/mrss-feed.xml
+* https://{publish-server}/is/content/{companyname}/video-sitemap.xml
 
 Copy one of these URLs into the search engine’s webmaster tools to submit your Video Sitemap or Media RSS (mRSS) feed file to search engines.
 

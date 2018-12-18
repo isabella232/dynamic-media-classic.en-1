@@ -100,7 +100,7 @@ You can use the following fields in the query URL string to retrieve an upload t
 
 **Sample vector URL:**
 
-`http://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000`
+`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000`
 
 **Allowed HTTP methods:** GET and POST
 
@@ -194,9 +194,9 @@ The following is a sample response from a successful upload:
             <serviceStatus>SUCCESS</serviceStatus> 
             <title>Your file has been uploaded Successfully.</title> 
             <message> 
-            <url>http://s7w2p1.scene7.com/is/image/ </url> 
+            <url>https://s7w2p1.scene7.com/is/image/ </url> 
             <path>000Company/ugc/1442564.tif</path> 
-            <fullurl>http://s7w2p1.scene7.com/is/image/000Company/ugc/1442564.tif </fullurl> 
+            <fullurl>https://s7w2p1.scene7.com/is/image/000Company/ugc/1442564.tif </fullurl> 
             </message> 
         </response> 
     </user_generated_content> 
@@ -210,7 +210,7 @@ The following is a sample response from a successful upload:
 The asset is like any other ImageServing resource; you can apply processing queries to it. For example, the following URL requests an asset that is stretched to the specified width and height.
 
 ```as3
-http://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit=stretch
+https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit=stretch
 ```
 
 Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
@@ -457,10 +457,10 @@ The following is a sample response from a successful upload:
     <serviceStatus>SUCCESS</serviceStatus> 
     <title>Your file has been uploaded Successfully.</title> 
     <message> 
-    <url>http://s7w2p1.scene7.com/is/agm</url> 
+    <url>https://s7w2p1.scene7.com/is/agm</url> 
     <path>W2PTest/ugc/8875744.fxg</path> 
     <fullurl> 
-        http://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg 
+        https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg 
     </fullurl> 
 </message> 
 </response> 
@@ -475,7 +475,7 @@ The following is a sample response from a successful upload:
 The asset is like any other Web-to-print resource; you can apply processing queries to it. For example, the following URL converts an FXG resource into a 500x500 png image.
 
 ```as3
-http://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
+https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
 ```
 
 Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:

@@ -24,7 +24,7 @@ Before uploading assets to the Scene7 Publishing System, make sure that they are
 
 ### Supported asset file formats {#supported-asset-file-formats}
 
-This table lists the asset file formats that the Scene7 Publishing System supports. For information on supported Camera Raw files, see [www.adobe.com/go/learn_s7_cameraraw_en](http://www.adobe.com/go/learn_s7_cameraraw_en).
+This table lists the asset file formats that the Scene7 Publishing System supports. For information on supported Camera Raw files, see [www.adobe.com/go/learn_s7_cameraraw_en](https://www.adobe.com/go/learn_s7_cameraraw_en).
 
 <table cellpadding="4" cellspacing="0"> 
  <thead align="left"> 
@@ -351,7 +351,7 @@ See [Checking job files](checking-job-files.md#checking_job_files).
 
 **Publish After Upload** Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
 
-See also [Instant Publish Notice PDF](http://microsite.omniture.com/t2/help/en_US/s7/instant_publish_notification.pdf).
+See also [Instant Publish Notice PDF](https://microsite.omniture.com/t2/help/en_US/s7/instant_publish_notification.pdf).
 
 **Overwrite in any folder, same base asset name regardless&#xA;of extension** Select this option if you want the files you upload to replace existing files with the same names. The name of this option could be different, depending on the settings in Application Setup > General Settings > Upload to Application > Overwrite Images.
 

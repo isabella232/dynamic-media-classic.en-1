@@ -34,4 +34,4 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 >
 >All Scene7 viewer data is displayed and reported in Custom Traffic reports or Custom Conversion reports of Adobe Analytics.
 
-For more information, see [www.adobe.com/go/learn_sc7_sitecatalystguide_en](http://www.adobe.com/go/learn_sc7_sitecatalystguide_en).
+For more information, see [www.adobe.com/go/learn_sc7_sitecatalystguide_en](https://www.adobe.com/go/learn_sc7_sitecatalystguide_en).
