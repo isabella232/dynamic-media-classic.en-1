@@ -1,13 +1,13 @@
 ---
 cloud: experience-cloud
-product: adobe
+product: dynamic media classic scene7 
 archtype: end-user
-user-guide: null
+user-guide: dynamic media classic - scene7 help
 ---
 
-# Table of Contents {#table-of-contents}
+# Dynamic Media Classic - Scene7 Help {#using}
 
-+ [Introduction] (introduction.md) 
++ [Introduction] (introduction.md)
 + Introducing Scene7 {#intro}
     + [Overview Adobe Scene7 Publishing System desktop applications](scene7-publishing-system-desktop-applications.md)
     + [Developer resources](developer-resources.md)
