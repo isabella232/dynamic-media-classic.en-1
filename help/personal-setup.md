@@ -49,7 +49,7 @@ Supported Adobe Illustrator platforms include the following:
 * Windows 7, 32-bit and 64-bit.
 * Windows XP, 32-bit and 64-bit (for Adobe Illustrator 16 in Adobe Creative Suite 6 only).
 
-See also [Template Publishing](/#template_publishing).
+See also [Template Publishing](quick-start-template-publishing.md).
 
 ## To install the plug-in on your local hard drive
 
