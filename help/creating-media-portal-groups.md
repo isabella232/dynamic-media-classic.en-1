@@ -57,54 +57,14 @@ If you don’t specifically grant a group permission to an asset or folder, that
 
    This table maps different tasks to read, write, and delete permissions.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e9191" valign="top" width="NaN%"><p>Task</p></th> 
-   <th class="cellrowborder" id="d19e9194" valign="top" width="NaN%"><p>Read</p></th> 
-   <th class="cellrowborder" id="d19e9197" valign="top" width="NaN%"><p>Write</p></th> 
-   <th class="cellrowborder" id="d19e9200" valign="top" width="NaN%"><p>Delete</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9191 " valign="top" width="NaN%"><p>Browse folders and files</p></td> 
-   <td class="cellrowborder" headers="d19e9194 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e9197 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9200 " valign="top" width="NaN%"><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9191 " valign="top" width="NaN%"><p>Edit files (crop, sharpen, adjust)</p></td> 
-   <td class="cellrowborder" headers="d19e9194 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9197 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e9200 " valign="top" width="NaN%"><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9191 " valign="top" width="NaN%"><p>Change filenames</p></td> 
-   <td class="cellrowborder" headers="d19e9194 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9197 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e9200 " valign="top" width="NaN%"><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9191 " valign="top" width="NaN%"><p>Move files to different folders</p></td> 
-   <td class="cellrowborder" headers="d19e9194 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9197 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e9200 " valign="top" width="NaN%"><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9191 " valign="top" width="NaN%"><p>Rename files</p></td> 
-   <td class="cellrowborder" headers="d19e9194 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9197 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e9200 " valign="top" width="NaN%"><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9191 " valign="top" width="NaN%"><p>Delete files</p></td> 
-   <td class="cellrowborder" headers="d19e9194 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9197 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e9200 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+    |Task|Read|Write|Delete|
+    |--- |--- |--- |--- |
+    |Browse folders and files|X|||
+    |Edit files (crop, sharpen, adjust)||X||
+    |Change filenames||X||
+    |Move files to different folders||X||
+    |Rename files||X||
+    |Delete files|||X|
 
 1. Click **Close**.
 

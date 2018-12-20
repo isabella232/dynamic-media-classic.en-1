@@ -32,75 +32,17 @@ Video playback occurs using either HLS or progressive video. HLS (HTTP Live Stre
 
 The following table describes the device, browser, and playback method of videos on desktop computers and mobile devices using the Scene7 Video Viewer.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary="">
- <thead align="left">
-  <tr>
-   <th class="cellrowborder" id="d19e22507" valign="top" width="NaN%"><p>Device</p></th> 
-   <th class="cellrowborder" id="d19e22510" valign="top" width="NaN%"><p>Browser</p></th> 
-   <th class="cellrowborder" id="d19e22513" valign="top" width="NaN%"><p>Video playback mode</p></th> 
-  </tr> 
- </thead> 
- <tbody>
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Deskop</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Internet Explorer 9 and 10</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>Progressive download.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Desktop</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Internet Explorer 11+</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Desktop</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Firefox 23-44</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>Progressive download.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Desktop</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Firefox 45 or later</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Desktop</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Chrome</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Desktop</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Safari (Mac)</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Mobile</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Chrome (Android 6 or earlier)</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>Progressive download.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Mobile</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Chrome (Android 7 or later)</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Mobile</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Android (Default browser)</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>Progressive download.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Mobile</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Safari (iOS)</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Mobile</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Chrome (iOS)</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e22507 " valign="top" width="NaN%"><p>Mobile</p></td> 
-   <td class="cellrowborder" headers="d19e22510 " valign="top" width="NaN%"><p>Blackberry</p></td> 
-   <td class="cellrowborder" headers="d19e22513 " valign="top" width="NaN%"><p>HLS video streaming.</p></td> 
-  </tr> 
- </tbody> 
-</table>
-
+|Device|Browser|Video playback mode|
+|--- |--- |--- |
+|Deskop|Internet Explorer 9 and 10|Progressive download.|
+|Desktop|Internet Explorer 11+|HLS video streaming.|
+|Desktop|Firefox 23-44|Progressive download.|
+|Desktop|Firefox 45 or later|HLS video streaming.|
+|Desktop|Chrome|HLS video streaming.|
+|Desktop|Safari (Mac)|HLS video streaming.|
+|Mobile|Chrome (Android 6 or earlier)|Progressive download.|
+|Mobile|Chrome (Android 7 or later)|HLS video streaming.|
+|Mobile|Android (Default browser)|Progressive download.|
+|Mobile|Safari (iOS)|HLS video streaming.|
+|Mobile|Chrome (iOS)|HLS video streaming.|
+|Mobile|Blackberry|HLS video streaming.|
