@@ -1,17 +1,14 @@
 ---
 title: Uploading and encoding videos
 seo-title: Uploading and encoding videos
-description: null
-seo-description: Learn how to uploade and encode videos.
+description: Learn how to upload and encode videos.
+seo-description: Learn how to upload and encode videos.
 uuid: 9a7d6513-b10c-40b0-aebb-18a795c2b8d1
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
-index: y
-internal: n
-snippet: y
 ---
 
 # Uploading and encoding videos{#uploading-and-encoding-videos}
@@ -46,57 +43,49 @@ See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#wor
 
 **To upload and encode videos**
 
-1. Do one of the following:
+Do one of the following:
 
-<table> 
-  <tr> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>If your videos are already encoded</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ol> 
-     <li><p>On the Global Navigation bar, click <strong>Upload</strong>.</p></li> 
-     <li><p>In the Upload screen, click <strong>From Desktop</strong> tab.</p></li> 
-     <li><p>On the Upload page, in the Select Files for Upload panel, click <strong>Browse</strong>, navigate to an MP4 video file, and then click <strong>Open</strong>.</p></li> 
-     <li><p>In the Choose Folder Destination panel, select a folder for the uploaded file.</p></li> 
-     <li><p>On the Upload page, make sure <strong>Publish After Uploading</strong> is checked.</p></li> 
-     <li><p>Click <strong>Submit Upload</strong>.</p></li> 
-    </ol></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>If you want to encode your videos using Scene7 Publishing System</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ol> 
-     <li><p>On the Global Navigation bar, click <strong>Upload</strong>.</p></li> 
-     <li><p>In the Upload screen, click <strong>From Desktop</strong> tab.</p></li> 
-     <li><p>In the Select Files to Upload panel, click <strong>Browse</strong>, navigate to a master source video file, and then click <strong>Open</strong>.</p></li> 
-     <li><p>In the Choose Folder Destination panel, select a folder for the uploaded file.</p></li> 
-     <li><p>In the lower-right corner of the page, click <strong>Job Options</strong>,</p></li> 
-     <li><p>In the Upload Job Options dialog box, expand EVideo Options.</p></li> 
-     <li><p>Do one of the following:</p> 
-      <ul> 
-       <li><p>Best practice is to use the following method.</p><p>Select <strong>Adaptive Video Encoding</strong>.</p><p>See <a href="application-setup.md#adaptive_video_default">Adaptive Video (default)</a>.</p></li> 
-       <li><p>Optional, if you want to use individual encoding settings, do the following.</p><p>Expand <strong>Single Encoding Presets</strong>, and then select the encoding options you want for Desktop, Mobile, and Tablet.</p><p>See <a href="application-setup.md#desktop_video_encoding_presets">Desktop video encoding presets</a>, <a href="application-setup.md#mobile_video_encoding_presets">Mobile video encoding presets</a>, <a href="application-setup.md#tablet_video_encoding_presets">Tablet video encoding presets</a>.</p></li> 
-      </ul></li> 
-     <li><p>In the Upload Job Options dialog box, click <strong>Save</strong>.</p></li> 
-     <li><p>On the Upload page, make sure <strong>Publish After Uploading</strong> is checked.</p></li> 
-     <li><p>On the Upload page, in the lower-right corner, click <strong>Submit Upload</strong>.</p></li> 
-    </ol></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>If you want to re-encode a video file that you previously uploaded</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ol> 
-     <li><p>In Scene7, in the Browse panel, navigate to the video and select it.</p></li> 
-     <li><p>Click <strong>File</strong> &amp;gt; <strong>Reprocess</strong>.</p></li> 
-     <li><p>In the Reprocess Assets dialog box, expand EVideo Options.</p></li> 
-     <li><p>Do one of the following:</p> 
-      <ul> 
-       <li><p>Best practice is to use the following method.</p><p>Select <strong>Adaptive Video</strong>.</p><p>See <a href="application-setup.md#adaptive_video_default">Adaptive Video (default)</a>.</p></li> 
-       <li><p>Optional, if you want to use individual encoding settings, do the following.</p><p>Expand <strong>Single Encoding Presets</strong>, and then select the encoding options you want for Desktop, Mobile, and Tablet.</p><p>See <a href="application-setup.md#desktop_video_encoding_presets">Desktop video encoding presets</a>, <a href="application-setup.md#mobile_video_encoding_presets">Mobile video encoding presets</a>, <a href="application-setup.md#tablet_video_encoding_presets">Tablet video encoding presets</a>.</p></li> 
-      </ul></li> 
-     <li><p>In the Reprocess Assets dialog box, click <strong>Submit</strong>.</p></li> 
-    </ol></td> 
-  </tr> 
-</table>
+*If your videos are already encoded*
+
+1. On the Global Navigation bar, click **Upload**.
+1. In the Upload screen, click **From Desktop** tab.
+1. On the Upload page, in the Select Files for Upload panel, click **Browse**, navigate to an MP4 video file, and then click **Open**.
+1. In the Choose Folder Destination panel, select a folder for the uploaded file.
+1. On the Upload page, make sure **Publish After Uploading** is checked.
+1. Click **Submit Upload**.
+  
+*If you want to encode your videos using Scene7 Publishing System*
+
+1. On the Global Navigation bar, click **Upload**. 
+1. In the Upload screen, click **From Desktop** tab.
+1. In the Select Files to Upload panel, click **Browse**, navigate to a master source video file, and then click **Open**.
+1. In the Choose Folder Destination panel, select a folder for the uploaded file.
+1. In the lower-right corner of the page, click **Job Options**,
+1. In the Upload Job Options dialog box, expand EVideo Options.
+   * Do one of the following:
+     * Best practice is to use the following method.
+       Select **Adaptive Video Encoding**.
+       See [Adaptive Video (default)](application-setup.md#adaptive_video_default).
+   *   Optional, if you want to use individual encoding settings, do the following.
+       Expand **Single Encoding Presets**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
+       See [Desktop video encoding presets](application-setup.md#desktop_video_encoding_presets), [Mobile video encoding presets](application-setup.md#mobile_video_encoding_presets), [Tablet video encoding presets](application-setup.md#tablet_video_encoding_presets).
+1. In the Upload Job Options dialog box, click **Save**.
+1. On the Upload page, make sure **Publish After Uploading** is checked.
+1. On the Upload page, in the lower-right corner, click **Submit Upload**.
+    
+If you want to re-encode a video file that you previously uploaded
+
+1.  In Scene7, in the Browse panel, navigate to the video and select it.
+1. Click **File** &gt; **Reprocess**.
+1. In the Reprocess Assets dialog box, expand EVideo Options.
+1. Do one of the following:
+   * Best practice is to use the following method.
+     Select **Adaptive Video**.
+     See [Adaptive Video (default)](application-setup.md#adaptive_video_default).
+   * Optional, if you want to use individual encoding settings, do the following.
+     Expand **Single Encoding Presets**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
+     See [Desktop video encoding presets](application-setup.md#desktop_video_encoding_presets), [Mobile video encoding presets](application-setup.md#mobile_video_encoding_presets), [Tablet video encoding presets](application-setup.md#tablet_video_encoding_presets).
+1. In the Reprocess Assets dialog box, click **Submit**.
 
 When you use Adaptive Video encoding preset or you use multiple single encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
 

@@ -1,7 +1,7 @@
 ---
 title: Application Setup
 seo-title: Application Setup
-description: null
+description: Learn how to setup the application area of Dynamic Media Classic.
 seo-description: Learn how to setup the application area of Dynamic Media Classic.
 uuid: 3e2f1d30-8f33-4a9d-bbe4-e8c3dbc968f8
 contentOwner: admin
@@ -9,9 +9,6 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
-index: y
-internal: n
-snippet: y
 ---
 
 # Application Setup{#application-setup}
@@ -24,15 +21,15 @@ You can use the Application Setup pages to enter general settings, create image 
 
 ## General Settings {#general-settings}
 
-To open the Application General Settings page, on the Global Navigation bar, click **Setup** &gt; **Application Setup** &gt; **General Settings**.
+To open the Application General Settings page, on the Global Navigation bar, click **[!UICONTROL Setup &gt; Application Setup &gt; General Settings]**.
 
-**Servers**
+### Servers
 
 On account creation, Scene7 automatically provides the assigned servers for your company. These servers are used to construct URL strings for your web site and applications. These URL calls are specific to your account.
 
 See also [Testing the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-**Published&#xA;Server Name** This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Scene7 support technician.
+**Published Server Name** This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Scene7 support technician.
 
 **Origin Server Name** This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Scene7 support technician.
 
@@ -54,15 +51,13 @@ AIR users must manually uninstall their existing app and reinstall from the web 
 
 For example, suppose you enter an image URL (including image presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
 
-`https://sample.scene7.com/is/image/Company/<ID>?$s7product$  
-`
+`https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
 If the Template just contains `<ID>`, then SPS fills in the `https://<server>/is/image`, where `<server>` is the Publish Server Name that is defined in General Settings.
 
 Setting the CDN Invalidate Template, selecting an image named Backpack_B, and then clicking **File** > **Invalidate CDN** results in the following generated URL in the CDN Invalidate interface:
 
-`https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$  
-`
+`https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
 
 In the URL list box, click **Continue** to clear the cache for that specific image URL call. Note that you can also add URLs by typing or pasting them into the URL list box; you do not need to set the Template beforehand.
 
@@ -96,7 +91,7 @@ To continue the ability to access all your encoded video derivatives when you se
 
 There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **Show Encoded Videos**. The Build actions that over-ride the **Show Encoded Videos** setting include **Adaptive Video Sets**, and **eCatalogs**.
 
-***Note**: If you did not use Scene7 Publishing System to upload and encode your video assets, Scene7 shows all your individual encoded videos, even is this option is deselected.*
+**Note** If you did not use Scene7 Publishing System to upload and encode your video assets, Scene7 shows all your individual encoded videos, even is this option is deselected.*
 
 **Show Refresh Subfolders Button** Turn on or off the display of the subfolders Refresh button.
 
@@ -110,23 +105,19 @@ There are certain actions on the Build menu that only work, or optionally work, 
 
 **Overwrite Images** Scene7 does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
 
-**Overwrite in current folder, same base image name/extension  
-**
+**Overwrite in current folder, same base image name/extension**
 
 This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
-**Overwrite in current folder, same base asset name regardless of extension  
-**
+**Overwrite in current folder, same base asset name regardless of extension**
 
 Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
 
-**Overwrite in any folder, same base asset name/extension  
-**
+**Overwrite in any folder, same base asset name/extension**
 
 Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
 
-**Overwrite in any folder, same base asset name regardless of extension  
-**
+**Overwrite in any folder, same base asset name regardless of extension**
 
 This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
@@ -166,7 +157,7 @@ Administrators can create presets for exporting assets. Users can choose a prese
 
 To open the Image Preset screen, on the Global Navigation bar, click Setup &gt; Image Presets.
 
-See [Smart imaging](#UnresolvedLink-https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
+See [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
 
 ### Creating and editing Image Presets {#creating-and-editing-image-presets}
 
@@ -174,7 +165,6 @@ See [Smart imaging](#UnresolvedLink-https://helpx.adobe.com/experience-manager/6
 1. Create a new preset or start from an existing one:
 
    **Creating an Image Preset** Click Add.
-
    **Creating an Image Preset from an existing preset** Select the Image Preset that is most like the one you want to create, then click Edit.
 
 1. On the Add (or Edit) Preset screen, enter a name for the preset.
@@ -408,7 +398,6 @@ For information about encoding options parameters, see [About the encoding prese
 |7|4:3, 640x480 (1200 Kbps)|1.5 Mbps|_640x480_1200K|1200|640x480|Same as source|96|Medium-high resolution|
 |8|4:3, 1280x960 (2000 Kbps)|3.0 Mbps|_1280x960_2000K|2000|1280x960|Same as source|128|High-defintion|
 
-
 **OGG Theora Vorbis - OGV file extension**
 
 <!-- 
@@ -518,373 +507,69 @@ For information about supported web browser and operating system versions for Vi
 
 See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e4761" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e4763" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e4766" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e4769" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e4772" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e4775" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e4778" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="7" headers="d19e4761 d19e4763 d19e4766 d19e4769 d19e4772 d19e4775 d19e4778 " valign="top"><p><strong>Zoom Viewers</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4761 " valign="top" width="NaN%"><p>Universal_HTML5_Flyout</p></td> 
-   <td class="cellrowborder" headers="d19e4763 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4766 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4769 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4772 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4775 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4778 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4761 " valign="top" width="NaN%"><p>Universal_HTML5_Zoom_inline</p></td> 
-   <td class="cellrowborder" headers="d19e4763 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4766 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4769 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4772 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4775 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4778 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4761 " valign="top" width="NaN%"><p>Universal_HTML5_Zoom_dark</p></td> 
-   <td class="cellrowborder" headers="d19e4763 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4766 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4769 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4772 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4775 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4778 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4761 " valign="top" width="NaN%"><p>Universal_HTML5_Zoom_light</p></td> 
-   <td class="cellrowborder" headers="d19e4763 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4766 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4769 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4772 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4775 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4778 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|Zoom Viewers|||||||
+|Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
+|Universal_HTML5_Zoom_inline|HTML5|X|X|X|X|X|
+|Universal_HTML5_Zoom_dark|HTML5|X|X|X|X|X|
+|Universal_HTML5_Zoom_light|HTML5|X|X|X|X|X|
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e4906" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e4908" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e4911" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e4914" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e4917" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e4920" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e4923" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="7" headers="d19e4906 d19e4908 d19e4911 d19e4914 d19e4917 d19e4920 d19e4923 " valign="top"><p><strong>Image Set Viewers</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4906 " valign="top" width="NaN%"><p>Universal_HTML5_Flyout</p></td> 
-   <td class="cellrowborder" headers="d19e4908 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4911 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4914 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4917 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4920 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4923 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4906 " valign="top" width="NaN%"><p>Universal_HTML5_ImageSet_dark</p></td> 
-   <td class="cellrowborder" headers="d19e4908 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4911 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4914 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4917 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4920 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4923 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4906 " valign="top" width="NaN%"><p>Universal_HTML5_ImageSet_light</p></td> 
-   <td class="cellrowborder" headers="d19e4908 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e4911 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4914 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4917 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4920 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e4923 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e5024" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e5026" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e5029" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e5032" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e5035" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e5038" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e5041" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="7" headers="d19e5024 d19e5026 d19e5029 d19e5032 d19e5035 d19e5038 d19e5041 " valign="top"><p><strong>Swatch Set Viewers</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5024 " valign="top" width="NaN%"><p>Universal_HTML5_Flyout</p></td> 
-   <td class="cellrowborder" headers="d19e5026 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5029 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5032 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5035 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5038 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5041 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5024 " valign="top" width="NaN%"><p>Universal_HTML5_SwatchSet_dark</p></td> 
-   <td class="cellrowborder" headers="d19e5026 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5029 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5032 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5035 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5038 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5041 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5024 " valign="top" width="NaN%"><p>Universal_HTML5_SwatchSet_light</p></td> 
-   <td class="cellrowborder" headers="d19e5026 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5029 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5032 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5035 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5038 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5041 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|Image Set Viewers|||||||
+|Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
+|Universal_HTML5_ImageSet_dark|HTML5|X|X|X|X|X|
+|Universal_HTML5_ImageSet_light|HTML5|X|X|X|X|X|
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e5142" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e5144" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e5147" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e5150" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e5153" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e5156" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e5159" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="7" headers="d19e5142 d19e5144 d19e5147 d19e5150 d19e5153 d19e5156 d19e5159 " valign="top"><p><strong>eCatalog Viewers</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5142 " valign="top" width="NaN%"><p>Universal_HTML5_eCatalog_Adv</p><p>(Includes support for social media and catalog search.)</p></td> 
-   <td class="cellrowborder" headers="d19e5144 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5147 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5150 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5153 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5156 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5159 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5142 " valign="top" width="NaN%"><p>Universal_HTML5_eCatalog</p><p>(Includes support for social media and catalog search.)</p></td> 
-   <td class="cellrowborder" headers="d19e5144 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5147 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5150 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5153 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5156 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5159 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|Swatch Set Viewers|||||||
+|Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
+|Universal_HTML5_SwatchSet_dark|HTML5|X|X|X|X|X|
+|Universal_HTML5_SwatchSet_light|HTML5|X|X|X|X|X|
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e5237" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e5239" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e5242" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e5245" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e5248" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e5251" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e5254" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="7" headers="d19e5237 d19e5239 d19e5242 d19e5245 d19e5248 d19e5251 d19e5254 " valign="top"><p><strong>Spin Viewers</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5237 " valign="top" width="NaN%"><p>Universal_HTML5_SpinSet_dark</p></td> 
-   <td class="cellrowborder" headers="d19e5239 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5242 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5245 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5248 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5251 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5254 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5237 " valign="top" width="NaN%"><p>Universal_HTML5_SpinSet_light</p></td> 
-   <td class="cellrowborder" headers="d19e5239 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5242 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5245 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5248 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5251 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5254 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|eCatalog Viewers|||||||
+|Universal_HTML5_eCatalog_Adv(Includes support for social media and catalog search.)|HTML5|X|X|X|X|X|
+|Universal_HTML5_eCatalog(Includes support for social media and catalog search.)|HTML5|X|X|X|X|X|
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e5331" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e5333" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e5336" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e5339" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e5342" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e5345" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e5348" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-   <th class="cellrowborder" id="d19e5351" valign="top" width="NaN%"><p>Blackberry Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e5354" valign="top" width="NaN%"><p>Windows Phone</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="9" headers="d19e5331 d19e5333 d19e5336 d19e5339 d19e5342 d19e5345 d19e5348 d19e5351 d19e5354 " valign="top"><p><strong>eVideo Viewers</strong></p><p>Scene7 supports mobile video playback for MP4 H.264 video. You can find Blackberry devices that support this video format at the following:</p><p><a href="https://docs.blackberry.com/en/smartphone_users/deliverables/18349/711-01774-123_Supported_Media_Types_on_BlackBerry_Smartphones.pdf">Supported video formats on Blackberry</a></p><p>You can also find Windows devices that support this video format at the following:</p><p><a href="https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx">Supported video formats on Windows Phone</a></p><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5331 " valign="top" width="NaN%"><p>Universal_HTML5_Video</p><p>(Includes support for closed captioning.)</p><p>See <a href="best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer">Best practice: Using the Universal HTML5 Video viewer</a>.</p></td> 
-   <td class="cellrowborder" headers="d19e5333 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5336 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5339 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5342 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5345 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5348 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5351 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5354 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5331 " valign="top" width="NaN%"><p>Universal_HTML5_Video_social</p><p>(Includes support for closed captioning and social media.)</p></td> 
-   <td class="cellrowborder" headers="d19e5333 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5336 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5339 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5342 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5345 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5348 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5351 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5354 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|Spin Viewers|||||||
+|Universal_HTML5_SpinSet_dark|HTML5|X|X|X|X|X|
+|Universal_HTML5_SpinSet_light|HTML5|X|X|X|X|X|
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e5464" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e5466" valign="top" width="NaN%"><p>Viewer Technology</p></th> 
-   <th class="cellrowborder" id="d19e5469" valign="top" width="NaN%"><p>Desktop</p></th> 
-   <th class="cellrowborder" id="d19e5472" valign="top" width="NaN%"><p>Apple iPhone</p></th> 
-   <th class="cellrowborder" id="d19e5475" valign="top" width="NaN%"><p>Apple iPad</p></th> 
-   <th class="cellrowborder" id="d19e5478" valign="top" width="NaN%"><p>Android Smartphone</p></th> 
-   <th class="cellrowborder" id="d19e5481" valign="top" width="NaN%"><p>Android Tablet</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" colspan="7" headers="d19e5464 d19e5466 d19e5469 d19e5472 d19e5475 d19e5478 d19e5481 " valign="top"><p><strong>Mixed Media Set Viewers</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5464 " valign="top" width="NaN%"><p>Universal_HTML5_MixedMedia_dark</p></td> 
-   <td class="cellrowborder" headers="d19e5466 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5469 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5472 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5475 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5478 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5481 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5464 " valign="top" width="NaN%"><p>Universal_HTML5_MixedMedia_light</p></td> 
-   <td class="cellrowborder" headers="d19e5466 " valign="top" width="NaN%"><p>HTML5</p></td> 
-   <td class="cellrowborder" headers="d19e5469 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5472 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5475 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5478 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-   <td class="cellrowborder" headers="d19e5481 " valign="top" width="NaN%"><p><strong>X</strong></p></td> 
-  </tr> 
- </tbody> 
-</table>
+**eVideo Viewers**
+
+Scene7 supports mobile video playback for MP4 H.264 video. 
+
+* You can find Blackberry devices that support this video format at the following: [Supported video formats on Blackberry](https://docs.blackberry.com/en/smartphone_users/deliverables/18349/711-01774-123_Supported_Media_Types_on_BlackBerry_Smartphones.pdf)
+* You can also find Windows devices that support this video format at the following:[Supported video formats on Windows Phone](https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx)
+
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|Blackberry Smartphone|Windows Phone|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|Universal_HTML5_Video(Includes support for closed captioning.)See [Best practice: Using the Universal HTML5 Video viewer.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)|HTML5|X|X|X|X|X|X|X|
+|Universal_HTML5_Video_social(Includes support for closed captioning and social media.)|HTML5|X|X|X|X|X|X|X|
+
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|Mixed Media Set Viewers|||||||
+|Universal_HTML5_MixedMedia_dark|HTML5|X|X|X|X|X|
+|Universal_HTML5_MixedMedia_light|HTML5|X|X|X|X|X|
 
 ### Supported Mobile Viewers Gestures matrix {#supported-mobile-viewers-gestures-matrix}
 
 The following table identifies the mobile viewer gestures that are supported on iOS, Android 2.x, and Android 3.x devices.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e5561" valign="top" width="NaN%"><p>Gesture</p></th> 
-   <th class="cellrowborder" id="d19e5564" valign="top" width="NaN%"><p>Flyout Zoom</p></th> 
-   <th class="cellrowborder" id="d19e5567" valign="top" width="NaN%"><p>Zoom</p></th> 
-   <th class="cellrowborder" id="d19e5570" valign="top" width="NaN%"><p>eCatalog</p></th> 
-   <th class="cellrowborder" id="d19e5573" valign="top" width="NaN%"><p>Spin</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Drag</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Pans</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Pans</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Pans</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Pans</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Tap</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Shows flyout window</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Shows or hides the user interface</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Shows or hides the user interface</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Shows or hides the user interface</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Double-tap</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Does not apply</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Zooms in or resets</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Zooms in or resets</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Zooms in or resets</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Pinch open</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Does not apply</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Zooms in (iOS and Android 3x only)</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Zooms in (iOS and Android 3x only)</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Zooms in (iOS and Android 3x only)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Pinch close</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Does not apply</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Zooms out (iOS and Android 3x only)</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Zooms out (iOS and Android 3x only)</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Zooms out (iOS and Android 3x only)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Swipe</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Scrolls swatch bar</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Scrolls images</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Scrolls pages</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Spins</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e5561 " valign="top" width="NaN%"><p>Flick</p></td> 
-   <td class="cellrowborder" headers="d19e5564 " valign="top" width="NaN%"><p>Scrolls swatch bar</p></td> 
-   <td class="cellrowborder" headers="d19e5567 " valign="top" width="NaN%"><p>Scrolls images</p></td> 
-   <td class="cellrowborder" headers="d19e5570 " valign="top" width="NaN%"><p>Scrolls pages</p></td> 
-   <td class="cellrowborder" headers="d19e5573 " valign="top" width="NaN%"><p>Spins</p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
+|--- |--- |--- |--- |--- |--- |--- |
+|Image Set Viewers|||||||
+|Universal_HTML5_Flyout|HTML5|X|X|X|X|X|
+|Universal_HTML5_ImageSet_dark|HTML5|X|X|X|X|X|
+|Universal_HTML5_ImageSet_light|HTML5|X|X|X|X|X|
 
 ### About the Viewer Preset screen {#about-the-viewer-preset-screen}
 
@@ -948,7 +633,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 1. In the Configure Viewer screen, in the Preset Name field, enter or edit the preset name.
 1. Set the remaining options that you want.
 
-   ***note**: Choose Same As Source to automatically size the Video Viewer to the resolution size of the encoded video itself. If you choose this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you choose Same As Source, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following illustration to help you determine the margin sizes that you want to use.*
+   **note**: Choose Same As Source to automatically size the Video Viewer to the resolution size of the encoded video itself. If you choose this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you choose Same As Source, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following illustration to help you determine the margin sizes that you want to use.*
 
    ![](assets/vs_video_viewer_configure_margin.png)
 
@@ -1022,18 +707,18 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 1. Select the asset in the Browse Panel.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Copy URL** to the right of the viewer you want.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Copy URL** to the right of the viewer you want.
+   * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
+   In the Viewer List page, under the Actions column of the table, click **Copy URL**.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
+   In the Viewer List page, under the Actions column of the table, click **Copy URL**.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
+   In the Viewer List page, under the Actions column of the table, click **Copy URL**.
 
 ### Copying the embed code of a Viewer preset {#copying-the-embed-code-of-a-viewer-preset}
 
@@ -1046,18 +731,18 @@ Editing of the code is not permitted in the Embed Code dialog box.
 1. Select the asset in the Asset Browse Panel.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, click **Embed Code**.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, click **Embed Code**.
+   * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
+   In the Viewer List page, under the Actions column of the table, click **Embed Code**.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
+   In the Viewer List page, under the Actions column of the table, click **Embed Code**.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
+   In the Viewer List page, under the Actions column of the table, click **Embed Code**.
 
 1. In the Embed Code dialog box, click **Copy to Clipboard**.
 1. Click **Close**.
@@ -1106,10 +791,10 @@ Scene7 comes with pre-defined Metadata Views, and administrators can create thei
 1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Views**. 
 1. Do any of the following:
 
-    * To preview a view, select it. The fields in the view appear in the Preview panel.
-    * To edit a view, select it and then click **Edit**. Then select or deselect field names on the Preview panel, and select or deselect the **Include UDF** option.
-    * To delete a view, select it and then click **Delete**.
-    * To make a view the default, select it and then click **Make Default**. The default view is the one that users see when they open an asset in Detail view and go to the Metadata panel.
+   * To preview a view, select it. The fields in the view appear in the Preview panel.
+   * To edit a view, select it and then click **Edit**. Then select or deselect field names on the Preview panel, and select or deselect the **Include UDF** option.
+   * To delete a view, select it and then click **Delete**.
+   * To make a view the default, select it and then click **Make Default**. The default view is the one that users see when they open an asset in Detail view and go to the Metadata panel.
 
 ## Metadata Presets {#metadata-presets}
 
@@ -1122,8 +807,8 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Presets** .
 1. In the Metadata Presets screen, do one of the following:
 
-    * To create a preset, click **Add**. In the Metadata Template Name text field, type a name for the preset, and then click **Metadata Views** and choose a view from the drop-down list (see [Metadata Views](application-setup.md#metadata_views)).
-    * To edit an existing preset, select the preset from the Metadata Presets list and then click **Edit**.
+   * To create a preset, click **Add**. In the Metadata Template Name text field, type a name for the preset, and then click **Metadata Views** and choose a view from the drop-down list (see [Metadata Views](application-setup.md#metadata_views)).
+   * To edit an existing preset, select the preset from the Metadata Presets list and then click **Edit**.
 
 1. Expand headings you want to include in the preset and enter values in the different fields you want to include in the preset.
 1. Click **Save**.
@@ -1135,8 +820,8 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Presets**. 
 1. Do any of the following:
 
-    * To preview a preset, select the preset you want to preview. The preset information (categories and fields) appears in the Preview screen.
-    * To delete a preset, select the preset, and then click **Delete**.
+   * To preview a preset, select the preset you want to preview. The preset information (categories and fields) appears in the Preview screen.
+   * To delete a preset, select the preset, and then click **Delete**.
 
 ## User-Defined Fields {#user-defined-fields}
 
