@@ -33,15 +33,9 @@ Follow these steps in Scene7 to define parameters for an FXG template:
 
    The Template Publishing screen opens.
 
-   <!-- 
 
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
+1. Select LRCo\FXG\Welcome_Summit_10 (FXG file) and choose Build &gt; Template Publishing.</p>
 
-<p>Select LRCo\FXG\Welcome_Summit_10 (FXG file) and choose Build &gt; Template Publishing.</p>
-
- -->
 
    ![](assets/wp_fxg_edit.png)
 
@@ -90,60 +84,19 @@ Stroked text is an example of how you can parameterize attributes. Scene7 suppor
 
 This table describes the attributes that support stroked text.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e21285" valign="top" width="NaN%"><p>Attribute</p></th> 
-   <th class="cellrowborder" id="d19e21288" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:fill</span> &lt;Boolean&gt; (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies whether fill is enabled for text. Default is true.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:stroke</span> &lt;Boolean&gt; (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies whether stroke is enabled for text. Default is false.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:weight</span> &lt;number&gt; (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the weight of the stroke for text in points. Default is 1 point.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:joints </span>&lt;string&gt; (<span class="code">miter</span>, <span class="code">round</span>, <span class="code">bevel</span>) (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the type of join of the stroke. Default is <span class="code">round</span>.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:caps</span> &lt;string&gt; (<span class="code">none</span>, <span class="code">round</span>, <span class="code">square</span>) (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the type of cap of the stroke. Default is <span class="code">round</span>.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:miterLimit</span> &lt;number&gt; (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies the limit of the miter when join is miter join for the stroke. Default is 4.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeOverprint</span> &lt;Boolean&gt; (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Specifies whether the overprint is enabled for stroke. Default is false.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeColorName</span> (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Same as <span class="code">s7:colorName</span>, except it defines the name of the color for the stroke.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeColorValue</span> (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Same as <span class="code">s7:colorValue</span>, except it defines the value of the color being used for the stroke.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">s7:strokeColorspace</span> (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>Same as <span class="code">s7:colorspace</span>, except it defines the colorspace of the stroke.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21285 " valign="top" width="NaN%"><p><span class="code">flm:dashPattern</span> &lt;array&gt; (S7FXG Only)</p></td> 
-   <td class="cellrowborder" headers="d19e21288 " valign="top" width="NaN%"><p>By default there are no patterns for the dashes and gaps. This attribute defines the dash/gap pattern of the stroke. The first value is the dash of the stroke. The second is the gap in between the dashes. You can extend the array for multiple values in the same manner with alternate values being specified as dash and gap.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Attribute|Description|
+|--- |--- |
+|s7:fill <Boolean> (S7FXG Only)|Specifies whether fill is enabled for text. Default is true.|
+|s7:stroke <Boolean> (S7FXG Only)|Specifies whether stroke is enabled for text. Default is false.|
+|s7:weight <number> (S7FXG Only)|Specifies the weight of the stroke for text in points. Default is 1 point.|
+|s7:joints <string> (miter, round, bevel) (S7FXG Only)|Specifies the type of join of the stroke. Default is round.|
+|s7:caps <string> (none, round, square) (S7FXG Only)|Specifies the type of cap of the stroke. Default is round.|
+|s7:miterLimit <number> (S7FXG Only)|Specifies the limit of the miter when join is miter join for the stroke. Default is 4.|
+|s7:strokeOverprint <Boolean> (S7FXG Only)|Specifies whether the overprint is enabled for stroke. Default is false.|
+|s7:strokeColorName (S7FXG Only)|Same as s7:colorName, except it defines the name of the color for the stroke.|
+|s7:strokeColorValue (S7FXG Only)|Same as s7:colorValue, except it defines the value of the color being used for the stroke.|
+|s7:strokeColorspace (S7FXG Only)|Same as s7:colorspace, except it defines the colorspace of the stroke.|
+|flm:dashPattern <array> (S7FXG Only)|By default there are no patterns for the dashes and gaps. This attribute defines the dash/gap pattern of the stroke. The first value is the dash of the stroke. The second is the gap in between the dashes. You can extend the array for multiple values in the same manner with alternate values being specified as dash and gap.|
 
 ## Using warped text {#using-warped-text}
 
@@ -163,42 +116,13 @@ When warping text, you can set the following attributes:
 
 Each attribute contains a set of values.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e21463" valign="top" width="NaN%"><p>Attribute</p></th> 
-   <th class="cellrowborder" id="d19e21466" valign="top" width="NaN%"><p>Values</p></th> 
-   <th class="cellrowborder" id="d19e21469" valign="top" width="NaN%"><p>Default</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Style<span class="code">s7:warpStyle </span></p></td> 
-   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p><span class="code">nonearcarcLowerarcUpperarchbulgeshellLowershellUpperflagwavefishrisefishEyeinflatesqueezetwist</span></p></td> 
-   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p><span class="code">none</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Direction<span class="code">s7:warpDirection</span></p></td> 
-   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p><span class="code">horizontalvertical</span></p></td> 
-   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p><span class="code">horizontal</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Bend<span class="code">s7:warpBend</span></p></td> 
-   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p>-1 to 1</p></td> 
-   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p>0.5 </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Horizontal Distortion<span class="code">s7:warpHorizontalDistortion</span></p></td> 
-   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p>-1 to 1</p></td> 
-   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p>0</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21463 " valign="top" width="NaN%"><p>Verticle Distortion<span class="code">s7:warpVerticalDistortion</span></p></td> 
-   <td class="cellrowborder" headers="d19e21466 " valign="top" width="NaN%"><p>-1 to 1</p></td> 
-   <td class="cellrowborder" headers="d19e21469 " valign="top" width="NaN%"><p>0</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Attribute|Values|Default|
+|--- |--- |--- |
+|Styles7:warpStyle|nonearcarcLowerarcUpperarchbulgeshellLowershellUpperflagwavefishrisefishEyeinflatesqueezetwist|none|
+|Directions7:warpDirection|horizontalvertical|horizontal|
+|Bends7:warpBend|-1 to 1|0.5|
+|Horizontal Distortions7:warpHorizontalDistortion|-1 to 1|0|
+|Verticle Distortions7:warpVerticalDistortion|-1 to 1|0|
 
 >[!NOTE]
 >

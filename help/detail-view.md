@@ -72,107 +72,26 @@ For discrete files—images, Image Sets, and fonts, for example—you can view t
   
 This table shows which additional options are available with different types of assets in Detail view.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e13159" valign="top" width="NaN%"><p>Asset type</p> </th> 
-   <th class="cellrowborder" id="d19e13162" valign="top" width="NaN%"><p>Edit/adjust</p> </th> 
-   <th class="cellrowborder" id="d19e13165" valign="top" width="NaN%"><p>Preview</p> </th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Images</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Add Image Maps</p> <p>Add zoom targets</p> <p>Crop</p> <p>Sharpen</p> <p>Create adjusted views</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes; Zoom and Image Presets.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Cabinet and window covering images</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Thumbnail.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>eCatalogs</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes. Info Panel also available.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Fonts</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit font information</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>No.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>FXG files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>ICC profiles</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit profile information</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>No.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Illustrator Files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No (unless converted to FXG)</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>No.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Image Sets</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>InDesign files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No (unless converted to FXG)</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>No.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>PDF files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>No.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>PSD files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Yes for individual layers</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes for individual layers.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Spin sets</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>SVG files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>No.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Templates</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>Edit</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Videos</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Yes.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>Vignettes and rendered vignettes</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Image is shown. You can view the contents and structure of the renderable elements of the vignette in XML format.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>XML files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Contents are shown.</p> </td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13159 " valign="top" width="NaN%"><p>ZIP files</p> </td> 
-   <td class="cellrowborder" headers="d19e13162 " valign="top" width="NaN%"><p>No</p> </td> 
-   <td class="cellrowborder" headers="d19e13165 " valign="top" width="NaN%"><p>Contents are not shown.</p> </td> 
-  </tr> 
- </tbody> 
-</table>
+|Asset type|Edit/adjust|Preview|
+|--- |--- |--- |
+|Images|Add Image Maps Add zoom targets Crop Sharpen Create adjusted views|Yes; Zoom and Image Presets.|
+|Cabinet and window covering images|No|Thumbnail.|
+|eCatalogs|Edit|Yes. Info Panel also available.|
+|Fonts|Edit font information|No.|
+|FXG files|Edit|Yes.|
+|ICC profiles|Edit profile information|No.|
+|Illustrator Files|No (unless converted to FXG)|No.|
+|Image Sets|Edit|Yes.|
+|InDesign files|No (unless converted to FXG)|No.|
+|PDF files|No|No.|
+|PSD files|Yes for individual layers|Yes for individual layers.|
+|Spin sets|Edit|Yes.|
+|SVG files|No|No.|
+|Templates|Edit|Yes.|
+|Videos|No|Yes.|
+|Vignettes and rendered vignettes|No|Image is shown. You can view the contents and structure of the renderable elements of the vignette in XML format.|
+|XML files|No|Contents are shown.|
+|ZIP files|No|Contents are not shown.|
 
 >[!MORE_LIKE_THIS]
 >

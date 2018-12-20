@@ -44,27 +44,10 @@ Create an offer set from the following types of offer sets:
 
 When you create an Offer Set, the **Publish after save** option affects the set and set members in the following ways:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e27297" valign="top" width="NaN%"><p>“Publish after save” option selected before saving?</p></th> 
-   <th class="cellrowborder" id="d19e27300" valign="top" width="NaN%"><p>State of set after saving</p></th> 
-   <th class="cellrowborder" id="d19e27303" valign="top" width="NaN%"><p>State of set members after saving</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27297 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e27300 " valign="top" width="NaN%"><p>Published</p></td> 
-   <td class="cellrowborder" headers="d19e27303 " valign="top" width="NaN%"><p>Published</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27297 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e27300 " valign="top" width="NaN%"><p>Unpublished</p></td> 
-   <td class="cellrowborder" headers="d19e27303 " valign="top" width="NaN%"><p>Set members retain their published or unpublished state.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|
+|--- |--- |--- |
+|Yes|Published|Published|
+|No|Unpublished|Set members retain their published or unpublished state.|
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
@@ -94,27 +77,10 @@ Before you close the Target Classic Offer Set page, push the offer set to Target
 
 When you create an Offer Set, the **Publish after save** option affects the set and set members in the following ways:
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e27421" valign="top" width="NaN%"><p>“Publish after save” option selected before saving?</p></th> 
-   <th class="cellrowborder" id="d19e27424" valign="top" width="NaN%"><p>State of set after saving</p></th> 
-   <th class="cellrowborder" id="d19e27427" valign="top" width="NaN%"><p>State of set members after saving</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27421 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e27424 " valign="top" width="NaN%"><p>Published</p></td> 
-   <td class="cellrowborder" headers="d19e27427 " valign="top" width="NaN%"><p>Published</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27421 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e27424 " valign="top" width="NaN%"><p>Unpublished</p></td> 
-   <td class="cellrowborder" headers="d19e27427 " valign="top" width="NaN%"><p>Set members retain their published or unpublished state.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|
+|--- |--- |--- |
+|Yes|Published|Published|
+|No|Unpublished|Set members retain their published or unpublished state.|
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 

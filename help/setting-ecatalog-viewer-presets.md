@@ -7,7 +7,6 @@ uuid: aca66bc5-8491-4d81-9a06-1d3531860a14
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 index: y
 internal: n
@@ -44,7 +43,7 @@ Follow these steps to create a eCatalog Viewer Preset (you must be an administra
 
     |Token|Substituted with|Notes|
     |--- |--- |--- |
-    |`$1$`|rollover_key value|The item identifier from the <area> element of the map.|
+    |`$1$`|rollover_key value|The item identifier from the `<area>` element of the map.|
     |`$2$`|frame|The sequence number of the currently shown frame in the image set.|
     |`$3$`|imageroot|The first path element of the first item specified in the image command (typically the image catalog ID of the catalog entry specifying the image set).|
 
