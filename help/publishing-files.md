@@ -34,32 +34,12 @@ Use these techniques to mark assets for publish:
 
 Some "child" assets are automatically marked for publish when their parents are marked for publish. This table lists child assets that are marked for publish automatically.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e11272" valign="top" width="NaN%"><p>Parent (group) item</p></th> 
-   <th class="cellrowborder" id="d19e11275" valign="top" width="NaN%"><p>Child (member) items</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e11272 " valign="top" width="NaN%"><p>Image sets</p></td> 
-   <td class="cellrowborder" headers="d19e11275 " valign="top" width="NaN%"><p>Images within the set.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e11272 " valign="top" width="NaN%"><p>Swatch sets</p></td> 
-   <td class="cellrowborder" headers="d19e11275 " valign="top" width="NaN%"><p>Swatches within the set.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e11272 " valign="top" width="NaN%"><p>Spin sets</p></td> 
-   <td class="cellrowborder" headers="d19e11275 " valign="top" width="NaN%"><p>Images within the set.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e11272 " valign="top" width="NaN%"><p>Templates</p></td> 
-   <td class="cellrowborder" headers="d19e11275 " valign="top" width="NaN%"><p>Template files, pages, and images.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Parent (group) item|Child (member) items|
+|--- |--- |
+|Image sets|Images within the set.|
+|Swatch sets|Swatches within the set.|
+|Spin sets|Images within the set.|
+|Templates|Template files, pages, and images.|
 
 Derived images are also automatically marked for publish when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail view under Built & Derivatives.
 

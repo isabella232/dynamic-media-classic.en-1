@@ -66,73 +66,22 @@ Create the user list as a CSV (comma-separated values) file containing the user 
 
 Create a CSV file (filename.csv) that conforms to the following format and fields. The first row of the file must contain the column headings listed in this table; you can order these columns as desired. All columns are required.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e9550" valign="top" width="NaN%"><p>Column name</p></th> 
-   <th class="cellrowborder" id="d19e9553" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9550 " valign="top" width="NaN%"><p>First Name</p></td> 
-   <td class="cellrowborder" headers="d19e9553 " valign="top" width="NaN%"><p>The first name.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9550 " valign="top" width="NaN%"><p>Last Name</p></td> 
-   <td class="cellrowborder" headers="d19e9553 " valign="top" width="NaN%"><p>The last name.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9550 " valign="top" width="NaN%"><p>Email</p></td> 
-   <td class="cellrowborder" headers="d19e9553 " valign="top" width="NaN%"><p>A valid e-mail address.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9550 " valign="top" width="NaN%"><p>Password</p></td> 
-   <td class="cellrowborder" headers="d19e9553 " valign="top" width="NaN%"><p>A case-sensitive password string.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9550 " valign="top" width="NaN%"><p>User Role</p></td> 
-   <td class="cellrowborder" headers="d19e9553 " valign="top" width="NaN%"><p>MediaPortalAdmin</p><p>MediaPortalUser</p><p>MediaPortalContributor</p><p>MediaPortalContributorUser</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9550 " valign="top" width="NaN%"><p>Groups</p></td> 
-   <td class="cellrowborder" headers="d19e9553 " valign="top" width="NaN%"><p>List of one or more account group assignments for each user, separated by commas. You specify the group by prefixing the account name, separated by forward slash (/). For example, PortalCo/IT, where PortalCo is the account and IT is the group within the PortalCo account.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Column name|Description|
+|--- |--- |
+|First Name|The first name.|
+|Last Name|The last name.|
+|Email|A valid e-mail address.|
+|Password|A case-sensitive password string.|
+|User Role|MediaPortalAdminMediaPortalUserMediaPortalContributorMediaPortalContributorUser|
+|Groups|List of one or more account group assignments for each user, separated by commas. You specify the group by prefixing the account name, separated by forward slash (/). For example, PortalCo/IT, where PortalCo is the account and IT is the group within the PortalCo account.|
 
 The following sample spreadsheet demonstrates how to lay out a CSV file:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e9617" valign="top" width="NaN%"><p>First Name</p></th> 
-   <th class="cellrowborder" id="d19e9620" valign="top" width="NaN%"><p>Last Name</p></th> 
-   <th class="cellrowborder" id="d19e9623" valign="top" width="NaN%"><p>Email</p></th> 
-   <th class="cellrowborder" id="d19e9626" valign="top" width="NaN%"><p>Password</p></th> 
-   <th class="cellrowborder" id="d19e9629" valign="top" width="NaN%"><p>User Role</p></th> 
-   <th class="cellrowborder" id="d19e9632" valign="top" width="NaN%"><p>Groups</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9617 " valign="top" width="NaN%"><p>Peter</p></td> 
-   <td class="cellrowborder" headers="d19e9620 " valign="top" width="NaN%"><p>Peterson</p></td> 
-   <td class="cellrowborder" headers="d19e9623 " valign="top" width="NaN%"><p>petep@company.com</p></td> 
-   <td class="cellrowborder" headers="d19e9626 " valign="top" width="NaN%"><p>welcome</p></td> 
-   <td class="cellrowborder" headers="d19e9629 " valign="top" width="NaN%"><p>MediaPortalAdmin</p></td> 
-   <td class="cellrowborder" headers="d19e9632 " valign="top" width="NaN%"><p>PortalCo/IT,PortalCo/Admin</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e9617 " valign="top" width="NaN%"><p>Kevin</p></td> 
-   <td class="cellrowborder" headers="d19e9620 " valign="top" width="NaN%"><p>Marks</p></td> 
-   <td class="cellrowborder" headers="d19e9623 " valign="top" width="NaN%"><p>kevinm@myco.com</p></td> 
-   <td class="cellrowborder" headers="d19e9626 " valign="top" width="NaN%"><p>welcome</p></td> 
-   <td class="cellrowborder" headers="d19e9629 " valign="top" width="NaN%"><p>MediaPortalUser</p></td> 
-   <td class="cellrowborder" headers="d19e9632 " valign="top" width="NaN%"><p>PortalCo/MktgGroup, PortalCo/test</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|First Name|Last Name|Email|Password|User Role|Groups|
+|--- |--- |--- |--- |--- |--- |
+|Peter|Peterson|`petep@company.com`|welcome|MediaPortalAdmin|PortalCo/IT,PortalCo/Admin|
+|Kevin|Marks|`kevinm@myco.com`|welcome|MediaPortalUser|PortalCo/MktgGroup, PortalCo/test|
+
 
 ### Uploading the CSV file {#uploading-the-csv-file}
 

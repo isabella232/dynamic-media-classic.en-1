@@ -26,88 +26,26 @@ Before uploading assets to the Scene7 Publishing System, make sure that they are
 
 This table lists the asset file formats that the Scene7 Publishing System supports. For information on supported Camera Raw files, see [www.adobe.com/go/learn_s7_cameraraw_en](https://www.adobe.com/go/learn_s7_cameraraw_en).
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e10255" valign="top" width="NaN%"><p>Asset file formats</p></th> 
-   <th class="cellrowborder" id="d19e10258" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Audio</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Cascading Style Sheet</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>CSS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Color profiles</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>ICC, ICM</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Fonts</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>AFM, OTF, PFB, PFM, PhotoFont, TTC, TTF</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>FXG</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>FXG</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Illustrator</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>AI, FXG</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Images</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>BMP, FPX, GIF, JPEG, JPG, PNG, PICT (Windows only), TIF, TIFF</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>InDesign</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>INDD, INDT</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>MS Office</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>DOC, PPT, RTF, XLS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>PDF</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>PDF</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Photoshop</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>PSD, FXG, and Camera Raw</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>PostScript</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>EPS, PS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Scene7 Image Authoring</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>VNC, VNT, VNW</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>SVG</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>SVG, SVGX</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>TAR</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>TAR</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>Video</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>3GP, AVI, M2P, M2T, M2TS, M2V, M4V, MOV, MP4, MPEG, MPG, MTS, OGV, TS, VOB, WMV/ASF</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>XML</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>XML</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10255 " valign="top" width="NaN%"><p>ZIP</p></td> 
-   <td class="cellrowborder" headers="d19e10258 " valign="top" width="NaN%"><p>ZIP</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Asset file formats|Description|
+|--- |--- |
+|Audio|AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3|
+|Cascading Style Sheet|CSS|
+|Color profiles|ICC, ICM|
+|Fonts|AFM, OTF, PFB, PFM, PhotoFont, TTC, TTF|
+|FXG|FXG|
+|Illustrator|AI, FXG|
+|Images|BMP, FPX, GIF, JPEG, JPG, PNG, PICT (Windows only), TIF, TIFF|
+|InDesign|INDD, INDT|
+|MS Office|DOC, PPT, RTF, XLS|
+|PDF|PDF|
+|Photoshop|PSD, FXG, and Camera Raw|
+|PostScript|EPS, PS|
+|Scene7 Image Authoring|VNC, VNT, VNW|
+|SVG|SVG, SVGX|
+|TAR|TAR|
+|Video|3GP, AVI, M2P, M2T, M2TS, M2V, M4V, MOV, MP4, MPEG, MPG, MTS, OGV, TS, VOB, WMV/ASF|
+|XML|XML|
+|ZIP|ZIP|
 
 TAR and ZIP upload support includes a check box to select if you want to unpack the files.
 
@@ -115,80 +53,24 @@ TAR and ZIP upload support includes a check box to select if you want to unpack 
 
 To achieve optimal results with the Scene7 platform, be sure to use the recommended file formats and sizes. This table lists asset types, some with recommended formats and file sizes for commonly used assets.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e10405" valign="top" width="NaN%"><p>Asset type</p></th> 
-   <th class="cellrowborder" id="d19e10408" valign="top" width="NaN%"><p>Description/Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Audio</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Input audio asset formats include AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. You can transcode audio to the following formats: MP3, AAC, and HE-AAC.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Images (for Image Sizing, Zoom, Image Sets, Spin Sets)</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Images have to be at least 2000 pixels at the longest dimension; typical image sizes range from 1500 to 2500 pixels in the longest dimension. Lossless image formats, including TIFF and PNG files, are recommended. If you use a JPEG image, use the highest-quality settings. Animate GIF files are handled like other static content.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>eCatalogs</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Use high-resolution PDF files created in Adobe® Acrobat® or a Creative Suite application saved as “press-ready.” PDFs include all needed fonts, images, masks, and referenced graphical elements, either as single-pages, double-page spreads, or in a multi-page format. Order your pages by naming the files in alphanumeric order. Place all PDFs for your eCatalog in a single folder for ease of uploading. You can select cropping options on upload to remove the trim area from PDFs, including crop marks, registration targets, or color bars. Most press-ready PDF files are in the CMYK color space, so it is important to obtain the CMYK ICC color profile used with your PDF files.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Templates</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Layered image or layout design that can include text, images, and layers. Image layers, text strings, and attributes, such as color and size, can be parameterized so that variable data can be customized. Image requirements for use in templates are the same as other images. Prepare your graphics in Photoshop or another image-editing program. Save each graphic as a flattened transparent file in TIFF or PNG format. Ensure that the image resolution is appropriate for expected use. Images for print should be 300 ppi.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Videos</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Scene7 supports video files saved in the OGV and MP4 format. You can transcode files to MP4 format at upload.</p><p>See <a href="uploading-files.md#supported_asset_file_formats">Supported asset file formats</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Fonts</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Uploaded TrueType, Type1 (Windows Only), OpenType fonts, and PhotoFonts</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Images</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Images and layered image files.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Image Sets and Swatch Sets</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>A set of related images that can be displayed in a viewer.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>ICC profiles</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>A color profile you can use to convert an uploaded image from its source color space into a different color space.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Vignettes</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Images authored with the Image Authoring program, as well as related files.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Content files</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Adobe InDesign, Illustrator, or Photoshop content files.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>FXG files</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Resolution-independent graphic format files that you can use to create customizable templates for output to print, web, email, desktop, and devices.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>SVG files</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Scalable vector graphic files that Image Serving servers can render.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>XML files</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Files that define pre-processing rules that are used to modify the path and query portions of requests.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>Cascading Style Sheet files.</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Upload CSS skins for customization of HTML5 viewers.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10405 " valign="top" width="NaN%"><p>JavaScript files</p></td> 
-   <td class="cellrowborder" headers="d19e10408 " valign="top" width="NaN%"><p>Javascript files are used for viewer instrumentation to hold account information. Adobe Security recommends this only for client accounts that have a separate domain in use for delivery (to avoid cross site scripting).</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Asset type|Description/Recommendations|
+|--- |--- |
+|Audio|Input audio asset formats include AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. You can transcode audio to the following formats: MP3, AAC, and HE-AAC.|
+|Images (for Image Sizing, Zoom, Image Sets, Spin Sets)|Images have to be at least 2000 pixels at the longest dimension; typical image sizes range from 1500 to 2500 pixels in the longest dimension. Lossless image formats, including TIFF and PNG files, are recommended. If you use a JPEG image, use the highest-quality settings. Animate GIF files are handled like other static content.|
+|eCatalogs|Use high-resolution PDF files created in Adobe® Acrobat® or a Creative Suite application saved as “press-ready.” PDFs include all needed fonts, images, masks, and referenced graphical elements, either as single-pages, double-page spreads, or in a multi-page format. Order your pages by naming the files in alphanumeric order. Place all PDFs for your eCatalog in a single folder for ease of uploading. You can select cropping options on upload to remove the trim area from PDFs, including crop marks, registration targets, or color bars. Most press-ready PDF files are in the CMYK color space, so it is important to obtain the CMYK ICC color profile used with your PDF files.|
+|Templates|Layered image or layout design that can include text, images, and layers. Image layers, text strings, and attributes, such as color and size, can be parameterized so that variable data can be customized. Image requirements for use in templates are the same as other images. Prepare your graphics in Photoshop or another image-editing program. Save each graphic as a flattened transparent file in TIFF or PNG format. Ensure that the image resolution is appropriate for expected use. Images for print should be 300 ppi.|
+|Videos|Scene7 supports video files saved in the OGV and MP4 format. You can transcode files to MP4 format at upload.See [Supported asset file formats](#supported-static-file-formats).|
+|Fonts|Uploaded TrueType, Type1 (Windows Only), OpenType fonts, and PhotoFonts|
+|Images|Images and layered image files.|
+|Image Sets and Swatch Sets|A set of related images that can be displayed in a viewer.|
+|ICC profiles|A color profile you can use to convert an uploaded image from its source color space into a different color space.|
+|Vignettes|Images authored with the Image Authoring program, as well as related files.|
+|Content files|Adobe InDesign, Illustrator, or Photoshop content files.|
+|FXG files|Resolution-independent graphic format files that you can use to create customizable templates for output to print, web, email, desktop, and devices.|
+|SVG files|Scalable vector graphic files that Image Serving servers can render.|
+|XML files|Files that define pre-processing rules that are used to modify the path and query portions of requests.|
+|Cascading Style Sheet files.|Upload CSS skins for customization of HTML5 viewers.|
+|JavaScript files|Javascript files are used for viewer instrumentation to hold account information. Adobe Security recommends this only for client accounts that have a separate domain in use for delivery (to avoid cross site scripting).|
 
 >[!NOTE]
 >
@@ -230,27 +112,10 @@ Make sure that all users in your company understand these file naming rules:
 
 In most cases, an asset filename can be the same as its item number, product SKU, or other name as in the following:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e10623" valign="top" width="NaN%"><p>Item</p></th> 
-   <th class="cellrowborder" id="d19e10626" valign="top" width="NaN%"><p>Filename</p></th> 
-   <th class="cellrowborder" id="d19e10629" valign="top" width="NaN%"><p>Asset ID</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10623 " valign="top" width="NaN%"><p>896649</p></td> 
-   <td class="cellrowborder" headers="d19e10626 " valign="top" width="NaN%"><p>896649.jpg</p></td> 
-   <td class="cellrowborder" headers="d19e10629 " valign="top" width="NaN%"><p>896649</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e10623 " valign="top" width="NaN%"><p>48A3_2X</p></td> 
-   <td class="cellrowborder" headers="d19e10626 " valign="top" width="NaN%"><p>48A3_2X.tif</p></td> 
-   <td class="cellrowborder" headers="d19e10629 " valign="top" width="NaN%"><p>48A3_2X</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Item|Filename|Asset ID|
+|--- |--- |--- |
+|896649|896649.jpg|896649|
+|48A3_2X|48A3_2X.tif|48A3_2X|
 
 ### Folder organization and structure {#folder-organization-and-structure}
 

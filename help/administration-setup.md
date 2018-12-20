@@ -7,7 +7,6 @@ uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 index: y
 internal: n
@@ -146,47 +145,15 @@ To open this screen, click Setup &gt; Personal Setup. Expand Administration Setu
 
 The following table describes reports that you can generate from the Bandwidth & Storage screen:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e8364" valign="top" width="NaN%"><p>Report</p></th> 
-   <th class="cellrowborder" id="d19e8367" valign="top" width="NaN%"><p>Information</p></th> 
-   <th class="cellrowborder" id="d19e8370" valign="top" width="NaN%"><p>Use</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e8364 " valign="top" width="NaN%"><p>Bandwidth</p></td> 
-   <td class="cellrowborder" headers="d19e8367 " valign="top" width="NaN%"><p>Bandwidth use by company</p></td> 
-   <td class="cellrowborder" headers="d19e8370 " valign="top" width="NaN%"><p>Track bandwidth usage by company over specific date ranges to determine traffic patterns.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e8364 " valign="top" width="NaN%"><p>Storage</p></td> 
-   <td class="cellrowborder" headers="d19e8367 " valign="top" width="NaN%"><p>Storage usage</p></td> 
-   <td class="cellrowborder" headers="d19e8370 " valign="top" width="NaN%"><p>Track the amount of data uploaded by company.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e8364 " valign="top" width="NaN%"><p>Image Content</p></td> 
-   <td class="cellrowborder" headers="d19e8367 " valign="top" width="NaN%"><p>The number of image requests by type</p></td> 
-   <td class="cellrowborder" headers="d19e8370 " valign="top" width="NaN%"><p>Track the number of requests and volume for different image types.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e8364 " valign="top" width="NaN%"><p>Domain</p></td> 
-   <td class="cellrowborder" headers="d19e8367 " valign="top" width="NaN%"><p>The number of URL requests by domain</p></td> 
-   <td class="cellrowborder" headers="d19e8370 " valign="top" width="NaN%"><p>Track image usage based on the domain of the image request for a specific company. (Scene7 can provide more than one domain per account. For more information, contact Technical Support.)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e8364 " valign="top" width="NaN%"><p>Video Streaming</p></td> 
-   <td class="cellrowborder" headers="d19e8367 " valign="top" width="NaN%"><p>Bandwidth usage for streaming video</p></td> 
-   <td class="cellrowborder" headers="d19e8370 " valign="top" width="NaN%"><p>Track streaming video usage by company over specific date ranges to determine traffic patterns.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e8364 " valign="top" width="NaN%"><p>Video Content</p></td> 
-   <td class="cellrowborder" headers="d19e8367 " valign="top" width="NaN%"><p>Playing time of different videos</p></td> 
-   <td class="cellrowborder" headers="d19e8370 " valign="top" width="NaN%"><p>Determine which are the most viewed and least viewed videos.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Report|Information|Use|
+|:--- |:--- |:--- |
+|Bandwidth|Bandwidth use by company|Track bandwidth usage by company over specific date ranges to determine traffic patterns.|
+|Storage|Storage usage|Track the amount of data uploaded by company.|
+|Image Content|The number of image requests by type|Track the number of requests and volume for different image types.|
+|Domain|The number of URL requests by domain|Track image usage based on the domain of the image request for a specific company. (Scene7 can provide more than one domain per account. For more information, contact Technical Support.)|
+|Video Streaming|Bandwidth usage for streaming video|Track streaming video usage by company over specific date ranges to determine traffic patterns.|
+|Video Content|Playing time of different videos|Determine which are the most viewed and least viewed videos.|
+
 
 The Image Content report provides information about requests for the following image types:
 

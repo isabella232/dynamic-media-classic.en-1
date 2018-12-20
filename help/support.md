@@ -14,52 +14,20 @@ internal: n
 snippet: y
 ---
 
-# Support{#support}
+# Support {#support}
 
 Technical support offerings are designed to meet the needs of any size company. The following table describes Scene7 Customer Care offerings:
 
-<table cellpadding="4" cellspacing="0">
- <thead align="left">
-  <tr>
-   <th class="cellrowborder" id="d19e573" valign="top" width="NaN%"><p>Support</p></th> 
-   <th class="cellrowborder" id="d19e576" valign="top" width="NaN%"><p>Subscription</p></th> 
-  </tr> 
- </thead> 
- <tbody>
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Case limit</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p>Unlimited.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Response time</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p>See the FAQ at <a href="https://helpx.adobe.com/marketing-cloud/contact-support.html">https://helpx.adobe.com/marketing-cloud/contact-support.html</a>.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>SLA (Service Level Agreements)</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p><a href="https://www.adobe.com/support/programs/policies/sla.html">https://www.adobe.com/support/programs/policies/sla.html</a>.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Supported Users</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p>Up to ten users per organization can be designated as Supported Users, who can open cases with Customer Care.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Social Support</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p>See the FAQ at <a href="https://helpx.adobe.com/marketing-cloud/contact-support.html">https://helpx.adobe.com/marketing-cloud/contact-support.html</a>.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Free live web training and video tutorials</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p>Included.</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>E-mail support</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p><strong>US/Canada:</strong></p><p>s7support@adobe.com</p><p><strong>Japan:</strong></p><p>s7support_jp@adobe.com</p><p><strong>Europe/Middle East/Africa:</strong></p><p>s7intsupport@adobe.com</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e573 " valign="top" width="NaN%"><p>Telephone support</p></td> 
-   <td class="cellrowborder" headers="d19e576 " valign="top" width="NaN%"><p><strong>US/Canada:</strong></p><p>(800) 898-9743</p><p>(800) 497-0335</p><p>(408) 454-5910</p><p><strong>Japan:</strong></p><p>+81-3-6743-9632</p><p><strong>UK:</strong></p><p>+44 (0)20 35641782</p><p><strong>Germany:</strong></p><p>+49 (0)69 51709005</p><p><strong>France:</strong></p><p>+33 157324085</p><p><strong>Netherlands:</strong></p><p>+31 (0)20 2035138</p><p></p><p>(Weekend Support in English)</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Support|Subscription|
+|--- |--- |
+|Case limit|Unlimited.|
+|Response time|See the FAQ at [https://helpx.adobe.com/marketing-cloud/contact-support.html]().|
+|SLA (Service Level Agreements)|[https://www.adobe.com/support/programs/policies/sla.html]().|
+|Supported Users|Up to ten users per organization can be designated as Supported Users, who can open cases with Customer Care.|
+|Social Support|See the FAQ at [https://helpx.adobe.com/marketing-cloud/contact-support.html]().|
+|Free live web training and video tutorials|Included.|
+|E-mail support|<ul><li>US/Canada: s7support@adobe.com</li> <li>Japan: s7support_jp@adobe.com</li><li>Europe/Middle East/Africa: s7intsupport@adobe.com</li></ul>|
+|Telephone support|<ul><li>US/Canada:(800) 898-9743, (800)497-033, (408)454-5910 </li> <li>Japan:+81-3-6743-9632 </li><li>UK: +44 (0)20 35641782</li><li>Germany: +49 (0)69 51709005</li><li>France: +33 157324085</li><li>Netherlands: +31 (0)20 2035138 (Weekend Support in English)</li></ul>|
 
 When reporting issues to Technical Support, include this information:
 
