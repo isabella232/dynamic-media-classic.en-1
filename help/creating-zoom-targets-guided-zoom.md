@@ -24,7 +24,7 @@ Zoom targets guide your viewers to certain parts of an image. As well as free-fo
 
 The maximum zoom percentage of zoom targets is 100 percent. The minimum zoom percentage varies based on a combination of the viewer size and the image size, as shown in this table:
 
-<table cellpadding="4" cellspacing="0">
+<table>
  <thead align="left">
   <tr>
    <th class="cellrowborder" id="d19e14999" valign="top" width="NaN%"><p>Image size</p></th> 
