@@ -94,7 +94,7 @@ Before you close the Target Classic Offer Set page, push the offer set to Target
 
 When you create an Offer Set, the **Publish after save** option affects the set and set members in the following ways:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e27421" valign="top" width="NaN%"><p>“Publish after save” option selected before saving?</p></th> 
@@ -142,7 +142,7 @@ Before closing the Target Classic Offer Set page, push the offer set to Target C
 
 Depending on whether you edit a published set or an unpublished set, the **Publish after save** option affects the set and set members in the following ways:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e27552" valign="top" width="NaN%"><p>Set already published?</p></th> 

@@ -70,7 +70,7 @@ Viewer events describe actions that users perform with Scene7 viewers. When a us
 
 The following table describes viewer events you can add to the Adobe Analytics Configuration screen.
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e26526" valign="top" width="NaN%"><p>Viewer event</p></th> 
@@ -163,60 +163,19 @@ For each viewer event on Adobe Analytics Configuration screen, choose a Adobe An
 
 The following table describes Scene7 variables.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e26763" valign="top" width="NaN%"><p>Scene7 variable</p></th> 
-   <th class="cellrowborder" id="d19e26766" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>asset</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>Scene7 Publishing System asset ID or video path file.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>viewerId</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>An arbitrary number that is assigned to each different viewer type.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>pageLabel</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>In eCatalogs, the page that a viewer displays.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>label</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>The label value (a string).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>frame</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>The page or page reference in an Image Set.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>rollover_keyRaw</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>The entire HREF value, not just any processed part of it.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>rollover_keyProc </p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>The ID of an item that is referenced in an Image Map (valid for href and item events).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>searchTerm</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>A term that is used in eCatalog search.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>timeStamp</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>Play, Stop, and Pause chosen in video viewers.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>progress</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>The percentage of a milestone event that is complete.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26763 " valign="top" width="NaN%"><p>targetId</p></td> 
-   <td class="cellrowborder" headers="d19e26766 " valign="top" width="NaN%"><p>The id value (a number).</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Scene7 variable|Description|
+|--- |:--- |
+|asset|Scene7 Publishing System asset ID or video path file.|
+|viewerId|An arbitrary number that is assigned to each different viewer type.|
+|pageLabel|In eCatalogs, the page that a viewer displays.|
+|label|The label value (a string).|
+|frame|The page or page reference in an Image Set.|
+|rollover_keyRaw|The entire HREF value, not just any processed part of it.|
+|rollover_keyProc|The ID of an item that is referenced in an Image Map (valid for href and item events).|
+|searchTerm|A term that is used in eCatalog search.|
+|timeStamp|Play, Stop, and Pause chosen in video viewers.|
+|progress|The percentage of a milestone event that is complete.|
+|targetId|The id value (a number).|
 
 ## Activating, editing, and deleting viewer events {#activating-editing-and-deleting-viewer-events}
 

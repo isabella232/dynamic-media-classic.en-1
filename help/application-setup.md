@@ -362,52 +362,11 @@ An encoding preset that works with any aspect ratio to let you create videos for
 
 **Adaptive Video (default)**
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e2927" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e2929" valign="top" width="NaN%"><p>Encoding Preset Name/Tooltip Text</p></th> 
-   <th class="cellrowborder" id="d19e2932" valign="top" width="NaN%"><p>Encoded file suffix</p></th> 
-   <th class="cellrowborder" id="d19e2935" valign="top" width="NaN%"><p>Video data rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e2938" valign="top" width="NaN%"><p>Width/Height (pixels)</p></th> 
-   <th class="cellrowborder" id="d19e2941" valign="top" width="NaN%"><p>Fps</p></th> 
-   <th class="cellrowborder" id="d19e2944" valign="top" width="NaN%"><p>Audio bit rate (kbps)</p></th> 
-   <th class="cellrowborder" id="d19e2947" valign="top" width="NaN%"><p>Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e2927 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e2929 " valign="top" width="NaN%"><p>Auto x 360, 800 Kbps</p></td> 
-   <td class="cellrowborder" headers="d19e2932 " valign="top" width="NaN%"><p>_Mobile_Autox360p_800K</p></td> 
-   <td class="cellrowborder" headers="d19e2935 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e2938 " valign="top" width="NaN%"><p>Autox360</p></td> 
-   <td class="cellrowborder" headers="d19e2941 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e2944 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e2947 " valign="top" width="NaN%"><p>For mobile (iPhone, iPad, Android)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e2927 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e2929 " valign="top" width="NaN%"><p>Auto x 480, 1400 Kbps</p></td> 
-   <td class="cellrowborder" headers="d19e2932 " valign="top" width="NaN%"><p>_Tablet_Autox480p_1400K </p></td> 
-   <td class="cellrowborder" headers="d19e2935 " valign="top" width="NaN%"><p>1400</p></td> 
-   <td class="cellrowborder" headers="d19e2938 " valign="top" width="NaN%"><p>Autox480</p></td> 
-   <td class="cellrowborder" headers="d19e2941 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e2944 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e2947 " valign="top" width="NaN%"><p>For tablet (iPad, Android)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e2927 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e2929 " valign="top" width="NaN%"><p>Auto x 720, 2600 Kbps</p></td> 
-   <td class="cellrowborder" headers="d19e2932 " valign="top" width="NaN%"><p>_Desktop_Autox720p_2600K</p></td> 
-   <td class="cellrowborder" headers="d19e2935 " valign="top" width="NaN%"><p>2600</p></td> 
-   <td class="cellrowborder" headers="d19e2938 " valign="top" width="NaN%"><p>Autox720</p></td> 
-   <td class="cellrowborder" headers="d19e2941 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e2944 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e2947 " valign="top" width="NaN%"><p>For desktop</p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Encoding Preset Name/Tooltip Text|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
+|--- |--- |--- |--- |--- |--- |--- |--- |
+|1|Auto x 360, 800 Kbps|_Mobile_Autox360p_800K|800|Autox360|Same as source|64|For mobile (iPhone, iPad, Android)|
+|2|Auto x 480, 1400 Kbps|_Tablet_Autox480p_1400K|1400|Autox480|Same as source|96|For tablet (iPad, Android)|
+|3|Auto x 720, 2600 Kbps|_Desktop_Autox720p_2600K|2600|Autox720|Same as source|128|For desktop|
 
 ### Adaptive Video Encoding (16:9 or 4:3) video presets {#adaptive-video-encoding-or-video-presets}
 
@@ -417,133 +376,18 @@ For information about encoding options parameters, see [About encoding preset op
 
 **Adaptive Video Encoding (16:9 or 4:3) presets**
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e3059" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e3061" valign="top" width="NaN%"><p>Encoding Preset Name/Tooltip Text</p></th> 
-   <th class="cellrowborder" id="d19e3067" valign="top" width="NaN%"><p>Target connection speed (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3070" valign="top" width="NaN%"><p>Encoded file suffix</p></th> 
-   <th class="cellrowborder" id="d19e3073" valign="top" width="NaN%"><p>Video data rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3076" valign="top" width="NaN%"><p>Width/Height (pixels)</p></th> 
-   <th class="cellrowborder" id="d19e3079" valign="top" width="NaN%"><p>Fps</p></th> 
-   <th class="cellrowborder" id="d19e3082" valign="top" width="NaN%"><p>Audio bit rate (kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3085" valign="top" width="NaN%"><p>Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (iPhone, iPad, Android), (400 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_Mobile_512x288_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>Low resolution, 3G</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>4:3, 384x288px, Mobile (iPhone, iPad, Android), (400 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_Mobile_384x288_400K </p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>384x288</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>Low resolution, 3G</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (iPhone, iPad, Android), (600 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>700</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_Mobile_512x288_600K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>600</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>Medium resolution, 3G</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>4</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>4:3, 384x288, Mobile (iPhone, iPad, Android), (600 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>700</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_Mobile_384x288_600</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>600</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>384x288</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>Medium resolution, 3G</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>5</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>16:9, 640x360, Tablet (iPad, Android), (800 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_iPad_640x360_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>640x360</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>Medium resolution, WiFi</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>6</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>4:3, 640x480, Tablet (iPad, Android), (800 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_iPad_640x480_800K </p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>640x480</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>Medium resolution, WiFi</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>7</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>16:9, 768x432, Tablet (iPad, Android), (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_iPad_768x432_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>768x432</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>High resolution, WiFi</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>8</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>4:3, 768x576, Tablet (iPad, Android), (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_iPad_768x576_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>768x576</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>High resolution, WiFi</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>9</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>16:9, 1280x720, Desktop, (2000 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>3.0 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_1280x720_2000K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>2000</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>1280x720</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>High-definition, widescreen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3059 " valign="top" width="NaN%"><p>10</p></td> 
-   <td class="cellrowborder" headers="d19e3061 " valign="top" width="NaN%"><p>4:3, 1280x960, Desktop, (2000 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3067 " valign="top" width="NaN%"><p>3.0 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3070 " valign="top" width="NaN%"><p>_1280x960_2000K</p></td> 
-   <td class="cellrowborder" headers="d19e3073 " valign="top" width="NaN%"><p>2000 Kbps</p></td> 
-   <td class="cellrowborder" headers="d19e3076 " valign="top" width="NaN%"><p>1280x960</p></td> 
-   <td class="cellrowborder" headers="d19e3079 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3082 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e3085 " valign="top" width="NaN%"><p>High-definition</p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (kbps)|Recommendations|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|1|16:9, 512x288, Mobile (iPhone, iPad, Android), (400 Kbps)|500|_Mobile_512x288_400K|400|512x288|Same as source|64|Low resolution, 3G|
+|2|4:3, 384x288px, Mobile (iPhone, iPad, Android), (400 Kbps)|500|_Mobile_384x288_400K|400|384x288|Same as source|64|Low resolution, 3G|
+|3|16:9, 512x288, Mobile (iPhone, iPad, Android), (600 Kbps)|700|_Mobile_512x288_600K|600|512x288|Same as source|64|Medium resolution, 3G|
+|4|4:3, 384x288, Mobile (iPhone, iPad, Android), (600 Kbps)|700|_Mobile_384x288_600|600|384x288|Same as source|64|Medium resolution, 3G|
+|5|16:9, 640x360, Tablet (iPad, Android), (800 Kbps)|900|_iPad_640x360_800K|800|640x360|Same as source|80|Medium resolution, WiFi|
+|6|4:3, 640x480, Tablet (iPad, Android), (800 Kbps)|900|_iPad_640x480_800K|800|640x480|Same as source|80|Medium resolution, WiFi|
+|7|16:9, 768x432, Tablet (iPad, Android), (1200 Kbps)|1.5 Mbps|_iPad_768x432_1200K|1200|768x432|Same as source|96|High resolution, WiFi|
+|8|4:3, 768x576, Tablet (iPad, Android), (1200 Kbps)|1.5 Mbps|_iPad_768x576_1200K|1200|768x576|Same as source|96|High resolution, WiFi|
+|9|16:9, 1280x720, Desktop, (2000 Kbps)|3.0 Mbps|_1280x720_2000K|2000|1280x720|Same as source|128|High-definition, widescreen|
+|10|4:3, 1280x960, Desktop, (2000 Kbps)|3.0 Mbps|_1280x960_2000K|2000 Kbps|1280x960|Same as source|128|High-definition|
 
 ### Desktop video encoding presets {#desktop-video-encoding-presets}
 
@@ -553,111 +397,17 @@ For information about encoding options parameters, see [About the encoding prese
 
 **H264 Main 3.2 - Audio AAC, MP4 file extension**
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e3399" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e3401" valign="top" width="NaN%"><p>Encoding Preset Name/Tooltip Text</p></th> 
-   <th class="cellrowborder" id="d19e3404" valign="top" width="NaN%"><p>Target connection speed (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3407" valign="top" width="NaN%"><p>Encoded file suffix</p></th> 
-   <th class="cellrowborder" id="d19e3410" valign="top" width="NaN%"><p>Video data rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3413" valign="top" width="NaN%"><p>Width/Height (pixels)</p></th> 
-   <th class="cellrowborder" id="d19e3416" valign="top" width="NaN%"><p>Fps</p></th> 
-   <th class="cellrowborder" id="d19e3419" valign="top" width="NaN%"><p>Audio bit rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3422" valign="top" width="NaN%"><p>Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>16:9, 480x270 (400 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_480x270_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>480x270</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>Low widescreen resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>16:9, 640x360 (800 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_640x360_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>640x360</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>Medium widescreen resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>16:9, 800x450 (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_800x450_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>800x450</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>Medium-high resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>4</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>16:9, 1280x720 (2000 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>3.0 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_1280x720_2000K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>2000</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>1280x720</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>High-definition, widescreen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>5</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>4:3, 320x240 (400 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_320X240_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>320x240</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>Low resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>6</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>4:3, 480x360 (800 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_480x360_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>480x360</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>Medium resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>7</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>4:3, 640x480 (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_640x480_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>640x480</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>Medium-high resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3399 " valign="top" width="NaN%"><p>8</p></td> 
-   <td class="cellrowborder" headers="d19e3401 " valign="top" width="NaN%"><p>4:3, 1280x960 (2000 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3404 " valign="top" width="NaN%"><p>3.0 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3407 " valign="top" width="NaN%"><p>_1280x960_2000K</p></td> 
-   <td class="cellrowborder" headers="d19e3410 " valign="top" width="NaN%"><p>2000</p></td> 
-   <td class="cellrowborder" headers="d19e3413 " valign="top" width="NaN%"><p>1280x960</p></td> 
-   <td class="cellrowborder" headers="d19e3416 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3419 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e3422 " valign="top" width="NaN%"><p>High-defintion</p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (Kbps)|Recommendations|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|1|16:9, 480x270 (400 Kbps)|500|_480x270_400K|400|480x270|Same as source|64|Low widescreen resolution|
+|2|16:9, 640x360 (800 Kbps)|900|_640x360_800K|800|640x360|Same as source|80|Medium widescreen resolution|
+|3|16:9, 800x450 (1200 Kbps)|1.5 Mbps|_800x450_1200K|1200|800x450|Same as source|96|Medium-high resolution|
+|4|16:9, 1280x720 (2000 Kbps)|3.0 Mbps|_1280x720_2000K|2000|1280x720|Same as source|128|High-definition, widescreen|
+|5|4:3, 320x240 (400 Kbps)|500|_320X240_400K|400|320x240|Same as source|64|Low resolution|
+|6|4:3, 480x360 (800 Kbps)|900|_480x360_800K|800|480x360|Same as source|80|Medium resolution|
+|7|4:3, 640x480 (1200 Kbps)|1.5 Mbps|_640x480_1200K|1200|640x480|Same as source|96|Medium-high resolution|
+|8|4:3, 1280x960 (2000 Kbps)|3.0 Mbps|_1280x960_2000K|2000|1280x960|Same as source|128|High-defintion|
+
 
 **OGG Theora Vorbis - OGV file extension**
 
@@ -671,111 +421,16 @@ Last Modified Date:
 
  -->
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e3670" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e3672" valign="top" width="NaN%"><p>Encoding Preset Name/Tooltip Text</p></th> 
-   <th class="cellrowborder" id="d19e3675" valign="top" width="NaN%"><p>Target connection speed (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3678" valign="top" width="NaN%"><p>Encoded file suffix</p></th> 
-   <th class="cellrowborder" id="d19e3681" valign="top" width="NaN%"><p>Video data rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3684" valign="top" width="NaN%"><p>Width/Height (pixels)</p></th> 
-   <th class="cellrowborder" id="d19e3687" valign="top" width="NaN%"><p>Fps</p></th> 
-   <th class="cellrowborder" id="d19e3690" valign="top" width="NaN%"><p>Audio bit rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3693" valign="top" width="NaN%"><p>Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>16:9, 480x270 (400 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_480x270_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>480x270</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>Low widescreen resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>16:9, 640x360 (800 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_640x360_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>640x360</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>Medium widescreen resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>16:9, 800x450 (1200 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_800x450_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>800x450</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>Medium-high resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>4</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>16:9, 1280x720 (2000 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>3.0 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_1280x720_2000K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>2000</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>1280x720</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>High-definition, widescreen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>5</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>4:3, 320x240 (400 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_320X240_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>320x240</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>Low resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>6</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>4:3, 480x360 (800 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_480x360_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>480x360</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>Medium resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>7</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>4:3, 640x480 (1200 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_640x480_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>640x480</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>Medium-high resolution</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3670 " valign="top" width="NaN%"><p>8</p></td> 
-   <td class="cellrowborder" headers="d19e3672 " valign="top" width="NaN%"><p>4:3, 1280x960 (2000 Kbps), OGG</p></td> 
-   <td class="cellrowborder" headers="d19e3675 " valign="top" width="NaN%"><p>3.0 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3678 " valign="top" width="NaN%"><p>_OGG_1280x960_2000K</p></td> 
-   <td class="cellrowborder" headers="d19e3681 " valign="top" width="NaN%"><p>2000</p></td> 
-   <td class="cellrowborder" headers="d19e3684 " valign="top" width="NaN%"><p>1280x960</p></td> 
-   <td class="cellrowborder" headers="d19e3687 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3690 " valign="top" width="NaN%"><p>128</p></td> 
-   <td class="cellrowborder" headers="d19e3693 " valign="top" width="NaN%"><p>High-defintion</p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (Kbps)|Recommendations|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|1|16:9, 480x270 (400 Kbps), OGG|500|_OGG_480x270_400K|400|480x270|Same as source|64|Low widescreen resolution|
+|2|16:9, 640x360 (800 Kbps), OGG|900|_OGG_640x360_800K|800|640x360|Same as source|80|Medium widescreen resolution|
+|3|16:9, 800x450 (1200 Kbps), OGG|1.5 Mbps|_OGG_800x450_1200K|1200|800x450|Same as source|96|Medium-high resolution|
+|4|16:9, 1280x720 (2000 Kbps), OGG|3.0 Mbps|_OGG_1280x720_2000K|2000|1280x720|Same as source|128|High-definition, widescreen|
+|5|4:3, 320x240 (400 Kbps), OGG|500|_OGG_320X240_400K|400|320x240|Same as source|64|Low resolution|
+|6|4:3, 480x360 (800 Kbps), OGG|900|_OGG_480x360_800K|800|480x360|Same as source|80|Medium resolution|
+|7|4:3, 640x480 (1200 Kbps), OGG|1.5 Mbps|_OGG_640x480_1200K|1200|640x480|Same as source|96|Medium-high resolution|
+|8|4:3, 1280x960 (2000 Kbps), OGG|3.0 Mbps|_OGG_1280x960_2000K|2000|1280x960|Same as source|128|High-defintion|
 
 ### Mobile video encoding presets {#mobile-video-encoding-presets}
 
@@ -785,269 +440,19 @@ For information about encoding options parameters, see [About the encoding prese
 
 **H264 Baseline 2.1 - Audio AAC, MP4 file extension**
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" id="WSac64270ea1b22722-107e390916129c79406-7fa6" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e3952" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e3954" valign="top" width="NaN%"><p>Encoding Preset Name/Tooltip Text</p></th> 
-   <th class="cellrowborder" id="d19e3957" valign="top" width="NaN%"><p>Target Connection Speed (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3960" valign="top" width="NaN%"><p>Encoded file suffix</p></th> 
-   <th class="cellrowborder" id="d19e3963" valign="top" width="NaN%"><p>Video bit rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3966" valign="top" width="NaN%"><p>Pixel Width/Height</p></th> 
-   <th class="cellrowborder" id="d19e3969" valign="top" width="NaN%"><p>Fps</p></th> 
-   <th class="cellrowborder" id="d19e3972" valign="top" width="NaN%"><p>Audio bit rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e3975" valign="top" width="NaN%"><p>Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (400 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_512x288_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>Low resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (600 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>700</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_512x288_600K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>600</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>64 </p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>Medium resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (800 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_512x288_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>Medium resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>4</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (1000 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>1.2 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_512x288_1000K </p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>1000</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>High resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>5</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>16:9, 512x288, Mobile (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_512x288_1200K </p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>512x288 </p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>High resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>6</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>4:3, 384x288, Mobile (400 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_384x288_400K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>384x288 </p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>Low resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>7</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>4:3, 384x288, Mobile (600 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>700</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_384x288_600K </p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>600</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>384x288</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>Medium resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>8</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>4:3, 448x336, Mobile (800 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_448x336_800K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>448x336</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source </p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>Medium resolution, Wi-Fi</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>9</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>4:3, 448x336, Mobile (1000 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>1.2 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_448x336_1000K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>1000</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>448x336</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>High resolution, Wi-Fi</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e3952 " valign="top" width="NaN%"><p>10</p></td> 
-   <td class="cellrowborder" headers="d19e3954 " valign="top" width="NaN%"><p>4:3, 448x336, Mobile (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e3957 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e3960 " valign="top" width="NaN%"><p>_Mobile_448x336_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e3963 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e3966 " valign="top" width="NaN%"><p>448x336</p></td> 
-   <td class="cellrowborder" headers="d19e3969 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e3972 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e3975 " valign="top" width="NaN%"><p>High resolution, Wi-Fi</p></td> 
-  </tr> 
- </tbody> 
-</table>
+||Encoding Preset Name/Tooltip Text|Target Connection Speed (Kbps)|Encoded file suffix|Video bit rate (Kbps)|Pixel Width/Height|Fps|Audio bit rate (Kbps)|Recommendations|
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|1|16:9, 512x288, Mobile (400 Kbps)|500|_Mobile_512x288_400K|400|512x288|Same as source|64|Low resolution, 3G|
+|2|16:9, 512x288, Mobile (600 Kbps)|700|_Mobile_512x288_600K|600|512x288|Same as source|64|Medium resolution, 3G|
+|3|16:9, 512x288, Mobile (800 Kbps)|900|_Mobile_512x288_800K|800|512x288|Same as source|80|Medium resolution, Wi-Fi|
+|4|16:9, 512x288, Mobile (1000 Kbps)|1.2 Mbps|_Mobile_512x288_1000K|1000|512x288|Same as source|80|High resolution, Wi-Fi|
+|5|16:9, 512x288, Mobile (1200 Kbps)|1.5 Mbps|_Mobile_512x288_1200K|1200|512x288|Same as source|96|High resolution, Wi-Fi|
+|6|4:3, 384x288, Mobile (400 Kbps)|500|_Mobile_384x288_400K|400|384x288|Same as source|64|Low resolution, 3G|
+|7|4:3, 384x288, Mobile (600 Kbps)|700|_Mobile_384x288_600K|600|384x288|Same as source|64|Medium resolution, 3G|
+|8|4:3, 448x336, Mobile (800 Kbps)|900|_Mobile_448x336_800K|800|448x336|Same as source|80|Medium resolution, Wi-Fi|
+|9|4:3, 448x336, Mobile (1000 Kbps)|1.2 Mbps|_Mobile_448x336_1000K|1000|448x336|Same as source|80|High resolution, Wi-Fi|
+|10|4:3, 448x336, Mobile (1200 Kbps)|1.5 Mbps|_Mobile_448x336_1200K|1200|448x336|Same as source|96|High resolution, Wi-Fi|
 
-### Tablet video encoding presets {#tablet-video-encoding-presets}
-
-Same as source fps. Video encoding presets for iPad, and Android tablet devices.
-
-For information about encoding options parameters, see [About the encoding preset options](application-setup.md#about_encoding_preset_options)
-
-**H264 Main 3.1 - Audio HE-AACv1, MP4 file extension**
-
-<table border="1" cellpadding="4" cellspacing="0" frame="border" id="WSac64270ea1b22722-107e390916129c79406-7fa3" rules="rows" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e4289" valign="top" width="NaN%"><p></p></th> 
-   <th class="cellrowborder" id="d19e4291" valign="top" width="NaN%"><p>Encoding Preset Name/Tooltip Text</p></th> 
-   <th class="cellrowborder" id="d19e4294" valign="top" width="NaN%"><p>Target Connection Speed (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e4297" valign="top" width="NaN%"><p>Encoded file suffix</p></th> 
-   <th class="cellrowborder" id="d19e4300" valign="top" width="NaN%"><p>Video bit rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e4303" valign="top" width="NaN%"><p>Pixel Width/Height</p></th> 
-   <th class="cellrowborder" id="d19e4306" valign="top" width="NaN%"><p>Fps</p></th> 
-   <th class="cellrowborder" id="d19e4309" valign="top" width="NaN%"><p>Audio bit rate (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e4312" valign="top" width="NaN%"><p>Recommendations</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>16:9, 512x288, iPad (400 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_512x288_400K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p> Low resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>16:9, 512x288, iPad (600 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>700</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_512x288_600K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>600</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>512x288</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>Medium resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>16:9, 640x360, iPad (800 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_640x360_800K </p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>640x360</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>Medium resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>4</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>16:9, 640x360, iPad (1000 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>1.2 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_640x360_1000K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>1000</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>640x360</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>High resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>5</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>16:9, 768x432, iPad (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_768x432_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>768x432</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>High resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>6</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>4:3, 384x288, iPad (400 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>500</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_384x288_400K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>400</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>384x288</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>Low resolution, 3G </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>7</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>4:3, 512x384, iPad (600 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>700</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_512x384_600K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>600</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>512x384</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>64</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>Medium resolution, 3G</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>8</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>4:3, 640x480, iPad (800 Kbps) </p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>900</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_640x480_800K </p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>640x480</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>Medium resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>9</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>4:3, 640x480, iPad (1000 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>1.2 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_640x480_1000K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>1000</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>640x480</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>80</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>High resolution, Wi-Fi </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e4289 " valign="top" width="NaN%"><p>10</p></td> 
-   <td class="cellrowborder" headers="d19e4291 " valign="top" width="NaN%"><p>4:3, 768x576, iPad (1200 Kbps)</p></td> 
-   <td class="cellrowborder" headers="d19e4294 " valign="top" width="NaN%"><p>1.5 Mbps</p></td> 
-   <td class="cellrowborder" headers="d19e4297 " valign="top" width="NaN%"><p>_iPad_768x576_1200K</p></td> 
-   <td class="cellrowborder" headers="d19e4300 " valign="top" width="NaN%"><p>1200</p></td> 
-   <td class="cellrowborder" headers="d19e4303 " valign="top" width="NaN%"><p>768x576</p></td> 
-   <td class="cellrowborder" headers="d19e4306 " valign="top" width="NaN%"><p>Same as source</p></td> 
-   <td class="cellrowborder" headers="d19e4309 " valign="top" width="NaN%"><p>96</p></td> 
-   <td class="cellrowborder" headers="d19e4312 " valign="top" width="NaN%"><p>High resolution, Wi-Fi </p></td> 
-  </tr> 
- </tbody> 
-</table>
 
 ## Viewer Presets {#viewer-presets}
 
@@ -1113,7 +518,7 @@ For information about supported web browser and operating system versions for Vi
 
 See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e4761" valign="top" width="NaN%"><p></p></th> 
@@ -1168,7 +573,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </tbody> 
 </table>
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e4906" valign="top" width="NaN%"><p></p></th> 
@@ -1214,7 +619,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </tbody> 
 </table>
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e5024" valign="top" width="NaN%"><p></p></th> 
@@ -1260,7 +665,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </tbody> 
 </table>
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e5142" valign="top" width="NaN%"><p></p></th> 
@@ -1297,7 +702,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </tbody> 
 </table>
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e5237" valign="top" width="NaN%"><p></p></th> 
@@ -1334,7 +739,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </tbody> 
 </table>
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e5331" valign="top" width="NaN%"><p></p></th> 
@@ -1377,7 +782,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
  </tbody> 
 </table>
 
-<table cellpadding="4" cellspacing="0"> 
+<table> 
  <thead align="left"> 
   <tr> 
    <th class="cellrowborder" id="d19e5464" valign="top" width="NaN%"><p></p></th> 
