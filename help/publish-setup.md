@@ -7,14 +7,13 @@ uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: cba59093-28b6-4490-b838-d942b72ad1ec
 index: y
 internal: n
 snippet: y
 ---
 
-# Publish Setup{#publish-setup}
+# Publish Setup {#publish-setup}
 
 The Publish Setup screen settings determine how assets are delivered by default from Scene7 servers to web sites or applications. If no setting is specified, the Scene7 server delivers an asset according to a default setting on a Publish Setup screen. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server screen.
 
@@ -50,7 +49,8 @@ Change these settings only with the assistance of a Scene7 support person.
 
 For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language you want.
 
-***note**: To set up Localization Support options, contact Adobe Scene7 Technical Support or send an email to s7support@adobe.com requesting setup help.*
+>[!NOTE]
+> To set up Localization Support options, contact Adobe Scene7 Technical Support or send an email to s7support@adobe.com requesting setup help.
 
 For more information about setting up **Localization Support**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -88,28 +88,11 @@ Some of the benefits of using `locale=` and `attribute::DefaultLocale` include t
 
 **Application scenarios**
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7281" valign="top" width="NaN%"><p>Application</p></th> 
-   <th class="cellrowborder" id="d19e7284" valign="top" width="NaN%"><p>Scenario</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7281 " valign="top" width="NaN%"><p>Viewer localization</p></td> 
-   <td class="cellrowborder" headers="d19e7284 " valign="top" width="NaN%"><p>After static content catalogs are implemented, localization is controlled entirely with the <span class="code">locale=</span> parameter, appended to all requests that are made to IS. Configuration records, skins, splash screens, and so on, can have locale-specific variants or not. The correct contents is provided by IS without the viewer needing to know which contents is localized and what its IDs are.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7281 " valign="top" width="NaN%"><p>Images and video</p></td> 
-   <td class="cellrowborder" headers="d19e7284 " valign="top" width="NaN%"><p>Multi-national companies often have a mix of generic and locale-specific contents. With this mechanism, a reference to an image or video can be generic, and IS serves up the locale-specific contents if it is available.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7281 " valign="top" width="NaN%"><p>Image sets and Media sets</p></td> 
-   <td class="cellrowborder" headers="d19e7284 " valign="top" width="NaN%"><p>The entire image set can be different for some locales--such as when an eCatalog is completely different--with the translation from a generic to a locale-specific image set handled by the viewer.</p><p>More commonly, individual IDs in a generic set may refer to localized contents. For example, most photos of an appliance can be the same in all languages, except the photo of the control panel. IS automatically translate IDs, so there is no need to generate locale-specific image sets.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Application|Scenario|
+|--- |--- |
+|Viewer localization|After static content catalogs are implemented, localization is controlled entirely with the locale= parameter, appended to all requests that are made to IS. Configuration records, skins, splash screens, and so on, can have locale-specific variants or not. The correct contents is provided by IS without the viewer needing to know which contents is localized and what its IDs are.|
+|Images and video|Multi-national companies often have a mix of generic and locale-specific contents. With this mechanism, a reference to an image or video can be generic, and IS serves up the locale-specific contents if it is available.|
+|Image sets and Media sets|The entire image set can be different for some locales--such as when an eCatalog is completely different--with the translation from a generic to a locale-specific image set handled by the viewer.More commonly, individual IDs in a generic set may refer to localized contents. For example, most photos of an appliance can be the same in all languages, except the photo of the control panel. IS automatically translate IDs, so there is no need to generate locale-specific image sets.|
 
 **Implementing asset localization**
 
@@ -137,41 +120,15 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 **Suffix example**
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7390" valign="top" width="NaN%"><p>URL</p></th> 
-   <th class="cellrowborder" id="d19e7393" valign="top" width="NaN%"><p>localeMap IDs</p></th> 
-   <th class="cellrowborder" id="d19e7396" valign="top" width="NaN%"><p>Result</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7390 " valign="top" width="NaN%"><p><span class="code">https://server/is/image/company/image?locale=de_DE</span></p></td> 
-   <td class="cellrowborder" headers="d19e7393 " valign="top" width="NaN%"><p><span class="code">de_DE,_DE,|fr_FR,_FR,</span></p></td> 
-   <td class="cellrowborder" headers="d19e7396 " valign="top" width="NaN%"><p>Notice that there is no GlobalLocale defined. The locale parameter <span class="code">de_DE</span> is matched against the first entry in the localeMap. The first corresponding value <span class="code">_DE</span> is added as a suffix to the asset <span class="code">image_DE</span> and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value “” is used as a suffix, resulting in the image itself being returned.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL|localeMap IDs|Result|
+|--- |--- |--- |
+|`https://server/is/image/company/image?locale=de_DE`|`de_DE,_DE,|fr_FR,_FR,`|Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the localeMap. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value “” is used as a suffix, resulting in the image itself being returned.|
 
 **Replacement example**
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7431" valign="top" width="NaN%"><p>URL</p></th> 
-   <th class="cellrowborder" id="d19e7434" valign="top" width="NaN%"><p>GlobalLocale and localeMap IDs</p></th> 
-   <th class="cellrowborder" id="d19e7437" valign="top" width="NaN%"><p>Result</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7431 " valign="top" width="NaN%"><p><span class="code">https://server/is/image/company/image-main-01?locale=de_DE</span></p></td> 
-   <td class="cellrowborder" headers="d19e7434 " valign="top" width="NaN%"><p><span class="code">GlobalLocale=main</span></p><p><span class="code">localeMap - de_DE,de,main|fr_FR,fr,main</span></p></td> 
-   <td class="cellrowborder" headers="d19e7437 " valign="top" width="NaN%"><p>In the replacement example above, GlobalLocale is set to <span class="code">main</span>. The locale parameter <span class="code">de_DE</span> is matched against the first entry in the localeMap. The GlobalLocale substring is found and replaced with the first corresponding value de in the localeMap: <span class="code">image-de-01</span>. If it is found on the Image Server, it is returned. If not, the second value is replaced, resulting in <span class="code">image-main-01</span>.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL|GlobalLocale and localeMap IDs|Result|
+|--- |--- |--- |
+|`https://server/is/image/company/image-main-01?locale=de_DE`|`GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main`|In the replacement example above, GlobalLocale is set to main. The locale parameter de_DE is matched against the first entry in the localeMap. The GlobalLocale substring is found and replaced with the first corresponding value de in the localeMap: image-de-01. If it is found on the Image Server, it is returned. If not, the second value is replaced, resulting in image-main-01.|
 
 If no locale is defined in the URL, the Image Server takes the DefaultLocale, if it is defined, and applies it to the URL.
 
@@ -195,32 +152,12 @@ The locale IDs are mapped to their corresponding suffixes. If no locale-specific
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,`
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7517" valign="top" width="NaN%"><p>locale=</p></th> 
-   <th class="cellrowborder" id="d19e7520" valign="top" width="NaN%"><p>Output IDs to search</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7517 " valign="top" width="NaN%"><p><span class="code">en,en_us, en_uk</span></p></td> 
-   <td class="cellrowborder" headers="d19e7520 " valign="top" width="NaN%"><p><span class="code">myImg_E, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7517 " valign="top" width="NaN%"><p><span class="code">de,de_de,de_at</span></p></td> 
-   <td class="cellrowborder" headers="d19e7520 " valign="top" width="NaN%"><p><span class="code">myImg_D, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7517 " valign="top" width="NaN%"><p><span class="code">fr</span></p></td> 
-   <td class="cellrowborder" headers="d19e7520 " valign="top" width="NaN%"><p><span class="code">myImg_F, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7517 " valign="top" width="NaN%"><p>All others</p></td> 
-   <td class="cellrowborder" headers="d19e7520 " valign="top" width="NaN%"><p>-</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|locale=|Output IDs to search|
+|--- |--- |
+|en,en_us, en_uk|myImg_E, myImg|
+|de,de_de,de_at|myImg_D, myImg|
+|fr|myImg_F, myImg|
+|All others|-|
 
 *Finding the localeMap when the locale is unknown*
 
@@ -228,28 +165,11 @@ You can map unknown locales to specific IDs or to generic IDs. For our example, 
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,_E,`
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7573" valign="top" width="NaN%"><p>locale=</p></th> 
-   <th class="cellrowborder" id="d19e7576" valign="top" width="NaN%"><p>Output IDs to search</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7573 " valign="top" width="NaN%"><p><span class="code">de,de_de,de_at</span></p></td> 
-   <td class="cellrowborder" headers="d19e7576 " valign="top" width="NaN%"><p><span class="code">myImg_D,myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7573 " valign="top" width="NaN%"><p><span class="code">fr</span></p></td> 
-   <td class="cellrowborder" headers="d19e7576 " valign="top" width="NaN%"><p><span class="code">myImg_F,myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7573 " valign="top" width="NaN%"><p>All others</p></td> 
-   <td class="cellrowborder" headers="d19e7576 " valign="top" width="NaN%"><p><span class="code">myImg_E,myImg</span></p></td> 
-  </tr> 
- </tbody> 
-</table>
+|locale=|Output IDs to search|
+|--- |--- |
+|de,de_de,de_at|myImg_D,myImg|
+|fr|myImg_F,myImg|
+|All others|myImg_E,myImg|
 
 You could also have a dedicated locSuffix, such as U, just for unknown locales, and force to the default image if no `_U` exists, as in the following:
 
@@ -267,36 +187,13 @@ For this example, suppose you want to support collections for Western and Middle
 
 `attribute::LocaleMap=w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7652" valign="top" width="NaN%"><p>locale=</p></th> 
-   <th class="cellrowborder" id="d19e7655" valign="top" width="NaN%"><p>Output IDs to search</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7652 " valign="top" width="NaN%"><p><span class="code">w1, w3</span></p></td> 
-   <td class="cellrowborder" headers="d19e7655 " valign="top" width="NaN%"><p><span class="code">myImg-W, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7652 " valign="top" width="NaN%"><p><span class="code">w2</span></p></td> 
-   <td class="cellrowborder" headers="d19e7655 " valign="top" width="NaN%"><p><span class="code">myImg-W2, myImg-W, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7652 " valign="top" width="NaN%"><p><span class="code">m1</span></p></td> 
-   <td class="cellrowborder" headers="d19e7655 " valign="top" width="NaN%"><p><span class="code">myImg-M1, myImg-M, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7652 " valign="top" width="NaN%"><p><span class="code">m2</span></p></td> 
-   <td class="cellrowborder" headers="d19e7655 " valign="top" width="NaN%"><p><span class="code">myImg-M2, myImg-M, myImg</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7652 " valign="top" width="NaN%"><p><span class="code">All others</span></p></td> 
-   <td class="cellrowborder" headers="d19e7655 " valign="top" width="NaN%"><p><span class="code">mylmg</span></p></td> 
-  </tr> 
- </tbody> 
-</table>
+|locale=|Output IDs to search|
+|--- |--- |
+|w1, w3|myImg-W, myImg|
+|w2|myImg-W2, myImg-W, myImg|
+|m1|myImg-M1, myImg-M, myImg|
+|m2|myImg-M2, myImg-M, myImg|
+|All others|mylmg|
 
 *Finding the localeMap by searching for specific IDs*
 
@@ -306,28 +203,11 @@ Using the first example as a basis, images for all languages may have the suffix
 
 `attribute::LocaleMap=,_1,_2,_3|fr,_22,_23,_1,_2,_3|de,_470,_480,_1,_2,_3|de_at,_470,_480,_1,_2,_3|de_de,_470,_480,_1,_2,_3`
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e7744" valign="top" width="NaN%"><p>locale=</p></th> 
-   <th class="cellrowborder" id="d19e7747" valign="top" width="NaN%"><p>Output IDs to search</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7744 " valign="top" width="NaN%"><p><span class="code">fr</span></p></td> 
-   <td class="cellrowborder" headers="d19e7747 " valign="top" width="NaN%"><p>myImg_22, myImg_23, myImg_1, myImg_2, myImg_3</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7744 " valign="top" width="NaN%"><p><span class="code">de, de_at, de_de</span></p></td> 
-   <td class="cellrowborder" headers="d19e7747 " valign="top" width="NaN%"><p>myImg_470, myImg_480, myImg_1, myImg_2,myImg_3</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e7744 " valign="top" width="NaN%"><p>All others</p></td> 
-   <td class="cellrowborder" headers="d19e7747 " valign="top" width="NaN%"><p>myImg_1, myImg_2, myImg_3</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|locale=|Output IDs to search|
+|--- |--- |
+|fr|myImg_22, myImg_23, myImg_1, myImg_2, myImg_3|
+|de, de_at, de_de|myImg_470, myImg_480, myImg_1, myImg_2,myImg_3|
+|All others|myImg_1, myImg_2, myImg_3|
 
 **Important considerations when implementing localization support**
 

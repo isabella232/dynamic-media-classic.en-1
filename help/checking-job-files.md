@@ -110,114 +110,29 @@ The following tables and list explain how to describe a time interval in the Rul
 
 This table shows the time increments, their allowed values, and the wildcards they support:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e12012" valign="top" width="NaN%"><p>Time increments</p></th> 
-   <th class="cellrowborder" id="d19e12015" valign="top" width="NaN%"><p>Values allowed</p></th> 
-   <th class="cellrowborder" id="d19e12018" valign="top" width="NaN%"><p>Comments</p></th> 
-   <th class="cellrowborder" id="d19e12021" valign="top" width="NaN%"><p>Wildcards supported</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Seconds</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>0-59</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Minutes</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>0-59</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Hours</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>0-23</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p>Note the use of a 24-hour clock.</p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Day of the month</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>1-31</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p>You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.</p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / ? L C</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Month</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p>Values are case sensitive. </p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Day of the week</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>Mon, Tue, Wed, Thu, Fri, Sat, Sun</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p>Values are case sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.</p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / ? L C #</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12012 " valign="top" width="NaN%"><p>Year (optional)</p></td> 
-   <td class="cellrowborder" headers="d19e12015 " valign="top" width="NaN%"><p>Empty or 1970-2099</p></td> 
-   <td class="cellrowborder" headers="d19e12018 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e12021 " valign="top" width="NaN%"><p>, - * / </p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Time increments|Values allowed|Comments|Wildcards supported|
+|--- |--- |--- |--- |
+|Seconds|0-59||, - * /|
+|Minutes|0-59||, - * /|
+|Hours|0-23|Note the use of a 24-hour clock.|, - * /|
+|Day of the month|1-31|You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.|, - * / ? L C|
+|Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case sensitive.|, - * /|
+|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.|, - * / ? L C #|
+|Year (optional)|Empty or 1970-2099||, - * /|
+
 
 This table describes the wildcard characters that are allowed in the Rule box and how to use them:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e12122" valign="top" width="NaN%"><p>Wildcard character</p></th> 
-   <th class="cellrowborder" id="d19e12125" valign="top" width="NaN%"><p>Name</p></th> 
-   <th class="cellrowborder" id="d19e12128" valign="top" width="NaN%"><p>What it describes</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>*</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Asterisk</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>All values (for example, “every minute”).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>?</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Question mark</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>No specific value (for example, “any minute within the specified hour”).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>,</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Comma</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>Additional values (for example, “Monday and Wednesday”).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>-</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Hyphen</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>Range of values (for example, “Monday through Friday”).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>/</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Forward slash</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>Increments (for example, “every 15 minutes”).</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>L</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Capital L</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>Last “day of the month” or “day of the week” (available for these fields only). For example, if the month is January, an L value for the “day of the month” field schedules the job for January 31.</p><p>For the “day of the week” field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, 6L) to specify the last Friday of the month.</p><p>Do not specify L with the comma or hyphen wildcards.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>#</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p>Number sign</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>“Nth” weekday of the month (available for the “day of the week” field only).</p><p>For example, 6#3 in the “day of the week” field specifies the third Friday of the month. The 6 denotes “Friday” (the sixth day of the week) and the 3 denotes the third occurrence in the month.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e12122 " valign="top" width="NaN%"><p>C</p></td> 
-   <td class="cellrowborder" headers="d19e12125 " valign="top" width="NaN%"><p># Capital C</p></td> 
-   <td class="cellrowborder" headers="d19e12128 " valign="top" width="NaN%"><p>First calendar “day of the month” or “day of the week” (available for these fields only). For example, specifying a value of 1C for “day of the month” schedules the first day in the calendar that occurs on or after the fifth.</p><p>For the “day of the week” field, specifying 1C schedules the first day in the calendar that occurs on or after Sunday</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Wildcard character|Name|What it describes|
+|--- |--- |--- |
+|*|Asterisk|All values (for example, “every minute”).|
+|?|Question mark|No specific value (for example, “any minute within the specified hour”).|
+|,|Comma|Additional values (for example, “Monday and Wednesday”).|
+|-|Hyphen|Range of values (for example, “Monday through Friday”).|
+|/|Forward slash|Increments (for example, “every 15 minutes”).|
+|L|Capital L|Last “day of the month” or “day of the week” (available for these fields only). For example, if the month is January, an L value for the “day of the month” field schedules the job for January 31.For the “day of the week” field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, 6L) to specify the last Friday of the month.Do not specify L with the comma or hyphen wildcards.|
+|#|Number sign|“Nth” weekday of the month (available for the “day of the week” field only).For example, 6#3 in the “day of the week” field specifies the third Friday of the month. The 6 denotes “Friday” (the sixth day of the week) and the 3 denotes the third occurrence in the month.|
+|C|# Capital C|First calendar “day of the month” or “day of the week” (available for these fields only). For example, specifying a value of 1C for “day of the month” schedules the first day in the calendar that occurs on or after the fifth.For the “day of the week” field, specifying 1C schedules the first day in the calendar that occurs on or after Sunday|
 
 This list gives examples of describing time intervals in the Rule box:
 
