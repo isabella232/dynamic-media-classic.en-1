@@ -52,47 +52,12 @@ You can create your own Image Presets if you are a company administrator. You ca
 
    **Unsharp Masking (USM) options** Enter the settings shown here:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e14523" valign="top" width="NaN%"><p>Preset type</p></th> 
-   <th class="cellrowborder" id="d19e14526" valign="top" width="NaN%"><p>Size</p></th> 
-   <th class="cellrowborder" id="d19e14529" valign="top" width="NaN%"><p>USM: Amount</p></th> 
-   <th class="cellrowborder" id="d19e14532" valign="top" width="NaN%"><p>USM: Radius</p></th> 
-   <th class="cellrowborder" id="d19e14535" valign="top" width="NaN%"><p>USM: Threshold</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e14523 " valign="top" width="NaN%"><p>Cross-Sell (mini-thumbnail)</p></td> 
-   <td class="cellrowborder" headers="d19e14526 " valign="top" width="NaN%"><p>75 x 75</p></td> 
-   <td class="cellrowborder" headers="d19e14529 " valign="top" width="NaN%"><p>1.5</p></td> 
-   <td class="cellrowborder" headers="d19e14532 " valign="top" width="NaN%"><p>0.8</p></td> 
-   <td class="cellrowborder" headers="d19e14535 " valign="top" width="NaN%"><p>5</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e14523 " valign="top" width="NaN%"><p>Thumbnail</p></td> 
-   <td class="cellrowborder" headers="d19e14526 " valign="top" width="NaN%"><p>150 x 150</p></td> 
-   <td class="cellrowborder" headers="d19e14529 " valign="top" width="NaN%"><p>1.1</p></td> 
-   <td class="cellrowborder" headers="d19e14532 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e14535 " valign="top" width="NaN%"><p>5</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e14523 " valign="top" width="NaN%"><p>Main</p></td> 
-   <td class="cellrowborder" headers="d19e14526 " valign="top" width="NaN%"><p>350 x 350</p></td> 
-   <td class="cellrowborder" headers="d19e14529 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e14532 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e14535 " valign="top" width="NaN%"><p>6</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e14523 " valign="top" width="NaN%"><p>Enlarge</p></td> 
-   <td class="cellrowborder" headers="d19e14526 " valign="top" width="NaN%"><p>500 x 500</p></td> 
-   <td class="cellrowborder" headers="d19e14529 " valign="top" width="NaN%"><p>1.2</p></td> 
-   <td class="cellrowborder" headers="d19e14532 " valign="top" width="NaN%"><p>1.2</p></td> 
-   <td class="cellrowborder" headers="d19e14535 " valign="top" width="NaN%"><p>5</p></td> 
-  </tr> 
- </tbody> 
-</table>
+    |Preset type|Size|USM: Amount|USM: Radius|USM: Threshold|
+    |--- |--- |--- |--- |--- |
+    |Cross-Sell (mini-thumbnail)|75 x 75|1.5|0.8|5|
+    |Thumbnail|150 x 150|1.1|1|5|
+    |Main|350 x 350|1|1|6|
+    |Enlarge|500 x 500|1.2|1.2|5|
 
 1. Click **Save**.
 

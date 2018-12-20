@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# Sharpening an image{#sharpening-an-image}
+# Sharpening an image {#sharpening-an-image}
 
 Sharpening is an image-manipulation technique for making the outlines of a digital image look more distinct. Sharpening increases the contrast between edge pixels and emphasizes the transition between dark and light areas. Sharpening increases local contrast and brings out fine detail. There is no strict formula for correctly sharpening all images. Too little sharpening can make for a soft image, but over-sharpening adds halos, artifacts, and noise.
 
@@ -50,36 +50,11 @@ To sharpen an image, click its rollover **Edit** button and choose Sharpen, or o
 
 The following table shows the Image Server sharpening options.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" id="WS77bcfb314d2978e71e03f6841611f94f84d-7f92" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e29738" valign="top" width="NaN%"><p>Name</p></th> 
-   <th class="cellrowborder" id="d19e29741" valign="top" width="NaN%"><p>URL Protocol</p></th> 
-   <th class="cellrowborder" id="d19e29744" valign="top" width="NaN%"><p>Values</p></th> 
-   <th class="cellrowborder" id="d19e29747" valign="top" width="NaN%"><p>Example</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e29738 " valign="top" width="NaN%"><p>Simple Sharpening</p></td> 
-   <td class="cellrowborder" headers="d19e29741 " valign="top" width="NaN%"><p><span class="code">op_sharpen</span></p></td> 
-   <td class="cellrowborder" headers="d19e29744 " valign="top" width="NaN%"><p><span class="code">0 | 1</span></p></td> 
-   <td class="cellrowborder" headers="d19e29747 " valign="top" width="NaN%"><p><span class="code">op_sharpen=1</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e29738 " valign="top" width="NaN%"><p>Resample Mode</p></td> 
-   <td class="cellrowborder" headers="d19e29741 " valign="top" width="NaN%"><p><span class="code">resMode</span></p></td> 
-   <td class="cellrowborder" headers="d19e29744 " valign="top" width="NaN%"><p><span class="code">bilin | bicub | sharp2 | trilin</span></p><p><span class="code">bilin</span>: Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts may be noticeable.</p><p><span class="code">bicub</span>: Selects bi-cubic interpolation. More CPU-intensive than <span class="code">bilin</span>, but yields sharper images with less noticeable aliasing artifacts.</p><p><span class="code">sharp2</span>: Selects a modified Lanczos Window function as an interpolation algorithm. May produce slightly sharper results than bi-cubic at a higher CPU cost.</p><p><span class="code">trilin</span>: Selects a modified trilinear interpolation, which uses both higher and lower resolutions, if available. Recommended only when aliasing is an issue. Reduces JPEG sizes due to reduced high frequency data.</p></td> 
-   <td class="cellrowborder" headers="d19e29747 " valign="top" width="NaN%"><p><span class="code">resMode=sharp2</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e29738 " valign="top" width="NaN%"><p>Unsharp Mask</p></td> 
-   <td class="cellrowborder" headers="d19e29741 " valign="top" width="NaN%"><p><span class="code">op_usm</span></p></td> 
-   <td class="cellrowborder" headers="d19e29744 " valign="top" width="NaN%"><p>amount, radius, threshold, monochrome</p><p>amount: filter strength factor (real 0…5)</p><p>radius: filter kernel radius in pixels (real 0…250) </p><p>threshold: filter threshold level (int 0…255)</p><p>monochrome: set to 0 to unsharp-mask each color component separately, set to 1 to unsharp-mask image brightness (intensity)</p></td> 
-   <td class="cellrowborder" headers="d19e29747 " valign="top" width="NaN%"><p><span class="code">op_usm=1,1,10,0</span></p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Name|URL Protocol|Values|Example|
+|--- |--- |--- |--- |
+|Simple Sharpening|op_sharpen|`0 | 1`|op_sharpen=1|
+|Resample Mode|resMode|`bilin | bicub | sharp2 | trilin`<br><br>bilin: Selects standard bi-linear interpolation. Fastest resampling method; some aliasing artifacts may be noticeable.<br>bicub: Selects bi-cubic interpolation. More CPU-intensive than bilin, but yields sharper images with less noticeable aliasing artifacts.<br><br>sharp2: Selects a modified Lanczos Window function as an interpolation algorithm. May produce slightly sharper results than bi-cubic at a higher CPU cost.<br><br>trilin: Selects a modified trilinear interpolation, which uses both higher and lower resolutions, if available. Recommended only when aliasing is an issue. Reduces JPEG sizes due to reduced high frequency data.|resMode=sharp2|
+|Unsharp Mask|op_usm|amount, radius, threshold, monochrome<br><br>amount: filter strength factor (real 0…5)<br><br>radius: filter kernel radius in pixels (real 0…250) <br><br>threshold: filter threshold level (int 0…255)<br><br>monochrome: set to 0 to unsharp-mask each color component separately, set to 1 to unsharp-mask image brightness (intensity)|op_usm=1,1,10,0|
 
 Select the Sharpening menu and choose an option:
 

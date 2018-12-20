@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# System requirements{#system-requirements}
+# Media Portal system requirements {#system-requirements}
 
 For the best experience using Scene7 Media Portal, make sure that your system meets the following system requirements and recommendations:
 
