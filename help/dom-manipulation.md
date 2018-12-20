@@ -89,20 +89,9 @@ A *text overflow indicator* shows when text exceeds the space allocated for it i
 
 Text overflow indicators are controlled with the `markOverflowingTextFrame` modifier. Use the modifier as follows:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e21772" valign="top" width="NaN%"><p>Modifier/Values</p></th> 
-   <th class="cellrowborder" id="d19e21775" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e21772 " valign="top" width="NaN%"><p><span class="code">markOverflowingTextFrame</span>=0,1</p></td> 
-   <td class="cellrowborder" headers="d19e21775 " valign="top" width="NaN%"><p>The 1 value makes text flow indicators appear. Default is 0. (Although the default is 0, text overflow indicators in SPS are always enabled.) Note that the <span class="code">markOverflowingTextFrame</span> modifier is case-sensitive.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Modifier/Values|Description|
+|--- |--- |
+|markOverflowingTextFrame=0,1|The 1 value makes text flow indicators appear. Default is 0. (Although the default is 0, text overflow indicators in SPS are always enabled.) Note that the markOverflowingTextFrame modifier is case-sensitive.|
 
 >[!MORE_LIKE_THIS]
 >
