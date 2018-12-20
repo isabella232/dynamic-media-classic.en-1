@@ -48,8 +48,7 @@ See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#wor
 
 1. Do one of the following:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <tbody> 
+<table> 
   <tr> 
    <td class="cellrowborder" valign="top" width="NaN%"><p>If your videos are already encoded</p></td> 
    <td class="cellrowborder" valign="top" width="NaN%"> 
@@ -97,7 +96,6 @@ See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#wor
      <li><p>In the Reprocess Assets dialog box, click <strong>Submit</strong>.</p></li> 
     </ol></td> 
   </tr> 
- </tbody> 
 </table>
 
 When you use Adaptive Video encoding preset or you use multiple single encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
@@ -112,80 +110,24 @@ The following table lists video file types (with permitted video codecs) that yo
 
 **Video codecs** A video codec describes the algorithm by which a video is encoded. A video player decodes the video according to its codec and then displays a series of images, or frames, on the screen. Codecs minimize the amount of information that video files are required to store to play video. Rather than information about each individual frame, only information about the differences between one frame and the next are stored. Because most videos change little from one frame to the next, codecs allow for high compression rates, which results in smaller file sizes.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23105" valign="top" width="NaN%"><p>Video file format</p></th> 
-   <th class="cellrowborder" id="d19e23108" valign="top" width="NaN%"><p>Video codecs</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>3GP</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>H.263, H.264</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>AVI</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>DivX, DV</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>M2P</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2 PS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>M2T</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2 TS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>M2TS</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2 TS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>M2V</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2 ES</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>M4V</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>H.264</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>MOV</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>MP4</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>H.264/MPEG-4 AVC</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>MPEG</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2 SS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>MPG</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2 SS</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>MTS</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>ProRes</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>APCN , APCS, APCO, APCH, AP4H</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>TS</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>DVCPro 50</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>VOB</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>MPEG-2</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23105 " valign="top" width="NaN%"><p>WMV/ASF</p></td> 
-   <td class="cellrowborder" headers="d19e23108 " valign="top" width="NaN%"><p>VC-1, Windows Media Video 7, Windows Media Video 8</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Video file format|Video codecs|
+|:--- |:--- |
+|3GP|H.263, H.264|
+|AVI|DivX, DV|
+|M2P|MPEG-2 PS|
+|M2T|MPEG-2 TS|
+|M2TS|MPEG-2 TS|
+|M2V|MPEG-2 ES|
+|M4V|H.264|
+|MOV|DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1|
+|MP4|H.264/MPEG-4 AVC|
+|MPEG|MPEG-2 SS|
+|MPG|MPEG-2 SS|
+|MTS|MPEG-2|
+|ProRes|APCN , APCS, APCO, APCH, AP4H|
+|TS|DVCPro 50|
+|VOB|MPEG-2|
+|WMV/ASF|VC-1, Windows Media Video 7, Windows Media Video 8|
 
 >[!NOTE]
 >
@@ -206,32 +148,11 @@ When you encode a video file, use a source video file of the highest possible qu
 
 The following table describes the recommended size, aspect ratio, and minimum bit rate that your source video files should have when you encode them:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23287" valign="top" width="NaN%"><p>Size</p></th> 
-   <th class="cellrowborder" id="d19e23290" valign="top" width="NaN%"><p>Aspect ratio</p></th> 
-   <th class="cellrowborder" id="d19e23293" valign="top" width="NaN%"><p>Minimum bit rate</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23287 " valign="top" width="NaN%"><p>1024 X 768</p></td> 
-   <td class="cellrowborder" headers="d19e23290 " valign="top" width="NaN%"><p>4:3</p></td> 
-   <td class="cellrowborder" headers="d19e23293 " valign="top" width="NaN%"><p>4500 kbps for most videos.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23287 " valign="top" width="NaN%"><p>1280 X 720</p></td> 
-   <td class="cellrowborder" headers="d19e23290 " valign="top" width="NaN%"><p>16:9</p></td> 
-   <td class="cellrowborder" headers="d19e23293 " valign="top" width="NaN%"><p>3000 - 6000 kbps, depending on the amount of motion in the video.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23287 " valign="top" width="NaN%"><p>1920 X 1080</p></td> 
-   <td class="cellrowborder" headers="d19e23290 " valign="top" width="NaN%"><p>16:9</p></td> 
-   <td class="cellrowborder" headers="d19e23293 " valign="top" width="NaN%"><p>6000 - 8000 kbps, depending on the amount of motion in the video.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Size|Aspect ratio|Minimum bit rate|
+|--- |--- |--- |
+|1024 X 768|4:3|4500 kbps for most videos.|
+|1280 X 720|16:9|3000 - 6000 kbps, depending on the amount of motion in the video.|
+|1920 X 1080|16:9|6000 - 8000 kbps, depending on the amount of motion in the video.|
 
 ### Obtaining a file’s metadata {#obtaining-a-file-s-metadata}
 
@@ -251,32 +172,12 @@ width/height = aspect ratio
 
 The following table describes how formula results translate to common aspect ratio choices:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23374" valign="top" width="NaN%"><p>Formula result</p></th> 
-   <th class="cellrowborder" id="d19e23377" valign="top" width="NaN%"><p>Aspect ratio</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23374 " valign="top" width="NaN%"><p>1.33</p></td> 
-   <td class="cellrowborder" headers="d19e23377 " valign="top" width="NaN%"><p>4:3</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23374 " valign="top" width="NaN%"><p>0.75</p></td> 
-   <td class="cellrowborder" headers="d19e23377 " valign="top" width="NaN%"><p>3:4</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23374 " valign="top" width="NaN%"><p>1.78</p></td> 
-   <td class="cellrowborder" headers="d19e23377 " valign="top" width="NaN%"><p>16:9</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23374 " valign="top" width="NaN%"><p>0.56</p></td> 
-   <td class="cellrowborder" headers="d19e23377 " valign="top" width="NaN%"><p>9:16</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Formula result|Aspect ratio|
+|--- |--- |
+|1.33|4:3|
+|0.75|3:4|
+|1.78|16:9|
+|0.56|9:16|
 
 For example, a video that is 1440 width x 1080 height has an aspect ratio of 1440/1080, or 1.33. In this case you choose a video encoding preset with a 4:3 aspect ratio to encode the video file.
 
@@ -292,32 +193,12 @@ When you choose a video encoding preset, take into account the target end user�
 
 This table describes the data rate of typical connection speeds.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23437" valign="top" width="NaN%"><p>Speed (Kbps)</p></th> 
-   <th class="cellrowborder" id="d19e23440" valign="top" width="NaN%"><p>Connection type</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23437 " valign="top" width="NaN%"><p>256</p></td> 
-   <td class="cellrowborder" headers="d19e23440 " valign="top" width="NaN%"><p>Dial-up connection.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23437 " valign="top" width="NaN%"><p>800</p></td> 
-   <td class="cellrowborder" headers="d19e23440 " valign="top" width="NaN%"><p>Typical mobile connection. For this connection, target a data rate in the range of 400 to a maximum of 800 for 3G experiences.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23437 " valign="top" width="NaN%"><p>2000</p></td> 
-   <td class="cellrowborder" headers="d19e23440 " valign="top" width="NaN%"><p>Typical broadband desktop connection. For this connection, target a data rate in the 800-2000 Kbps range, with most targets averaging 1200-1500 Kbps.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23437 " valign="top" width="NaN%"><p>5000</p></td> 
-   <td class="cellrowborder" headers="d19e23440 " valign="top" width="NaN%"><p>Typical high-broadband connection. Encoding in this upper range is not recommended because video delivery at this speed is not available to most consumers. </p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Speed (Kbps)|Connection type|
+|--- |--- |
+|256|Dial-up connection.|
+|800|Typical mobile connection. For this connection, target a data rate in the range of 400 to a maximum of 800 for 3G experiences.|
+|2000|Typical broadband desktop connection. For this connection, target a data rate in the 800-2000 Kbps range, with most targets averaging 1200-1500 Kbps.|
+|5000|Typical high-broadband connection. Encoding in this upper range is not recommended because video delivery at this speed is not available to most consumers.|
 
 ### Resolution {#resolution}
 
@@ -325,24 +206,10 @@ This table describes the data rate of typical connection speeds.
 
 Resolution and data rate are two integrally linked factors that determine video quality. To maintain the same video quality, the higher the number of pixels in a video file (the higher the resolution), the higher the data rate must be. For example, consider the number of pixels per frame in a 320 x 240 resolution and a 640 x 480 resolution video file:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23490" valign="top" width="NaN%"><p>Resolution</p></th> 
-   <th class="cellrowborder" id="d19e23493" valign="top" width="NaN%"><p>Pixels per frame</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23490 " valign="top" width="NaN%"><p>320 x 240</p></td> 
-   <td class="cellrowborder" headers="d19e23493 " valign="top" width="NaN%"><p>76,800</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23490 " valign="top" width="NaN%"><p>640 x 480</p></td> 
-   <td class="cellrowborder" headers="d19e23493 " valign="top" width="NaN%"><p>307,200</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Resolution|Pixels per frame|
+|--- |--- |
+|320 x 240|76,800|
+|640 x 480|307,200|
 
 The 640 x 480 file has four times more pixels per frame. To achieve the same data rate for these two example resolutions, you apply four times the compression to the 640 x 480 file, which can reduce the quality of the video. Therefore, a video data rate of 250 Kbps produces high-quality viewing at a 320 x 240 resolution, but not at a 640 x 480 resolution.
 
@@ -357,47 +224,14 @@ Because resolution and data rate are linked, you have two options when encoding 
 
 When you choose (or create) a video encoding preset for your master video file, use this table to target the correct resolution:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23533" valign="top" width="NaN%"><p>Resolution</p></th> 
-   <th class="cellrowborder" id="d19e23536" valign="top" width="NaN%"><p>Height (pixels)</p></th> 
-   <th class="cellrowborder" id="d19e23539" valign="top" width="NaN%"><p>Screen size</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23533 " valign="top" width="NaN%"><p>240p</p></td> 
-   <td class="cellrowborder" headers="d19e23536 " valign="top" width="NaN%"><p>240</p></td> 
-   <td class="cellrowborder" headers="d19e23539 " valign="top" width="NaN%"><p>Tiny screen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23533 " valign="top" width="NaN%"><p>300p</p></td> 
-   <td class="cellrowborder" headers="d19e23536 " valign="top" width="NaN%"><p>300</p></td> 
-   <td class="cellrowborder" headers="d19e23539 " valign="top" width="NaN%"><p>Small screen typically for mobile devices</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23533 " valign="top" width="NaN%"><p>360p</p></td> 
-   <td class="cellrowborder" headers="d19e23536 " valign="top" width="NaN%"><p>360</p></td> 
-   <td class="cellrowborder" headers="d19e23539 " valign="top" width="NaN%"><p>Small screen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23533 " valign="top" width="NaN%"><p>480p</p></td> 
-   <td class="cellrowborder" headers="d19e23536 " valign="top" width="NaN%"><p>480</p></td> 
-   <td class="cellrowborder" headers="d19e23539 " valign="top" width="NaN%"><p>Medium screen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23533 " valign="top" width="NaN%"><p>720p</p></td> 
-   <td class="cellrowborder" headers="d19e23536 " valign="top" width="NaN%"><p>720</p></td> 
-   <td class="cellrowborder" headers="d19e23539 " valign="top" width="NaN%"><p>Large screen</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23533 " valign="top" width="NaN%"><p>1080p</p></td> 
-   <td class="cellrowborder" headers="d19e23536 " valign="top" width="NaN%"><p>1080</p></td> 
-   <td class="cellrowborder" headers="d19e23539 " valign="top" width="NaN%"><p>High-definition large screen</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Resolution|Height (pixels)|Screen size|
+|--- |--- |--- |
+|240p|240|Tiny screen|
+|300p|300|Small screen typically for mobile devices|
+|360p|360|Small screen|
+|480p|480|Medium screen|
+|720p|720|Large screen|
+|1080p|1080|High-definition large screen|
 
 ### Fps (frames per second) {#fps-frames-per-second}
 
@@ -415,42 +249,12 @@ If the resulting ratio is a whole integer, it means that the video is optimally 
 
 As an example, suppose that your source video is 1920 x 1080. In the following table, the three encoded videos provide the optimal encoding settings to use.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23636" valign="top" width="NaN%"><p>Video Type</p></th> 
-   <th class="cellrowborder" id="d19e23639" valign="top" width="NaN%"><p>Width x Height</p></th> 
-   <th class="cellrowborder" id="d19e23642" valign="top" width="NaN%"><p>Width Ratio</p></th> 
-   <th class="cellrowborder" id="d19e23645" valign="top" width="NaN%"><p>Height Ratio</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23636 " valign="top" width="NaN%"><p>Source</p></td> 
-   <td class="cellrowborder" headers="d19e23639 " valign="top" width="NaN%"><p>1920 x 1080</p></td> 
-   <td class="cellrowborder" headers="d19e23642 " valign="top" width="NaN%"><p>1</p></td> 
-   <td class="cellrowborder" headers="d19e23645 " valign="top" width="NaN%"><p>1</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23636 " valign="top" width="NaN%"><p>Encoded</p></td> 
-   <td class="cellrowborder" headers="d19e23639 " valign="top" width="NaN%"><p>960 x 540</p></td> 
-   <td class="cellrowborder" headers="d19e23642 " valign="top" width="NaN%"><p>2</p></td> 
-   <td class="cellrowborder" headers="d19e23645 " valign="top" width="NaN%"><p>2</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23636 " valign="top" width="NaN%"><p>Encoded</p></td> 
-   <td class="cellrowborder" headers="d19e23639 " valign="top" width="NaN%"><p>640 x 360</p></td> 
-   <td class="cellrowborder" headers="d19e23642 " valign="top" width="NaN%"><p>3</p></td> 
-   <td class="cellrowborder" headers="d19e23645 " valign="top" width="NaN%"><p>3</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23636 " valign="top" width="NaN%"><p>Encoded</p></td> 
-   <td class="cellrowborder" headers="d19e23639 " valign="top" width="NaN%"><p>480 x 270</p></td> 
-   <td class="cellrowborder" headers="d19e23642 " valign="top" width="NaN%"><p>4</p></td> 
-   <td class="cellrowborder" headers="d19e23645 " valign="top" width="NaN%"><p>4</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Video Type|Width x Height|Width Ratio|Height Ratio|
+|--- |--- |--- |--- |
+|Source|1920 x 1080|1|1|
+|Encoded|960 x 540|2|2|
+|Encoded|640 x 360|3|3|
+|Encoded|480 x 270|4|4|
 
 ### Encoded video file format {#encoded-video-file-format}
 
@@ -554,54 +358,16 @@ Scene7 has set maximum limits on the target data rate, resolution height, and re
 
    See [Best practices for video encoding](uploading-encoding-videos.md#best_practices_for_video_encoding) for recommended settings.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e23976" valign="top" width="NaN%"><p>Video Preset option</p></th> 
-   <th class="cellrowborder" id="d19e23979" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Preset Name</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Enter a descriptive name for the Video Preset. The name you enter appears in the Upload Job Options dialog box, in which users choose transcoding options.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Description</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Describe the Video Preset. What you enter appears as a tool tip when you move the pointer over the name of the preset in the Upload Job Options dialog box in which users choose transcoding options.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Playback Device</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Choose the device that the video is intended to play back on. The options are Computer (desktops), Mobile (iPhone, iPad, Android); or Tablet (iPad only). This setting automatically determines the appropriate video and audio codec that is used during encoding. </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Target Data Rate</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Enter the average Internet connection speed (in kilobits per second) of the target end user. You can enter the rate or drag the slider to enter it. The User Connection Speed spectrum lists typical speeds for broadband, DSL, mobile, and dial-up connections. This setting automatically determines the combined video and audio data rate. In other words, the amount of data that is encoded to make up a single second of video playback. The higher the data rate, the better the quality of the resulting video. However, data rates that are too high result in large file sizes that create subpar viewing experiences for users with a low bandwidth. As a best practice, strike a balance between high and low data rates. Aim to create an adequate quality playback experience without alienating users who have narrow bandwidths.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Aspect Ratio</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally: </p> 
-    <ul> 
-     <li><p>4:3 - Used for almost all standard definition TV broadcast content.</p></li> 
-     <li><p>16:9 - Used for almost all wide-screen, high-definition TV content (HDTV) and movies.</p></li> 
-     <li><p>Auto-scale - (Default) A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video’s aspect ratio (width to height ratio).</p></li> 
-     <li><p>Custom - Used when you want to define a non-standard video size. </p></li> 
-    </ul><p></p><p>The aspect ratio you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio. </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Resolution Size</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the dimension. Enter a width and height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and height values automatically adhere to the aspect ratio you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height.</p><p>If you selected <strong>Auto-scale</strong> for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to <strong>Auto</strong>.</p><p>Click <strong>Preview</strong> to open a browser window and see your resolution choices there.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Encode File Suffix</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e23976 " valign="top" width="NaN%"><p>Other Settings</p></td> 
-   <td class="cellrowborder" headers="d19e23979 " valign="top" width="NaN%"><p>Scene7 determines all other encoding settings automatically according to best-practice encoding guidelines. </p></td> 
-  </tr> 
- </tbody> 
-</table>
+    |Video Preset option|Description|
+    |--- |--- |
+    |Preset Name|Enter a descriptive name for the Video Preset. The name you enter appears in the Upload Job Options dialog box, in which users choose transcoding options.|
+    |Description|Describe the Video Preset. What you enter appears as a tool tip when you move the pointer over the name of the preset in the Upload Job Options dialog box in which users choose transcoding options.|
+    |Playback Device|Choose the device that the video is intended to play back on. The options are Computer (desktops), Mobile (iPhone, iPad, Android); or Tablet (iPad only). This setting automatically determines the appropriate video and audio codec that is used during encoding.|
+    |Target Data Rate|Enter the average Internet connection speed (in kilobits per second) of the target end user. You can enter the rate or drag the slider to enter it. The User Connection Speed spectrum lists typical speeds for broadband, DSL, mobile, and dial-up connections. This setting automatically determines the combined video and audio data rate. In other words, the amount of data that is encoded to make up a single second of video playback. The higher the data rate, the better the quality of the resulting video. However, data rates that are too high result in large file sizes that create subpar viewing experiences for users with a low bandwidth. As a best practice, strike a balance between high and low data rates. Aim to create an adequate quality playback experience without alienating users who have narrow bandwidths.|
+    |Aspect Ratio|Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen, high-definition TV content (HDTV) and movies.</li><li>Auto-scale - (Default) A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video’s aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio.</li></ul>|
+    |Resolution Size|Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the dimension. Enter a width and height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and height values automatically adhere to the aspect ratio you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height.If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto.Click Preview to open a browser window and see your resolution choices there.|
+    |Encode File Suffix|Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed.|
+    |Other Settings|Scene7 determines all other encoding settings automatically according to best-practice encoding guidelines.|
 
 1. Do one of the following:
 

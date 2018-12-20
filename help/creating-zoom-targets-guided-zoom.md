@@ -24,27 +24,10 @@ Zoom targets guide your viewers to certain parts of an image. As well as free-fo
 
 The maximum zoom percentage of zoom targets is 100 percent. The minimum zoom percentage varies based on a combination of the viewer size and the image size, as shown in this table:
 
-<table>
- <thead align="left">
-  <tr>
-   <th class="cellrowborder" id="d19e14999" valign="top" width="NaN%"><p>Image size</p></th> 
-   <th class="cellrowborder" id="d19e15002" valign="top" width="NaN%"><p>Viewer size</p></th> 
-   <th class="cellrowborder" id="d19e15005" valign="top" width="NaN%"><p>Zoom percentage</p></th> 
-  </tr> 
- </thead> 
- <tbody>
-  <tr>
-   <td class="cellrowborder" headers="d19e14999 " valign="top" width="NaN%"><p>Large</p></td> 
-   <td class="cellrowborder" headers="d19e15002 " valign="top" width="NaN%"><p>Smaller</p></td> 
-   <td class="cellrowborder" headers="d19e15005 " valign="top" width="NaN%"><p>Smaller minimum</p></td> 
-  </tr> 
-  <tr>
-   <td class="cellrowborder" headers="d19e14999 " valign="top" width="NaN%"><p>Small</p></td> 
-   <td class="cellrowborder" headers="d19e15002 " valign="top" width="NaN%"><p>Larger</p></td> 
-   <td class="cellrowborder" headers="d19e15005 " valign="top" width="NaN%"><p>Larger minimum</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Image size|Viewer size|Zoom percentage|
+|--- |--- |--- |
+|Large|Smaller|Smaller minimum|
+|Small|Larger|Larger minimum|
 
 You can change the size of the Zoom Viewer to match the size being used on your web page. To permanently change this setting, you can change the viewer size on the Setup screen (if you are an administrator). See [Setting up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
