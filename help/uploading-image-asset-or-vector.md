@@ -67,32 +67,11 @@ Save the upload token locally for use with future requests.
 
 You can use the following fields in the query URL string to retrieve an upload token:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="rows" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e27885" valign="top" width="NaN%"><p>URL parameter</p></th> 
-   <th class="cellrowborder" id="d19e27888" valign="top" width="NaN%"><p>Required or optional</p></th> 
-   <th class="cellrowborder" id="d19e27891" valign="top" width="NaN%"><p>Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27885 " valign="top" width="NaN%"><p><span class="code">op</span></p></td> 
-   <td class="cellrowborder" headers="d19e27888 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e27891 " valign="top" width="NaN%"><p><span class="code">get_uploadtoken</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27885 " valign="top" width="NaN%"><p><span class="code">shared_secret</span></p></td> 
-   <td class="cellrowborder" headers="d19e27888 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e27891 " valign="top" width="NaN%"><p>The shared-secret key for the company that is doing the upload.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e27885 " valign="top" width="NaN%"><p><span class="code">expires</span></p></td> 
-   <td class="cellrowborder" headers="d19e27888 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e27891 " valign="top" width="NaN%"><p>Number of seconds that the upload token is valid. Default is 300 seconds, if not specified.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL parameter|Required or optional|Value|
+|--- |--- |--- |
+|op|Required|get_uploadtoken|
+|shared_secret|Required|The shared-secret key for the company that is doing the upload.|
+|expires|Optional|Number of seconds that the upload token is valid. Default is 300 seconds, if not specified.|
 
 **Sample image URL:**
 
@@ -132,24 +111,10 @@ The `file_limit` parameter specifies the file-size limit in bytes. The `file_ext
 
 A global limit is set in the application for the file size limit and the filename extensions allowed. If what you send in the request is a subset of the global limits, it is honored. The global limits are the following:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28002" valign="top" width="NaN%"><p>Global limit</p></th> 
-   <th class="cellrowborder" id="d19e28005" valign="top" width="NaN%"><p>Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28002 " valign="top" width="NaN%"><p>File size for all clients</p></td> 
-   <td class="cellrowborder" headers="d19e28005 " valign="top" width="NaN%"><p>20 MB</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28002 " valign="top" width="NaN%"><p>Supported image file formats for upload</p></td> 
-   <td class="cellrowborder" headers="d19e28005 " valign="top" width="NaN%"><p>BMP, GIF, JPG, PNG, PSD</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Global limit|Value|
+|--- |--- |
+|File size for all clients|20 MB|
+|Supported image file formats for upload|BMP, GIF, JPG, PNG, PSD|
 
 The following HTML form lets a user upload an asset. The form asks the user to enter the following information:
 
@@ -215,52 +180,15 @@ https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit
 
 Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28111" valign="top" width="NaN%"><p>URL Parameter</p></th> 
-   <th class="cellrowborder" id="d19e28114" valign="top" width="NaN%"><p>Required or optional</p></th> 
-   <th class="cellrowborder" id="d19e28117" valign="top" width="NaN%"><p> Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">op</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p><span class="code">upload</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">upload_token</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p>Upload token for the shared-secret key associated with the company.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">company_name</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p>Name of the company performing the upload.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">file_limit</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p>File size limit, in bytes, for the asset.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">file_exts</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p>List of allowable extensions for the image asset file.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">preserve_colorprofile</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p>Preserves any embedded color profile while converting the uploaded file to PTIFF format. Possible values are true or false. Default is false.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28111 " valign="top" width="NaN%"><p><span class="code">preserve_filename</span></p></td> 
-   <td class="cellrowborder" headers="d19e28114 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e28117 " valign="top" width="NaN%"><p>Preserves the filename of the uploaded asset. Possible values are true or false. Default is false.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL Parameter|Required or optional|Value|
+|--- |--- |--- |
+|op|Required|upload|
+|upload_token|Required|Upload token for the shared-secret key associated with the company.|
+|company_name|Required|Name of the company performing the upload.|
+|file_limit|Optional|File size limit, in bytes, for the asset.|
+|file_exts|Optional|List of allowable extensions for the image asset file.|
+|preserve_colorprofile|Optional|Preserves any embedded color profile while converting the uploaded file to PTIFF format. Possible values are true or false. Default is false.|
+|preserve_filename|Optional|Preserves the filename of the uploaded asset. Possible values are true or false. Default is false.|
 
 >[!NOTE]
 >
@@ -308,32 +236,11 @@ An example of a successful response looks like the following:
 
 You can use the following fields in the URL query string to request information for an asset:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28239" valign="top" width="NaN%"><p>URL Parameter</p></th> 
-   <th class="cellrowborder" id="d19e28242" valign="top" width="NaN%"><p>Required or optional</p></th> 
-   <th class="cellrowborder" id="d19e28245" valign="top" width="NaN%"><p>Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28239 " valign="top" width="NaN%"><p><span class="code">op</span></p></td> 
-   <td class="cellrowborder" headers="d19e28242 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28245 " valign="top" width="NaN%"><p><span class="code">image_info</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28239 " valign="top" width="NaN%"><p><span class="code">shared_secret</span></p></td> 
-   <td class="cellrowborder" headers="d19e28242 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28245 " valign="top" width="NaN%"><p>The shared-secret key for the company.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28239 " valign="top" width="NaN%"><p><span class="code">image_name</span></p></td> 
-   <td class="cellrowborder" headers="d19e28242 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28245 " valign="top" width="NaN%"><p>Name of the image.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL Parameter|Required or optional|Value|
+|--- |--- |--- |
+|op|Required|image_info|
+|shared_secret|Required|The shared-secret key for the company.|
+|image_name|Required|Name of the image.|
 
 **Sample URL:**
 
@@ -367,24 +274,10 @@ The `file_limit` parameter specifies the file-size limit in bytes. The `file_ext
 
 A global limit is set in the application for the file size limit and the filename extensions allowed. If what you send in the request is a subset of the global limits, it is honored. The global limits are the following:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28343" valign="top" width="NaN%"><p>Global limit</p></th> 
-   <th class="cellrowborder" id="d19e28346" valign="top" width="NaN%"><p>Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28343 " valign="top" width="NaN%"><p>File size for all clients</p></td> 
-   <td class="cellrowborder" headers="d19e28346 " valign="top" width="NaN%"><p>20 MB</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28343 " valign="top" width="NaN%"><p>Supported vector file formats for upload</p></td> 
-   <td class="cellrowborder" headers="d19e28346 " valign="top" width="NaN%"><p>AI, EPS, PDF (only when the PDF is previously opened and saved in Adobe Illustrator CS6)</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Global limit|Value|
+|--- |--- |
+|File size for all clients|20 MB|
+|Supported vector file formats for upload|AI, EPS, PDF (only when the PDF is previously opened and saved in Adobe Illustrator CS6)|
 
 The following HTML form lets a user upload an asset. The form asks the user to enter the following information:
 
@@ -480,42 +373,13 @@ https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
 
 Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28446" valign="top" width="NaN%"><p>URL Parameter</p></th> 
-   <th class="cellrowborder" id="d19e28449" valign="top" width="NaN%"><p>Required or optional</p></th> 
-   <th class="cellrowborder" id="d19e28452" valign="top" width="NaN%"><p> Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28446 " valign="top" width="NaN%"><p><span class="code">op</span></p></td> 
-   <td class="cellrowborder" headers="d19e28449 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28452 " valign="top" width="NaN%"><p><span class="code">upload</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28446 " valign="top" width="NaN%"><p><span class="code">upload_token</span></p></td> 
-   <td class="cellrowborder" headers="d19e28449 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28452 " valign="top" width="NaN%"><p>Upload token for the shared-secret key associated with the company.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28446 " valign="top" width="NaN%"><p><span class="code">company_name</span></p></td> 
-   <td class="cellrowborder" headers="d19e28449 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28452 " valign="top" width="NaN%"><p>Name of the company performing the upload.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28446 " valign="top" width="NaN%"><p><span class="code">file_limit</span></p></td> 
-   <td class="cellrowborder" headers="d19e28449 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e28452 " valign="top" width="NaN%"><p>File size limit, in bytes, for the asset.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28446 " valign="top" width="NaN%"><p><span class="code">file_exts</span></p></td> 
-   <td class="cellrowborder" headers="d19e28449 " valign="top" width="NaN%"><p>Optional</p></td> 
-   <td class="cellrowborder" headers="d19e28452 " valign="top" width="NaN%"><p>List of allowable extensions for the asset file.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL Parameter|Required or optional|Value|
+|--- |--- |--- |
+|op|Required|upload|
+|upload_token|Required|Upload token for the shared-secret key associated with the company.|
+|company_name|Required|Name of the company performing the upload.|
+|file_limit|Optional|File size limit, in bytes, for the asset.|
+|file_exts|Optional|List of allowable extensions for the asset file.|
 
 >[!NOTE]
 >

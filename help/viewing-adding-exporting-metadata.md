@@ -134,24 +134,11 @@ To rename an image’s Scene7 Publishing System ID, add a column labeled *newips
 
 For example:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="rows" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e13606" valign="top" width="NaN%"><p>ipsid</p></th> 
-   <th class="cellrowborder" id="d19e13609" valign="top" width="NaN%"><p>newipsid</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13606 " valign="top" width="NaN%"><p>testjacket_1</p></td> 
-   <td class="cellrowborder" headers="d19e13609 " valign="top" width="NaN%"><p>Jacket_test_1</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13606 " valign="top" width="NaN%"><p>testjacket_blue</p></td> 
-   <td class="cellrowborder" headers="d19e13609 " valign="top" width="NaN%"><p>Jacket_test_2</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|ipsid|newipsid|
+|--- |--- |
+|testjacket_1|Jacket_test_1|
+|testjacket_blue|Jacket_test_2|
+
 
 The job log for the Metadata job will show which IDs were successfully renamed and which ones were not.
 
@@ -176,36 +163,13 @@ The company administrator can create a new custom schema, or edit an existing cu
 
 You can use the Metadata Schema Editor to perform the following actions:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e13682" valign="top" width="NaN%"><p>Action</p></th> 
-   <th class="cellrowborder" id="d19e13685" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Add</p></td> 
-   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Adds a new property to the schema. A modal dialog collects the information: ID, Label, Structure and Data Type.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Add Choice Value</p></td> 
-   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Adds a new selectable choice to a property with structure Open Choice or Closed Choice. All choice values have the same type. You must select the property itself to enable the button.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Edit</p></td> 
-   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Edit the Label of a property or choice value. You can only change the Label, ID, and type information is immutable.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Move Up / Move Down</p></td> 
-   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag &amp; drop is not supported at this time.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13682 " valign="top" width="NaN%"><p>Delete</p></td> 
-   <td class="cellrowborder" headers="d19e13685 " valign="top" width="NaN%"><p>Deletes a property or choice value from the schema. This does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View.If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Action|Description|
+|--- |--- |
+|Add|Adds a new property to the schema. A modal dialog collects the information: ID, Label, Structure and Data Type.|
+|Add Choice Value|Adds a new selectable choice to a property with structure Open Choice or Closed Choice. All choice values have the same type. You must select the property itself to enable the button.|
+|Edit|Edit the Label of a property or choice value. You can only change the Label, ID, and type information is immutable.|
+|Move Up / Move Down|The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag & drop is not supported at this time.|
+|Delete|Deletes a property or choice value from the schema. This does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View.If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server.|
 
 The system automatically generates a custom schema for User-defined fields with the prefix "s7udf". These are the existing User-defined Fields and are edited in their own Setup section.
 
@@ -235,72 +199,20 @@ The Metadata Schema Editor offers a graphical way to add or edit a custom compan
 
 Properties describe the metadata that can be stored with this schema in the XMP block. A property consists of:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e13761" valign="top" width="NaN%"><p>Property</p></th> 
-   <th class="cellrowborder" id="d19e13764" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>ID</p></td> 
-   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>Technical identifier for this property. The ID is not visible in SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as:</p> 
-    <ul> 
-     <li><p>No spaces</p></li> 
-     <li><p>No ".", ":", "$"</p></li> 
-     <li><p>No number as first character</p></li> 
-     <li><p>Best practice is to use a-z or A-Z as first character</p></li> 
-    </ul><p></p><p>Once created, the ID cannot be changed.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>Label</p></td> 
-   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>UI-Name for this property.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>Structure</p></td> 
-   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>Determines the type of the property together with Data Type. Structure can be one of:</p> 
-    <ul> 
-     <li><p>Simple Type: single value of data type</p></li> 
-     <li><p>Sequence: a list of values of the same data type</p></li> 
-     <li><p>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</p></li> 
-     <li><p>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13761 " valign="top" width="NaN%"><p>Data Type</p></td> 
-   <td class="cellrowborder" headers="d19e13764 " valign="top" width="NaN%"><p>Select from these available types:</p> 
-    <ul> 
-     <li><p>String</p></li> 
-     <li><p>Integer</p></li> 
-     <li><p>Float</p></li> 
-     <li><p>Yes/No (Boolean)</p></li> 
-     <li><p>Date</p></li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
-</table>
+|Property|Description|
+|--- |--- |
+|ID|Technical identifier for this property. The ID is not visible in SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
+|Label|UI-Name for this property.|
+|Structure|Determines the type of the property together with Data Type. Structure can be one of:<ul><li>Simple Type: single value of data type</li><li>Sequence: a list of values of the same data type</li><li>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</li><li>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</li></ul>|
+|Data Type|Select from these available types: </ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date|
+
 
 When the property has the structure Open Choice or Closed Choice, you must provide at least one Choice Value. Open Choice can be changed. Closed Choice cannot be changed. All Choice Values have the data type of the property.
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e13849" valign="top" width="NaN%"><p>Property</p></th> 
-   <th class="cellrowborder" id="d19e13852" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13849 " valign="top" width="NaN%"><p>ID</p></td> 
-   <td class="cellrowborder" headers="d19e13852 " valign="top" width="NaN%"><p>Technical identifier for this value. The ID is not visible in the SPS UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e13849 " valign="top" width="NaN%"><p>Label</p></td> 
-   <td class="cellrowborder" headers="d19e13852 " valign="top" width="NaN%"><p>UI-Name for this value.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Property|Description|
+|--- |--- |
+|ID|Technical identifier for this value. The ID is not visible in the SPS UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.|
+|Label|UI-Name for this value.|
 
 >[!MORE_LIKE_THIS]
 >
