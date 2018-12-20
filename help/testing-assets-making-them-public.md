@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# Testing assets before making them public{#testing-assets-before-making-them-public}
+# Testing assets before making them public {#testing-assets-before-making-them-public}
 
 Secure Testing helps you define a secure test environment and build a robust B2B solution, based upon a configurable set of IP address and ranges. This functionality lets you match your Scene7 deployments with the architecture of your content management and commerce platform.
 

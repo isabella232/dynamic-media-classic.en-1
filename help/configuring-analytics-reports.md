@@ -20,16 +20,6 @@ To tell Adobe Analytics what information you want in Adobe Analytics reports, go
 
 As well as associating viewer events with variables, the Adobe Analytics Configuration screen offers tools for activating, editing, and deleting viewer events.
 
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>RB: Added Important note below plus xrefs, 10/3/2012.</p>
-
- -->
-
 >[!NOTE]
 >
 >Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Scene7 Publishing System, re-save your Adobe Analytics configuration settings, and then re-publish.
@@ -70,92 +60,24 @@ Viewer events describe actions that users perform with Scene7 viewers. When a us
 
 The following table describes viewer events you can add to the Adobe Analytics Configuration screen.
 
-<table> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e26526" valign="top" width="NaN%"><p>Viewer event</p></th> 
-   <th class="cellrowborder" id="d19e26529" valign="top" width="NaN%"><p>HTML5 Viewer Platform support and viewers</p></th> 
-   <th class="cellrowborder" id="d19e26532" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>LOAD</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog, Flyout, SpinSet, Video, Zoom)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>When a user starts the viewer.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>PAGE</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In eCatalogs, when a user turns a page; in targeted zoom viewers, when a user clicks a different target or a color swatch.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>SWAP</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog, Flyout, SpinSet, Video, Zoom)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>When a user clicks a different thumbnail to view a different image.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>ITEM</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In viewers that support Image Maps in which rollovers are defined, when a user hovers the pointer over an Image Map to read the rollover text. </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>HREF</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In viewers that support Image Maps, when a user clicks a URL in an Image Map.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>TARGET</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In targeted zoom viewers, when a user clicks a zoom target to zoom to part of an image.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>SEARCH</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p></p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In eCatalogs, when a user conducts a word search.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>PLAY</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (Video)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In Video viewers, when a user clicks Play to start playing a video.</p><p><i><strong>note</strong>: If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See <a href="enabling-analytics-video-reports.md#enabling_adobe_analytics_video_reports">Enabling Adobe Analytics Video Reports</a>.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>PAUSE</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (Video)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In Video viewers, when a user clicks Pause to pause a video.</p><p><i><strong>note</strong>: If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See <a href="enabling-analytics-video-reports.md#enabling_adobe_analytics_video_reports">Enabling Adobe Analytics Video Reports</a>.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>STOP</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (Video)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In Video viewers, when a user clicks Stop to stop playing a video.</p><p><i><strong>note</strong>: For the HTML5 viewer platform, this viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.</i></p><p><i><strong>note</strong>: If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See <a href="enabling-analytics-video-reports.md#enabling_adobe_analytics_video_reports">Enabling Adobe Analytics Video Reports</a>.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>MILESTONE</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (Video)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>In Video viewers, milestone events are generated when the user watches 0, 25, 50, 75, or 100 percent of the video.</p><p><i><strong>note</strong>: If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See <a href="enabling-analytics-video-reports.md#enabling_adobe_analytics_video_reports">Enabling Adobe Analytics Video Reports</a>.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>SWATCH</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (Flyout, Zoom) </p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>This viewer event is mapped to the PAGE viewer event in Scene7 Publishing System.</p><p><i><strong>note</strong>: This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>ZOOM</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog, SpinSet, Zoom)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>Not tracked by Adobe Analytics.</p><p><i><strong>note</strong>: This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>PAN</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (eCatalog, SpinSet, Zoom)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>Not tracked by Adobe Analytics.</p><p><i><strong>note</strong>: This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.</i></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e26526 " valign="top" width="NaN%"><p>SPIN</p></td> 
-   <td class="cellrowborder" headers="d19e26529 " valign="top" width="NaN%"><p><strong>X</strong> (SpinSet)</p></td> 
-   <td class="cellrowborder" headers="d19e26532 " valign="top" width="NaN%"><p>Not tracked by Adobe Analytics.</p><p><i><strong>note</strong>: This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.</i></p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Viewer event|HTML5 Viewer Platform support and viewers|Description|
+|--- |--- |--- |
+|LOAD|**X** (eCatalog, Flyout, SpinSet, Video, Zoom)|When a user starts the viewer.|
+|PAGE|**X**  (eCatalog)|In eCatalogs, when a user turns a page; in targeted zoom viewers, when a user clicks a different target or a color swatch.|
+|SWAP|**X**  (eCatalog, Flyout, SpinSet, Video, Zoom)|When a user clicks a different thumbnail to view a different image.|
+|ITEM|**X**  (eCatalog)|In viewers that support Image Maps in which rollovers are defined, when a user hovers the pointer over an Image Map to read the rollover text.|
+|HREF|**X**  (eCatalog)|In viewers that support Image Maps, when a user clicks a URL in an Image Map.|
+|TARGET||In targeted zoom viewers, when a user clicks a zoom target to zoom to part of an image.|
+|SEARCH||In eCatalogs, when a user conducts a word search.|
+|PLAY|**X**  (Video)|In Video viewers, when a user clicks Play to start playing a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
+|PAUSE|**X** (Video)|In Video viewers, when a user clicks Pause to pause a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
+|STOP|**X** (Video)|In Video viewers, when a user clicks Stop to stop playing a video.<br><br>**Note:** For the HTML5 viewer platform, this viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
+|MILESTONE|**X**  (Video)|In Video viewers, milestone events are generated when the user watches 0, 25, 50, 75, or 100 percent of the video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Scene7. Video Heartbeat works with out-of-the-box Scene7 HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
+|SWATCH|X (Flyout, Zoom)|This viewer event is mapped to the PAGE viewer event in Scene7 Publishing System.note: This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.|
+|ZOOM|**X**  (eCatalog, SpinSet, Zoom)|Not tracked by Adobe Analytics.<br><br>**Note:** This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.|
+|PAN|**X**  (eCatalog, SpinSet, Zoom)|Not tracked by Adobe Analytics.<br><br>**Note:** This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.|
+|SPIN|**X**  (SpinSet)|Not tracked by Adobe Analytics.<br><br>**Note:** This HTML5 platform viewer event is only available for custom HTML5 Viewers that you have created using the Adobe Scene7 HTML5 Viewer SDK.|
+
 
 ### Scene7 variables {#scene-variables}
 

@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# System requirements{#system-requirements}
+# System requirements {#system-requirements}
 
 For the best experience using Scene7 Publishing System, make sure that your system meets the following system requirements and recommendations:
 

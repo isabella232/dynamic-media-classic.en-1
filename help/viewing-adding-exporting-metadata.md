@@ -173,7 +173,9 @@ You can use the Metadata Schema Editor to perform the following actions:
 
 The system automatically generates a custom schema for User-defined fields with the prefix "s7udf". These are the existing User-defined Fields and are edited in their own Setup section.
 
-***note**: Changes to the schema never change the asset metadata itself. However, they are not visible for all SPS and Metadata Server functionality and can't be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in SPS and the Metadata Server.*
+>[!NOTE]
+>
+>Changes to the schema never change the asset metadata itself. However, they are not visible for all SPS and Metadata Server functionality and can't be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in SPS and the Metadata Server.
 
 The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside SPS. A schema is defined by a prefix, a namespace, and a list of properties.
 
