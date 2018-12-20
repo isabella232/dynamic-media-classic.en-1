@@ -7,7 +7,7 @@ uuid: a14627c0-2f45-44e1-99b9-3a57d8762b1f
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_publishing
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: 07f3edac-0330-4c6e-bacc-ba2f74d34861
 index: y
 internal: n

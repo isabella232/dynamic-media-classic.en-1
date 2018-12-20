@@ -7,7 +7,7 @@ uuid: 27c8c8b4-47f3-4270-a6db-d304648ba357
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_publishing
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: df1a9ff5-a5ba-4480-ba0d-a19bc665f907
 index: y
 internal: n
@@ -209,4 +209,4 @@ For more information about creating and using warped text, see the Adobe Illustr
 >[!MORE_LIKE_THIS]
 >
 >* [Create the initial template in Illustrator](create-initial-template-illustrator.md#create_the_initial_template_in_illustrator)
->* [Upload files for Template Publishing](upload-files-template-publishing.md#upload_files_for_template_publishing)
+>* [Upload files for Template Publishing](upload-files-template-publishing.md#upload_files_for_template-publishing)
