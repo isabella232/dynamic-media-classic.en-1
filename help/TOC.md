@@ -1,8 +1,8 @@
 ---
 cloud: experience-cloud
 product: dynamic media classic scene7 
-archtype: end-user
-user-guide: dynamic media classic - scene7 help
+audience: end-user
+user-guide-title: Dynamic Media Classic - Scene7 Help
 index: n
 ---
 

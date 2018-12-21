@@ -3,7 +3,9 @@ cloud: experience-cloud
 solution-title: Dynamic Media Classic (Scene7)
 solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
 solution-image: 
+getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-manager/scene7/topics/getting-started.html
+tutorials-title: Tutorials
 tutorials-url: https://marketing.adobe.com/resources/help/en_US/s7/training-videos/
 git-repo: https://git.corp.adobe.com/AdobeDocs/scene7.en
 ---
