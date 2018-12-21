@@ -159,5 +159,5 @@ To flush the cache, click File &gt; Invalidate CDN. All selected files are remov
 
 >[!MORE_LIKE_THIS]
 >
->* [Checking job files](checking-job-files.md#checking_job_files)
->* [Editing, deleting, pausing, and resuming recurring jobs](checking-job-files.md#editing_deleting_pausing_and_resuming_recurring_jobs)
+>* [Checking job files](checking-job-files.md)
+>* [Editing, deleting, pausing, and resuming recurring jobs](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs)

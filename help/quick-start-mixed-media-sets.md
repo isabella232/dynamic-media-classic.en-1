@@ -30,19 +30,19 @@ Start by uploading the images, swatch files, and videos for your Mixed Media Set
 
 Click Upload on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System.
 
-See [Uploading your files](uploading-files.md#uploading_your_files).
+See [Uploading your files](uploading-files.md#uploading-your-files).
 
 **2. Creating media sets for use within the Mixed Media Set**
 
 You can add images, Image Sets, Swatch Sets, Spin Sets, and videos to your Mixed Media set. Prepare the media sets before you add them to the Mixed Media Set.
 
-See [Creating an Image Set](creating-image-set.md#creating_an_image_set), [Creating a Swatch Set](creating-swatch-set.md#creating_a_swatch_set), and [Creating a Spin Set](creating-spin-set.md#creating_a_spin_set).
+See [Creating an Image Set](creating-image-set.md#creating-an-image-set), [Creating a Swatch Set](creating-swatch-set.md#creating-a-swatch-set), and [Creating a Spin Set](creating-spin-set.md#creating-a-spin-set).
 
 **3. Creating a Mixed Media Set**
 
 Click the Build button and choose Mixed Media Sets. Drag the images, Swatch Sets, Image Sets, and videos onto the Mixed Media Set screen. To add a soundtrack, drag an audio file to the Soundtrack box.
 
-See [Creating a Mixed Media Set](creating-mixed-media-set.md#creating_a_mixed_media_set).
+See [Creating a Mixed Media Set](creating-mixed-media-set.md#creating-a-mixed-media-set).
 
 **4. Setting up Mixed Media viewer presets**
 
@@ -50,13 +50,13 @@ Scene7 comes with default viewer presets for Mixed Media Sets. Administrators ca
 
 When setting up a Mixed Media Set viewer preset, add the viewer presets for all of the other assets in your set. For example, if your Mixed Media Set includes videos, add a video viewer preset to the Mixed Media Set viewer preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
 
-See [Setting up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md#setting_up_a_mixed_media_set_viewer_preset) and [Creating and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+See [Setting up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) and [Creating and editing Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
 **5. Previewing a Mixed Media Set**
 
 Click the Mixed Media Set’s rollover Preview button. The Mixed Media Set appears. You can click the thumbnail and swatch icons to examine your Mixed Media Set in the Mixed Media Set Viewer. You can choose different Viewers from the Presets menus.
 
-See [Previewing an asset](previewing-asset.md#previewing_an_asset).
+See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
 **6. Publishing a Mixed Media Set**
 
@@ -64,10 +64,10 @@ Publishing an Mixed Media Set places it on Scene7 servers and activates the URL 
 
 Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. You use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.
 
-See [Publishing a Mixed Media Set](publishing-mixed-media-set.md#publishing_a_mixed_media_set).
+See [Publishing a Mixed Media Set](publishing-mixed-media-set.md#publishing-a-mixed-media-set).
 
 **7. Linking a Mixed Media Set to a web page**
 
 Scene7 activates URL calls for Mixed Media Sets after you publish them. You can copy these URLs from the Preview screen.
 
-Select the Mixed Media Set, and click Preview. In the Preview screen, select a Mixed Media Set Viewer Preset and click the Copy URL button. See [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md#linking_a_mixed_media_set_to_a_web_page).
+Select the Mixed Media Set, and click Preview. In the Preview screen, select a Mixed Media Set Viewer Preset and click the Copy URL button. See [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).

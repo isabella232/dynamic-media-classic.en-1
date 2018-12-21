@@ -74,13 +74,13 @@ Administrators can create Spin Set Viewer Presets. These presets determine the l
 
 On the Viewer Presets screen, select the Add menu and choose Spin Set Viewer in the Add Viewer Preset dialog box. Then choose options in the Configure Viewer screen.
 
-See [Setting up Spin Set Viewer Presets](setting-spin-set-viewer-presets.md#setting_up_spin_set_viewer_presets).
+See [Setting up Spin Set Viewer Presets](setting-spin-set-viewer-presets.md#setting-up-spin-set-viewer-presets).
 
 **5. Previewing a Spin Set**
 
 Select your Spin Set in the Browse Panel and click its rollover Preview button. On the Preview screen, hold down the mouse button and drag the pointer left or right to visually “spin” the item.
 
-See [Previewing a Spin Set](previewing-spin-set.md#previewing_a_spin_set).
+See [Previewing a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 **6. Publishing a Spin Set**
 
@@ -88,7 +88,7 @@ Publishing a Spin Set places it on Scene7 servers so it can be dynamically deliv
 
 To publish a Spin Set, mark it for publish by selecting the **Mark for Publish** icon beside its name in the Browse Panel. Click **Publish** on the Global Navigation bar to initiate a publish. On the Publish screen, click **Start Publish**.
 
-See [Publishing a Spin Set](publishing-spin-set.md#publishing_a_spin_set).
+See [Publishing a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 
 **7. Linking a Spin Set to a web page**
 
@@ -96,4 +96,4 @@ Scene7 creates URL callout strings for Spin Sets, and activates them after you p
 
 Select the Spin Set, and then click **Preview**. The Preview screen opens. Select a Spin Set Viewer Preset. Then click **Copy URL**.
 
-See [Linking a Spin Set to a web page](linking-spin-set-web-page.md#linking_a_spin_set_to_a_web_page).
+See [Linking a Spin Set to a web page](linking-spin-set-web-page.md#linking-a-spin-set-to-a-web-page).

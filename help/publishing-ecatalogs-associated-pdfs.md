@@ -20,7 +20,7 @@ Publishing places your eCatalog and PDF on Scene7 Image Servers so it can be mad
 
 >[!NOTE]
 >
->Make sure your eCatalog and PDF reside in the same folde and they are marked for publish in the Browse Panel or Asset Details page before you publish them.
+>Make sure your eCatalog and PDF reside in the same folder and they are marked for publish in the Browse Panel or Asset Details page before you publish them.
 
 To publish your eCatalog to Scene7 Image Servers:
 
@@ -34,4 +34,4 @@ To publish your eCatalog to Scene7 Image Servers:
 
 >[!MORE_LIKE_THIS]
 >
->* [Publishing](publishing-files.md#publishing_files)
+>* [Publishing](publishing-files.md)

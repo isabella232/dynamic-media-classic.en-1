@@ -28,7 +28,7 @@ Start by uploading the images for your Image Sets. Because users can zoom on ima
 
 Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System.
 
-See [Preparing Image Set assets for upload](preparing-image-set-assets-upload.md#preparing_image_set_assets_for_upload) and [Uploading your files](uploading-files.md#uploading_your_files).
+See [Preparing Image Set assets for upload](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) and [Uploading your files](uploading-files.md#uploading-your-files).
 
 **2. Creating an Image Set**
 
@@ -36,9 +36,9 @@ In Image Sets, users click thumbnail images in the Image Set Viewer to see an im
 
 To create an Image Set, click the Build button and choose Image Sets. Then, on the Image Set screen, drag your images onto the screen to compose your Image Set. Organize, add, and delete images as needed.
 
-See [Creating an Image Set](creating-image-set.md#creating_an_image_set).
+See [Creating an Image Set](creating-image-set.md#creating-an-image-set).
 
-See also [Including zoom targets and Image Maps in Image Sets](including-zoom-targets-image-maps.md#including_zoom_targets_and_image_maps_in_image_sets)
+See also [Including zoom targets and Image Maps in Image Sets](including-zoom-targets-image-maps.md#including-zoom-targets-and-image-maps-in-image-sets)
 
 **3. Setting up Image Set Viewer Presets, as needed**
 
@@ -46,13 +46,13 @@ Administrators can create or modify Image Set Viewer Presets. Scene7 comes with 
 
 You add or edit Viewer Presets from the Application Setup screen.
 
-See [Creating and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+See [Creating and editing Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
 **4. Previewing an Image Set**
 
 Select the Image Set in the Browse Panel, and then click Preview. Your Image Set appears in the Preview screen. Click the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
 
-See [Previewing an asset](previewing-asset.md#previewing_an_asset).
+See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
 **5. Publishing an Image Set**
 
@@ -64,7 +64,7 @@ Publishing an Image Set places it on Scene7 servers and activates the URL string
 
 Click the Mark for Publish icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Start Publish**.
 
-See [Publishing](publishing-files.md#publishing_files).
+See [Publishing](publishing-files.md#publishing-files).
 
 **6. Linking an Image Set to your Website**
 
@@ -72,4 +72,4 @@ Scene7 creates URL calls for Image Sets, and activates them after you publish. Y
 
 Select the Image Set, and then click the Preview button. The Preview screen opens. Select an Image Set Viewer Preset and click **Copy URL**.
 
-See [Linking an Image Set to a web page](linking-image-set-web-page.md#linking_an_image_set_to_a_web_page).
+See [Linking an Image Set to a web page](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).

@@ -38,29 +38,12 @@ Be aware that the order in which the Spin Set is authored or created in Scene7 P
 
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e18967" valign="top" width="NaN%"><p>“Publish after save” option selected before saving?</p></th> 
-   <th class="cellrowborder" id="d19e18970" valign="top" width="NaN%"><p>State of set after saving</p></th> 
-   <th class="cellrowborder" id="d19e18973" valign="top" width="NaN%"><p>State of set members after saving</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e18967 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e18970 " valign="top" width="NaN%"><p>Published</p></td> 
-   <td class="cellrowborder" headers="d19e18973 " valign="top" width="NaN%"><p>Published</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e18967 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e18970 " valign="top" width="NaN%"><p>Unpublished</p></td> 
-   <td class="cellrowborder" headers="d19e18973 " valign="top" width="NaN%"><p>Set members retain their published or unpublished state.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|
+|--- |--- |--- |
+|Yes|Published|Published|
+|No|Unpublished|Set members retain their published or unpublished state.|
 
-See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 
 After you save a Spin Set, you can use Preview in the Build: Spin Set page to see what your Spin Set looks like in the default viewer.
 
@@ -84,44 +67,14 @@ After you save a Spin Set, you can use Preview in the Build: Spin Set page to se
 
 Depending on whether you edit a published set or an unpublished set, the **Publish after save** option affects the set and set members in the following ways:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e19081" valign="top" width="NaN%"><p>Set already published?</p></th> 
-   <th class="cellrowborder" id="d19e19084" valign="top" width="NaN%"><p>“Publish after save” option selected before saving your edit?</p></th> 
-   <th class="cellrowborder" id="d19e19087" valign="top" width="NaN%"><p>State of set after saving</p></th> 
-   <th class="cellrowborder" id="d19e19090" valign="top" width="NaN%"><p>State of set members after saving</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e19081 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e19084 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e19087 " valign="top" width="NaN%"><p>Published</p></td> 
-   <td class="cellrowborder" headers="d19e19090 " valign="top" width="NaN%"><p>Published</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e19081 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e19084 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e19087 " valign="top" width="NaN%"><p>Published</p></td> 
-   <td class="cellrowborder" headers="d19e19090 " valign="top" width="NaN%"><p>Existing set members retain their published state.</p><p>Any new set members that you added during your edit retain their published or unpublished state.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e19081 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e19084 " valign="top" width="NaN%"><p>Yes</p></td> 
-   <td class="cellrowborder" headers="d19e19087 " valign="top" width="NaN%"><p>Published</p></td> 
-   <td class="cellrowborder" headers="d19e19090 " valign="top" width="NaN%"><p>Published</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e19081 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e19084 " valign="top" width="NaN%"><p>No</p></td> 
-   <td class="cellrowborder" headers="d19e19087 " valign="top" width="NaN%"><p>Unpublished</p></td> 
-   <td class="cellrowborder" headers="d19e19090 " valign="top" width="NaN%"><p>Existing set members and any new set members that you added during your edit retain their published or unpublished state.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Set already published?|“Publish after save” option selected before saving your edit?|State of set after saving|State of set members after saving|
+|--- |--- |--- |--- |
+|Yes|Yes|Published|Published|
+|Yes|No|Published|Existing set members retain their published state.Any new set members that you added during your edit retain their published or unpublished state.|
+|No|Yes|Published|Published|
+|No|No|Unpublished|Existing set members and any new set members that you added during your edit retain their published or unpublished state.|
 
-See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 
 **To edit a Spin Set**
 
@@ -151,7 +104,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
 
-See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
 
 **To delete a Spin Set**
 

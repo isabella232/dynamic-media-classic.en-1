@@ -60,7 +60,7 @@ To add pages, select a folder in the Asset Library, and then drag PDF or image f
 
 Click the Save button, enter a name for your eCatalog, choose an SPS folder for storing it, and select the Save button. Each time you change the page order or edit your eCatalog, save your changes by clicking the Save button.
 
-See [Creating an eCatalog](creating-ecatalog.md#creating_an_ecatalog).
+See [Creating an eCatalog](creating-ecatalog.md#creating-an-ecatalog).
 
 **3. Creating Image Maps**
 
@@ -70,13 +70,13 @@ To create an Image Map, open the eCatalog screen. Then go to the Map Pages tab o
 
 After you draw the Image Map, enter the URL address that you want to go to when you click the Image Map. You can also enter the rollover text that appears when you move your pointer over the Image Map.
 
-See [Creating eCatalog Image Maps](creating-ecatalog-image-maps.md#creating_ecatalog_image_maps).
+See [Creating eCatalog Image Maps](creating-ecatalog-image-maps.md#creating-ecatalog-image-maps).
 
-See [Using Image Maps to embed rich media in an eCatalog](creating-ecatalog-image-maps.md#embedding_rich_media_in_an_ecatalog).
+See [Using Image Maps to embed rich media in an eCatalog](creating-ecatalog-image-maps.md#embedding-rich-media-in-an-ecatalog).
 
 You can set up and manage the image map text using the Info Panel settings in the eCatalog screen.
 
-See [Managing Info Panel content](info-panel-content.md#managing_info_panel_content).
+See [Managing Info Panel content](info-panel-content.md#managing-info-panel-content).
 
 **4. Setting up eCatalog Viewer Presets**
 
@@ -84,7 +84,7 @@ End users see your eCatalog in the eCatalog Viewer. If you are an administrator,
 
 To create an eCatalog Viewer Preset, click the Setup button on the Global Navigation bar and choose Viewer Presets. Then click Add, choose a platform, and choose eCatalog &gt; Viewer.
 
-See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets).
+See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
 **5. Previewing eCatalogs in the eCatalog Viewer**
 
@@ -94,7 +94,7 @@ To find out how eCatalog Viewer Presets display your eCatalog, select your eCata
 
 Notice the orientation, color scheme, what the controls for changing pages look like, and what pages look like when they are turned.
 
-See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-viewer.md#previewing_ecatalogs_in_the_ecatalog_viewer).
+See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-viewer.md#previewing-ecatalogs-in-the-ecatalog-viewer).
 
 **6. Publishing eCatalog and associated PDFs**
 
@@ -102,7 +102,7 @@ Publishing your eCatalog and associated PDF places it on Scene7 Image Servers so
 
 After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click Start Publish.
 
-See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing_ecatalogs_and_associated_pdfs).
+See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
 **7. Linking an eCatalog to a web page**
 
@@ -110,4 +110,4 @@ Scene7 activates the URL callout string necessary for displaying your eCatalog w
 
 Work with your IT team to place the link to the eCatalog in the appropriate place in your web page. When users click the link, the eCatalog Viewer appears and users can browse your eCatalog.
 
-See [Linking an eCatalog to a web page](linking-ecatalog-web-page.md#linking_an_ecatalog_to_a_web_page).
+See [Linking an eCatalog to a web page](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).

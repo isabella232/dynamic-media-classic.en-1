@@ -109,7 +109,7 @@ The XML import accepts only valid XML. When importing XMP or Metadata Schema fie
 For example:
 
 ```as3
-<ips > 
+<ips> 
     <ghw_object vc_objectname="img_001" dc:subject="word1,word2" 
 </ips>
 ```
@@ -206,7 +206,7 @@ Properties describe the metadata that can be stored with this schema in the XMP 
 |ID|Technical identifier for this property. The ID is not visible in SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
 |Label|UI-Name for this property.|
 |Structure|Determines the type of the property together with Data Type. Structure can be one of:<ul><li>Simple Type: single value of data type</li><li>Sequence: a list of values of the same data type</li><li>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</li><li>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</li></ul>|
-|Data Type|Select from these available types: </ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date|
+|Data Type|Select from these available types: </ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date</li></ul>|
 
 
 When the property has the structure Open Choice or Closed Choice, you must provide at least one Choice Value. Open Choice can be changed. Closed Choice cannot be changed. All Choice Values have the data type of the property.
