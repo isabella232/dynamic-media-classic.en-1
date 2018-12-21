@@ -112,7 +112,7 @@ index: n
     + [Publishing a Spin Set](publishing-spin-set.md)
     + [Setting up Spin Set Viewer Presets](setting-spin-set-viewer-presets.md)
     + [Linking a Spin Set to a web page](linking-spin-set-web-page.md)
-+ Template basics (#template-basics)
++ Template basics {#template-basics}
     + [Quick Start: Template Basics](quick-start-template-basics.md)
     + [Uploading template files](uploading-template-files.md)
     + [Creating a template](creating-template.md)
@@ -164,7 +164,7 @@ index: n
     + [Deleting an uploaded asset](deleting-uploaded-asset.md)
     + [Getting disk usage information](getting-disk-usage-information.md)
     + [Uploading an image asset or a vector asset](uploading-image-asset-or-vector.md)
-+ Master files (#master-files)
++ Master files {#master-files}
     + [Best practices for optimizing the quality of your images](best-practices-optimizing-quality-images.md)
     + [Editing images](editing-images.md)
     + [Creating Image Maps](creating-image-maps.md)
