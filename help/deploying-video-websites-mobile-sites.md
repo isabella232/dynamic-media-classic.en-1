@@ -183,6 +183,6 @@ See [www.adobe.com/go/learn_s7_image_server_guide_en](https://www.adobe.com/go/l
 
 You can also modify video thumbnails by appending modifiers to video thumbnail URLs.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publishing files](publishing-files.md#publishing_files)

@@ -128,7 +128,7 @@ Each attribute contains a set of values.
 
 For more information about creating and using warped text, see the Adobe Illustrator documentation.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Create the initial template in Illustrator](create-initial-template-illustrator.md#create_the_initial_template_in_illustrator)
 >* [Upload files for Template Publishing](upload-files-template-publishing.md#upload_files_for_template-publishing)

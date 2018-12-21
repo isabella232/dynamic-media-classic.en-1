@@ -69,7 +69,7 @@ The Scene7 “best practice” options for creating Image Presets listed here ar
 
 To delete an Image Preset, select it on the Image Presets screen and select the Delete button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Create and edit Image Presets](application-setup.md#creating_and_editing_image_presets)
 >* [Image Preset options](application-setup.md#image_preset_options)

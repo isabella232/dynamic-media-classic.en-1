@@ -46,6 +46,6 @@ The Welcome e-mail you received from your administrator provides you with the si
 >
 >Because SPS is web-based, going to a different web site exits the system. For example, if you click the Back button in your browser window, you exit Scene7.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Personal Setup](personal-setup.md#personal_setup)

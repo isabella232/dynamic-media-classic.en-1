@@ -57,7 +57,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 >
 >To restore an image to its original state after you’ve cropped it, display the image in the Crop Editor screen and select the Reset button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload)
 >* [Cropping white space from a PDF file](pdfs.md#cropping_white_space_from_a_pdf_file)

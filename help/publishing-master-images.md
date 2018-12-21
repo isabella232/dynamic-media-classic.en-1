@@ -28,6 +28,6 @@ To publish master images to Scene7 Image Servers, start by selecting the Publish
 >
 >The URL is not active until you publish the asset.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publishing](publishing-files.md#publishing_files)

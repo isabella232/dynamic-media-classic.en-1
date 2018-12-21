@@ -1035,7 +1035,7 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 1. Click Save in the Details Panel.
 1. Upload and publish your Spin Set as usual making sure you activate the name of your 2D Spin Set in the Job Load Options dialog box, under Batch Set Presets.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Previewing an asset](previewing-asset.md#previewing_an_asset)
 >* [Setting up Image Presets](setting-image-presets.md#setting_up_image_presets)

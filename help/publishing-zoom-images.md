@@ -24,6 +24,6 @@ Images must be marked for publish in order for them to be copied to Scene7 Image
 
 To publish zoom images, start by clicking **Publish** on the Global Navigation bar. Then, select a **When option (One-Time or Recurring)**, optionally enter a name for the publish job, and click **Start Publish**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publishing](publishing-files.md#publishing_files)

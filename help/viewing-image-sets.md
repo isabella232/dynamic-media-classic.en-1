@@ -60,6 +60,6 @@ You can use Preview to see how an asset appears on particular viewer type platfo
 1. Close the displayed viewer to return to the Preview screen.
 1. Click **Close** to return to the Assets screen.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Viewer Presets](application-setup.md#viewer_presets)

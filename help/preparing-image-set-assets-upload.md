@@ -22,7 +22,7 @@ Because users can zoom images in Image Sets, make sure that the images are at le
 
 For detailed instructions on uploading assets, see [Uploading files](uploading-files.md#uploading_files).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Uploading your files](uploading-files.md#uploading_your_files)
 >* [Working with vignette, window covering, and cabinet files](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

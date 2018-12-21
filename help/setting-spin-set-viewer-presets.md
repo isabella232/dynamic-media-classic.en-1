@@ -41,6 +41,6 @@ See [Configuring Default Viewers](application-setup.md#configuring_default_viewe
 
 To delete a Spin Set Viewer Preset, select it on the Viewer Presets screen and click the Delete button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Viewer Presets](application-setup.md#viewer_presets)

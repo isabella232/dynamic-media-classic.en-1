@@ -82,7 +82,7 @@ See [Viewer Presets](application-setup.md#viewer_presets).
     * Click **Save As** if you added a Viewer Preset by starting from an existing preset. 
     * Click **Save** if you added or edited a Viewer Preset.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Best practices for video encoding](uploading-encoding-videos.md#best_practices_for_video_encoding)
 >* [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets)

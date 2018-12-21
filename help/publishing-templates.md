@@ -28,7 +28,7 @@ Templates and all their support files must be marked for publish in order for th
 
 To publish templates to Scene7 Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option, optionally enter a name for the publish job, and select the Start Publish button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Marking assets for publish](publishing-files.md#publish_after_uploading)
 >* [Creating a publish job](publishing-files.md#creating_a_publish_job)

@@ -18,7 +18,7 @@ If you define zoom targets and Image Maps for the images in your Swatch Set, the
 
 If you want to make zoom targets and Image Maps available to users, create zoom targets and Image Maps for the images in your Swatch Set. You can do that with the Image Maps or Zoom Targets tools in the Swatch Set screen or Browse Panel (in Detail view).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Creating zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)
 >* [Creating Image Maps](creating-image-maps.md#creating_image_maps)

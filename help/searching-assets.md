@@ -161,7 +161,7 @@ The Metadata Server Publish screen opens. This screen lets you set the following
 
 Click Publish Now to start the job. A confirmation appears, telling you the job has started.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Navigation basics](navigation-basics.md#navigation_basics)
 >* [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

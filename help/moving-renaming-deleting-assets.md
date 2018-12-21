@@ -73,7 +73,7 @@ After you create the list, follow these steps to use it to delete assets:
 
 When you delete assets with a text file, if any Scene7 Publishing System ID is not on the list, a message is displayed letting you know that Scene7 is “Unable to validate these entries in your list:” along with the list of entries. However, Scene7 will not generate an error on the Job screen.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Selecting assets in the Browse Panel](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
 >* [Preparing your assets and folders for uploading](uploading-files.md#preparing_your_assets_and_folders_for_uploading)

@@ -147,6 +147,6 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. In the Grid View, List View, or Details View, select one or more Offer Sets.
 1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Creating template parameters](creating-template-parameters.md#creating_template_parameters)

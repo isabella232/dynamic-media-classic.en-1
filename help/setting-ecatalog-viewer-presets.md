@@ -56,6 +56,6 @@ Follow these steps to create a eCatalog Viewer Preset (you must be an administra
 
 To delete an eCatalog Viewer Preset, select it on the Viewer Presets screen and click **Delete**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Viewer Presets](application-setup.md#viewer_presets)

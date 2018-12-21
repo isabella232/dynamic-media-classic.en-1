@@ -23,6 +23,6 @@ Do the following *before* you manually upload the Scene7 FXG file to the Scene7 
 * Upload fonts separately before you upload the FXG file. 
 * Upload related images found in the assets folder created by the FXG plug-in.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Uploading your files](uploading-files.md#uploading_your_files)

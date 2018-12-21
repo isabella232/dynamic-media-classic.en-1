@@ -65,6 +65,6 @@ You can choose to include all or some community features in the Mixed Media Set 
 
 1. Click **Save**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Creating and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets)

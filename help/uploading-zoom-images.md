@@ -30,6 +30,6 @@ To take best advantage of Scene7 Zoom features, prepare your zoom image files be
 
 **Color space** RGB is the color space for web image presentations; CMYK images are automatically converted to RGB when you upload them. Uploading CMYK images that have an embedded ICC color profile for the conversion to RGB is recommended. See also ICC profiles.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Uploading files](uploading-files.md#uploading_files)

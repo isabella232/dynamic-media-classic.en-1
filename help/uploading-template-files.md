@@ -27,7 +27,7 @@ For detailed instructions on uploading files, see [Uploading files](uploading-fi
 * If you’re uploading a PSD file, you can create a template from it. Scene7 creates a separate image for each layer in the PSD. In the Upload Job Options dialog box, select Photoshop Options, select the Maintain Layers option, and select the Create Template option. Then choose an option on the Layer Naming menu for naming the images that Scene7 creates from layers in the PSD. See [PSD upload options](psd-files.md#psd_upload_options).
 * If uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Uploading your files](uploading-files.md#uploading_your_files)
 >* [Working with PSD files](psd-files.md#working_with_psd_files)

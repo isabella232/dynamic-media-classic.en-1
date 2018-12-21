@@ -70,7 +70,7 @@ The Browse/Build Panel is where you do much of your work. What appears in this p
 
 **Build mode** Click Build, then choose an option to start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build screen opens. You can select the assets you want to work with before or after you enter Build mode.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Managing assets](about-managing-assets.md)
 >* [Viewing assets in the Browse Panel](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)

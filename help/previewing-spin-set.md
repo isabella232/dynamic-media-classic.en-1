@@ -34,6 +34,6 @@ See [Previewing an asset](previewing-asset.md#previewing_an_asset).
 1. Close the displayed viewer to return to the Viewer List screen.
 1. In the lower-right corner of the Viewer List window, click Close to return to the Assets screen.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Editing a Spin Set](creating-spin-set.md#editing-a-spin-set)

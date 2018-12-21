@@ -25,6 +25,6 @@ Because users can zoom images in Swatch Sets, make sure that the images are at l
 
 For detailed instructions on uploading assets, see [Uploading files](uploading-files.md#uploading_files).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Working with vignette, window covering, and cabinet files](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

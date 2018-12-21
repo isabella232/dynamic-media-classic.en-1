@@ -91,6 +91,6 @@ This table shows which additional options are available with different types of 
 |XML files|No|Contents are shown.|
 |ZIP files|No|Contents are not shown.|
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

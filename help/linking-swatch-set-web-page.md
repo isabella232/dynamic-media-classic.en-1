@@ -74,6 +74,6 @@ Using the Embed Code feature lets you review the viewer code for the selected Sw
 
 1. Click **Close**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publishing](publishing-files.md#publishing_files)

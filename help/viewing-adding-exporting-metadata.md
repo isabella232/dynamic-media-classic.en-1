@@ -214,7 +214,7 @@ When the property has the structure Open Choice or Closed Choice, you must provi
 |ID|Technical identifier for this value. The ID is not visible in the SPS UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.|
 |Label|UI-Name for this value.|
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Viewer Presets](application-setup.md#viewer_presets)
 >* [Metadata Presets](application-setup.md#metadata_presets)

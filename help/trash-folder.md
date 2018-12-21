@@ -52,6 +52,6 @@ To permanently delete assets from the Trash folder, select the Trash icon, to op
 
 **Deleting all assets** Click File > Empty Trash.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Delete assets](moving-renaming-deleting-assets.md#delete_assets)

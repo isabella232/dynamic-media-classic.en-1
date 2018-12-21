@@ -35,7 +35,7 @@ See also [Exporting assets from Scene7 Publishing System](exporting-assets-scene
 
    **Enable Export Original** Lets you export original master images. In the Export Selected Assets panel, users can open the Conversion drop-down menu and choose Export Original to export original files. Deselect this option if you want to force users to choose an Image Preset or choose conversion options when they export images.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Image Presets](application-setup.md#image_presets)
 >* [Choose Image Preset access permissions for a group](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)

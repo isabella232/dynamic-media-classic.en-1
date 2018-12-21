@@ -30,6 +30,6 @@ To publish your eCatalog to Scene7 Image Servers:
 
 1. Click **Start Publish**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publishing](publishing-files.md)

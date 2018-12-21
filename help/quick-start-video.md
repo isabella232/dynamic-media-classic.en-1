@@ -130,6 +130,6 @@ To integrate video into your website, you can do either one of the following:
 
 See [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Best practices for video encoding](uploading-encoding-videos.md#best_practices_for_video_encoding)

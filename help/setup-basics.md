@@ -27,7 +27,7 @@ Administrators can also set up Image Presets and Viewer Presets in the Setup scr
 
 **Viewer Presets** Viewer Presets determine how you see your rich media when you see it in a viewer.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Scene7 user roles and privileges](administration-setup.md#user_administration)
 >* [Image Presets](application-setup.md#image_presets)

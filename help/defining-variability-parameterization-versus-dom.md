@@ -20,7 +20,7 @@ Scene7 offers two techniques for managing variable content in a template. With b
 
 **Using DOM manipulation** This technique lets you take control over the design and the template on an XML level. Scene7 FXG files are XML. With this approach, you can edit your design template directly by way of its XML DOM (display object model). In Illustrator you mark variable elements with s7:elementIDs to later manipulate them with URL commands.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Parameterizing a template in Scene7](parameterizing-template-scene7.md#parameterizing_a_template_in_scene7)
 >* [DOM manipulation](dom-manipulation.md#dom_manipulation)

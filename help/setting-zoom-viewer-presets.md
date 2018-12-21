@@ -62,6 +62,6 @@ Follow these steps to create or edit a Zoom Viewer Preset:
 
 For information about managing Viewer Presets on the Viewer Presets screen, see [Viewer Presets](application-setup.md#viewer_presets).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Creating and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets)

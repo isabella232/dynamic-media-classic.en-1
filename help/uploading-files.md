@@ -307,7 +307,7 @@ The new job sends a notification to the address you specify so that the code at 
    >
    >Regularly scheduled jobs may not result in any files being published.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Working with asset folders](asset-folders.md#working_with_asset_folders)
 >* [Handling recurring upload and publish jobs](checking-job-files.md#handling_recurring_upload_and_publish_jobs)

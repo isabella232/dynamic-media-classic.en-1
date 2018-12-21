@@ -18,6 +18,6 @@ In the Browse panel, source videos are labeled “Master Video.” Encoded video
 
 See [Exporting assets from Scene7 Publishing System](exporting-assets-scene7-publishing-system.md#exporting_assets_from_scene7_publishing_system).
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_encoding_videos)

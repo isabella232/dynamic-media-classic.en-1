@@ -34,7 +34,7 @@ See [Previewing an asset](previewing-asset.md#previewing_an_asset).
 1. Close the displayed viewer to return to the Viewer List screen.
 1. In the lower-right corner of the Viewer List window, click Close to return to the Assets screen.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Setting up Zoom Viewer Presets](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets)
 >* [Configuring Default Viewers](application-setup.md#configuring_default_viewers)

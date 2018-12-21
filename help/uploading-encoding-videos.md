@@ -374,7 +374,7 @@ Administrators can delete custom Video Presets. Video presets that come with Sce
 1. On the Video Presets toolbar, click **Delete**.
 1. In the Delete Preset dialog box, click **Delete**.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Quick Start: Video](quick-start-video.md#quick-start-video)
 >* [Uploading and encoding videos](uploading-encoding-videos.md#uploading-and-encoding-videos)

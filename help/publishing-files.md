@@ -155,7 +155,7 @@ If you want your newly republished image assets to be available sooner than the 
 
 To flush the cache, click File &gt; Invalidate CDN. All selected files are removed from the cache. If there are no publishable assets, or if you are not a company admin, the Remove from CDN option is not available.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Checking job files](checking-job-files.md)
 >* [Editing, deleting, pausing, and resuming recurring jobs](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs)

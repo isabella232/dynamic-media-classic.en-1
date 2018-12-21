@@ -91,7 +91,7 @@ Text overflow indicators are controlled with the `markOverflowingTextFrame` modi
 |--- |--- |
 |markOverflowingTextFrame=0,1|The 1 value makes text flow indicators appear. Default is 0. (Although the default is 0, text overflow indicators in SPS are always enabled.) Note that the markOverflowingTextFrame modifier is case-sensitive.|
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Defining variability: Parameterization versus DOM manipulation](defining-variability-parameterization-versus-dom.md#defining_variability_parameterization_versus_dom_manipulation)
 >* [Publishing](publishing-files.md#publishing_files)

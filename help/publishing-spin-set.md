@@ -24,6 +24,6 @@ Mark your Spin Set for publish for it to be copied to Scene7 image servers. You 
 
 To publish a Spin Set to Scene7 Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option, optionally enter a name for the publish job, and select the Start Publish button.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Publishing](publishing-files.md#publishing_files)

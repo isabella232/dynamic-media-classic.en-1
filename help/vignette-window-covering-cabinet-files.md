@@ -20,6 +20,6 @@ Vignettes, window coverings, and cabinets are authored images. Using a different
 
 Upload vignettes, window covering, and cabinets as you would any other file.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Viewer Presets](application-setup.md#viewer_presets)

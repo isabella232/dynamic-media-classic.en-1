@@ -31,6 +31,6 @@ When you log in you have the option of entering your Marketing Cloud Org ID to u
    >
    >The first time you log in to Adobe Analytics, the Report Suite drop-down list is blank. You do not choose a report suite the first time you log in. After you log in for the first time, log out, and then return to the Adobe Analytics screen. Log in again to be able to choose a report suite.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Configuring Adobe Analytics reports](configuring-analytics-reports.md#configuring_adobe_analytics_reports)
