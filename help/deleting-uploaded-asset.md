@@ -42,36 +42,11 @@ The following is an example of a response when an image asset is deleted:
 
 You can use the following fields in the URL query string to delete an asset:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="rows" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28552" valign="top" width="NaN%"><p>URL parameter</p></th> 
-   <th class="cellrowborder" id="d19e28555" valign="top" width="NaN%"><p>Required/optional</p></th> 
-   <th class="cellrowborder" id="d19e28558" valign="top" width="NaN%"><p>Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28552 " valign="top" width="NaN%"><p><span class="code">op</span></p></td> 
-   <td class="cellrowborder" headers="d19e28555 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28558 " valign="top" width="NaN%"><p><span class="code">delete</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28552 " valign="top" width="NaN%"><p><span class="code">shared_secret</span></p></td> 
-   <td class="cellrowborder" headers="d19e28555 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28558 " valign="top" width="NaN%"><p>The shared-secret key for the company.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28552 " valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>For images:</p><p><span class="code">image_name</span></p></li> 
-     <li><p>For Vector:</p><p>fxg_name</p></li> 
-    </ul></td> 
-   <td class="cellrowborder" headers="d19e28555 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28558 " valign="top" width="NaN%"><p>Name of the asset to delete.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL parameter|Required/optional|Value|
+|--- |--- |--- |
+|op|Required|delete|
+|shared_secret|Required|The shared-secret key for the company.|
+|<ul><li>For images:image_name</li><li>For Vector:fxg_name|Required|Name of the asset to delete.</ul>|
 
 **Sample image URL:**
 

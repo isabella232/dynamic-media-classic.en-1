@@ -71,32 +71,12 @@ This effect uses the same options as Photoshop’s Unsharp Mask filter. Contrary
 
 Under Unsharp Masking, set the options you want. Setting options are described in the following table:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" id="WS77bcfb314d2978e71e03f6841611f94f84d-7f6b" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e30288" valign="top" width="NaN%"><p>Unsharp Mask options</p></th> 
-   <th class="cellrowborder" id="d19e30291" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30288 " valign="top" width="NaN%"><p>Amount</p></td> 
-   <td class="cellrowborder" headers="d19e30291 " valign="top" width="NaN%"><p>Controls the amount of contrast that is applied to edge pixels.</p><p>Think of it as the intensity of the effect. The main difference between the amount values of Unsharp Mask in SPS and the amount values in Adobe Photoshop, is that Photoshop has an amount range of 1% to 500%. Whereas, in SPS, the value range is 0.0 to 5.0. A value of 5.0 in SPS is the rough equivalent of 500% in Photoshop; a value of 0.9 is the equivalent of 90%, and so on. </p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30288 " valign="top" width="NaN%"><p>Radius</p></td> 
-   <td class="cellrowborder" headers="d19e30291 " valign="top" width="NaN%"><p>Controls the radius of the effect. The value range is 0-250.</p><p>The effect is run on all pixels in an image and radiates out from all pixels in all directions. The radius is measured in pixels. For example, to get a similar sharpening effect for a 2000 x 2000 pixel image and 500 x 500 pixel image, you would set a radius of two pixels on the 2000 x 2000 pixel image and a radius value of one pixel on the 500 x 500 pixel image. A larger value is used for an image that has more pixels.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30288 " valign="top" width="NaN%"><p>Threshold</p></td> 
-   <td class="cellrowborder" headers="d19e30291 " valign="top" width="NaN%"><p>Threshold is a range of contrast that is ignored when the Unsharp Mask filter is applied. This is important so that no "noise" is introduced to an image when this filter is used. The value range is 0-255, which is the number of brightness steps in a grayscale image. 0=black, 128=50% gray and 255=white.</p><p>For example, a threshold value of 12 ignores slight variations is skin tone brightness to avoid adding noise, but still add edge contrast to contrasty areas such as where eyelashes meet skin.</p><p>For example, if you have a photo of someone’s face, the Unsharp Mask affects the contrasty parts of the image, such as where eyelashes and skin meet to create an obvious area of contrast, and the smooth skin itself. Even the smoothest skin exhibits subtle changes in brightness values. If you do not use a threshold value, the filter accentuates these subtle changes in skin pixels. In turn, a noisy and undesirable effect is created while contrast on the eyelashes is increased, enhancing sharpness.</p><p>To avoid this issue, a threshold value is introduced that tells the filter to ignore pixels that do not change contrast dramatically, like smooth skin. </p><p>In the zipper graphic shown earlier, notice the texture next to the zippers. Image noise is exhibited because the threshold values were too low to suppress the noise.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30288 " valign="top" width="NaN%"><p>Monochrome</p></td> 
-   <td class="cellrowborder" headers="d19e30291 " valign="top" width="NaN%"><p>Select to unsharp-mask image brightness (intensity).</p><p>Deselect to unsharp-mask each color component separately.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Unsharp Mask options|Description|
+|--- |--- |
+|Amount|Controls the amount of contrast that is applied to edge pixels.<br><br>Think of it as the intensity of the effect. The main difference between the amount values of Unsharp Mask in SPS and the amount values in Adobe Photoshop, is that Photoshop has an amount range of 1% to 500%. Whereas, in SPS, the value range is 0.0 to 5.0. A value of 5.0 in SPS is the rough equivalent of 500% in Photoshop; a value of 0.9 is the equivalent of 90%, and so on.|
+|Radius|Controls the radius of the effect. <br><br>The value range is 0-250.The effect is run on all pixels in an image and radiates out from all pixels in all directions. The radius is measured in pixels. For example, to get a similar sharpening effect for a 2000 x 2000 pixel image and 500 x 500 pixel image, you would set a radius of two pixels on the 2000 x 2000 pixel image and a radius value of one pixel on the 500 x 500 pixel image. A larger value is used for an image that has more pixels.|
+|Threshold|Threshold is a range of contrast that is ignored when the Unsharp Mask filter is applied. This is important so that no "noise" is introduced to an image when this filter is used. The value range is 0-255, which is the number of brightness steps in a grayscale image. 0=black, 128=50% gray and 255=white.<br><br>For example, a threshold value of 12 ignores slight variations is skin tone brightness to avoid adding noise, but still add edge contrast to contrasty areas such as where eyelashes meet skin.<br><br>For example, if you have a photo of someone’s face, the Unsharp Mask affects the contrasty parts of the image, such as where eyelashes and skin meet to create an obvious area of contrast, and the smooth skin itself. Even the smoothest skin exhibits subtle changes in brightness values. If you do not use a threshold value, the filter accentuates these subtle changes in skin pixels. In turn, a noisy and undesirable effect is created while contrast on the eyelashes is increased, enhancing sharpness.<br><br>To avoid this issue, a threshold value is introduced that tells the filter to ignore pixels that do not change contrast dramatically, like smooth skin. <br><br>In the zipper graphic shown earlier, notice the texture next to the zippers. Image noise is exhibited because the threshold values were too low to suppress the noise.|
+|Monochrome|Select to unsharp-mask image brightness (intensity).<br><br>Deselect to unsharp-mask each color component separately.|
 
 See also [Sharpening an image](sharpening-image.md#sharpening_an_image).
 
@@ -106,36 +86,13 @@ See also [Sharpening images in Scene7 Publishing System and on Image Server](htt
 
 You can use Knockout Background to automatically remove the background of an image when you upload it. This technique is useful to draw attention to a particular object and make it stand out from a busy background.
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" id="WS77bcfb314d2978e71e03f6841611f94f84d-7f69" rules="all" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e30359" valign="top" width="NaN%"><p>KnockOut Background options</p></th> 
-   <th class="cellrowborder" id="d19e30362" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30359 " valign="top" width="NaN%"><p>Knockout Background</p></td> 
-   <td class="cellrowborder" headers="d19e30362 " valign="top" width="NaN%"><p>Select to enable or “turn on” the Knockout Background feature and options..</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30359 " valign="top" width="NaN%"><p>Corner</p></td> 
-   <td class="cellrowborder" headers="d19e30362 " valign="top" width="NaN%"><p>Required.</p><p>The corner of the image that is used to define the background color to knockout.</p><p>You can choose from <strong>Upper Left</strong>, <strong>Bottom Left</strong>, <strong>Upper Right</strong>, or <strong>Bottom Right</strong>.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30359 " valign="top" width="NaN%"><p>Fill Method</p></td> 
-   <td class="cellrowborder" headers="d19e30362 " valign="top" width="NaN%"><p>Required. </p><p>Controls pixel transparency from the Corner location that you set.</p><p>You can choose from the following fill methods:</p> 
-    <ul> 
-     <li><p><strong>Flood Fill</strong> - turns all pixels transparent that match the Corner that you have specified and are connected to it.</p></li> 
-     <li><p><strong>Match Pixel</strong> - turns all matching pixels transparent, regardless of their location on the image.</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e30359 " valign="top" width="NaN%"><p>Tolerance</p></td> 
-   <td class="cellrowborder" headers="d19e30362 " valign="top" width="NaN%"><p>Optional.</p><p>Controls the allowable amount of variation in pixel color matching based on the Corner location that you set.</p><p>Use a value of 0.0 to match pixel colors exactly or, use a value of 1.0 to allow for the greatest variation.</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|KnockOut Background options|Description|
+|:--- |:--- |
+|Knockout Background|Select to enable or “turn on” the Knockout Background feature and options..|
+|Corner|Required.<br><br>The corner of the image that is used to define the background color to knockout.<br><br>You can choose from <b>Upper Left, Bottom Left, Upper Right, or Bottom Right</b>.|
+|Fill Method|Required. <br><br>Controls pixel transparency from the Corner location that you set.<br><br>You can choose from the following fill methods: <ul><li><b>Flood Fill</b> - turns all pixels transparent that match the Corner that you have specified and are connected to it.</li><li><b>Match Pixel</b> - turns all matching pixels transparent, regardless of their location on the image.</li></ul>|
+|Tolerance|Optional.<br><br>Controls the allowable amount of variation in pixel color matching based on the Corner location that you set.<br><br>Use a value of 0.0 to match pixel colors exactly or, use a value of 1.0 to allow for the greatest variation.|
+
 
 >[!MORE_LIKE_THIS]
 >

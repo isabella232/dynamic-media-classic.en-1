@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# Getting disk usage information{#getting-disk-usage-information}
+# Getting disk usage information {#getting-disk-usage-information}
 
 You can use the `disk_info` parameter to retrieve information about a company’s disk space usage, as shown in the following example:
 
@@ -42,27 +42,10 @@ A sample response looks like the following:
 
 You can use the following fields in the URL query string to get disk usage information:
 
-<table border="1" cellpadding="4" cellspacing="0" frame="border" rules="rows" summary=""> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e28644" valign="top" width="NaN%"><p>URL parameter</p></th> 
-   <th class="cellrowborder" id="d19e28647" valign="top" width="NaN%"><p>Required/optional</p></th> 
-   <th class="cellrowborder" id="d19e28650" valign="top" width="NaN%"><p>Value</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28644 " valign="top" width="NaN%"><p><span class="code">op</span></p></td> 
-   <td class="cellrowborder" headers="d19e28647 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28650 " valign="top" width="NaN%"><p><span class="code">disk_info</span></p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e28644 " valign="top" width="NaN%"><p><span class="code">shared_secret</span></p></td> 
-   <td class="cellrowborder" headers="d19e28647 " valign="top" width="NaN%"><p>Required</p></td> 
-   <td class="cellrowborder" headers="d19e28650 " valign="top" width="NaN%"><p>The shared-secret key for the company</p></td> 
-  </tr> 
- </tbody> 
-</table>
+|URL parameter|Required/optional|Value|
+|--- |--- |--- |
+|op|Required|disk_info|
+|shared_secret|Required|The shared-secret key for the company|
 
 The following sample code gets disk information for 000Company:
 

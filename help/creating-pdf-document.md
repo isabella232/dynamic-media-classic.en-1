@@ -14,7 +14,7 @@ internal: n
 snippet: y
 ---
 
-# Creating a PDF document{#creating-a-pdf-document}
+# Creating a PDF document {#creating-a-pdf-document}
 
 The final step in the Web-to-Print process is generating the customized PDF. After end-users personalize the template using the web application you created, they create a final PDF document. This final PDF is generally sent to a print service provider for professional-grade printing. To make sure that the final PDF prints as expected, developers use the correct joboptions file and set up fonts, printer marks, and colors correctly.
 
@@ -31,92 +31,17 @@ To create a joboptions file in Illustrator:
 
    The following Job Option Settings are supported by Scene7:
 
-<table cellpadding="4" cellspacing="0"> 
- <tbody> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>General</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>Compatibility</p></li> 
-     <li><p>Object Level Compression</p></li> 
-     <li><p>Embed thumbnails</p></li> 
-     <li><p>Optimize for fast web view</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Images</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>Downsample</p></li> 
-     <li><p>Resolution</p></li> 
-     <li><p>Threshold</p></li> 
-     <li><p>Compression for color, gray, and mono</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Fonts</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>Embed all fonts (fonts are embedded by default)</p></li> 
-     <li><p>Embed OpenType fonts</p></li> 
-     <li><p>Subset embedded fonts when percent of characters used is less than:</p></li> 
-     <li><p>Always Embed List</p></li> 
-     <li><p>Never Embed List</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Color</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>Color Strategy (Tag only images is treated as tag everything)</p></li> 
-     <li><p>Document Rendering Intent</p></li> 
-     <li><p>Only the following working spaces are supported for 4.2.5. 4.3 will allow you to use any customer provide profile that has been uploaded to IPS.</p></li> 
-     <li><p>As a workaround you can specify the destination color space for the artwork to be converted to using the default color profiles for the company.</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>RGB</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>e-sRGB</p></li> 
-     <li><p>scRGB with encoding range [-4.0, 4.0]</p></li> 
-     <li><p>Lab D50</p></li> 
-     <li><p>PCS XYZ</p></li> 
-     <li><p>Flat XYZ</p></li> 
-     <li><p>Linear ROMM-RGB</p></li> 
-     <li><p>ROMM-RGB</p></li> 
-     <li><p>sYCC 8-bit</p></li> 
-     <li><p>e-sYCC 8-bit</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Gray</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ul> 
-     <li><p>Gray Gamma 1.8</p></li> 
-     <li><p>Gray Gamma 2.2</p></li> 
-     <li><p>Dot Gain 10%</p></li> 
-     <li><p>Dot Gain 15%</p></li> 
-     <li><p>Dot Gain 20%</p></li> 
-     <li><p>Dot Gain 25%</p></li> 
-     <li><p>Dot Gain 30%</p></li> 
-     <li><p>sGray</p></li> 
-    </ul></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Preserve CMYK values for calibrated CMYK color spaces</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p></p></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Advanced</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>Preserve OPI comments is always turned on</p></td> 
-  </tr> 
-  <tr> 
-   <td class="row-nocellborder" valign="top" width="NaN%"><p>Standards</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>Compliance Standard</p></td> 
-  </tr> 
- </tbody> 
-</table>
+    |Job Option|Description|
+    |--- |--- |
+    |General|<ul><li>Compatibility </li><li>Object Level Compression</li><li>Embed thumbnails</li><li>Optimize for fast web view</li></ul>|
+    |Images|<ul><li>Downsample</li><li>Resolution</li><li>Threshold</li><li>Compression for color, gray, and mono</li></ul>|
+    |Fonts|<ul><li>Embed all fonts (fonts are embedded by default)</li><li>Embed OpenType fonts</li><li>Subset embedded fonts when percent of characters used is less than:</li><li>Always Embed List</li><li>Never Embed List</li></ul>|
+    |Color|<ul><li>Color Strategy (Tag only images is treated as tag everything)</li><li>Document Rendering Intent</li><li>Only the following working spaces are supported for 4.2.5. 4.3 will allow you to use any customer provide profile that has been uploaded to IPS.</li><li>As a workaround you can specify the destination color space for the artwork to be converted to using the default color profiles for the company.</li></ul>|
+    |RGB|<ul><li>e-sRGB </li><li>scRGB with encoding range [-4.0, 4.0]</li><li>Lab D50</li><li>PCS XYZ</li><li>Flat XYZ</li><li>Linear ROMM-RGB</li><li>ROMM-RGB</li><li>sYCC 8-bit</li><li>e-sYCC 8-bit</li></ul>| 
+    |Gray|<ul><li>Gray Gamma 1.8</li><li>Gray Gamma 2.2</li><li>Dot Gain 10%</li><li>Dot Gain 15%</li><li>Dot Gain 20%</li><li>Dot Gain 25%</li><li>Dot Gain 30%</li><li>sGray</li></ul>|
+    |Preserve CMYK values for calibrated CMYK color spaces||
+    |Advanced|Preserve OPI comments is always turned on|
+    |Standards|Compliance Standard|
 
    >[!NOTE]
    >
@@ -185,32 +110,12 @@ When preparing a document for print production, printer marks may be needed to h
 
 You can use the modifiers shown in this table to replicate the printer marks available in Adobe Illustrator, InDesign, and Acrobat:
 
-<table cellpadding="4" cellspacing="0"> 
- <thead align="left"> 
-  <tr> 
-   <th class="cellrowborder" id="d19e22145" valign="top" width="NaN%"><p>Modifier/Values</p></th> 
-   <th class="cellrowborder" id="d19e22148" valign="top" width="NaN%"><p>Description</p></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code">bleedMargin</span>=top,left,bottom,right</p></td> 
-   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Specified in Acrobat with the Set Page Boxes option. Select BleedBox, then specify the margins with the Margin Controls option.</p><p>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going inwards. Values (0-1000) are in points.</p><p>New height=original height - (top+bottom)</p><p>New width= original width - (left+right)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code"></span><span class="code">mediaMargin</span>=top,left,bottom,right</p></td> 
-   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Specified in Acrobat with the Set Page Boxes option. Modify Custom Page Size under the Change Page Size option.</p><p>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going outwards. Values (0-1000) are in points.</p><p>New height=top+bottom+original height</p><p>New width=top+bottom+original width</p><p>The new height and new width values determine the new page size of the generated PDF.</p><p>Once a new Media Box is defined, all calculations of trim margin and bleed margin need to consider the new Media Box as the edge of the artwork.</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code"></span><span class="code">trimMargin</span>=top,left,bottom,right</p></td> 
-   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Specified in Acrobat with the Set Page Boxes option. Select Trim Box, then specify the margins with the Margin Controls option.</p><p>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going inwards. Values (0-1000) are in points.</p><p>New height=original height - (top+bottom)</p><p>New width=original width - (left+right)</p></td> 
-  </tr> 
-  <tr> 
-   <td class="cellrowborder" headers="d19e22145 " valign="top" width="NaN%"><p><span class="code">printerMark</span>= trim marks, bleed marks, registration marks, color bars, page information, style, line weight, layer embed</p></td> 
-   <td class="cellrowborder" headers="d19e22148 " valign="top" width="NaN%"><p>Values are as follows:</p><p>trim marks = 0,1 (default is 0)</p><p>bleed marks = 0,1 (default is 0)</p><p>registration marks = 0,1 (default is 0)</p><p>color bars = 0,1 (default is 0)</p><p>page information = 0,1 (default is 0)</p><p>style = <span class="code">Default</span>, <span class="code">InDesignJ1</span>, <span class="code">InDesignJ2</span>, <span class="code">Illustrator</span>, <span class="code">illustratorJ</span>, <span class="code">QuarkXPress</span> (default is <span class="code">Default</span>)</p><p>line weight= 0.125-0.2, both values inclusive (default is 0.25)</p><p>layer embed = 0, 1, with 1 creating a new layer containing all printer marks (default is 1)</p><p>Depending on what style is used, the marks and color bars appear different and match with the corresponding styles used by Acrobat.</p><p></p></td> 
-  </tr> 
- </tbody> 
-</table>
+|Modifier/Values|Description|
+|--- |--- |
+|bleedMargin=top,left,bottom,right|Specified in Acrobat with the Set Page Boxes option. Select BleedBox, then specify the margins with the Margin Controls option.<br><br>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going inwards. Values (0-1000) are in points.<br><br>New height=original height - (top+bottom)<br><br>New width= original width - (left+right)|
+|mediaMargin=top,left,bottom,right|Specified in Acrobat with the Set Page Boxes option. Modify Custom Page Size under the Change Page Size option.<br><br>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going outwards. Values (0-1000) are in points.<br><br>New height=top+bottom+original height<br><br>New width=top+bottom+original width<br><br>The new height and new width values determine the new page size of the generated PDF.<br><br>Once a new Media Box is defined, all calculations of trim margin and bleed margin need to consider the new Media Box as the edge of the artwork.|
+|trimMargin=top,left,bottom,right|Specified in Acrobat with the Set Page Boxes option. Select Trim Box, then specify the margins with the Margin Controls option.<br><br>Values represent the distance of the top, left, bottom, and right edges from the original edges of the artwork (the media box) going inwards. Values (0-1000) are in points.<br><br>New height=original height - (top+bottom)<br><br>New width=original width - (left+right)|
+|printerMark= trim marks, bleed marks, registration marks, color bars, page information, style, line weight, layer embed|Values are as follows:<br><br>trim marks = 0,1 (default is 0)<br><br>bleed marks = 0,1 (default is 0)<br><br>registration marks = 0,1 (default is 0)<br><br>color bars = 0,1 (default is 0)<br><br>page information = 0,1 (default is 0)<br><br>style = Default, InDesignJ1, InDesignJ2, Illustrator, illustratorJ, QuarkXPress (default is Default)<br><br>line weight= 0.125-0.2, both values inclusive (default is 0.25)<br><br>layer embed = 0, 1, with 1 creating a new layer containing all printer marks (default is 1)<br><br>Depending on what style is used, the marks and color bars appear different and match with the corresponding styles used by Acrobat.|
 
 Note the following about printer marks:
 

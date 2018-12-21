@@ -138,43 +138,24 @@ If you use a third-party video player or a custom built video player instead of 
 
 1. In Scene7 Publishing System, on the Global Navigation bar, click **Setup** &gt; **Application Setup** &gt; **General Settings**.
 1. Depending on the type of URL you want to use, do one of the following tasks:
+  * To generate a direct HLS streaming video URL (multi-bitrate)
 
-<table cellpadding="4" cellspacing="0"> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>To generate a direct HLS streaming video URL (multi-bitrate)</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ol> 
-     <li><p>On the <strong>Application General Settings</strong> page, in the <strong>Servers</strong> group, in the <strong>Published Server Name</strong> text field, construct the direct URL using the following syntax:</p><p><span class="code">server/is/content/company/folder/filename.m3u8</span></p><p>For example, suppose the Published server name is <span class="code">https://s7d9.scene7.com/</span>. Using the syntax in step 2, the direct URL might look like the following:</p></li> 
-     <li><p><span class="code">https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8</span></p></li> 
-    </ol></td> 
-  </tr> 
- </tbody> 
-</table>
+     On the **Application General Settings** page, in the **Servers** group, in the **Published Server Name** text field, construct the direct URL using the following syntax: `server/is/content/company/folder/filename.m3u8`
+    For example, suppose the Published server name is `https://s7d9.scene7.com/.` Using the syntax in step 2, the direct URL might look like the following:
+  `https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8`
 
-<table cellpadding="4" cellspacing="0"> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>To generate a direct HLS streaming video URL (single bit rate)</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ol> 
-     <li><p>On the <strong>Application General Settings</strong> page, in the <strong>Servers</strong> group, in the <strong>HLS Streaming Server Name</strong> text field, construct the direct URL using the following syntax:</p><p><span class="code">server/company/folder/filename.ext.m3u8</span></p><p>For example, suppose the HLS streaming server name is <span class="code">https://s7mbrstream.scene7.com/hls-vod/</span>. Using the syntax in step 2, the direct URL might look like the following:</p><p><span class="code">https://s7mbrstream.scene7.com/hls-vod/GeoRetail/MBR/ToyStory3_Teaser1_High_iPad_768x432_1296K.mp4.m3u8</span></p></li> 
-    </ol></td> 
-  </tr> 
- </tbody> 
-</table>
+  * To generate a direct HLS streaming video URL (single bit rate)
 
-<table cellpadding="4" cellspacing="0"> 
- <tbody> 
-  <tr> 
-   <td class="cellrowborder" valign="top" width="NaN%"><p>To generate a direct progressive video URL</p></td> 
-   <td class="cellrowborder" valign="top" width="NaN%"> 
-    <ol> 
-     <li><p>On the <strong>Application General Settings</strong> page, in the <strong>Servers</strong> group, in the <strong>Progressive Video Server Name</strong> text field, construct the direct eVideo URL using the following syntax:</p><p><span class="code">server/company/folder/filename</span></p><p>For example, suppose the progressive video server name is <span class="code">https://s7d9.scene7.com/is/content/</span>. Using the syntax in step 2, the direct URL might look like the following:</p><p><span class="code">https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4</span></p></li> 
-    </ol></td> 
-  </tr> 
- </tbody> 
-</table>
+    On the **Application General Settings** page, in the **Servers** group, in the **HLS Streaming Server Name** text field, construct the direct URL using the following syntax:
+    `server/company/folder/filename.ext.m3u8`
+    For example, suppose the HLS streaming server name is `https://s7mbrstream.scene7.com/hls-vod/`. Using the syntax in step 2, the direct URL might look like the following:
+    `https://s7mbrstream.scene7.com/hls-vod/GeoRetail/MBR/ToyStory3\_Teaser1\_High\_iPad\_768x432\_1296K.mp4.m3u8`
+
+  * To generate a direct progressive video URL
+
+    On the **Application General Settings** page, in the **Servers** group, in the **Progressive Video Server Name** text field, construct the direct eVideo URL using the following syntax: `server/company/folder/filename`
+    For example, suppose the progressive video server name is `https://s7d9.scene7.com/is/content/`. Using the syntax in step 2, the direct URL might look like the following:
+    `https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4`
 
 ## Working with video thumbnails {#working-with-video-thumbnails}
 
