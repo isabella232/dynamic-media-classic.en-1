@@ -231,7 +231,7 @@ See also [Instant Publish Notice PDF](https://microsite.omniture.com/t2/help/en_
 
 **Process metadata files (Via FTP uploads only)** Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 
-See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import_metadata_via_ftp).
+See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata-via-ftp).
 
 **Crop Options** To automatically crop white-space pixels from an image, open the Crop menu, choose Manual, and enter pixel measurements in the Top, Right, Bottom, and Left fields to crop from the sides. You can also choose Trim on the Crop menu and choose these options:
 
@@ -255,7 +255,7 @@ See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import_meta
 
 **Image Editing Options** You can preserve the clipping masks in images, and choose a color profile.
 
-See [Image editing options at upload](image-editing-options-upload.md#image_editing_options_at_upload).
+See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
 **PostScript Options** You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 

@@ -34,13 +34,13 @@ At minimum, you need 8-12 shots of an item for a one-dimensional Spin Set and 16
 
 Select the Upload button on the Global Navigation bar to upload spin images from your computer or network to the Scene7 Publishing System.
 
-See [Guidelines for shooting Spin Set images](creating-spin-set.md#guidelines_for_shooting_spin_set_images).
+See [Guidelines for shooting Spin Set images](creating-spin-set.md#guidelines-for-shooting-spin-set-images).
 
 **2. Creating a Spin Set**
 
 To create a Spin Set, click the Build button and choose Spin Sets. In the Spin Set Size dialog box, choose how many rows and cells you want, and click OK. Then drag images into the grid on the Spin Set screen.
 
-See [Creating a Spin Set](creating-spin-set.md#creating_a_spin_set).
+See [Creating a Spin Set](creating-spin-set.md#creating-a-spin-set).
 
 <!-- 
 
@@ -66,7 +66,7 @@ Last Modified Date:
 
 To edit a Spin Set, select its Edit rollover button. The Spin Set screen opens. Add, remove, and change the position of images. You can change the position of rows in two-dimensional spin sets.
 
-See [Editing a Spin Set](creating-spin-set.md#editing_a_spin_set).
+See [Editing a Spin Set](creating-spin-set.md#editing-a-spin-set).
 
 **4. Setting up Spin Set Viewer Presets**
 

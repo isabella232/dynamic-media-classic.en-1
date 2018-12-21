@@ -86,17 +86,17 @@ This table describes the attributes that support stroked text.
 
 |Attribute|Description|
 |--- |--- |
-|s7:fill <Boolean> (S7FXG Only)|Specifies whether fill is enabled for text. Default is true.|
-|s7:stroke <Boolean> (S7FXG Only)|Specifies whether stroke is enabled for text. Default is false.|
-|s7:weight <number> (S7FXG Only)|Specifies the weight of the stroke for text in points. Default is 1 point.|
-|s7:joints <string> (miter, round, bevel) (S7FXG Only)|Specifies the type of join of the stroke. Default is round.|
-|s7:caps <string> (none, round, square) (S7FXG Only)|Specifies the type of cap of the stroke. Default is round.|
-|s7:miterLimit <number> (S7FXG Only)|Specifies the limit of the miter when join is miter join for the stroke. Default is 4.|
-|s7:strokeOverprint <Boolean> (S7FXG Only)|Specifies whether the overprint is enabled for stroke. Default is false.|
+|s7:fill `<Boolean> `(S7FXG Only)|Specifies whether fill is enabled for text. Default is true.|
+|s7:stroke `<Boolean>` (S7FXG Only)|Specifies whether stroke is enabled for text. Default is false.|
+|s7:weight `<number>` (S7FXG Only)|Specifies the weight of the stroke for text in points. Default is 1 point.|
+|s7:joints `<string>` (miter, round, bevel) (S7FXG Only)|Specifies the type of join of the stroke. Default is round.|
+|s7:caps `<string>` (none, round, square) (S7FXG Only)|Specifies the type of cap of the stroke. Default is round.|
+|s7:miterLimit `<number>` (S7FXG Only)|Specifies the limit of the miter when join is miter join for the stroke. Default is 4.|
+|s7:strokeOverprint `<Boolean>` (S7FXG Only)|Specifies whether the overprint is enabled for stroke. Default is false.|
 |s7:strokeColorName (S7FXG Only)|Same as s7:colorName, except it defines the name of the color for the stroke.|
 |s7:strokeColorValue (S7FXG Only)|Same as s7:colorValue, except it defines the value of the color being used for the stroke.|
 |s7:strokeColorspace (S7FXG Only)|Same as s7:colorspace, except it defines the colorspace of the stroke.|
-|flm:dashPattern <array> (S7FXG Only)|By default there are no patterns for the dashes and gaps. This attribute defines the dash/gap pattern of the stroke. The first value is the dash of the stroke. The second is the gap in between the dashes. You can extend the array for multiple values in the same manner with alternate values being specified as dash and gap.|
+|flm:dashPattern `<array>` (S7FXG Only)|By default there are no patterns for the dashes and gaps. This attribute defines the dash/gap pattern of the stroke. The first value is the dash of the stroke. The second is the gap in between the dashes. You can extend the array for multiple values in the same manner with alternate values being specified as dash and gap.|
 
 ## Using warped text {#using-warped-text}
 

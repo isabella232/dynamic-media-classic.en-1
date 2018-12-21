@@ -32,7 +32,7 @@ In general, the more images you have in a Spin Set, the better the image spinnin
 * Make sure that product details are well lighted and in focus.
 * Take spin images for fashion clothing with a mannequin or model. Often the mannequin is either completely masked (using a glass mannequin) or a stylized mannequin/dressform is shown in the image. You can create an on-model spin set by defining the number of angles. Mark each angle with tape on the floor to guide the model to step and look in the direction of each shot.
 
-## Creating a Spin Set {#creating-a-spin-set}
+## Creating a Spin Set {#create}
 
 Be aware that the order in which the Spin Set is authored or created in Scene7 Publishing System is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction . Therfore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
 

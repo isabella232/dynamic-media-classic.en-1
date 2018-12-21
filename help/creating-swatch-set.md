@@ -20,7 +20,7 @@ A Swatch Set gives users the opportunity to view an item in a different color, p
 
 For example, suppose you want to present images of caps with different color bills; the bills are red, green, and blue. In this case, you need three shots of the same cap. You need one shot with a red, one with a green, and one with a blue bill. You also need a red, green, and blue color swatch. The color swatches serve as the thumbnails that users click in the Swatch Set Viewer to see the red-billed, green-billed, or blue-billed cap.
 
-## Creating a Swatch Set {#creating-a-swatch-set}
+## Creating a Swatch Set {#create}
 
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
 |“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|

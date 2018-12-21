@@ -61,6 +61,6 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 
 >[!MORE_LIKE_THIS]
 >
->* [Image editing options at upload](image-editing-options-upload.md#image_editing_options_at_upload)
+>* [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload)
 >* [Cropping white space from a PDF file](pdfs.md#cropping_white_space_from_a_pdf_file)
 >* [Cropping from the sides of PDF pages](pdfs.md#cropping_from_the_sides_of_pdf_pages)

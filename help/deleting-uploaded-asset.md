@@ -7,7 +7,6 @@ uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/user_generated_content
 discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 index: y
 internal: n

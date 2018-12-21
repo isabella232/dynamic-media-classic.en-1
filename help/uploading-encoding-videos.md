@@ -7,7 +7,6 @@ uuid: 9a7d6513-b10c-40b0-aebb-18a795c2b8d1
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 ---
 
@@ -29,17 +28,17 @@ Scene7 offers two workflows for uploading video files:
 
 * Make sure the master source video files you want to encode are supported.
 
-  See [Supported video file types for encoding](uploading-encoding-videos.md#supported_video_file_types_for_encoding).
+  See [Supported video file types for encoding](uploading-encoding-videos.md#supported-video-file-types-for-encoding).
 
 * Choose a video encoding preset.
 
-  See [Video presets for encoding video files](application-setup.md#video_presets_for_encoding_video_files).  
+  See [Video presets for encoding video files](application-setup.md#video-presets-for-encoding-video-files).  
   
-  See [Best practices for video encoding](uploading-encoding-videos.md#best_practices_for_video_encoding).
+  See [Best practices for video encoding](uploading-encoding-videos.md#best-practices-for-video-encoding).
 
 Scene7 also generates video thumbnails. You can learn more about video thumbnails, how to obtain their URLs, and modifying poster frames.
 
-See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#working_with_video_thumbnails).
+See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#working-with-video-thumbnails).
 
 **To upload and encode videos**
 
@@ -65,10 +64,10 @@ Do one of the following:
    * Do one of the following:
      * Best practice is to use the following method.
        Select **Adaptive Video Encoding**.
-       See [Adaptive Video (default)](application-setup.md#adaptive_video_default).
+       See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
    *   Optional, if you want to use individual encoding settings, do the following.
        Expand **Single Encoding Presets**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
-       See [Desktop video encoding presets](application-setup.md#desktop_video_encoding_presets), [Mobile video encoding presets](application-setup.md#mobile_video_encoding_presets), [Tablet video encoding presets](application-setup.md#tablet_video_encoding_presets).
+       See [Desktop video encoding presets](application-setup.md#desktop-video-encoding-presets), [Mobile video encoding presets](application-setup.md#mobile-video-encoding-presets), [Tablet video encoding presets](application-setup.md#tablet-video-encoding-presets).
 1. In the Upload Job Options dialog box, click **Save**.
 1. On the Upload page, make sure **Publish After Uploading** is checked.
 1. On the Upload page, in the lower-right corner, click **Submit Upload**.
@@ -81,10 +80,10 @@ If you want to re-encode a video file that you previously uploaded
 1. Do one of the following:
    * Best practice is to use the following method.
      Select **Adaptive Video**.
-     See [Adaptive Video (default)](application-setup.md#adaptive_video_default).
+     See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
    * Optional, if you want to use individual encoding settings, do the following.
      Expand **Single Encoding Presets**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
-     See [Desktop video encoding presets](application-setup.md#desktop_video_encoding_presets), [Mobile video encoding presets](application-setup.md#mobile_video_encoding_presets), [Tablet video encoding presets](application-setup.md#tablet_video_encoding_presets).
+     See [Desktop video encoding presets](application-setup.md#desktop-video-encoding-presets), [Mobile video encoding presets](application-setup.md#mobile-video-encoding-presets), [Tablet video encoding presets](application-setup.md#tablet-video-encoding-presets).
 1. In the Reprocess Assets dialog box, click **Submit**.
 
 When you use Adaptive Video encoding preset or you use multiple single encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
@@ -120,7 +119,7 @@ The following table lists video file types (with permitted video codecs) that yo
 
 >[!NOTE]
 >
->The Jobs screen alerts you if you upload and attempt to encode a video file but the file is rejected because it contains an incompatible codec or file container. For more information, see [Checking job files](checking-job-files.md#checking_job_files).
+>The Jobs screen alerts you if you upload and attempt to encode a video file but the file is rejected because it contains an incompatible codec or file container. For more information, see [Checking job files](checking-job-files.md).
 
 ## Best practices for video encoding {#best-practices-for-video-encoding}
 
@@ -253,7 +252,7 @@ Adobe Scene7 recommends using MP4 H.264 video encoding presets. Because MP4 file
 
 Master video files created with video production equipment and video-editing software are often too large and not in the proper format for delivery to online destinations. To convert digital video to the proper format and specifications for playback on different screens, you can *transcode* video files (a process also known as *encoding*). During the encoding process, the video is compressed to a smaller, efficient file size for optimal delivery to the web and to mobile devices.
 
-See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
+See [Uploading and encoding videos](uploading-encoding-videos.md#uploading-and-encoding-videos).
 
 Scene7 gives you a library of predefined video encoding presets that reflect the most common encoding settings used today. These encoding presets are optimized for playback on target screens. In addition, administrators can create their own video encoding presets to customize the size and playback quality of videos to end users. All video encoding presets, whether out-of-the-box from Scene7, or custom-made, output video in the MP4 file format.
 
@@ -266,11 +265,11 @@ On the Video Presets screen, administrators can set up and manage video encoding
 
 Any video that you upload to Scene7 Publishing System or that you encode in Scene7 Publishing System is treated as “video”. In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Scene7 Publishing System. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
 
-See [Previewing videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+See [Previewing videos in a video viewer](previewing-videos-video-viewer.md#previewing-videos-in-a-video-viewer).
 
-See [Linking a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
+See [Linking a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking-a-video-url-to-a-mobile-site-or-a-website).
 
-See [Embedding the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page).
+See [Embedding the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding-the-video-viewer-on-a-web-page).
 
 For video assets that you upload and encode in Scene7 Publishing System, video is delivered in the following file format:
 
@@ -345,7 +344,7 @@ Scene7 has set maximum limits on the target data rate, resolution height, and re
 
 1. On the Add Video Preset page or the Edit Video Preset page, set the Video Preset options you want.
 
-   See [Best practices for video encoding](uploading-encoding-videos.md#best_practices_for_video_encoding) for recommended settings.
+   See [Best practices for video encoding](uploading-encoding-videos.md#best-practices-for-video-encoding) for recommended settings.
 
     |Video Preset option|Description|
     |--- |--- |
@@ -377,6 +376,6 @@ Administrators can delete custom Video Presets. Video presets that come with Sce
 
 >[!MORE_LIKE_THIS]
 >
->* [Quick Start: Video](quick-start-video.md#quick_start_video)
->* [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_encoding_videos)
->* [Working with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets)
+>* [Quick Start: Video](quick-start-video.md#quick-start-video)
+>* [Uploading and encoding videos](uploading-encoding-videos.md#uploading-and-encoding-videos)
+>* [Working with video viewer presets](previewing-videos-video-viewer.md#working-with-video-viewer-presets)

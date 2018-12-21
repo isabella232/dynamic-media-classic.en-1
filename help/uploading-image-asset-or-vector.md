@@ -122,7 +122,7 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * A file size limit.
 * A list of filename extensions.
 * Whether or not to preserve the color profile and file name associated with the asset.
-* Whether or not to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. See Knockout Background in [Image Editing options at upload](image-editing-options-upload.md#image_editing_options_at_upload).
+* Whether or not to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. See Knockout Background in [Image Editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload
 
 <!-- 
@@ -285,7 +285,7 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * A file size limit.
 * A list of filename extensions.
 * Whether or not to preserve the color profile and file name associated with the asset.
-* Whether or not to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. See Knockout Background in [Image Editing options at upload](image-editing-options-upload.md#image_editing_options_at_upload).
+* Whether or not to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. See Knockout Background in [Image Editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload
 
 <!-- 

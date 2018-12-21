@@ -18,7 +18,7 @@ snippet: y
 
 Creating an eCatalog entails ordering the pages, choosing the page layout, and linking the pages by drawing Image Maps and entering rollover and hypertext link data. Optionally, you can customize the TOC so that viewers see page names rather than page numbers in the eCatalog Viewer.
 
-## Creating an eCatalog {#creating-an-ecatalog}
+## Creating an eCatalog {#create}
 
 You can include image files as well as PDF files in your eCatalog.
 

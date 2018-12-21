@@ -18,7 +18,7 @@ snippet: y
 
 To create a multiple-view Image Set, you need images that show an item from different points of view or show different aspects of the same item. The goal is to present viewers with images of an item so they get a solid idea of what an item looks like or does.
 
-## Creating an Image Set {#creating-an-image-set}
+## Creating an Image Set {#create}
 
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
 

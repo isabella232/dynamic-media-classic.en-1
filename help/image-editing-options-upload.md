@@ -93,7 +93,6 @@ You can use Knockout Background to automatically remove the background of an ima
 |Fill Method|Required. <br><br>Controls pixel transparency from the Corner location that you set.<br><br>You can choose from the following fill methods: <ul><li><b>Flood Fill</b> - turns all pixels transparent that match the Corner that you have specified and are connected to it.</li><li><b>Match Pixel</b> - turns all matching pixels transparent, regardless of their location on the image.</li></ul>|
 |Tolerance|Optional.<br><br>Controls the allowable amount of variation in pixel color matching based on the Corner location that you set.<br><br>Use a value of 0.0 to match pixel colors exactly or, use a value of 1.0 to allow for the greatest variation.|
 
-
 >[!MORE_LIKE_THIS]
 >
 >* [Cropping an image](cropping-image.md#cropping_an_image)

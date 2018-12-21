@@ -18,7 +18,7 @@ snippet: y
 
 An ICC (International Color Consortium) profile is a file that describes how to correctly convert image files from one color space to another. ICC profiles help you to get the correct colors for your images. For example, to correctly display images designed for printing on a computer monitor, you can choose an ICC profile. This profile converts the image to a different color space and makes sure that the colors display correctly online.
 
-In the Scene7 Publishing System, you can choose an ICC profile to convert images to a different color space when you upload the images. All standard Photoshop ICC profiles are available by default on SPS. To see the names of color profiles on the Upload screen, select the Color Profile menu. Then choose Custom From &gt; To, and choose an ICC profile name on the Converted From and Converted To menus. See [Image editing options at upload](image-editing-options-upload.md#image_editing_options_at_upload).
+In the Scene7 Publishing System, you can choose an ICC profile to convert images to a different color space when you upload the images. All standard Photoshop ICC profiles are available by default on SPS. To see the names of color profiles on the Upload screen, select the Color Profile menu. Then choose Custom From &gt; To, and choose an ICC profile name on the Converted From and Converted To menus. See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
 As well as using the default ICC profiles, you can upload other ICC profiles to SPS and make them available for color space conversion. Switch to Detail view in the Browse Panel to investigate the profile class, color space type, and PCS type of an ICC profile.
 

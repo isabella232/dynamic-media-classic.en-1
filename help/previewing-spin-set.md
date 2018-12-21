@@ -38,4 +38,4 @@ See [Previewing an asset](previewing-asset.md#previewing_an_asset).
 
 >[!MORE_LIKE_THIS]
 >
->* [Editing a Spin Set](creating-spin-set.md#editing_a_spin_set)
+>* [Editing a Spin Set](creating-spin-set.md#editing-a-spin-set)
