@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Creating an Image Set{#creating-an-image-set}

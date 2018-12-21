@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Viewing Swatch Sets{#viewing-swatch-sets}

@@ -7,9 +7,7 @@ uuid: 4cc64469-4369-44a9-83db-63bad51aba8a
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Adding captions to video{#adding-captions-to-video}

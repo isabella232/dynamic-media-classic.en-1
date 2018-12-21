@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: efa2c56e-4543-47fa-a4e8-b94021102d01
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Editing images{#editing-images}

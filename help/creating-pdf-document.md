@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: 87e91e8e-10a2-4fba-87c7-aad2bd798146
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Creating a PDF document {#creating-a-pdf-document}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking URLs to your web application{#linking-urls-to-your-web-application}

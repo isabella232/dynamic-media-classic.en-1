@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: c04c1331-8d94-449b-9693-1488c94084dc
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Working with PostScript and Illustrator files{#working-with-postscript-and-illustrator-files}

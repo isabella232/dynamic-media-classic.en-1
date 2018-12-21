@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: 890ca93e-3146-4347-864b-bd5e94037038
-index: y
-internal: n
-snippet: y
+
 ---
 
 # DOM manipulation{#dom-manipulation}

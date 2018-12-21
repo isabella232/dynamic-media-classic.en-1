@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 05e443b2-ac15-4d87-859a-271699593304
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Support {#support}

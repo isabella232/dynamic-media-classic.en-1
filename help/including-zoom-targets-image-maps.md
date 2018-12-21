@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ef0c292f-3240-4c62-8f32-25de8e4922ad
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Including zoom targets and Image Maps in Image Sets{#including-zoom-targets-and-image-maps-in-image-sets}

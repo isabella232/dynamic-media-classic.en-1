@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: de21dca9-99fe-4183-b647-debfe112fda4
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Uploading an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}

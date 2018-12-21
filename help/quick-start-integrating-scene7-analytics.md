@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: abec9a85-013c-4030-b129-bf27a89cb464
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Quick Start: Integrating Scene7 and Adobe Analytics {#quick-start-integrating-scene-and-adobe-analytics}

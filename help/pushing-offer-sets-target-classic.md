@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
 discoiquuid: 39a05654-4f66-4f1e-aec5-ebe6d174353f
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Pushing offer sets to Adobe Target Classic{#pushing-offer-sets-to-adobe-target-classic}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Setting up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}

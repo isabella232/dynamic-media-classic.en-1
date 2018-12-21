@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
 discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Quick Start: Target Classic integration{#quick-start-target-classic-integration}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Creating eCatalog Image Maps{#creating-ecatalog-image-maps}

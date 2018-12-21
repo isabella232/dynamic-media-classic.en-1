@@ -4,9 +4,7 @@ seo-title: Scene7 overview
 description: null
 seo-description: Learn how to preview an asset.
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Scene7 Overview {#scene7-overview}

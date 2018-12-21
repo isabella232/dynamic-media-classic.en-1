@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 989dba07-448a-45b1-b157-af50abb5359a
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking a template to a web page{#linking-a-template-to-a-web-page}

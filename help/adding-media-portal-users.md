@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Adding and managing Media Portal users{#adding-and-managing-media-portal-users}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Quick Start: Mixed Media Sets{#quick-start-mixed-media-sets}

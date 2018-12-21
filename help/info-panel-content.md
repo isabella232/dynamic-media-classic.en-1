@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Managing Info Panel content in eCatalogs{#managing-info-panel-content-in-ecatalogs}

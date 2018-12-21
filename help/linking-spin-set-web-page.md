@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking a Spin Set to a web page{#linking-a-spin-set-to-a-web-page}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: 5b844afe-ac55-4dd2-8fe8-125a9c9af948
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Defining variability: Parameterization versus DOM manipulation{#defining-variability-parameterization-versus-dom-manipulation}

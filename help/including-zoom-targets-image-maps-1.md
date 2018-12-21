@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: f75f6d5b-d689-4640-838f-a32d77859f62
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Including zoom targets and Image Maps in Swatch Sets{#including-zoom-targets-and-image-maps-in-swatch-sets}

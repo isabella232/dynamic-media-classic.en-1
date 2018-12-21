@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 8e6ce2bf-c99b-4106-942a-1716f152c7b2
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Selecting assets in the Browse panel{#selecting-assets-in-the-browse-panel}

@@ -8,9 +8,7 @@ contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: b362959d-f997-4877-b470-fffa23bc22a4
-index: y
-internal: n
-snippet: y
+
 ---
 
 # About managing assets{#about-managing-assets}

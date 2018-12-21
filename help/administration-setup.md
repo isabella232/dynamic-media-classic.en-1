@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Administration Setup{#administration-setup}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: df1a9ff5-a5ba-4480-ba0d-a19bc665f907
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Parameterizing a template in Scene7{#parameterizing-a-template-in-scene}

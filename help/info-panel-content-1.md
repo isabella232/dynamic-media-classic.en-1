@@ -9,9 +9,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 content-type: reference
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Managing Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}

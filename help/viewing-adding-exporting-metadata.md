@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Viewing, adding, and exporting metadata{#viewing-adding-and-exporting-metadata}

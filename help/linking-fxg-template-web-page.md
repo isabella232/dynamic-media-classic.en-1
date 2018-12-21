@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: 3c1a5da4-0bee-47c3-9e3f-f8b961c54d47
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking an FXG template to a web page{#linking-an-fxg-template-to-a-web-page}

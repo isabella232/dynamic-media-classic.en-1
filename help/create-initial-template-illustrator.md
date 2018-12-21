@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template-publishing
 discoiquuid: 07f3edac-0330-4c6e-bacc-ba2f74d34861
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Create the initial template in Adobe Illustrator{#create-the-initial-template-in-adobe-illustrator}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Video SEO (Search Engine Optimization){#video-seo-search-engine-optimization}

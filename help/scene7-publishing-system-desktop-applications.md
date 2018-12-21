@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: b6d1de3d-8551-4a61-83b7-cf1f70a5a959
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Adobe Scene7 Publishing System desktop applications{#adobe-scene-publishing-system-desktop-applications}

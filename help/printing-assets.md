@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: e4a2a5b8-a074-4f0e-a607-0c47acbb81b4
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Printing assets{#printing-assets}

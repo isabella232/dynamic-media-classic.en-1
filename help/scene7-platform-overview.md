@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Adobe Scene7 platform overview{#adobe-scene-platform-overview}

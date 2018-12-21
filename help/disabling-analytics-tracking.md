@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: 3f1f5575-9fe5-436c-b009-99f3bff0b21f
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Disabling Adobe Analytics tracking{#disabling-adobe-analytics-tracking}

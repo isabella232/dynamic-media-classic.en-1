@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: 18644a53-92da-40ab-b961-318d8332c54d
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Enabling Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}

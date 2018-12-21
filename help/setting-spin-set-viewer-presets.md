@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Setting up Spin Set Viewer Presets{#setting-up-spin-set-viewer-presets}

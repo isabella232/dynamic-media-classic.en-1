@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 8164466e-2520-482a-88ec-6191fdc77ea3
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Exporting assets from Scene7 Publishing System{#exporting-assets-from-scene-publishing-system}

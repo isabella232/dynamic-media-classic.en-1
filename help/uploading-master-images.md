@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 8c94bafc-94cc-496f-a394-a945cd7b02cf
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Uploading master images{#uploading-master-images}

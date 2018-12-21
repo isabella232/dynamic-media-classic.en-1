@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 4b32ffff-4387-4699-9ba9-c3b23a2c3607
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Previewing a Spin Set{#previewing-a-spin-set}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Best practice: Using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}

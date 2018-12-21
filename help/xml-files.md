@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: 16216ce8-a81f-4efa-8ca6-a985256604db
-index: y
-internal: n
-snippet: y
+
 ---
 
 # XML files {#xml-files}

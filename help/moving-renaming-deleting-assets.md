@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Moving, renaming, and deleting assets{#moving-renaming-and-deleting-assets}

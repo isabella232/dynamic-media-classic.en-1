@@ -8,9 +8,7 @@ contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/user_generated_content
 discoiquuid: c1594abf-8cc2-46dd-88bf-af93db7db607
-index: y
-internal: n
-snippet: y
+
 ---
 
 # About User-generated content{#about-user-generated-content}

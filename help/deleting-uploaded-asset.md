@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Deleting an uploaded asset{#deleting-an-uploaded-asset}

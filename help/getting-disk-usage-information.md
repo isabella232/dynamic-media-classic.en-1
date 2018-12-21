@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Getting disk usage information {#getting-disk-usage-information}

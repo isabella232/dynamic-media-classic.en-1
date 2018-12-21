@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
 discoiquuid: 3b4add18-4191-475e-a3a3-0184367a25fc
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Integrating Adobe Scene7 with Adobe Target Classic{#integrating-adobe-scene-with-adobe-target-classic}

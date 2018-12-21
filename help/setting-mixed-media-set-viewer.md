@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Setting up a Mixed Media Set Viewer Preset{#setting-up-a-mixed-media-set-viewer-preset}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: b399c2b2-3e59-43e7-aa7d-dd4fdf4e9bad
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Making more efficient use of metadata{#making-more-efficient-use-of-metadata}

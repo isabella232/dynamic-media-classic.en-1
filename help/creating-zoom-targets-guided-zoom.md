@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Creating zoom targets for Guided Zoom{#creating-zoom-targets-for-guided-zoom}

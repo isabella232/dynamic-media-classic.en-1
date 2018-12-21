@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Creating and managing Media Portal groups{#creating-and-managing-media-portal-groups}

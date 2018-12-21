@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}

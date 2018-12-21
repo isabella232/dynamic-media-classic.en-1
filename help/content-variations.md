@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: aa129b0e-fc73-4fc2-a894-4560b3f46c4f
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Managing content variations{#managing-content-variations}

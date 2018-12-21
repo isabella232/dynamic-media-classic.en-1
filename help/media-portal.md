@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: bdd0742e-902c-48f7-93e6-6e50d2a7628b
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Media Portal{#media-portal}

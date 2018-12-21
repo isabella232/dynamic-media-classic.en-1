@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking an Image Set to a web page{#linking-an-image-set-to-a-web-page}

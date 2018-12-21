@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Uploading Zoom images{#uploading-zoom-images}

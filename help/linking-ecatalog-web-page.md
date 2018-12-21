@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Linking an eCatalog to a web page{#linking-an-ecatalog-to-a-web-page}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 75ccbb1d-1662-4849-b7a9-de4bc3794e9d
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Using Scene7 Publishing System desktop version{#using-scene-publishing-system-desktop-version}

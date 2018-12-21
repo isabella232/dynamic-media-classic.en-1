@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Media Portal system requirements {#system-requirements}

@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 92022dce-6534-4d93-befe-9dd2818c7b41
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Previewing eCatalogs in the eCatalog Viewer{#previewing-ecatalogs-in-the-ecatalog-viewer}

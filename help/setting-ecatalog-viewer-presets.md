@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Setting up eCatalog Viewer Presets{#setting-up-ecatalog-viewer-presets}

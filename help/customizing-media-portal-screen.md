@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Customizing the Media Portal screen{#customizing-the-media-portal-screen}

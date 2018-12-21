@@ -8,9 +8,7 @@ contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
-index: y
-internal: n
-snippet: y
+
 ---
 
 # About uploading and publishing assets{#about-uploading-and-publishing-assets}

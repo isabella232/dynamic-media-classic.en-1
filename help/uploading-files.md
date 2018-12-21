@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Uploading files{#uploading-files}

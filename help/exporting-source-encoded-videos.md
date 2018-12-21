@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Exporting source and encoded videos{#exporting-source-and-encoded-videos}

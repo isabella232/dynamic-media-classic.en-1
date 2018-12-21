@@ -8,9 +8,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Developer resources{#developer-resources}

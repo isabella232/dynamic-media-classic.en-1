@@ -9,9 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
-index: y
-internal: n
-snippet: y
+
 ---
 
 # Creating an offer set{#creating-an-offer-set}
