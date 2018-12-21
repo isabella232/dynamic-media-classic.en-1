@@ -24,11 +24,11 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 >[!NOTE]
 >
->Scene7 recommends organizing assets with metadata rather than Projects. See [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata).
+>Scene7 recommends organizing assets with metadata rather than Projects. See [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md).
 
 >[!NOTE]
 >
->For you to organize assets in Projects, your administrator must have set you up to use them. If you don’t see a Projects folder section at the bottom of the Assets Library, this method of organizing assets is not available to you. See [Application General Settings](application-setup.md#general_settings).
+>For you to organize assets in Projects, your administrator must have set you up to use them. If you don’t see a Projects folder section at the bottom of the Assets Library, this method of organizing assets is not available to you. See [Application General Settings](application-setup.md#general-settings).
 
 ## Creating a Project folder {#creating-a-project-folder}
 

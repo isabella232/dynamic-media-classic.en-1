@@ -60,7 +60,7 @@ To add pages, select a folder in the Asset Library, and then drag PDF or image f
 
 Click the Save button, enter a name for your eCatalog, choose an SPS folder for storing it, and select the Save button. Each time you change the page order or edit your eCatalog, save your changes by clicking the Save button.
 
-See [Creating an eCatalog](creating-ecatalog.md#creating-an-ecatalog).
+See [Creating an eCatalog](creating-ecatalog.md).
 
 **3. Creating Image Maps**
 

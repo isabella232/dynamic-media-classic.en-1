@@ -45,7 +45,7 @@ You can use the following fields in the URL query string to delete an asset:
 |--- |--- |--- |
 |op|Required|delete|
 |shared_secret|Required|The shared-secret key for the company.|
-|<ul><li>For images:image_name</li><li>For Vector:fxg_name|Required|Name of the asset to delete.</li></ul>|
+|<ul><li>For images:image_name</li><li>For Vector:fxg_name</li></ul>|Required|Name of the asset to delete.|
 
 **Sample image URL:**
 

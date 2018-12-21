@@ -109,7 +109,7 @@ To manually enter page names one at a time, go to the Order Pages tab of the eCa
 
 Importing page names is recommended if you are dealing with an eCatalog with many pages. You can import the names from a tab-delimited or XML file.
 
-The TOC label is stored in an image’s User Data field; format this data as a list of name=<value> `` pairs separated by two question marks “??” ``. For example, to set one label for a TOC field named tocEN ``, set the User Data of the image to:
+The TOC label is stored in an image’s User Data field; format this data as a list of `name=<value>` `` pairs separated by two question marks “??” ``. For example, to set one label for a TOC field named tocEN ``, set the User Data of the image to:
 
 tocEN=&lt;EN_page_label&gt;
 
@@ -121,7 +121,7 @@ To import the User Data field in a tab-delimited file, include the field userdat
 
 |IPSID|Userdata|
 |--- |--- |
-|<image_IPS_ID>|tocEN=<EN_page_label>??tocFR=<FR_page_label>|
+|`<image_IPS_ID>`|tocEN=<EN_page_label>??tocFR=<FR_page_label>|
 
 To import the User Data field in an XML file, include the attribute `vc_userdata`:
 
