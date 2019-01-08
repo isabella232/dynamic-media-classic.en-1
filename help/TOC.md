@@ -14,7 +14,6 @@ index: n
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
     + [System requirements](system-requirements.md)
-    + [Using Help](using-help.md)
     + [Support](support.md)
     + [Help for Scene7 Media Portal](help-scene7-media-portal.md)
     + [Adobe Training Services](training-services.md)
