@@ -54,9 +54,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 Use the Asset Library to organize the assets you are working with. You can create folders and subfolders for organizing your assets in the Asset Library.
 
-At the top of the Asset Library panel are commands for locating assets. You can search for assets and filter to locate assets. Click the Trash icon  ![](assets/Trash_icon.png)
-
-at the bottom of the Asset Library to examine assets you deleted.
+At the top of the Asset Library panel are commands for locating assets. You can search for assets and filter to locate assets. Click the Trash icon at the bottom of the Asset Library to examine assets you deleted.
 
 >[!NOTE]
 >

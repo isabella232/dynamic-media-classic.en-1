@@ -39,10 +39,8 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    ***note**: To view the items in the Asset Library by name instead of thumbnail, select the Name option for Default Asset Library View in Personal Setup. *
 
-1. Select an overall layout for your eCatalog. Click the 1 Up button  ![](assets/1_up.png) for single pages, the 2 Up button  ![](assets/2_up.png) for double-page spreads, or the Custom button  ![](assets/3_up_custom.png)
-
-   for page spreads of more than two pages. The Change eCatalog Layout dialog box appears. Select the All Spreads options and click OK.
-1. Optionally, change the layout of individual pages or page spreads by clicking them and then choosing the 1 Up button, 2 Up button, or Custom button. The Change eCatalog Layout dialog box appears. Select the Selected Spreads options and click OK.
+1. Select an overall layout for your eCatalog. Click the 1 Up button for single pages, the 2 Up button for double-page spreads, or the Custom button for page spreads of more than two pages. The Change eCatalog Layout dialog box appears. Select the All Spreads options and click **OK**.
+1. Optionally, change the layout of individual pages or page spreads by clicking them and then choosing the 1 Up button, 2 Up button, or Custom button. The Change eCatalog Layout dialog box appears. Select the Selected Spreads options and click **OK**.
 1. Reorder the pages as necessary with one of these techniques:
 
    **Dragging** Drag a page or page spread to a new location. The vertical bar shows you where the page is being moved.

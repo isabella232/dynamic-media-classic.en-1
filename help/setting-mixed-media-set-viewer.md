@@ -51,15 +51,13 @@ You can choose to include all or some community features in the Mixed Media Set 
 
    **Email** Click On to enable an Email button in the viewer. When users click the Email button while viewing the set, an email containing the link to the set opens.
 
-   **Embed** Click Live. In the Embed Button Label box, type the name you want displayed in the viewer for the Embed Button. If desired, click Browse to locate and select a custom skin for the button.
+   **Embed** Click Live. In the Embed Button Label box, type the name you want displayed in the viewer for the Embed Button. If desired, click **Browse** to locate and select a custom skin for the button.
 
-   **Link** Click Live. In the Link Button Label box, type the name you want displayed in the viewer for the Link Button. If desired, click Browse to locate and select a custom skin for the button.
+   **Link** Click Live. In the Link Button Label box, type the name you want displayed in the viewer for the Link Button. If desired, click **Browse** to locate and select a custom skin for the button.
 
-   **Visit** Click Live. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit Button. In the Visit URL box, type the URL to the web site that you want to open when the link is clicked.
+   **Visit** Click **Live**. In the Visit Button Label box, type the name you want displayed in the viewer for the Visit Button. In the Visit URL box, type the URL to the web site that you want to open when the link is clicked.
 
-1. Specify other options as desired. To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+1. Specify other options as desired. To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

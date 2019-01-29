@@ -153,8 +153,6 @@ Follow these steps to format text in a text layer:
 
    **Line Spacing** Type or select a numeric value by which to adjust the amount of space between lines.
 
-   ![](assets/line_spacing.png)
-
    **Baseline Shift** Type or select a numeric value by which to move a selected character up or down relative to the baseline of the surrounding text. This option is especially useful when you’re hand-setting fractions or adjusting the position of inline graphics.
 
 >[!NOTE]
@@ -180,8 +178,6 @@ Follow these steps to format text in a text layer:
    **Indent First Line** Specify the amount by which you want to indent the first line of text.
 
    **Space Before Paragraph** Specify the amount of space you want to appear above the first line of text in the paragraph.
-
-   ![](assets/space_before.png)
 
    **Space After Paragraph** Specify the amount of space you want to appear below the last line of text in the paragraph.
 
@@ -334,9 +330,7 @@ To adjust a shadow or glow effect, start by selecting its name in the Layers lis
 
 ## Masking layers {#masking-layers}
 
-The Layers list offers a Mask button that specifies how the mask or alpha channel of a layer is used. Using the Mask button, you can apply the effect of a background layer to a particular layer or the entire parent layer in your template. Select a layer in the Layers list and select the Mask button  ![](assets/mask.png)
-
-to cycle through these states:
+The Layers list offers a Mask button that specifies how the mask or alpha channel of a layer is used. Using the Mask button, you can apply the effect of a background layer to a particular layer or the entire parent layer in your template. Select a layer in the Layers list and select the Mask button to cycle through these states:
 
 * The background of the layer is opaque.
 * The layer content is inverted and the background of the layer is filled with solid black. 

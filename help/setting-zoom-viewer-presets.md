@@ -47,18 +47,16 @@ Follow these steps to create or edit a Zoom Viewer Preset:
 
    **Creating a preset** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose a Zoom Viewer, and then click Add. Enter a name for the preset in the Preset Name box.
 
-   **Editing a preset** Select a Zoom Viewer Preset, then click Edit.
+   **Editing a preset** Select a Zoom Viewer Preset, then click **Edit**.
 
 1. Specify settings as desired.
 
-   To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+   To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 
 1. Click **Save** or **Save As**.
-1. On the Viewer Presets screen, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, click **Edit**, change settings on the Configure Viewer screen, and click Save.
+1. On the Viewer Presets screen, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, click **Edit**, change settings on the Configure Viewer screen, and click **Save**.
 
 For information about managing Viewer Presets on the Viewer Presets screen, see [Viewer Presets](application-setup.md#viewer_presets).
 

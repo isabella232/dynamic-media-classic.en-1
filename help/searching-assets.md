@@ -39,9 +39,7 @@ Use the Search field to conduct simple searches. You can search for items by nam
 To conduct a simple search:
 
 1. Select the folder in the Asset Library to search in a particular folder and its subfolders
-1. Click  ![](assets/search_button.png)
-
-   in the Asset Library and choose an option that describes how narrow or broad you want the search to be. You can choose Within All Files & Folders, Within Selected Folder, or Within Selected Folder & Subfolders.
+1. Click in the Asset Library and choose an option that describes how narrow or broad you want the search to be. You can choose Within All Files & Folders, Within Selected Folder, or Within Selected Folder & Subfolders.
 1. Enter a search term.
 1. Click Go or press Enter.
 
@@ -103,9 +101,7 @@ Follow these steps to locate assets by filtering with their metadata values:
 
    See [Saving, repeating, and deleting filter operations](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
-1. Clicking the Field button  ![](assets/filters_field.png)
-
-   on a panel, follow these instructions to display the filtering menu and construct the filter operation:
+1. Clicking the Field button on a panel, follow these instructions to display the filtering menu and construct the filter operation:
 
    **Choosing&#xA;a metadata field** Select the name of the field on the filtering menu.
 
@@ -159,7 +155,7 @@ The Metadata Server Publish screen opens. This screen lets you set the following
 
 **Metadata Server Publish Fields** Select the fields to include in the metadata. This enables you to determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
 
-Click Publish Now to start the job. A confirmation appears, telling you the job has started.
+Click **Publish Now** to start the job. A confirmation appears, telling you the job has started.
 
 >[!MORELIKETHIS]
 >

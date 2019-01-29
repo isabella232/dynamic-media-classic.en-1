@@ -24,16 +24,14 @@ Follow these steps to create a eCatalog Viewer Preset (you must be an administra
 1. Click **Setup** &gt; **Viewer Presets**.
 1. In the Viewer Presets screen, create an eCatalog Viewer Preset by starting anew or by starting from an existing eCatalog Viewer Preset:
 
-   **Creating an eCatalog Viewer Preset** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose eCatalog Viewer, then click Add.
+   **Creating an eCatalog Viewer Preset** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose eCatalog Viewer, then click **Add**.
 
-   **Editing an eCatalog Viewer Preset** Select an eCatalog Viewer Preset, then click Edit. Click Save As after you finish creating the preset.
+   **Editing an eCatalog Viewer Preset** Select an eCatalog Viewer Preset, then click Edit. Click **Save As** after you finish creating the preset.
 
 1. On the Configure Viewer screen, enter a name for your eCatalog Viewer Preset.
 1. In the Configure Viewer screen, set the options you want.
 
-   Click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option to see its description.
+   Click the Info Tip icon adjacent to the option to see its description.
 
    The preview screen displays the viewer as you update and change settings.
 

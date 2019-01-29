@@ -27,9 +27,7 @@ Follow these steps to create a Spin Set Viewer Preset:
    The Configure Viewer screen opens.
 
 1. Type a name in the Preset Name box for the Spin Set Viewer preset.
-1. Specify other options as desired. To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+1. Specify other options as desired. To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

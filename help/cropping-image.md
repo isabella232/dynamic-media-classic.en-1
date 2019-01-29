@@ -26,15 +26,13 @@ You can crop an image to remove white space around it, or crop an area of the im
 
 You can crop off the transparent or solid-color pixels from the edge of an image.
 
-1. To crop an image, click its rollover Edit button and choose Crop, or display it in the Browse Panel in Detail view and click the Crop button  ![](assets/Crop_up.png)
-
-   . The Crop Editor screen opens.
+1. To crop an image, click its rollover Edit button and choose Crop, or display it in the Browse Panel in Detail view and click the Crop button. The Crop Editor screen opens.
 1. Do one of the following:
 
     * To trim color pixels, select the Trim menu and choose Color. The Auto Crop By Color dialog box appears. Select the Corner menu and choose a corner with the background color to crop away. Then enter a Tolerance setting from 0 through 1. The 0 setting crops pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference. Select the Crop button.
     * To trim transparent pixels, select the Trim menu and choose Transparent. The Auto Crop By Transparency dialog box appears. Enter a tolerance setting from 0 through 1. The 0 setting crops crop pixels only if they are totally transparent. Numbers closer to 1 allow for more transparency. Select the Crop button.
 
-1. Click Save.
+1. Click **Save**.
 
 >[!NOTE]
 >
@@ -42,7 +40,7 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 
 ## Select an area to crop {#select-an-area-to-crop}
 
-1. To crop an image, click its rollover Edit button and choose **Crop**, or display it in the Browse Panel in Detail view and click **Crop** ![](assets/Crop_up.png).
+1. To crop an image, click its rollover Edit button and choose **Crop**, or display it in the Browse Panel in Detail view and click **Crop**.
 
 1. In the Crop Editor window, place the part of the image you do not want to crop in the crop box. What appears inside the box remains when you click **Save** and crop the image.
 1. To adjust the crop area, do one of the following:

@@ -49,9 +49,7 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 1. Do any of the following:
 
     * To delete one or more assets, select the assets in the Browse Panel, and press Delete or choose File &gt; Delete.
-    * To delete a folder, select the folder in the Asset Library, and click Remove Folder  ![](assets/DeleteFolder.png)    
-    
-      .
+    * To delete a folder, select the folder in the Asset Library, and click **Remove Folder**.
 
       Deleting a folder deletes the folder, all the assets in the folder, as well as all assets in its subfolders.
 

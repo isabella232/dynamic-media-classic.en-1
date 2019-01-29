@@ -27,13 +27,11 @@ You can create and customize Viewer Presets to suit your needs.
 
    **Creating** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose Zoom Viewer:Custom, and click Add. You can also create a Zoom Viewer Preset by starting from an existing one. Display the name of the preset, select it, and then select the Edit button. On the Configure Viewer screen, enter a new name for the preset.
 
-   **Editing** Display the name of a preset, select it, then click Edit.
+   **Editing** Display the name of a preset, select it, then click **Edit**.
 
 1. Choose options in the Configure Viewer screen.
 
-   To see a description of an option, click the Info Tip icon  ![](assets/Infotip.png)
-
-   adjacent to the option.
+   To see a description of an option, click the Info Tip icon adjacent to the option.
 
    The preview screen displays the viewer as you update and change settings.
 

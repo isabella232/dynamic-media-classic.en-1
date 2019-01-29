@@ -37,9 +37,7 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 Follow these steps to create a folder:
 
 1. In the Asset Library, select the folder you want to create a folder in.
-1. Select the Add Folder button  ![](assets/AddFolder.png)
-
-   . This icon is located at the top of the folder list.
+1. Select the Add Folder button. This icon is located at the top of the folder list.
 1. Enter a descriptive name for your new folder or subfolder by typing it into the field next to the folder icon.
 
    >[!NOTE]
