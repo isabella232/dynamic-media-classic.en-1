@@ -24,8 +24,8 @@ When you upload asset files to SPS and when you publish asset files to Scene7 se
 >[!NOTE]
 >
 >*When you upload a file, Scene7 generates the URL for the file. This URL is not active until you publish the file. *
-
->[!NOTE]
+>
+[!NOTE]
 >
 >A new Instant Publish feature was made available shortly after the release of SPS 6.0. This feature, which publishes assets immediately with one step, is being rolled out gradually, replacing the “Mark for Publish” functionality. Some users will continue to see the current interface and functionality for a while, until they are included in the rollout. In addition, some assets will continue to use the “Mark for Publish” process for a while after the rollout.
 
