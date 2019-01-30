@@ -7,6 +7,14 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 ---
 
-# Scene7 Overview {#scene7-overview}
+# About Scene7 {#scene7-overview}
 
-You can use Preview to see how a digital asset will look when viewed by a customer. The Preview uses the default viewer that is assigned to the asset. Default viewers are configured in Application Setup.
+Welcome to Adobe® Scene7®, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens. Adobe Scene7 solutions include the following:
+
+* Dynamic Imaging: Real-time editing, formatting and sizing, interactive zoom and pan; color swatching and texture swatching; 360-degree spin; image templates; multimedia viewers.
+* eCatalogs: Author, hotspot linking, search-enabled, publish and deliver dynamically served online catalogs into configurable viewers.
+* Media Portal: Self-serve environment providing portal users with administrator-controlled “views” into Scene7 assets for easy access to upload, browse, search, preview, and export of assets.
+* eVideo: Upload final videos in any format, manage, edit, create hot spots and video templates, publish and stream into configurable video viewers
+* Visual Configurators: Real-time rendering technology to enable online visual configuration for personalization and customization effects such as real-time rendering of colors textures, surfaces, patterns, monograms, and engravings into product images or scenes.
+* Web-to-Print: Real-time composition technology and framework to enable custom web-to-print solutions for creating customized and personalized documents.
+* Target email and print: Deliver visually targeted, personalized email campaigns tied to customer profile, product, and channel databases.

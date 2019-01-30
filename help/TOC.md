@@ -8,12 +8,12 @@ index: n
 
 # Dynamic Media Classic - Scene7 Help {#using}
 
-+ [Introduction](introduction.md)
-+ Introducing Scene7 {#intro}
-    + [Overview Adobe Scene7 Publishing System desktop applications](scene7-publishing-system-desktop-applications.md)
++ Introducing Adobe Scene7 {#intro}
+    + [About Scene7](introduction.md)
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
     + [System requirements](system-requirements.md)
+    + [Adobe Scene7 Publishing System desktop applications](scene7-publishing-system-desktop-applications.md)
     + [Support](support.md)
     + [Help for Scene7 Media Portal](help-scene7-media-portal.md)
     + [Adobe Training Services](training-services.md)
