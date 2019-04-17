@@ -20,11 +20,11 @@ Image Sizing refers to the ability of Scene7 to create multiple derivative image
 * You can quickly change the size of an image type throughout your web site or application. For example, to change all thumbnail images, you can modify the “thumbnail” Image Preset. An Image Preset—it’s similar to a macro—is a collection of size and formatting attributes. You can modify the “thumbnail” Image Preset to change the size of all thumbnail images throughout your web site or application. 
 * You do not have to manage the masters and all of the various derivatives in any of your content or asset management systems internally or externally.
 
-![]()
+![You can create multiple derivative images at different sized from the same high-resolution master file.](/help/assets/is_derivative_sizes_popup.png)
 
 **Quick Start**
 
-This Image Sizing Quick Start is designed to help you get up and running quickly with Image Sizing techniques in the Scene7 Publishing System. Follow steps 1 through 5. After each step is a cross-reference where you can find more information if you need it.
+This Image Sizing Quick Start is designed to help you get up and running quickly with Image Sizing techniques in the Scene7 Publishing System. Follow steps 1-5. After each step is a cross-reference where you can find more information if you need it.
 
 **1. Uploading master images**
 
@@ -36,7 +36,7 @@ Select the Upload button on the Global Navigation bar to upload files from your 
 
 Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Scene7 Image Servers. You can set up Image Presets on your own if you have company administrator status. Scene7 also comes with default Image Presets, and you can use them to dynamically deliver images.
 
-To create an Image Preset (if you are an administrator), choose Setup &gt; Application Setup. On the Setup screen, display the Application Setup options and choose Image Presets. Then select the Add or Edit button to create an Image Preset.
+To create an Image Preset (if you are an administrator), choose Setup &gt; Application Setup. On the Setup screen, display the Application Setup options and choose Image Presets. Then click **Add** or **Edit** to create an Image Preset.
 
 The Image Preset you create is added to the Image Preset menu on the Preview screen. You can use your new Image Preset to display images dynamically on your web sites and applications. See [Setting up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
@@ -44,7 +44,7 @@ The Image Preset you create is added to the Image Preset menu on the Preview scr
 
 The next step is to preview the Image Presets your administrator set up at the different preset sizes.
 
-To explore Image Presets, click Setup &gt; Image Presets, and then browse to an Image Preset.
+To explore Image Presets, click **Setup** &gt; **Image Presets**, and then browse to an Image Preset.
 
 Experiment with the different Image Presets. Find out what your image looks like when it is delivered dynamically to your web site or application at different sizes.
 
@@ -63,4 +63,4 @@ Select the Publish button on the Global Navigation bar to initiate a publish. On
 
 Scene7 creates URL callout strings for images. When you publish images to Scene7 Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail view) or Preview screen. After you copy the URL strings, you can use them in your web site and applications. The URL for image sizing replaces the reference to a static image name in your web page code. The URL references a master image name, which is replaced by your database for each new image to display.
 
-URL strings generated with Image Presets contain the name of an Image Preset. This name is enclosed in dollar signs ($). For example, `$thumbnail$` can be the Image Preset designed to show master images at thumbnail size. See [Linking URLs to your web application](linking-urls-web-application.md#linking_urls_to_your_web_application).
+URL strings generated with Image Presets contain the name of an Image Preset. This name is enclosed in dollar signs (`$`). For example, `$thumbnail$` can be the Image Preset designed to show master images at thumbnail size. See [Linking URLs to your web application](linking-urls-web-application.md#linking_urls_to_your_web_application).

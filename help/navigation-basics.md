@@ -16,7 +16,7 @@ discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 
 The Scene7 Publishing System screen includes three major areas: Global Navigation bar, Asset Library, and Browse Panel/Build Panel.
 
-![]() 
+![Navigation basics](/help/assets/gs_navigation_basics_popup_popup.png) 
 
 ## Global Navigation bar {#global-navigation-bar}
 
