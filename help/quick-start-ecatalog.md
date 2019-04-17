@@ -28,7 +28,7 @@ An eCatalog is a digital, web version of print material—a catalog, brochure, f
 * Use gesture interactions, including pinching to zoom and swiping to turn pages. 
 * Search by keyword for items.
 
-![]()
+![The eCatalog as it looks to users. A) eCatalog opening page. B)eCatalog turned to page 2.]/)
 
 To create an eCatalog, you typically use high-resolution PDF files created in Adobe® Acrobat® or another print program, but you can also create an eCatalog from image files.
 
