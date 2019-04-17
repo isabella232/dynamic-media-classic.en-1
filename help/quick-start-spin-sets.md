@@ -16,7 +16,7 @@ discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 
 A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Scene7 offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
 
-![]()
+![Images for a spin set.](/help/assets/spin_set.png)
 
 Spin Sets also accept Image Maps. An Image Map is a region on an image within the Spin Set that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To call attention to the use of an image map in a Spin Set, an outline appears around the Image Map itself when the user moves their mouse pointer over it.
 

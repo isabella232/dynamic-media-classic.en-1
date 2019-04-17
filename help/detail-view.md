@@ -26,7 +26,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
  -->
 
-![]()
+![Detail view](/help/assets/image_0.img.png)
 
 >[!NOTE]
 >

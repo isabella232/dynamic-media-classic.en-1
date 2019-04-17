@@ -24,7 +24,7 @@ See also [Measuring Video in Adobe Analytics](https://marketing.adobe.com/resour
 
 >[!NOTE]
 >
->``A valid Adobe Analytics account is required to integrate Analytics with the Scene7 Publishing System and generate Analytics reports.
+>A valid Adobe Analytics account is required to integrate Analytics with the Scene7 Publishing System and generate Analytics reports.
 
 **Quick Start**
 

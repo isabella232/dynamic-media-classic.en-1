@@ -28,18 +28,7 @@ The key Scene7 workflow steps are:
 
 **Serve** Deliver media from Scene7 SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Scene7 provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>Illustrator source file comes from Marketing but the localized files aren’t available.</p> 
-<p></p>
-
- -->
-
-![]() 
+![The Scene7 workflow process](/help/assets/gs_workflow.png) 
 
 ## Single master images and single URL calls {#single-master-images-and-single-url-calls}
 
@@ -47,7 +36,7 @@ Scene7 is fundamentally different from other systems because you can use Scene7 
 
 The URL strings you generate with Scene7 include instructions that tell the server how to display the asset when it is delivered. For example, the same master image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Scene7, you visually configure the effects. In so doing, you create the URL calls that correctly tell the server how to present your master asset to applications.
 
-![]() 
+![Scene7 can deliver the same master image to different mediums in different sizes and formats.](/help/assets/gs_dynamic_publishing.png) 
 
 ## Content caching {#content-caching}
 
