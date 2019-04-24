@@ -3,7 +3,7 @@ cloud: experience-cloud
 product: dynamic media classic scene7 
 audience: end-user
 user-guide-title: Dynamic Media Classic - Scene7 Help
-index: n
+index: y
 ---
 
 # Dynamic Media Classic - Scene7 Help {#using}
