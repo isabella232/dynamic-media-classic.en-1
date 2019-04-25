@@ -16,4 +16,4 @@ discoiquuid: a55f7279-6bba-43f1-99fa-88e922ac1803
 
 The following Help document is also available from Scene7:
 
-**Using Scene7 Media Portal** Adobe Scene7 Media Portal is a browser-based environment providing portal users easy access to upload, browse, search, preview, and export assets in corporate-approved formats. See www.adobe.com/go/learn_sc7_mediaportalusing_en.
+**Using Scene7 Media Portal** Adobe Scene7 Media Portal is a browser-based environment providing portal users easy access to upload, browse, search, preview, and export assets in corporate-approved formats. See [www.adobe.com/go/learn_sc7_mediaportalusing_en](https://www.adobe.com/go/learn_sc7_mediaportalusing_en).
