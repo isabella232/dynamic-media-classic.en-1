@@ -100,7 +100,7 @@ To create a custom time interval for an upload (via FTP) or a publish job, choos
 
 The syntax for describing custom upload and publish time intervals in the Rule box is:
 
-[seconds] [minutes] [hour of day] [day of month] [month] [day of week]
+`[seconds]` `[minutes]` `[hour of day]` `[day of month]` `[month]` `[day of week]`
 
 For example, `0 15 10 * * ?` schedules a job at 10:15.00 every day.
 
