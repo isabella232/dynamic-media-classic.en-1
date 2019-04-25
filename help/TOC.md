@@ -8,7 +8,7 @@ index: y
 
 # Dynamic Media Classic - Scene7 Help {#using}
 
-+ [About Dynamic Media Classic/Scene7](introduction.md)
++ [Dynamic Media Classic Help](introduction.md)
 + Introducing Adobe Scene7 {#intro}
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
