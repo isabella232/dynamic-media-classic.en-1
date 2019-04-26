@@ -1,8 +1,8 @@
 ---
-title: Overview
-seo-title: Adobe Dynamic Media Classic (Scene7) overview
-description: null
-seo-description: Learn how to preview an asset.
+title: Dynamic Media Classic (Scene7) Help
+seo-title: Adobe Dynamic Media Classic (Scene7)
+description: Dynamic Media Classic Scene7 overview
+seo-description: Dynamic Media Classic Scene7 overview
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 ---
