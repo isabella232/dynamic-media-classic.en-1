@@ -25,23 +25,23 @@ To open the Application General Settings page, on the Global Navigation bar, cli
 
 ### Servers
 
-On account creation, Scene7 automatically provides the assigned servers for your company. These servers are used to construct URL strings for your web site and applications. These URL calls are specific to your account.
+On account creation, Dynamic Media Classic automatically provides the assigned servers for your company. These servers are used to construct URL strings for your web site and applications. These URL calls are specific to your account.
 
 See also [Testing the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-**Published Server Name** This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Scene7 support technician.
+**Published Server Name** This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Dynamic Media Classic support technician.
 
-**Origin Server Name** This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Scene7 support technician.
+**Origin Server Name** This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
 
-**AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Scene7 support technician.
+**AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
 
-**Test&amp;Target Server Name** Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating Scene7 with Target Classic.
+**Test&amp;Target Server Name** Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating Dynamic Media Classic with Target Classic.
 
-**iOS Streaming Server Name** The URL to your Scene7 iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
+**iOS Streaming Server Name** The URL to your Dynamic Media Classic iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
 
-**Progressive Video Server Name** The URL to your Scene7 progressive video server. This server delivers progressive video using HTTP protocol.
+**Progressive Video Server Name** The URL to your Dynamic Media Classic progressive video server. This server delivers progressive video using HTTP protocol.
 
-**Show URL for unpublished assets** Select this option if you want Scene7 to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
+**Show URL for unpublished assets** Select this option if you want Dynamic Media Classic to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
 **Allow AIR install** Select this option to allow users to download Scene7 Publishing System desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen.
 
@@ -71,11 +71,11 @@ See [Republished assets and CDN delays](publishing-files.md#republished_assets_a
 
 **Browse**
 
-**Show Projects** Determines whether Projects are available as a means of organizing your Scene7 assets. See Organizing your work with Projects.
+**Show Projects** Determines whether Projects are available as a means of organizing your Dynamic Media Classic assets. See Organizing your work with Projects.
 
 **Show Sample eVideo Content** Turn on or off the display of eVideo sample content.
 
-**Show Generated Content** In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Scene7 creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
+**Show Generated Content** In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
 
 **Show Encoded Videos** Deselected (off) by default.
 
@@ -91,11 +91,11 @@ To continue the ability to access all your encoded video derivatives when you se
 
 There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **Show Encoded Videos**. The Build actions that over-ride the **Show Encoded Videos** setting include **Adaptive Video Sets**, and **eCatalogs**.
 
-**Note** If you did not use Scene7 Publishing System to upload and encode your video assets, Scene7 shows all your individual encoded videos, even is this option is deselected.*
+**Note** If you did not use Scene7 Publishing System to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.*
 
 **Show Refresh Subfolders Button** Turn on or off the display of the subfolders Refresh button.
 
-**Scene7 FTP Account**
+**Dynamic Media Classic FTP Account**
 
 **Server** Lists your FTP account server.
 
@@ -103,7 +103,7 @@ There are certain actions on the Build menu that only work, or optionally work, 
 
 **Upload to Application**
 
-**Overwrite Images** Scene7 does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
+**Overwrite Images** Dynamic Media Classic does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
 
 **Overwrite in current folder, same base image name/extension**
 
@@ -121,7 +121,7 @@ Requires that the replacement image has the same filename extension as the origi
 
 This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
-**Retain Publish** Specifies whether a replacement image uploaded to Scene7 retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
+**Retain Publish** Specifies whether a replacement image uploaded to Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
 
 **Default Color Profiles** Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
@@ -139,19 +139,19 @@ This option is the most inclusive replacement rule. You can upload a replacement
 
 ## Using the Overwrite Images option {#using-the-overwrite-images-option}
 
-Scene7 does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box includes Overwrite Images options. The exact effect of this option depends on a setting for each company's Scene7 Publishing System Internal Settings.
+Dynamic Media Classic does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box includes Overwrite Images options. The exact effect of this option depends on a setting for each company's Scene7 Publishing System Internal Settings.
 
-If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Scene7 replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Scene7, these images are added.
+If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Dynamic Media Classic replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Dynamic Media Classic, these images are added.
 
-Use this option if images you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe® PDFs. To fine-tune how Scene7 *rips* the image, adjust the ICC color profile options in the Upload dialog box and re-upload using the Overwrite feature.
+Use this option if images you have uploaded have changed in some way (image has been altered) but the reference to the image remains the same. Overwrite is also helpful when uploading and ripping Adobe® PDFs. To fine-tune how Dynamic Media Classic *rips* the image, adjust the ICC color profile options in the Upload dialog box and re-upload using the Overwrite feature.
 
-The Scene7 IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Scene7 IDs used to access the image. Be sure the use of uppercase and lowercase characters in filenames is correct before uploading into Scene7 to avoid Scene7 IDs that differ only in case for the same image.
+The Dynamic Media Classic IDs that are used to access images from the production servers are derived from the image filenames. The use of uppercase and lowercase characters in the filename is important, both in the replacement of existing files and for the Dynamic Media Classic IDs used to access the image. Be sure the use of uppercase and lowercase characters in filenames is correct before uploading into Dynamic Media Classic to avoid Dynamic Media Classic IDs that differ only in case for the same image.
 
 If you deselect this option, all images with the same filenames as existing images are treated as duplicates and are not added.
 
 ## Image Presets {#image-presets}
 
-The Image Presets screen is for creating and editing Image Presets. Image Presets enable Scene7 to deliver images dynamically at different sizes from the same master image. Each Image Preset represents a predefined collection of sizing and formatting commands for displaying images. When you create an Image Preset, you choose a size for image delivery. You also choose formatting commands so that the appearance of the image is optimized when the image is delivered for viewing.
+The Image Presets screen is for creating and editing Image Presets. Image Presets enable Dynamic Media Classic to deliver images dynamically at different sizes from the same master image. Each Image Preset represents a predefined collection of sizing and formatting commands for displaying images. When you create an Image Preset, you choose a size for image delivery. You also choose formatting commands so that the appearance of the image is optimized when the image is delivered for viewing.
 
 Administrators can create presets for exporting assets. Users can choose a preset when they export images, which also reformats images to the specifications that the administrator specifies.
 
@@ -261,7 +261,7 @@ See also [ICC profiles](icc-profiles.md#icc_profiles).
 
 **URL Modifiers** If you prefer to specify the URL modifiers that define your Image Preset, rather than the settings, enter the modifiers here.
 
-**Sample Image URL** Lists the “raw” URL string that the Scene7 Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings you select in the Add Preset or Edit Preset screen.
+**Sample Image URL** Lists the “raw” URL string that the Dynamic Media Classic Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings you select in the Add Preset or Edit Preset screen.
 
 ### Editing, removing, or deactivating an image preset {#editing-removing-or-deactivating-an-image-preset}
 
@@ -274,7 +274,7 @@ See also [ICC profiles](icc-profiles.md#icc_profiles).
 
 ## Activating or deactivating adaptive video presets {#activating-or-deactivating-adaptive-video-presets}
 
-Scene7 offers Adaptive Video encoding presets. It is a master list of presets that combines both 16:9 Adaptive Video presets and 4:3 Adaptive Video presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
+Dynamic Media Classic offers Adaptive Video encoding presets. It is a master list of presets that combines both 16:9 Adaptive Video presets and 4:3 Adaptive Video presets into one group. These predefined presets reflect the most common encoding settings and are optimized for playback on target mobile devices, tablets, and desktops.
 
 Only “Adaptive Video” encoding presets are activated (enabled or “turned on”) by default. You can deactivate it, if desired. Inactive Adaptive Video presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
 
@@ -292,7 +292,7 @@ To choose an encoding preset, in the lower-right corner of the Upload page, clic
 
 >[!NOTE]
 >
->With the exception of “Adaptive Video”, which is enabled by default, you may not see all of the other adaptive video or single video encoding presets in the Upload Job Options dialog box. Scene7 Administrators determine which video encoding presets are visible in the Upload Job Options dialog box.
+>With the exception of “Adaptive Video”, which is enabled by default, you may not see all of the other adaptive video or single video encoding presets in the Upload Job Options dialog box. Dynamic Media Classic Administrators determine which video encoding presets are visible in the Upload Job Options dialog box.
 
 * Choose from the following adaptive video encoding or single encoding presets:
 
@@ -451,21 +451,21 @@ For information about encoding options parameters, see [About the encoding prese
 
 A *Viewer Preset* is a collection of settings that determine how users view rich-media assets on their computer screens and mobile devices. As an administrator, you can create Viewer Presets. Settings are available for an array of viewer configuration options. For example, you can change the viewer display size, zoom behavior, color schemes, borders, and fonts.
 
-As a best practice, use Scene7 HTML5 Video viewers. The presets used in HTML5 Video viewers are robust video players. By combining into a single player the ability to design the playback components using HTML5 and CSS, have embedded playback, and use adaptive and progressive streaming depending on the browser’s capability, you extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
+As a best practice, use Dynamic Media Classic HTML5 Video viewers. The presets used in HTML5 Video viewers are robust video players. By combining into a single player the ability to design the playback components using HTML5 and CSS, have embedded playback, and use adaptive and progressive streaming depending on the browser’s capability, you extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
 
 See [About HTML5 Viewers](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_viewers_about.html) in the Adobe Scene7 Viewers Reference Guide.
 
-See [Scene7 Viewer Preset compatibility matrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
+See [Dynamic Media Classic Viewer Preset compatibility matrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
 See [Best practice: Using the HTML5 Video viewer](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer).
 
-Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people using the viewers share the viewer with others or open the Scene7 web site.
+Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people using the viewers share the viewer with others or open the Dynamic Media Classic web site.
 
-See also [Scene7 Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also [Dynamic Media Classic Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
 
 ### Viewer support for responsive designed web pages {#viewer-support-for-responsive-designed-web-pages}
 
-Different web pages have different needs. Sometimes you will want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it may be necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page may have a static layout. Or, it may be "responsive" and display differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Scene7 support both static web pages and responsive designed web pages.
+Different web pages have different needs. Sometimes you will want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it may be necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page may have a static layout. Or, it may be "responsive" and display differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Dynamic Media Classic support both static web pages and responsive designed web pages.
 
 See [Responsive Static Image library](https://marketing.adobe.com.com/resources/help/en_US/s7/is_ir_api/is_api/c_about_responsive_static_image_library.html)in the *Scene7 Image Serving API Help* for more information on how to embed responsive viewers onto your web pages.
 
@@ -481,7 +481,7 @@ Administrators can create and customize the following types of Viewer Presets:
 
 **Spin Set Viewer** Provides multiple views of an image so users can turn the object to examine the different sides and angles.
 
-**Video Viewer** Displays videos using the resolution dimensions of the source file or a custom size. Scene7 comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, foreground and background color, video and audio controls, progress bar, user-interface skin, social features, and Help.
+**Video Viewer** Displays videos using the resolution dimensions of the source file or a custom size. Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Video Viewer presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, foreground and background color, video and audio controls, progress bar, user-interface skin, social features, and Help.
 
 **Zoom Viewers** Offers a choice of three types of zoom viewer:
 
@@ -493,15 +493,15 @@ When determining the complete bandwidth usage for this viewer, consider that bot
 
 For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of 3, the resulting flyout image is 1050 by 1050 pixels. If your main image size is 300 by 300 pixels, with a Zoom Factor of 4, the flyout image is 1200 by 1200 pixels. Depending on the JPEG quality setting (recommended settings are between 80-90), you can decrease the file size significantly. Recommended zoom factors are 2.5 to 4, depending on the size of your main image.
 
-### Scene7 Viewer Preset compatibility matrix {#scene-viewer-preset-compatibility-matrix}
+### Dynamic Media Classic Viewer Preset compatibility matrix {#scene-viewer-preset-compatibility-matrix}
 
 **Flash Viewers End-of-Life Notice**: Effective January 31, 2017, Adobe Scene7 Publishing System officially ended support for the Flash viewer platform.
 
 For more information about this important change, see the following FAQ website: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
 
-The following table identifies the currently available Scene7 Viewer Presets. The table also specifies the viewer’s compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
+The following table identifies the currently available Dynamic Media Classic Viewer Presets. The table also specifies the viewer’s compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
 
-See also [Scene7 Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also [Dynamic Media Classic Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
 
 For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
@@ -544,7 +544,7 @@ See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resourc
 
 **eVideo Viewers**
 
-Scene7 supports mobile video playback for MP4 H.264 video. 
+Dynamic Media Classic supports mobile video playback for MP4 H.264 video. 
 
 * You can find Blackberry devices that support this video format at the following: [Supported video formats on Blackberry](https://docs.blackberry.com/en/smartphone_users/deliverables/18349/711-01774-123_Supported_Media_Types_on_BlackBerry_Smartphones.pdf)
 * You can also find Windows devices that support this video format at the following:[Supported video formats on Windows Phone](https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx)
@@ -646,10 +646,6 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 
 You can export an existing HTML5 Viewer Preset to use as the basis for creating a new HTML5 Viewer Preset. This export option is useful because you do not have to create the viewer from scratch. Instead, you export a preset that looks and behaves close to what you want, then you can use that as a starting point to make design adjustments.
 
-If you are exporting an HTML5 Viewer Preset, be sure that you have the HTML5 Viewer SDK installed so that you can edit the exported CSS and related Javascript.
-
-See [Developer resources](developer-resources.md#developer_resources).
-
 Note that all default, out-of-box Viewer preset CSS files in SPS use relative image serving paths that point to assets located on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file located on `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`However, if you are hosting Viewer CSS files on your own site, you must resolve these relative image path by using an explicit path to the Image Server in your own environment. For illustration purposes, if you were to update the relative path above to an explicit path, it might look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **To export an HTML5 Viewer Preset**
@@ -677,7 +673,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
    See [Uploading files](uploading-files.md#uploading_files).
 
-1. Publish the CSS file to the Scene7 Image Server.
+1. Publish the CSS file to the Dynamic Media Classic Image Server.
 
    See [Publishing files](publishing-files.md#publishing_files).
 
@@ -691,9 +687,9 @@ To create a URL for showing assets, users open the Presets drop-down list in the
 
 Unless you deactivate Viewer Presets on the Viewer Presets screen, the Presets drop-down list in the Preview dialog box can get crowded.
 
-To activate or deactivate Viewer Presets
+**To activate or deactivate Viewer Presets**
 
-1. Choose Setup &gt; Viewer Presets to open the Viewer Presets screen.
+1. Choose **Setup** &gt; **Viewer Presets** to open the Viewer Presets screen.
 1. Select or deselect Active options to activate or deactivate Viewer Presets.
 
 ### Copying the URL of a Viewer preset {#copying-the-url-of-a-viewer-preset}
@@ -770,9 +766,9 @@ You can use Default Viewers to configure the default viewer that is associated w
 
 ## Metadata Views {#metadata-views}
 
-*Metadata* is standardized information about an asset. You can use metadata to streamline your workflow, organize your assets, and improve searching. Scene7 supports the IPTC (International Press Telecommunications Council) standard and the XMP (extensible metadata platform) standard. Before users view or enter metadata about an asset in Detail view, they can open the Metadata Views menu and choose the set of metadata fields that they want to view or use to describe the asset.
+*Metadata* is standardized information about an asset. You can use metadata to streamline your workflow, organize your assets, and improve searching. Dynamic Media Classic supports the IPTC (International Press Telecommunications Council) standard and the XMP (extensible metadata platform) standard. Before users view or enter metadata about an asset in Detail view, they can open the Metadata Views menu and choose the set of metadata fields that they want to view or use to describe the asset.
 
-Scene7 comes with pre-defined Metadata Views, and administrators can create their own Metadata Views for users to choose when they enter metadata.
+Dynamic Media Classic comes with pre-defined Metadata Views, and administrators can create their own Metadata Views for users to choose when they enter metadata.
 
 ### Creating a Metadata View {#creating-a-metadata-view}
 
@@ -869,7 +865,7 @@ One effective use of user-defined metadata fields is to delay the activation tim
 
    **Applies To** Optionally, choose an asset type if you want the metadata field to apply only to a specific type of asset.
 
-   ***Note**: Choose an **Applies To** option carefully because you cannot change the **Applies To** option after you create a user-defined field. Scene7 lets you edit the name, type, and default value of a user-defined field, but not the **Applies To** setting. *
+   ***Note**: Choose an **Applies To** option carefully because you cannot change the **Applies To** option after you create a user-defined field. Dynamic Media Classic lets you edit the name, type, and default value of a user-defined field, but not the **Applies To** setting. *
 
 1. Click **Save** when you finish creating the metadata field.
 
@@ -881,9 +877,9 @@ Only a Media Portal Administrator or a Company Administrator can manage user-def
 
 To open this screen, click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **User-Defined Fields**.
 
-**Editing a field** Select the field, and then click Edit.
+**Editing a field** Select the field, and then click **Edit**.
 
-**Deleting a field** Select the field, and then click Delete.
+**Deleting a field** Select the field, and then click **Delete**.
 
 **Activate field** Click to select or deselect the Active option next to the name of a field. If you are in a company administration role, this option may not be shown. Because this option is related to MediaPortal, you must select (turn on) Show MediaPortal Features in Personal Setup to see the activate fields.
 
@@ -893,8 +889,8 @@ As you upload files to the Scene7 Publishing System, the system optimizes them f
 
 Scene7 Publishing System searches through your files and optimizes only those images that were not fully optimized before.
 
-1. Choose Setup &gt; Application Setup, and then select Optimize Files.
-1. Enter information for the optimization job and click Submit.
+1. Choose **Setup** &gt; **Application Setup**, and then select O**ptimize Files**.
+1. Enter information for the optimization job and click **Submit**.
 
    If you are working with more than one company, optimize files belonging to different companies separately.
 
@@ -904,7 +900,7 @@ Use the batch set presets to automatically create image sets or spin sets while 
 
 Company administrators first define naming conventions for the assets that they want to group together in a set. You can then create abatch set preset to reference these images. Each preset is a uniquely named, self-contained set of instructions that defines how to construct the set using images that match the defined naming conventions in the preset recipe.
 
-All active batch set presets for a company are listed on the Upload Job Option dialog box, so you can specify which preset you want applied during each upload session. Company administrators see all active and inactive batch set presets. When you upload files, Scene7 automatically creates a set with all files that match the defined naming convention in the active presets.
+All active batch set presets for a company are listed on the Upload Job Option dialog box, so you can specify which preset you want applied during each upload session. Company administrators see all active and inactive batch set presets. When you upload files, Dynamic Media Classic automatically creates a set with all files that match the defined naming convention in the active presets.
 
 ### Default Naming {#default-naming}
 
@@ -931,7 +927,7 @@ Two elements are available for definition, Match and Base Name. These fields let
 
 ### Creating a batch set preset {#creating-a-batch-set-preset}
 
-Scene7 uses batch set presets to organize assets that share some common information or content into sets of images for display in viewers. The batch set preset recipes automatically run alongside the asset import jobs you schedule in Scene7.
+Dynamic Media Classic uses batch set presets to organize assets that share some common information or content into sets of images for display in viewers. The batch set preset recipes automatically run alongside the asset import jobs you schedule in Dynamic Media Classic.
 
 Use Batch Set Preset to create, edit, and manage your batch set presets. You can create as many batch set presets as necessary to cover all asset ingest jobs you require. There are two forms of batch set preset definitions: one for a default naming convention that you might have set up, and one for custom naming conventions that you create on the fly.
 
@@ -953,8 +949,8 @@ See also [Creating a batch set preset for the auto generation of a 2D Spin Set](
     * If you are using a default naming convention that you previously set up under Application Setup &gt; Batch Set Presets &gt; Default Naming, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Default**.
     * To define a naming convention as you set up the preset, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Custom**.
 
-1. For Sequence order, define the order for the images after the set is grouped together in Scene7. By default, your assets are ordered alphanumerically. However, you can use a comma-separated list of regular expressions to define the order. 
-1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set will be created within the Scene7 folder structure.
+1. For Sequence order, define the order for the images after the set is grouped together in Dynamic Media Classic. By default, your assets are ordered alphanumerically. However, you can use a comma-separated list of regular expressions to define the order. 
+1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set will be created within the Dynamic Media Classic folder structure.
 
    If you define large numbers of image sets, you may prefer to keep these separate from the folders that contain the assets themselves. Many customers create an Image Sets folder and redirect the application to place batch set generated sets here.
 
@@ -1028,11 +1024,11 @@ When the Spin Set is uploaded and published, you would activate the name of the 
    >
    >If the combination of row and column regular expressions is unable to determine the position of the asset within the multi-dimensional spinset array, then that asset is not added to the set and an error is logged.
 
-1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set will be created within the Scene7 folder structure.
+1. For Set Naming and Creation Convention, specify the suffix or prefix to the base name you defined in the Asset Naming Convention. Also define where the image set will be created within the Dynamic Media Classic folder structure.
 
    If you define large numbers of image sets, you may prefer to keep these separate from the folders that contain the assets themselves. Many customers create an Image Sets folder and redirect the application to place batch set generated sets here.
 
-1. Click Save in the Details Panel.
+1. Click **Save** in the Details Panel.
 1. Upload and publish your Spin Set as usual making sure you activate the name of your 2D Spin Set in the Job Load Options dialog box, under Batch Set Presets.
 
 >[!MORELIKETHIS]

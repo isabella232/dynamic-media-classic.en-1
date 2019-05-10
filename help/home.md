@@ -21,7 +21,6 @@ Welcome to the Dynamic Media Classic Help. Here you can access all available res
 * [Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/index.html)
 * [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
 * [Image Serving and Image Rendering API](https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/index.html)
-* Accessing Dynamic Media SDKs through Adobe Developer Connection
 
 ## Dynamic Media Classic Webinars and Tutorials
 

@@ -103,7 +103,7 @@ You can display the names and e-mail addresses of Media Portal users in a pop-up
 
 ## Setting up the Welcome e-mail message for Media Portal users {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
-You can send a Welcome e-mail when you add new Media Portal users, contributors, and contributor-users. You can configure this e-mail message or tell Scene7 not to send it.
+You can send a Welcome e-mail when you add new Media Portal users, contributors, and contributor-users. You can configure this e-mail message or tell Dynamic Media Classic not to send it.
 
 1. Choose **Setup** &gt; **Application Setup** &gt; **Administration Setup** &gt; **User Administration**.
 1. In the User Administration Setup screen, click **Email Settings**.
@@ -111,9 +111,9 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 
    **Send Email** Deselect this option if you don’t want to inform new users by e-mail that you have signed them up.
 
-   **Default Password** Enter a temporary password for new users, or leave the field empty to have Scene7 generate random passwords. Users are asked to change passwords the first time they log in.
+   **Default Password** Enter a temporary password for new users, or leave the field empty to have Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they log in.
 
-   **Replacement URL** Enter a URL different from the default if your users access Scene7 through a different URL.
+   **Replacement URL** Enter a URL different from the default if your users access Dynamic Media Classic through a different URL.
 
 ## Other user management tasks {#other-user-management-tasks}
 

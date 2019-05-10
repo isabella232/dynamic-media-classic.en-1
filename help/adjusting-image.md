@@ -14,7 +14,7 @@ discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
 
 # Adjusting an image{#adjusting-an-image}
 
-Scene7 offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the color balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
+Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the color balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
 
 See also [Creating an alias for an image](adjusting-image.md#creating_an_alias_for_an_image).
 

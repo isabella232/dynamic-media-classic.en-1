@@ -2,7 +2,7 @@
 title: Publish Setup
 seo-title: Publish Setup
 description: null
-seo-description: The Publish Setup screen settings determine how assets are delivered by default from Scene7 servers to web sites or applications.
+seo-description: The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
 uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference
@@ -13,7 +13,7 @@ discoiquuid: cba59093-28b6-4490-b838-d942b72ad1ec
 
 # Publish Setup {#publish-setup}
 
-The Publish Setup screen settings determine how assets are delivered by default from Scene7 servers to web sites or applications. If no setting is specified, the Scene7 server delivers an asset according to a default setting on a Publish Setup screen. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server screen.
+The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications. If no setting is specified, the Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup screen. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server screen.
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette screens to establish default settings for delivering assets from servers.
 
@@ -21,13 +21,13 @@ To open the Publish Setup screens, click Setup &gt; Application Setup &gt; Publi
 
 >[!NOTE]
 >
->The Publish Setup screens are for use by experienced web site developers and programmers. Scene7 assumes that users who change settings on these screens are familiar with the Scene7 Publishing System, HTTP protocol standards and conventions, and basic imaging technology.
+>The Publish Setup screens are for use by experienced web site developers and programmers. Dynamic Media Classic assumes that users who change settings on these screens are familiar with the Scene7 Publishing System, HTTP protocol standards and conventions, and basic imaging technology.
 
 ## Image Server {#image-server}
 
 The Image Server screen establishes default settings for delivering images from image servers. Settings are available in these five categories (see the Image Server screen itself for detailed descriptions of the settings).
 
-Change these settings only with the assistance of a Scene7 support person.
+Change these settings only with the assistance of a Dynamic Media Classic support person.
 
 **Catalog Management** These settings determine how Scene7 Publishing System and the catalog interact. Unlike most web servers, Scene7 Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
@@ -48,7 +48,7 @@ Change these settings only with the assistance of a Scene7 support person.
 For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language you want.
 
 >[!NOTE]
-> To set up Localization Support options, contact Adobe Scene7 Technical Support or send an email to s7support@adobe.com requesting setup help.
+> To set up Localization Support options, contact Adobe Dynamic Media Classic Technical Support or send an email to s7support@adobe.com requesting setup help.
 
 For more information about setting up **Localization Support**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -56,7 +56,7 @@ For more information about setting up **Localization Support**, see [Considerati
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Scene7 Publishing System, such as the Locale Map field, contact Adobe Scene7 Technical Support. Or, send an email to s7support@adobe.com requesting setup help.
+>If you want to set up Localization Support options in Scene7 Publishing System, such as the Locale Map field, contact Adobe Dynamic Media Classic Technical Support. Or, send an email to s7support@adobe.com requesting setup help.
 
 A common way to use the Scene7 Publishing System (SPS) is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a very few part of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. S7 uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
@@ -217,7 +217,7 @@ Using the first example as a basis, images for all languages may have the suffix
 
 The Image Renderer screen establishes default settings for delivering Image Sets from image rendering servers. Settings are available in these five categories (see the Image Server screen itself for detailed descriptions of the settings):
 
-**Catalog Management** These settings determine how Scene7 Publishing System and the catalog file interact. Scene7 Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Scene7 support person.
+**Catalog Management** These settings determine how Scene7 Publishing System and the catalog file interact. Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Dynamic Media Classic support person.
 
 **Session Attributes** These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
 

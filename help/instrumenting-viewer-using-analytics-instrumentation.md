@@ -16,11 +16,7 @@ discoiquuid: a2824244-1755-42de-a167-42af117cf038
 
 You can use the Adobe Analytics Instrumentation Kit to integrate an HTML5 viewer with Adobe Analytics.
 
-If you use any of the predefined Scene7 HTML5 viewer presets, be aware that they already contain all the implementation code needed to send data to Adobe Analytics--no further instrumentation is required by you. However, if you choose to create your own custom HTML5 viewers using the HTML5 Viewer SDK, see the *Adobe Scene7 HTML5 Viewer SDK User Guide* for instructions on how to use the Adobe Analytics Tracking Manager component.
-
-The *Adobe Scene7 HTML5 Viewer SDK User Guide* is available as part of the SDK download from Adobe Developer Connection.
-
-See [www.adobe.com/go/learn/learn_s7_devresources_en](https://www.adobe.com/go/learn/learn_s7_devresources_en).
+If you use any of the predefined Dynamic Media Classic HTML5 viewer presets, be aware that they already contain all the implementation code needed to send data to Adobe Analytics--no further instrumentation is required by you.
 
 ## Set up Adobe Analytics tracking from Scene7 Publishing System {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 

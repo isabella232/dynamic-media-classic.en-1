@@ -13,17 +13,17 @@ discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
 
 # About uploading and publishing assets{#about-uploading-and-publishing-assets}
 
-Your work in Scene7 falls in three basic areas:
+Your work in Dynamic Media Classic falls in three basic areas:
 
 * Uploading file assets to the Scene7 Publishing System.
 * Managing your files so you can use them to build rich-media assets.
-* Publishing your asset files to a Scene7 server so that they are available for delivery to your website and application.
+* Publishing your asset files to a Dynamic Media Classic server so that they are available for delivery to your website and application.
 
-When you upload asset files to SPS and when you publish asset files to Scene7 servers, the system records these file transfers on the Jobs page. You can go to this page to track and monitor your upload and publishing activities.
+When you upload asset files to SPS and when you publish asset files to Dynamic Media Classic servers, the system records these file transfers on the Jobs page. You can go to this page to track and monitor your upload and publishing activities.
 
 >[!NOTE]
 >
->*When you upload a file, Scene7 generates the URL for the file. This URL is not active until you publish the file.*
+>*When you upload a file, Dynamic Media Classic generates the URL for the file. This URL is not active until you publish the file.*
 
 >[!NOTE]
 >

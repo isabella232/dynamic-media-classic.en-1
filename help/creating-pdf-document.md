@@ -18,7 +18,7 @@ The final step in the Web-to-Print process is generating the customized PDF. Aft
 
 ## Setting up PDF Presets {#setting-up-pdf-presets}
 
-Specify the PDF compatibility level and printer settings by creating and uploading a PDF joboptions file to the Scene7 Server. For example, you can choose to select PDF/X-4 compliant PDF output (recommended for PDF print publishing workflows). You can create the joboptions file in your authoring software (such as Adobe Illustrator), or in Acrobat. Always check with your printer, who can advise you on the appropriate job option settings for your print job.
+Specify the PDF compatibility level and printer settings by creating and uploading a PDF joboptions file to the Dynamic Media Classic Server. For example, you can choose to select PDF/X-4 compliant PDF output (recommended for PDF print publishing workflows). You can create the joboptions file in your authoring software (such as Adobe Illustrator), or in Acrobat. Always check with your printer, who can advise you on the appropriate job option settings for your print job.
 
 For more information on creating joboptions files, and for information on creating a joboptions file in Acrobat, see Adobe Acrobat Help.
 
@@ -27,7 +27,7 @@ To create a joboptions file in Illustrator:
 1. Choose Edit &gt; Adobe PDF Presets.
 1. In the dialog box, select the preset you want to use.
 
-   The following Job Option Settings are supported by Scene7:
+   The following Job Option Settings are supported by Dynamic Media Classic:
 
     |Job Option|Description|
     |--- |--- |
@@ -43,7 +43,7 @@ To create a joboptions file in Illustrator:
 
    >[!NOTE]
    >
-   >Scene7 ignores printer mark settings in the joboptions file. Rather, printer marks are configured through the use of Scene7 URL commands.
+   >Dynamic Media Classic ignores printer mark settings in the joboptions file. Rather, printer marks are configured through the use of Dynamic Media Classic URL commands.
 
 1. Click Export, then specify a name and location and click Save.
 1. Upload the job options file as an asset to the Scene7 Publishing System.
@@ -58,23 +58,23 @@ Before finalizing the PDF for print, make sure you follow the guidelines in this
 
 **Images**
 
-Make sure that all images in your publish job have been uploaded to your Scene7 Server and published.
+Make sure that all images in your publish job have been uploaded to your Dynamic Media Classic Server and published.
 
 **Fonts**
 
-Make sure that all fonts in your publish job have been uploaded to your Scene7 Server and published. Be certain that you have legal rights to host the fonts if you plan to allow end-users to change them.
+Make sure that all fonts in your publish job have been uploaded to your Dynamic Media Classic Server and published. Be certain that you have legal rights to host the fonts if you plan to allow end-users to change them.
 
 **Image resolution (pixels per inch)**
 
-The resolution of bitmap images is preserved by the Scene7 server in generated print-ready PDFs. Scene7 upscales image resolution if necessary. For optimal results, leave the resolution at the default value (typically 72 dpi) when previewing on web. The default resolution for all the images in your company is set in the Publish Settings/Image Server window in the Default Print Resolution section. Higher resolutions (such as 300dpi) can result in longer processing time and should only be applied to a print-ready PDF. Use the imageRes= command in the URL to manually override the default resolution for PDF jobs.
+The resolution of bitmap images is preserved by the Dynamic Media Classic server in generated print-ready PDFs. Dynamic Media Classic upscales image resolution if necessary. For optimal results, leave the resolution at the default value (typically 72 dpi) when previewing on web. The default resolution for all the images in your company is set in the Publish Settings/Image Server window in the Default Print Resolution section. Higher resolutions (such as 300dpi) can result in longer processing time and should only be applied to a print-ready PDF. Use the imageRes= command in the URL to manually override the default resolution for PDF jobs.
 
 **Color Management**
 
-Your document and images can use grayscale, CMYK, named spot colors, RGB, or Lab color models. Each can be either uncalibrated or calibrated by employing an ICC color profile. For best results, embed the profile in the generated print-ready PDF. The Scene7 Server does this by default. Make sure that all required color profiles have been uploaded to the Scene7 platform. Preferably, make sure that the color management options set in your design application, match those set in your Scene7 Server:
+Your document and images can use grayscale, CMYK, named spot colors, RGB, or Lab color models. Each can be either uncalibrated or calibrated by employing an ICC color profile. For best results, embed the profile in the generated print-ready PDF. The Dynamic Media Classic Server does this by default. Make sure that all required color profiles have been uploaded to the Dynamic Media Classic platform. Preferably, make sure that the color management options set in your design application, match those set in your Dynamic Media Classic Server:
 
 **Design application color management settings:** In the Color Settings of your authoring application (such as Adobe Illustrator), specify the RGB and CMYK color profiles in the Working Spaces section.
 
-**Scene7 color management settings:** Typically, the color management settings in the design application should match the default color profiles in your Scene7 server. You can find these settings in the Publish Setup/Image Server window.
+**Dynamic Media Classic color management settings:** Typically, the color management settings in the design application should match the default color profiles in your Dynamic Media Classic server. You can find these settings in the Publish Setup/Image Server window.
 
 ## Displaying printer marks {#displaying-printer-marks}
 

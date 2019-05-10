@@ -1,6 +1,6 @@
 ---
-title: Parameterizing a template in Scene7
-seo-title: Parameterizing a template in Scene7
+title: Parameterizing a template in Dynamic Media Classic
+seo-title: Parameterizing a template in Dynamic Media Classic
 description: null
 seo-description: Learn how to parameterize a template in Dynamic Media Classic (Scene7)
 uuid: 27c8c8b4-47f3-4270-a6db-d304648ba357
@@ -12,19 +12,19 @@ discoiquuid: df1a9ff5-a5ba-4480-ba0d-a19bc665f907
 
 ---
 
-# Parameterizing a template in Scene7{#parameterizing-a-template-in-scene}
+# Parameterizing a template in Dynamic Media Classic{#parameterizing-a-template-in-scene}
 
-After you upload an Illustrator template that you saved as Scene7 FXG to the Scene7 Publishing System, you can define its variable elements. Do so by parameterizing variable elements in the Template Publishing Build and Preview screens. Scene7 offers tools for defining text and object parameters on layers and their respective properties. You can also create different versions of a template.
+After you upload an Illustrator template that you saved as Dynamic Media Classic FXG to the Scene7 Publishing System, you can define its variable elements. Do so by parameterizing variable elements in the Template Publishing Build and Preview screens. Dynamic Media Classic offers tools for defining text and object parameters on layers and their respective properties. You can also create different versions of a template.
 
 Parameterizing an FXG template allows you to customize the variability of text, images, and graphics in the template. For example, you can parameterize a line of text so that end users can modify the text through a web user interface. You can define empty text fields as variable so that end users can fill these fields with personalized text. You can also parameterize the attributes and properties of design elements in the S7 Template Publishing Build screen.
 
 >[!NOTE]
 >
->Parameterizing the template in Scene7 is not required if you plan to use DOM manipulation.
+>Parameterizing the template in Dynamic Media Classic is not required if you plan to use DOM manipulation.
 
 ## Defining parameters in FXG templates {#defining-parameters-in-fxg-templates}
 
-Follow these steps in Scene7 to define parameters for an FXG template:
+Follow these steps in Dynamic Media Classic to define parameters for an FXG template:
 
 1. In the Browse window, select the FXG file.
 1. Click Build and choose Template Publishing, or click the file’s Edit button.
@@ -71,7 +71,7 @@ In the Template Publishing screen, click Save As to save the file as a new FXG t
 
 ## Using stroked text {#using-stroked-text}
 
-Stroked text is an example of how you can parameterize attributes. Scene7 supports these stroked text features:
+Stroked text is an example of how you can parameterize attributes. Dynamic Media Classic supports these stroked text features:
 
 * Width of stroke
 * Dashed stroke pattern

@@ -19,9 +19,9 @@ The Administration Setup screens are for administering Scene7 Publishing System 
 
 ## User Administration {#user-administration}
 
-All Scene7 users are assigned a role that determines their privileges and access rights to features in Scene7 Publishing System. Administrators determine the different roles and responsibilities for the companies to which they are assigned.
+All Dynamic Media Classic users are assigned a role that determines their privileges and access rights to features in Scene7 Publishing System. Administrators determine the different roles and responsibilities for the companies to which they are assigned.
 
-Typically, Scene7 configures the first set of companies and assigns a company administrator. The company administrator then sets up and administers Scene7 Publishing System users.
+Typically, Dynamic Media Classic configures the first set of companies and assigns a company administrator. The company administrator then sets up and administers Scene7 Publishing System users.
 
 Scene7 Publishing System supports three user roles. All three roles can access companies set up for the Scene7 Publishing System:
 
@@ -45,7 +45,7 @@ After you add a user, Scene7 Publishing System sends the user a Welcome e-mail m
 
 1. Choose a Role option to assign a role to the user.
 
-   See [Scene7 user roles and privileges](administration-setup.md#user_administration).
+   See [Dynamic Media Classic user roles and privileges](administration-setup.md#user_administration).
 
 1. Select a company name to add a user to a company.
 1. If you want to add the user to a group (if you are adding a Media Portal user or contributor), click Next and add the user.
@@ -106,13 +106,13 @@ You can use the following user list filtering techniques:
 
 If you have many users, you can limit the size of the list by selecting the Max List Size menu and choosing a number.
 
-### Linking an IMS user identity to a Scene7 IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
+### Linking an IMS user identity to a Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
 
-You can link an Adobe IMS user identity to a Scene7 IPS user account so you can use SSO (Single Sign On) to log on and launch Scene7 Publishing System from within Adobe Marketing Cloud.
+You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user account so you can use SSO (Single Sign On) to log on and launch Scene7 Publishing System from within Adobe Marketing Cloud.
 
 1. Adobe should already have setup your account with an Adobe Marketing Cloud organization and linked it to your Scene7 Publishing System product context. If this setup is not yet done or you are unsure if it has been done, contact Adobe Customer Care.
 
-   When the setup is complete, you can can log on to Adobe Marketing Cloud and link your Adobe Marketing Cloud identity to your Scene7 user account by doing the following.
+   When the setup is complete, you can can log on to Adobe Marketing Cloud and link your Adobe Marketing Cloud identity to your Dynamic Media Classic user account by doing the following.
 
 1. In Adobe Marketing Cloud, navigate to your account settings.
 1. Click **Manage Organizations**.
@@ -126,7 +126,7 @@ You can link an Adobe IMS user identity to a Scene7 IPS user account so you can 
 
    Do one of the following:
 
-    * To launch Scene7 from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, click **Solutions** &gt; **Experience Manager**. Under the Scene7 card, click **Launch**.
+    * To launch Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, click **Solutions** &gt; **Experience Manager**. Under the Dynamic Media Classic card, click **Launch**.
     * To log on to Scene7 Publishing System directly using your IMS credentials, use the following website:
 
       https://s7spsN.scene7.com/IpsWeb?ims=1
@@ -148,7 +148,7 @@ The following table describes reports that you can generate from the Bandwidth &
 |Bandwidth|Bandwidth use by company|Track bandwidth usage by company over specific date ranges to determine traffic patterns.|
 |Storage|Storage usage|Track the amount of data uploaded by company.|
 |Image Content|The number of image requests by type|Track the number of requests and volume for different image types.|
-|Domain|The number of URL requests by domain|Track image usage based on the domain of the image request for a specific company. (Scene7 can provide more than one domain per account. For more information, contact Technical Support.)|
+|Domain|The number of URL requests by domain|Track image usage based on the domain of the image request for a specific company. (Dynamic Media Classic can provide more than one domain per account. For more information, contact Technical Support.)|
 |Video Streaming|Bandwidth usage for streaming video|Track streaming video usage by company over specific date ranges to determine traffic patterns.|
 |Video Content|Playing time of different videos|Determine which are the most viewed and least viewed videos.|
 
