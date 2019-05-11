@@ -16,7 +16,7 @@ discoiquuid: 8164466e-2520-482a-88ec-6191fdc77ea3
 
 Optimizing image quality can be a time consuming process as many factors contribute to rendering acceptable results. The outcome is partly subjective because individuals perceive image quality differently. Structured experimentation is key.
 
-Scene7 includes more than 100 image serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
+Dynamic Media Classic includes more than 100 image serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
 
 See also [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
 
@@ -42,13 +42,13 @@ As a best practice for image sizing, use `&wid=<value>&hei=<value>&resMode=sharp
 
 ## Best practices for image sharpening {#best-practices-for-image-sharpening}
 
-Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Scene7 by referring to the following helpful resources:
+Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Dynamic Media Classic by referring to the following helpful resources:
 
 Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
 
 On Adobe TV, watch [Sharpening an image with unsharp mask](https://tv.adobe.com/watch/visual-design-cs6/sharpening-an-image-with-unsharp-mask/).
 
-With Scene7, you can sharpen images on ingestion, on delivery, or both. In most cases, however, you should sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
+With Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. In most cases, however, you should sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
 
 There are two image sharpening methods that you can use:
 
@@ -68,11 +68,11 @@ There are two image sharpening methods that you can use:
 
       For more information about how you set these three parameters, including best practices to use with the filter, see the following resources:
 
-      Scene7 Help topic on [Sharpening an image](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
+      Dynamic Media Classic Help topic on [Sharpening an image](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
 
       Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
 
-    * Scene7 also lets you control a fourth parameter: monochrome ( `0,1`). This parameter determines if unsharp masking is applied to each color component separately using the value `0` or to the image brightness/intensity using the value `1`.
+    * Dynamic Media Classic also lets you control a fourth parameter: monochrome ( `0,1`). This parameter determines if unsharp masking is applied to each color component separately using the value `0` or to the image brightness/intensity using the value `1`.
 
 As a best practice, start with the unsharp mask radius parameter. Radius settings that you can start with are the following:
 
@@ -121,7 +121,7 @@ If sharpening results are still not satisfactory, increase the radius in decimal
 
 As you experiment, you may also find the following general suggestions helpful to optimize your workflow:
 
-* Try out and test different parameters in real time, either directly on a Scene7 URL or using the Scene7 Publishing System's image adjustment functionality which provides real-time previews for adjustment operations. 
-* As a best practice, remember that you can group Scene7 Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs. 
-* Scene7 also provides more advanced ways to tune image quality, such as applying sharpening images on ingestion. For advanced use cases where this may be an option to further tune and optimize rendering results, Adobe Professional Services can help you with customized insight and best practices.
+* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Scene7 Publishing System's image adjustment functionality which provides real-time previews for adjustment operations. 
+* As a best practice, remember that you can group Dynamic Media Classic Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs. 
+* Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying sharpening images on ingestion. For advanced use cases where this may be an option to further tune and optimize rendering results, Adobe Professional Services can help you with customized insight and best practices.
 

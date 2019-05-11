@@ -13,7 +13,7 @@ discoiquuid: c1594abf-8cc2-46dd-88bf-af93db7db607
 
 # About User-generated content{#about-user-generated-content}
 
-Using UGC (user-generated content) consists of uploading assets to a dedicated Scene7 storage repository and performing related operations.
+Using UGC (user-generated content) consists of uploading assets to a dedicated Dynamic Media Classic storage repository and performing related operations.
 
 UGC supports the following file formats:
 

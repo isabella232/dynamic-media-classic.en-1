@@ -16,7 +16,7 @@ discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 
 An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet, that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To call attention to Image Maps, an outline appears around an Image Map when the user moves the pointer over it.
 
-Besides the ability to create an image map in Scene7, or you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
+Besides the ability to create an image map in Dynamic Media Classic, or you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
 
 When you create Image Maps you can do any of the following:
 
@@ -45,9 +45,9 @@ When you create Image Maps you can do any of the following:
 
    **Polygonal map** Select the Polygon Image Map tool and click points on the perimeter of the area of the image you want to enclose. Use the polygon density slider to vary the point density in the polygon. The original density is remembered if you select other maps. If any point is added, deleted, or moved in the polygon, the original density is lost and the slider is reset to its maximum value.
 
-1. Enter a name for the Image Map, if desired, in the Image Map list. After you draw an Image Map, Scene7 assigns it a name.
+1. Enter a name for the Image Map, if desired, in the Image Map list. After you draw an Image Map, Dynamic Media Classic assigns it a name.
 
-   To create the name, Scene7 appends a sequential number to the name of the image or eCatalog page you are working with. You can enter a name of your choice.
+   To create the name, Dynamic Media Classic appends a sequential number to the name of the image or eCatalog page you are working with. You can enter a name of your choice.
 
 1. If you want users to open a new web page when they click the Image Map, enter the URL in the Image Map list.
 
@@ -118,7 +118,7 @@ For example, copying Image Maps in an eCatalog is a convenient way to copy all i
 
 ## Using a template to enter JavaScript and URLs {#using-a-template-to-enter-javascript-and-urls}
 
-You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL Template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Scene7 JavaScript handler called `loadProduct` that opens the image in a new window.
+You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL Template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Dynamic Media Classic JavaScript handler called `loadProduct` that opens the image in a new window.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ You place all of the values that do not change between Image Maps in the URL tem
 * URL value: `product.htm`
 * Actual URL generated: `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
 
-By default, the URL template includes a proprietary Scene7 JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Scene7 handlers:
+By default, the URL template includes a proprietary Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Dynamic Media Classic handlers:
 
 * `loadProductCW`
 
@@ -188,7 +188,7 @@ Select the Show menu and choose Both if you want an Image Map to have rollover t
 
 You can create Image Maps while designing your eCatalog in Adobe Acrobat or Adobe InDesign.
 
-In Acrobat or InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Scene7 automatically converts the links to Image Maps.
+In Acrobat or InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Dynamic Media Classic automatically converts the links to Image Maps.
 
 For more information, see InDesign Help or Acrobat Help.
 
@@ -198,15 +198,15 @@ For more information, see InDesign Help or Acrobat Help.
 1. Select the text, frame, or graphic that you want to make into an Image Map.
 1. In the Hyperlinks panel, click New Hyperlink from the panel menu. 
 1. In the New Hyperlink dialog box, choose URL from the Link To menu.
-1. Type or paste the product ID in the URL box, and click OK. (Scene7 completes the URL using the Image Map URL template.)
+1. Type or paste the product ID in the URL box, and click OK. (Dynamic Media Classic completes the URL using the Image Map URL template.)
 
    >[!NOTE]
    >
-   >You do not need to set appearance options in InDesign. You can specify appearance in Scene7.
+   >You do not need to set appearance options in InDesign. You can specify appearance in Dynamic Media Classic.
 
 1. Repeat steps 2 through 5 for all the Image Maps you want to create.
 1. Export the file as a PDF.
-1. Upload the PDF to Scene7 and select Extract Links from the PDF Options.
+1. Upload the PDF to Dynamic Media Classic and select Extract Links from the PDF Options.
 
 ### To create Image Maps in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 
@@ -214,12 +214,12 @@ For more information, see InDesign Help or Acrobat Help.
 1. Drag to create the Image Map. The Create Link box opens.
 1. Select Custom Link, and click Next.
 
-   ***note**: You do not need to set appearance options in Acrobat. You can specify appearance in Scene7.*
+   ***note**: You do not need to set appearance options in Acrobat. You can specify appearance in Dynamic Media Classic.*
 
 1. In the Link Properties box, click Actions.
 1. Select Open A Web Link from the Select Action menu, and then click Add.
-1. Type the product ID for the Image Map in the Edit URL box, and click OK. (Scene7 completes the URL using the image map URL template.)
+1. Type the product ID for the Image Map in the Edit URL box, and click OK. (Dynamic Media Classic completes the URL using the image map URL template.)
 1. Repeat steps 1 through 7 for all the Image Maps you want to create.
 1. Save the file.
-1. Upload the PDF to Scene7 and select Extract Links from the PDF Options.
+1. Upload the PDF to Dynamic Media Classic and select Extract Links from the PDF Options.
 

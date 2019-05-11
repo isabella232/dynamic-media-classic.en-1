@@ -14,13 +14,13 @@ discoiquuid: 39099bc0-9228-46f0-9bee-3542059f4695
 
 # Publishing files{#publishing-files}
 
-You publish your assets to Scene7 Image Servers. You can publish assets on a one-time basis or arrange for Scene7 to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from the Scene7 Publishing System and add them to your website or application.
+You publish your assets to Scene7 Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from the Scene7 Publishing System and add them to your website or application.
 
-Scene7 Publishing System now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Scene7 assets. See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
+Scene7 Publishing System now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
 
 ## Publish After Uploading {#publish-after-uploading}
 
-Assets either in a published or unpublished state. By default, any assets that you upload into Scene7 are automatically marked for publishing.
+Assets either in a published or unpublished state. By default, any assets that you upload into Dynamic Media Classic are automatically marked for publishing.
 
 For more information, see the [Instant Publish Notice PDF](https://marketing.adobe.com/resources/help/en_US/s7/rendering-instant-publish-notification.pdf).
 
@@ -43,7 +43,7 @@ Derived images are also automatically marked for publish when their parent image
 
 ## Creating a publish job {#creating-a-publish-job}
 
-Create a publish job to publish assets you have uploaded to Scene7 servers but chose not to automatically published them yet. You can perform a one-time publish job or schedule jobs to recur on a regular basis. Scene7 offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
+Create a publish job to publish assets you have uploaded to Dynamic Media Classic servers but chose not to automatically published them yet. You can perform a one-time publish job or schedule jobs to recur on a regular basis. Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
 **To create a publish job**
 
@@ -75,7 +75,7 @@ If you want the publish job to occur at a later date, select the When menu, and 
 
 Create a recurring publish job by selecting the Recurring option on the Publish page.
 
-Then choose a Repeat option—Daily, Weekly, Monthly, or Custom—to declare when you want the publishing job to recur. Scene7 presents calendar tools for scheduling the recurring publish job. You can choose the Custom option and enter a rule in the Rule box to describe a custom job interval.
+Then choose a Repeat option—Daily, Weekly, Monthly, or Custom—to declare when you want the publishing job to recur. Dynamic Media Classic presents calendar tools for scheduling the recurring publish job. You can choose the Custom option and enter a rule in the Rule box to describe a custom job interval.
 
 See [Creating a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
@@ -145,11 +145,11 @@ The last date an asset was published is shown in Detail view at the top of the p
 
 ## Republished assets and CDN delays {#republished-assets-and-cdn-delays}
 
-Scene7 assets are distributed on the content delivery network (CDN). CDN is a system of computer servers networked together that cooperate transparently to deliver content, especially large media content, to end users. In the CDN system, web content is stored in web caches across the Internet (called the edge cache network). Web content is delivered from these web caches to end users to make for faster deliveries.
+Dynamic Media Classic assets are distributed on the content delivery network (CDN). CDN is a system of computer servers networked together that cooperate transparently to deliver content, especially large media content, to end users. In the CDN system, web content is stored in web caches across the Internet (called the edge cache network). Web content is delivered from these web caches to end users to make for faster deliveries.
 
 The first time someone downloads a web page, the assets are delivered to a CDN web cache server. They are stored on this server so that the next time someone in the same area accesses the web page, the same cached content can be delivered faster. The content is delivered faster because it is located closer to the end user. CDN makes for faster web page displays. It decreases bandwidth demands on the central server because content is delivered from the edge cache network, not from a central server in every instance.
 
-Newly published Scene7 content is available immediately to the end user and quickly populates the edge cache network. However, newly republished content—images that have the exact same names as images previously published to an image server—is not updated on CDN for up to ten hours. Instead, end users see what is in a web cache on the CDN network. For this reason, your Scene7 republished assets may not appear to end users for ten hours.
+Newly published Dynamic Media Classic content is available immediately to the end user and quickly populates the edge cache network. However, newly republished content—images that have the exact same names as images previously published to an image server—is not updated on CDN for up to ten hours. Instead, end users see what is in a web cache on the CDN network. For this reason, your Dynamic Media Classic republished assets may not appear to end users for ten hours.
 
 If you want your newly republished image assets to be available sooner than the ten-hour delay, you can flush web caches on CDN. Flushing these web caches removes old content from CDN web caches and replaces it with your most recently published assets.
 

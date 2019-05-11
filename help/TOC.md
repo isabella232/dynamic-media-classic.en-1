@@ -10,17 +10,17 @@ index: y
 
 + [Dynamic Media Classic (Scene7) Documentation Home](home.md)
 + Introducing Adobe Scene7 {#intro}
-    + [About Scene7](introduction.md)
+    + [About Dynamic Media Classic](introduction.md)
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
     + [System requirements](system-requirements.md)
     + [Adobe Scene7 Publishing System desktop applications](scene7-publishing-system-desktop-applications.md)
     + [Support](support.md)
-    + [Help for Scene7 Media Portal](help-scene7-media-portal.md)
+    + [Help for Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
     + [Adobe Training Services](training-services.md)
     + [Popular resources](popular-resources.md)
 + Getting started {#getting-started}
-    + [Adobe Scene7 platform overview](scene7-platform-overview.md)
+    + [Adobe Dynamic Media Classic platform overview](scene7-platform-overview.md)
     + [Using Scene7 Publishing System desktop version](using-scene7-publishing-system-desktop.md)
     + [Media Portal](media-portal.md)
     + [Signing in and out](signing-out.md)
@@ -156,7 +156,7 @@ index: y
     + [Publishing Adobe Analytics configuration information](publishing-analytics-configuration-information.md)
 + Target Classic integration {#target-classic}
     + [Quick Start: Target Classic integration](quick-start-target-classic-integration.md)
-    + [Integrating Adobe Scene7 with Adobe Target Classic](integrating-scene7-target-classic.md)
+    + [Integrating Adobe Dynamic Media Classic with Adobe Target Classic](integrating-scene7-target-classic.md)
     + [Creating an offer set](creating-offer-set.md)
     + [Pushing offer sets to Adobe Target Classic](pushing-offer-sets-target-classic.md)
 + User-generated content {#user-generated-content}

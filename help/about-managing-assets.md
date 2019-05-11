@@ -13,7 +13,7 @@ discoiquuid: b362959d-f997-4877-b470-fffa23bc22a4
 
 # About managing assets{#about-managing-assets}
 
- Scene7 offers the Asset Library for managing assets. The Asset Library holds the folders where you store your asset files. Selecting a folder in the Asset Library displays the contents of the folder in the Browse Panel. You can view items in the Browse Panel in Grid, List, or Detail view. When you want to focus on a single asset, double-click it in the Browse Panel to display it in Detail view.
+ Dynamic Media Classic offers the Asset Library for managing assets. The Asset Library holds the folders where you store your asset files. Selecting a folder in the Asset Library displays the contents of the folder in the Browse Panel. You can view items in the Browse Panel in Grid, List, or Detail view. When you want to focus on a single asset, double-click it in the Browse Panel to display it in Detail view.
 
 The Browse Panel offers tools for viewing, selecting, locating, previewing, moving, renaming, and deleting assets. Assets that you delete are placed in the Trash folder; you can recover assets from this folder.
 

@@ -24,12 +24,6 @@ See [Adding or editing a video viewer preset](previewing-videos-video-viewer.md#
 
 See also [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-If desired, you can create and brand your own custom video viewer with chapters instead of using a video viewer preset. For instructions on creating your own HTML5 viewer with chapter navigation, in the *Adobe Scene7 Viewer SDK for HTML5* guide, in the *Adobe Scene7 Viewer SDK*, reference the heading “Customizing Behavior Using Modifiers” under the classes `s7sdk.video.VideoPlayer` and `s7sdk.video.VideoScrubber`.
-
-The *Adobe Scene7 Viewer SDK* is available as a download from the following location:
-
-[Adobe Developer Connection](https://help.adobe.com/en_US/scene7/using/WSef8d5860223939e2-43dedf7012b792fc1d5-8000.html).
-
 You create a chapter list for your video in much the same way that you create captions. That is, you create a WebVTT file. Note, however, that this file must be separate from any WebVTT caption file that you may also be using; you cannot combine captions and chapters into one WebVTT file.
 
 You can use the following sample as an example of the format you use to create a WebVTT file with chapter navigation:
