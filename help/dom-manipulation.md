@@ -16,9 +16,9 @@ discoiquuid: 890ca93e-3146-4347-864b-bd5e94037038
 
 DOM (document object model) manipulation is a technique for editing a design file by directly manipulating its XML code. DOM manipulation gives you more control over variable design elements, including changing their content and appearance; you can even create new elements on an as-needed basis.
 
-Scene7 lets you manipulate the DOM of a Scene7 FXG template by way of URL commands after the template is published. Design elements in the FXG template are manipulated by passing commands through the URL. In this way, you can dynamically manipulate and add attributes to graphics.
+Dynamic Media Classic lets you manipulate the DOM of a Dynamic Media Classic FXG template by way of URL commands after the template is published. Design elements in the FXG template are manipulated by passing commands through the URL. In this way, you can dynamically manipulate and add attributes to graphics.
 
-To use DOM manipulation, you create s7:elementIDs in your Illustrator file before converting it to a Scene7 FXG file and uploading it to SPS.
+To use DOM manipulation, you create s7:elementIDs in your Illustrator file before converting it to a Dynamic Media Classic FXG file and uploading it to SPS.
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Follow these steps to create an s7:elementID for an object in Illustrator:
 
 ## Publish FXG templates {#publish-fxg-templates}
 
-Publishing your FXG template places it on the Scene7 servers, where it is available to your web site and application. During the publishing process, the Scene7 Publishing System activates the URLs you need for your web site or application.
+Publishing your FXG template places it on the Dynamic Media Classic servers, where it is available to your web site and application. During the publishing process, the Scene7 Publishing System activates the URLs you need for your web site or application.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Publishing your FXG template places it on the Scene7 servers, where it is availa
 
 ### Mark FXG templates for publish {#mark-fxg-templates-for-publish}
 
-Templates and all their support files must be marked for publish for them to be placed on Scene7 Image Servers.
+Templates and all their support files must be marked for publish for them to be placed on Dynamic Media Classic Image Servers.
 
 1. In the Browse Panel, select the FXG template along with any graphics, images, and fonts used.
 1. Click **Mark For Publish**.

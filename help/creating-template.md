@@ -47,7 +47,7 @@ You can create a template from an existing template. Open the template, click **
 1. Click **Save**.
 1. Select a folder for storing your template, enter a name for the template, and click **Submit**.
 
-   Scene7 shrinks images if necessary to fit them on the canvas, the area on the Template screen for defining your template.
+   Dynamic Media Classic shrinks images if necessary to fit them on the canvas, the area on the Template screen for defining your template.
 
 ## Editing a Template Set {#editing-a-template-set}
 
@@ -96,7 +96,7 @@ Use these tools on the Template screen to create templates:
 
 **Text Editor v4.3 and Text Editor v4.2** You can choose to use the latest and most fully featured text editor, Text Editor v4.3, or the previous text editor, Text Editor v4.2. When creating new templates, Text Editor v4.3 is selected by default. When editing older templates, Text Editor v4.2 is selected by default. Text Editor v4.3 does not currently support word wrap, so when editing older templates that use word wrap, use Text Editor v4.2 to keep the template’s fidelity fully intact. If your older template does not use word wrap, you can choose Text Editor v4.3 to take advantage of the many new features it offers such as Increase Margins, Decrease Margins, Set Text In All Caps, and Copy Fit Text.
 
-***note**: Text Editor v4.2 will eventually be removed as an option in Scene7, so it is recommended that you use Text Editor 4.3 when possible. The Word Wrap option will be incorporated into a future release of the Text Editor.*
+***note**: Text Editor v4.2 will eventually be removed as an option in Dynamic Media Classic, so it is recommended that you use Text Editor 4.3 when possible. The Word Wrap option will be incorporated into a future release of the Text Editor.*
 
 **Designer and Developer** Select the option that best describes your role.
 
@@ -114,7 +114,7 @@ Use these tools on the Template screen to create templates:
 
 >[!NOTE]
 >
->If necessary, Scene7 shrinks images to make them fit in the canvas when you create an image layer.
+>If necessary, Dynamic Media Classic shrinks images to make them fit in the canvas when you create an image layer.
 
 ## Creating a text layer {#creating-a-text-layer}
 
@@ -237,7 +237,7 @@ Layers must be small enough to fit on the canvas. You can change the size of a l
 
 >[!NOTE]
 >
->Scene7 recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you’ve created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Setting up Image Presets](setting-image-presets.md#setting_up_image_presets).
+>Dynamic Media Classic recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you’ve created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Setting up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
 **Changing the size of a layer**
 

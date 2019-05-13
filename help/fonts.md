@@ -16,7 +16,7 @@ discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 
 In some cases, the Scene7 Publishing System requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
 
-Scene7 supports these font types:
+Dynamic Media Classic supports these font types:
 
 * All TrueType fonts
 * PostScript® fonts
@@ -28,7 +28,7 @@ After a font file has been uploaded, you can change its SPS ID, font name, and t
 
 >[!NOTE]
 >
->Scene7 recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Scene7 needs these font styles to process requests. Uploading all PostScript/Adobe Type 1 files associated with a font is also recommended because some of these fonts contain detailed kerning information.
+>Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Dynamic Media Classic needs these font styles to process requests. Uploading all PostScript/Adobe Type 1 files associated with a font is also recommended because some of these fonts contain detailed kerning information.
 
 ## Uploading font files {#uploading-font-files}
 

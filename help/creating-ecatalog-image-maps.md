@@ -27,9 +27,9 @@ For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. 
 
    **Rectangular map** Select the Rectangle Image Map tool and drag on the page to create the rectangle.
 
-   **Polygonal map** Select the Polygon Image Map tool and click as many times as necessary around the perimeter of the image. As you click, Scene7 draws the borders of the Image Map.
+   **Polygonal map** Select the Polygon Image Map tool and click as many times as necessary around the perimeter of the image. As you click, Dynamic Media Classic draws the borders of the Image Map.
 
-   After you draw an Image Map, Scene7 assigns it a name in the Image Map list. To form the name, Scene7 appends a sequential number to the name of the eCatalog page in which you are working.
+   After you draw an Image Map, Dynamic Media Classic assigns it a name in the Image Map list. To form the name, Dynamic Media Classic appends a sequential number to the name of the eCatalog page in which you are working.
 
 1. (Optional) In the Image Map list panel, under the Name column, enter a new name for the Image Map. Do not include blank spaces in the name you enter.
 1. You can have viewers open a new web page when they click the Image Map. In the Image Map list panel, enter the URL of the web page in the URL column.
@@ -126,7 +126,7 @@ Starting on the Map Summary screen, follow these steps to import Image Map data 
 
 ## Copying Image Maps between eCatalogs {#copying-image-maps-between-ecatalogs}
 
-You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying Image Maps this way is a convenient method of copying Image Maps between foreign-language translations of the same eCatalog. For the copying to be successful, Scene7 recommends copying between eCatalogs with the same number of pages and same images.
+You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying Image Maps this way is a convenient method of copying Image Maps between foreign-language translations of the same eCatalog. For the copying to be successful, Dynamic Media Classic recommends copying between eCatalogs with the same number of pages and same images.
 
 >[!NOTE]
 >
@@ -138,4 +138,4 @@ Follow these steps to copy all the Image Maps in one eCatalog to another eCatalo
 1. On the Order Pages tab, click Copy Maps.
 1. In the Select Asset dialog box, select the eCatalog where you want to copy the Image Maps, and then click Select.
 
-Scene7 displays a warning message if the target eCatalog (the eCatalog to which you copy Image Maps) has a different number of pages or images that are a different size. You can click Continue to copy the Image Maps in spite of the warning. 
+Dynamic Media Classic displays a warning message if the target eCatalog (the eCatalog to which you copy Image Maps) has a different number of pages or images that are a different size. You can click Continue to copy the Image Maps in spite of the warning. 

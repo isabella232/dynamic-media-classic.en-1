@@ -14,15 +14,15 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 
 # Creating a Spin Set{#creating-a-spin-set}
 
-To create an effective Spin Set, make sure that you shoot the images correctly. You can create a Spin Set in Scene7 by selecting the Build button and choosing Spin Sets. Edit Spin Sets in the Spin Sets screen.
+To create an effective Spin Set, make sure that you shoot the images correctly. You can create a Spin Set in Dynamic Media Classic by selecting the Build button and choosing Spin Sets. Edit Spin Sets in the Spin Sets screen.
 
 >[!NOTE]
 >
->Previous versions of Scene7 did not offer two-dimensional Spin Sets. If you created a Spin Set in a previous version of Scene7, you cannot save your one-dimensional Spin Set without first saving it under a different name. Click Save As in the Spin Set screen and enter a new name so that you can edit it in Scene7.
+>Previous versions of Dynamic Media Classic did not offer two-dimensional Spin Sets. If you created a Spin Set in a previous version of Dynamic Media Classic, you cannot save your one-dimensional Spin Set without first saving it under a different name. Click Save As in the Spin Set screen and enter a new name so that you can edit it in Dynamic Media Classic.
 
 ## Guidelines for shooting Spin Set images {#guidelines-for-shooting-spin-set-images}
 
-In general, the more images you have in a Spin Set, the better the image spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Scene7 recommends these guidelines for shooting images for use in Spin Sets:
+In general, the more images you have in a Spin Set, the better the image spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
 
 * At minimum, use 8-12 images in a one-dimensional spin set and 16-24 images in a two-dimensional Spin Set.
 * Use a lossless format; TIFF and PNG are recommended.

@@ -14,7 +14,7 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 
 # Working with PDFs{#working-with-pdfs}
 
-PDF (Portable Document Format) files are most often used in Scene7 to create eCatalogs. When you upload a PDF file, Scene7 rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
+PDF (Portable Document Format) files are most often used in Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
 
 ## PDF upload options {#pdf-upload-options}
 

@@ -16,25 +16,25 @@ discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 
 Sharpening is an image-manipulation technique for making the outlines of a digital image look more distinct. Sharpening increases the contrast between edge pixels and emphasizes the transition between dark and light areas. Sharpening increases local contrast and brings out fine detail. There is no strict formula for correctly sharpening all images. Too little sharpening can make for a soft image, but over-sharpening adds halos, artifacts, and noise.
 
-Scene7 highly recommends using Image Presets for all images. This ensures a uniform size, and sharpening is enforced on any image called with an Image Preset. Furthermore, you can edit and change an Image Preset’s sharpening parameters quite easily. The next time you publish, all images called with that preset are given the new values.
+Dynamic Media Classic highly recommends using Image Presets for all images. This ensures a uniform size, and sharpening is enforced on any image called with an Image Preset. Furthermore, you can edit and change an Image Preset’s sharpening parameters quite easily. The next time you publish, all images called with that preset are given the new values.
 
-Scene7 also recommends adding sharpening to Viewer Presets, and then calling a viewer with that preset. This ensures that images within your viewers are crisp and appealing.
+Dynamic Media Classic also recommends adding sharpening to Viewer Presets, and then calling a viewer with that preset. This ensures that images within your viewers are crisp and appealing.
 
 However, whether you use Image Presets and Viewer Presets, or some alternate method of sharpening, the bottom line is that you should sharpen your images. If you do not, your images (and website) might look soft and fuzzy.
 
 >[!NOTE]
 >
->The Sharpen commands override Image Preset settings, including their sharpening effects. An Image Preset governs the size and formatting with which images are delivered from Scene7 Image Servers. Scene7 highly recommends using Image Presets to deliver all images to make sure that images are delivered at a uniform size and sharpening. After the sharpening settings of an individual image have been changed, however, Image Preset sharpening settings no longer apply to the image. It is delivered without Image Preset sharpening settings.
+>The Sharpen commands override Image Preset settings, including their sharpening effects. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Classic Image Servers. Dynamic Media Classic highly recommends using Image Presets to deliver all images to make sure that images are delivered at a uniform size and sharpening. After the sharpening settings of an individual image have been changed, however, Image Preset sharpening settings no longer apply to the image. It is delivered without Image Preset sharpening settings.
 
-It is often necessary to sharpen images. Scene7 SPS and Image Servers offer several sharpening options. It is important to understand what sharpening does to an image and how much sharpening you need. Most images need some sharpening but the amount required depends upon the image.
+It is often necessary to sharpen images. Dynamic Media Classic SPS and Image Servers offer several sharpening options. It is important to understand what sharpening does to an image and how much sharpening you need. Most images need some sharpening but the amount required depends upon the image.
 
 Image sharpening increases the contrast of pixels to create the effect of accentuating edges. Humans perceive this enhanced edge contrast as sharpness. Although it is easy to enhance an image by running sharpening filters on an image, it is also easy to over-sharpen an image.
 
 Over sharpening an image creates a halo effect, or banding of the edge’s lines.
 
-There are best practices you can follow to optimize the sharpening of your images in Scene7 Publishing System and on Scene7 Image Server.
+There are best practices you can follow to optimize the sharpening of your images in Scene7 Publishing System and on Dynamic Media Classic Image Server.
 
-See [Best practices for sharpening images in Scene7 Publishing System and on Scene7 Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
+See [Best practices for sharpening images in Scene7 Publishing System and on Dynamic Media Classic Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
 
 **To sharpen an image**
 
@@ -64,7 +64,7 @@ Select the Sharpening menu and choose an option:
 
 Choose these options to fine-tune sharpening with Unsharp Mask:
 
-**Amount** Controls the amount of contrast applied to edge pixels. The default is 0.0. For high-resolution images, you can increase it to as high as 5.0. Think of Amount as a measure of filter intensity. Be aware that the Amount setting in Scene7 is not the same as the Amount setting in Photoshop. Photoshop uses an amount in the range of 1% to 500%, whereas Scene7 scales from 0.0 to 5.0. (5.0 is roughly equivalent to 500% in Photoshop, 0.9 is similar to 90%, and so on.)
+**Amount** Controls the amount of contrast applied to edge pixels. The default is 0.0. For high-resolution images, you can increase it to as high as 5.0. Think of Amount as a measure of filter intensity. Be aware that the Amount setting in Dynamic Media Classic is not the same as the Amount setting in Photoshop. Photoshop uses an amount in the range of 1% to 500%, whereas Dynamic Media Classic scales from 0.0 to 5.0. (5.0 is roughly equivalent to 500% in Photoshop, 0.9 is similar to 90%, and so on.)
 
 **Radius** Determines the number of pixels surrounding the edge pixels that affect the sharpening. The effect runs on all pixels in the image and radiates in all directions.
 
@@ -96,7 +96,7 @@ Select the Resampling menu and choose an option. These options sharpen the image
 
 **Sharpening and image presets**
 
-You could mix all three sharpening effects to achieve your final result. However, this is not recommended. Scene7 recommends you save your sharpening effects as part of an Image Preset.Image Presets allow you to package the most often used image modifiers to create a dynamically resized image in a small text string. An Image Preset contains values for the file format (usually JPEG for the web), pixel count and image sharpening. Instead of appending the URL with each image modifier needed to create a specific type of image size, you create a named Image Preset, such as “thumbnail,” configure the thumbnail Image Preset with the appropriate size, file format, and sharpening options, and then call the image using the Image Preset name. Image Presets shorten the length of the overall URL.These two URLs produce the same 350x350 JPEG image with sharpening:
+You could mix all three sharpening effects to achieve your final result. However, this is not recommended. Dynamic Media Classic recommends you save your sharpening effects as part of an Image Preset.Image Presets allow you to package the most often used image modifiers to create a dynamically resized image in a small text string. An Image Preset contains values for the file format (usually JPEG for the web), pixel count and image sharpening. Instead of appending the URL with each image modifier needed to create a specific type of image size, you create a named Image Preset, such as “thumbnail,” configure the thumbnail Image Preset with the appropriate size, file format, and sharpening options, and then call the image using the Image Preset name. Image Presets shorten the length of the overall URL.These two URLs produce the same 350x350 JPEG image with sharpening:
 
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?wid=350&hei=350&fmt=jpeg&qlt=85,0&resMode=sharp2&op_usm=0.9,1.0,8,0`
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?$!_s7product$`

@@ -89,7 +89,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Customizing the table of contents (TOC) {#customizing-the-table-of-contents-toc}
 
-Scene7 provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read “Cover” instead of “Page 0-1.”
+Dynamic Media Classic provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read “Cover” instead of “Page 0-1.”
 
 You can create a customized table of contents (TOC) for your eCatalog manually or by importing the page names from a CSV (Mac only)or XML file.
 

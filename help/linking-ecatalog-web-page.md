@@ -14,7 +14,7 @@ discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 
 # Linking an eCatalog to a web page{#linking-an-ecatalog-to-a-web-page}
 
-Your web sites and applications access Scene7 Image Server content, including eCatalogs, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your web pages and applications, you copy it from the Scene7 Publishing System.
+Your web sites and applications access Dynamic Media Classic Image Server content, including eCatalogs, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your web pages and applications, you copy it from the Scene7 Publishing System.
 
 >[!NOTE]
 >

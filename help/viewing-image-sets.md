@@ -16,7 +16,7 @@ discoiquuid: 027aa3e0-f085-48ae-aff9-7b805bbdf8ab
 
 You can view your Image Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Image Sets.
 
-Scene7 comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
+Dynamic Media Classic comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
 
 ## Setting up Zoom Viewer presets for Image Sets {#setting-up-zoom-viewer-presets-for-image-sets}
 

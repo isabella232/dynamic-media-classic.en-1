@@ -14,7 +14,7 @@ discoiquuid: efa2c56e-4543-47fa-a4e8-b94021102d01
 
 # Editing images{#editing-images}
 
-The Scene7 Publishing System offers many tools for creating rich-media effects. These tools are available by clicking the rollover Edit button and in the Browse Panel in Detail view. You can do the following image-editing tasks in Scene7:
+The Scene7 Publishing System offers many tools for creating rich-media effects. These tools are available by clicking the rollover Edit button and in the Browse Panel in Detail view. You can do the following image-editing tasks in Dynamic Media Classic:
 
 **Create Image Maps** Select the Image command or Image Map button to create an Image Map. An Image Map is a hotspot on an image, or an eCatalog page, or an image in a SpinSet, that displays a panel with rollover text. Users can click an Image Map, for example, to launch a new web page. See Creating Image Maps.
 
@@ -26,6 +26,6 @@ The Scene7 Publishing System offers many tools for creating rich-media effects. 
 
 **Adjust an image** Select the Adjust command or the Adjust button to flip, rotate, blur, colorize, or alter the color balance of an image. See Adjusting an image.
 
-**Edit layers** Click the Layers tab to display individual, editable layers in a PSD file. When you upload a PSD file, all layers are uploaded individually as separate files so that you can edit them within Scene7.
+**Edit layers** Click the Layers tab to display individual, editable layers in a PSD file. When you upload a PSD file, all layers are uploaded individually as separate files so that you can edit them within Dynamic Media Classic.
 
 As well as using these tools to edit images, you can edit images as you upload them to the Scene7 Publishing System. For example, you can crop images, create a mask from a clipping path, and select a color profile for an image as you upload it.

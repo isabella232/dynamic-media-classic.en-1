@@ -14,15 +14,15 @@ discoiquuid: 03671fc1-ce3b-4fae-ad1f-53c99abcabde
 
 # Quick Start: Template publishing{#quick-start-template-publishing}
 
-Adobe Scene7 Web-to-Print lets you create professionally branded print content that is easy for your customers, clients, and staff to customize and personalize. You can maintain corporate content and brand identity throughout the publishing process. End users can customize the print content — but only the part of the content that you allow them to customize. Personalized stationary, business cards, posters, greeting cards, labels, checks, gifts, clothing, calendars, scrapbooks, and photo albums are examples of customized print products that you can deliver. Corporations can maintain a common brand identity in their signage that can be customized for different regions, franchises, stores, and branch offices.
+Adobe Dynamic Media Classic Web-to-Print lets you create professionally branded print content that is easy for your customers, clients, and staff to customize and personalize. You can maintain corporate content and brand identity throughout the publishing process. End users can customize the print content — but only the part of the content that you allow them to customize. Personalized stationary, business cards, posters, greeting cards, labels, checks, gifts, clothing, calendars, scrapbooks, and photo albums are examples of customized print products that you can deliver. Corporations can maintain a common brand identity in their signage that can be customized for different regions, franchises, stores, and branch offices.
 
 You start by designing a template in Adobe Illustrator. The template carefully defines what is constant and what is variable — the variable components being the ones that can be customized. For example, after text in an Illustrator file is parameterized, end users can enter text of their own. Similarly, a background color, after it is parameterized as a variable component, can be swapped for a different background color.
 
-Scene7 offers two Template Publishing workflows, one for basic use cases and one for advanced use cases. Basic use cases entail creating a design in Adobe Illustrator, uploading it to Scene7, and defining variable elements with parameters in SPS. Advanced use cases require a more comprehensive definition of variability. Advanced use cases entail creating variable elements in Adobe Illustrator, uploading the file to Scene7, and directly manipulating those elements on a XML-level with URL calls. This scenario is called *`*DOM manipulation*`*.
+Dynamic Media Classic offers two Template Publishing workflows, one for basic use cases and one for advanced use cases. Basic use cases entail creating a design in Adobe Illustrator, uploading it to Dynamic Media Classic, and defining variable elements with parameters in SPS. Advanced use cases require a more comprehensive definition of variability. Advanced use cases entail creating variable elements in Adobe Illustrator, uploading the file to Dynamic Media Classic, and directly manipulating those elements on a XML-level with URL calls. This scenario is called *`*DOM manipulation*`*.
 
 >[!NOTE]
 >
->For more information about Scene7 web-to-print workflows, template creation, parameterization, DOM manipulation, and more, see the Web-to-Print Workflow Guide here: [www.adobe.com/go/learn_s7_webtoprint_en](https://www.adobe.com/go/learn_s7_webtoprint_en) . Download the Zip file to your local hard drive and extract its contents (the Scene7 Web-To-PrintWorkflow Tutorial document and tutorial assets).
+>For more information about Dynamic Media Classic web-to-print workflows, template creation, parameterization, DOM manipulation, and more, see the Web-to-Print Workflow Guide here: [www.adobe.com/go/learn_s7_webtoprint_en](https://www.adobe.com/go/learn_s7_webtoprint_en) . Download the Zip file to your local hard drive and extract its contents (the Dynamic Media Classic Web-To-PrintWorkflow Tutorial document and tutorial assets).
 
 **Quick Start**
 
@@ -34,13 +34,13 @@ In Illustrator, design your template. If you want to use the advanced, DOM manip
 
 See [Create the initial template in Illustrator](create-initial-template-illustrator.md#create_the_initial_template_in_illustrator) and [DOM manipulation](dom-manipulation.md#dom_manipulation).
 
-**2. Convert your template to Scene7 FXG and upload it to Scene7 Publishing System**
+**2. Convert your template to Dynamic Media Classic FXG and upload it to Scene7 Publishing System**
 
-Adobe Creative Cloud users can use the Adobe Illustrator Plug-in for Web-to-Print. This plug-in converts templates to Scene7 FXG. If a template contains fonts, corresponding font files must be uploaded to the Scene7 Publishing System before uploading the FXG file.
+Adobe Creative Cloud users can use the Adobe Illustrator Plug-in for Web-to-Print. This plug-in converts templates to Dynamic Media Classic FXG. If a template contains fonts, corresponding font files must be uploaded to the Scene7 Publishing System before uploading the FXG file.
 
 See [Upload files for Template Publishing](upload-files-template-publishing.md#upload_files_for_template_publishing).
 
-**3. View, define, or refine parameters in Scene7**
+**3. View, define, or refine parameters in Dynamic Media Classic**
 
 In the Template Publishing Preview and Build screens, you can define and refine variable elements via parameters, preview the results, and test the results. In these screens, you can:
 
@@ -48,11 +48,11 @@ In the Template Publishing Preview and Build screens, you can define and refine 
 * Specify default values for parameter properties and attributes. 
 * Click Copy URL to copy the preview URL to the Clipboard and preview the result in a browser window.
 
-See [Parameterizing a template in Scene7](parameterizing-template-scene7.md#parameterizing_a_template_in_scene7).
+See [Parameterizing a template in Dynamic Media Classic](parameterizing-template-scene7.md#parameterizing_a_template_in_scene7).
 
 **4. Publish the FXG template**
 
-After you finish defining and testing parameters and attributes, publish the file. Publishing your FXG template places it on the Scene7 Image Servers and activates the URL.
+After you finish defining and testing parameters and attributes, publish the file. Publishing your FXG template places it on the Dynamic Media Classic Image Servers and activates the URL.
 
 Be sure to publish all images and fonts associated with your FXG template.
 

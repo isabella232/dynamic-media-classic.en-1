@@ -29,6 +29,6 @@ Administrators can also set up Image Presets and Viewer Presets in the Setup scr
 
 >[!MORELIKETHIS]
 >
->* [Scene7 user roles and privileges](administration-setup.md#user_administration)
+>* [Dynamic Media Classic user roles and privileges](administration-setup.md#user_administration)
 >* [Image Presets](application-setup.md#image_presets)
 >* [Viewer Presets](application-setup.md#viewer_presets)

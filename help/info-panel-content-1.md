@@ -35,7 +35,7 @@ You can select one of three preset response templates for displaying text in an 
     * Select Default to use the default response. The XML for the template design appears, dimmed, in the User Template text box.
     * Select Custom to create your own response template. In the User Template text box, type the template XML definition. You can use the default template that is already defined in the text box as a base for your own response.
 
-1. (Optional) In the Default Response box, type the text that you want to appear if Scene7 encounters an error in retrieving information for an image map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Default Response box, type the text that you want to appear if Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
 1. In the Response TTL text field, enter the number of hours that you want to wait before caching the data.
 
     * Set a lower number if the data is updated frequently throughout the day.

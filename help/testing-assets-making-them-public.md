@@ -14,7 +14,7 @@ discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 
 # Testing assets before making them public {#testing-assets-before-making-them-public}
 
-Secure Testing helps you define a secure test environment and build a robust B2B solution, based upon a configurable set of IP address and ranges. This functionality lets you match your Scene7 deployments with the architecture of your content management and commerce platform.
+Secure Testing helps you define a secure test environment and build a robust B2B solution, based upon a configurable set of IP address and ranges. This functionality lets you match your Dynamic Media Classic deployments with the architecture of your content management and commerce platform.
 
 With Secure Testing, you can preview the staging version of the website with unpublished content.
 
@@ -34,9 +34,9 @@ Most corporations run their Internet behind a firewall. Access to the Internet i
 
 From your corporate network, you can figure out your public IP address using websites like https://whatismyip.com or request this information from your corporate IT organization.
 
-With the Secure Testing, Scene7 establishes a dedicated Image Server for staging environments or internal applications. Any request to this server checks the origin IP address. If the incoming request is not within the approved list of IP addresses, a failure response is returned. The Scene7 Company Administrator configures the approved list of IP addresses for their company’s Secure Testing environment.
+With the Secure Testing, Dynamic Media Classic establishes a dedicated Image Server for staging environments or internal applications. Any request to this server checks the origin IP address. If the incoming request is not within the approved list of IP addresses, a failure response is returned. The Dynamic Media Classic Company Administrator configures the approved list of IP addresses for their company’s Secure Testing environment.
 
-Because the location of the original request must be confirmed, the traffic of the Secure Testing service is not routed through a content distribution network like public Scene7 Image Server traffic. Requests to the Secure Testing service might have a slightly higher latency compared to the public Scene7 Image Servers.
+Because the location of the original request must be confirmed, the traffic of the Secure Testing service is not routed through a content distribution network like public Dynamic Media Classic Image Server traffic. Requests to the Secure Testing service might have a slightly higher latency compared to the public Dynamic Media Classic Image Servers.
 
 Unpublished assets are immediately available from the Secure Testing services, without the need to publish. This allows you to run a preview before assets are published to their public facing image server.
 
@@ -58,8 +58,8 @@ Last Modified Date:
 * Vignettes (Render Server requests).
 * Render Server requests (supported, but must be requested explicitly by customer).
 * Sets, including image sets, eCatalog, render sets, and media sets.
-* Standard Scene7 rich media viewers.
-* Scene7 OnDemand JSP pages.
+* Standard Dynamic Media Classic rich media viewers.
+* Dynamic Media Classic OnDemand JSP pages.
 * Static content, such as PDF files and progressively served videos.
 * HTTP video streaming.
 * Progressive video streaming.
@@ -69,7 +69,7 @@ The following asset types and functionalities are currently not supported:
 * RTMP video streaming
 * UGC services
 * Web-to-print
-* Scene7 Info or eCatalog search
+* Dynamic Media Classic Info or eCatalog search
 
 ## Testing the Secure Testing service {#testing-the-secure-testing-service}
 
@@ -111,7 +111,7 @@ Contact Technical Support if the server name is missing or URLs to the server do
 
 You need two variations of a website that links the published and unpublished assets:
 
-* Public version: Link assets using your traditional Scene7 URL syntax
+* Public version: Link assets using your traditional Dynamic Media Classic URL syntax
 * Staging version: Link assets using the same syntax but with the Secure Testing site name
 
 **Run the tests**
@@ -122,7 +122,7 @@ Perform the following tests:
 
    From within the corporate network identified by the previously defined IP address range, the staging version of the website should display all images, whether marked for publish or not. This allows you to test without accidentally making images available before preview approval or product launch.
 
-   Confirm that the public version of your site shows published assets as previously experienced with Scene7.
+   Confirm that the public version of your site shows published assets as previously experienced with Dynamic Media Classic.
 
 1. From outside your corporate network, verify that nonpublished assets (that is, unmarked for publish) are protected from third-party access.
 
