@@ -18,7 +18,7 @@ discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 
 Scene7 Publishing Systems lets you create offers and offer sets for Target Classic campaigns. For example, you can create an offer set with three variations of the same rich media asset. Then you can have Target Classic determine which asset provides better conversion lift. You can create offers and offer sets from a Basic Template or from individual images. After the offer set is pushed or saved to Adobe Target Classic, where the offers are associated with mboxes and experiences, Target Classic can run campaigns to determine which variation of a website is likely to perform best for click-throughs and conversion.
 
-For greater customization of dynamic Scene7 content, use Target Classic HTML offers. See the Target Classic product documentation for more information.
+For greater customization of dynamic Dynamic Media Classic content, use Target Classic HTML offers. See the Target Classic product documentation for more information.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ This Quick Start is designed to get you up and running quickly with Target Class
 
 **1. Enter your Target Classic URL in the Application General Settings screen.**
 
-Scene7 needs your Target Classic URL to integrate with Target Classic. Copy the portion of your Target Classic URL up to and including *.com*, and enter it in the Scene7 Application General Settings screen. See [Integrating Scene7 with Target Classic](integrating-scene7-target-classic.md#integrating_scene7_with_target_classic).
+Dynamic Media Classic needs your Target Classic URL to integrate with Target Classic. Copy the portion of your Target Classic URL up to and including *.com*, and enter it in the Dynamic Media Classic Application General Settings screen. See [Integrating Dynamic Media Classic with Target Classic](integrating-scene7-target-classic.md#integrating_scene7_with_target_classic).
 
 **2. Create the offer set**
 

@@ -22,11 +22,11 @@ For detailed instruction on uploading images, see [Uploading files](uploading-fi
 
 **Preparing your images for zooming**
 
-To take best advantage of Scene7 Zoom features, prepare your zoom image files before you upload them:
+To take best advantage of Dynamic Media Classic Zoom features, prepare your zoom image files before you upload them:
 
-**Image size** Scene7 recommends using images files that are, at minimum, 2000 pixels in the longest dimension. This way, images can clearly be seen when users zoom them.
+**Image size** Dynamic Media Classic recommends using images files that are, at minimum, 2000 pixels in the longest dimension. This way, images can clearly be seen when users zoom them.
 
-**File formats** Scene7 supports all standard image file formats, including TIFF, BMP, JPEG, PSD, GIF, and EPS. Lossless image formats—TIFF and PNG—are recommended. If you are using a JPEG image, use the highest quality settings.
+**File formats** Dynamic Media Classic supports all standard image file formats, including TIFF, BMP, JPEG, PSD, GIF, and EPS. Lossless image formats—TIFF and PNG—are recommended. If you are using a JPEG image, use the highest quality settings.
 
 **Color space** RGB is the color space for web image presentations; CMYK images are automatically converted to RGB when you upload them. Uploading CMYK images that have an embedded ICC color profile for the conversion to RGB is recommended. See also ICC profiles.
 

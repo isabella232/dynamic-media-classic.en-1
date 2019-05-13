@@ -19,7 +19,7 @@ Before you can upload an image asset, you first request a shared-secret key. You
 
 Request a *shared-secret key* by sending an email to Scene 7 Technical Support at s7support@adobe.com.
 
-In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Scene7, save it locally for future use.
+In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Dynamic Media Classic, save it locally for future use.
 
 ## Retrieving the upload token {#retrieving-the-upload-token}
 

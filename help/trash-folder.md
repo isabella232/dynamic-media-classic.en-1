@@ -22,13 +22,13 @@ Deleting items from the Trash folder permanently deletes items from Scene7 Publi
 
 >[!NOTE]
 >
->Assets that have been moved to the Trash folder are still registered on the Scene7 Publishing System. If you try to upload a file that has the same name as a deleted file in the Trash folder, Scene7 treats the asset you want to upload as a duplicate asset. As such, a number is appended to its name.
+>Assets that have been moved to the Trash folder are still registered on the Scene7 Publishing System. If you try to upload a file that has the same name as a deleted file in the Trash folder, Dynamic Media Classic treats the asset you want to upload as a duplicate asset. As such, a number is appended to its name.
 
 ## About the Trash folder {#about-the-trash-folder}
 
 Deleting an item in a folder places the item in the Trash folder. The following happens when you delete an item and move it to the Trash folder:
 
-* Although the item has been removed from your Scene7 Publishing System folders, its ID cannot be assigned to another asset while it remains in the Trash folder. If you try to upload an asset with the same name as a file in the Trash folder, Scene7 appends a numeral to the name of the asset. 
+* Although the item has been removed from your Scene7 Publishing System folders, its ID cannot be assigned to another asset while it remains in the Trash folder. If you try to upload an asset with the same name as a file in the Trash folder, Dynamic Media Classic appends a numeral to the name of the asset. 
 * The item cannot be published. Even if the item was marked for publish when you deleted it, it is not published.
 * The item remains in the Trash folder until it is restored, seven days pass, or someone chooses the Empty The Trash command. After seven days, an automatic clean-up operation permanently deletes the item.
 

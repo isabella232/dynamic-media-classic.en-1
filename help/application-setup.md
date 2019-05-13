@@ -91,7 +91,9 @@ To continue the ability to access all your encoded video derivatives when you se
 
 There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **Show Encoded Videos**. The Build actions that over-ride the **Show Encoded Videos** setting include **Adaptive Video Sets**, and **eCatalogs**.
 
-**Note** If you did not use Scene7 Publishing System to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.*
+>[Note]
+>
+>If you did not use Scene7 Publishing System to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
 
 **Show Refresh Subfolders Button** Turn on or off the display of the subfolders Refresh button.
 
@@ -155,7 +157,7 @@ The Image Presets screen is for creating and editing Image Presets. Image Preset
 
 Administrators can create presets for exporting assets. Users can choose a preset when they export images, which also reformats images to the specifications that the administrator specifies.
 
-To open the Image Preset screen, on the Global Navigation bar, click Setup &gt; Image Presets.
+To open the Image Preset screen, on the Global Navigation bar, click **Setup** &gt; **Image Presets**.
 
 See [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
 
@@ -163,9 +165,8 @@ See [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/
 
 1. Click **Setup** &gt; **Image Presets**.
 1. Create a new preset or start from an existing one:
-
-   **Creating an Image Preset** Click Add.
-   **Creating an Image Preset from an existing preset** Select the Image Preset that is most like the one you want to create, then click Edit.
+    * **Creating an Image Preset** - Click **Add**.
+    * **Creating an Image Preset from an existing preset** - Select the Image Preset that is most like the one you want to create, then click Edit.
 
 1. On the Add (or Edit) Preset screen, enter a name for the preset.
 1. Set the Preset options that you want.
@@ -265,11 +266,11 @@ See also [ICC profiles](icc-profiles.md#icc_profiles).
 
 ### Editing, removing, or deactivating an image preset {#editing-removing-or-deactivating-an-image-preset}
 
-1. Click Setup &gt; Image Presets.
+1. Click **Setup** &gt; **Image Presets**.
 1. In the Image Presets screen, select a preset in the table, and then do one of the following:
 
-    * Click Edit and then specify new options in the Edit Preset dialog box.
-    * Click Delete to remove the preset from the list.
+    * Click **Edit** and then specify new options in the Edit Preset dialog box.
+    * Click **Delete** to remove the preset from the list.
     * Deselect the Active check box next to a preset name to remove it from the entire Scene7 Publishing System user interface for MediaPortal users.
 
 ## Activating or deactivating adaptive video presets {#activating-or-deactivating-adaptive-video-presets}
@@ -320,11 +321,13 @@ To choose an encoding preset, in the lower-right corner of the Upload page, clic
 
   **Single Encoding Presets**
 
-  ***note**: To deliver video to iPads, you can choose a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience. *
+    >[NOTE]
+    >
+    >To deliver video to iPads, you can choose a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience.
 
-* Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name or Size to sort presets by name or resolution size.
-* Choose an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
-* You can select Adaptive Video Encoding and one or more encoding preset per video. For example, you can encode a file for both desktop and mobile in one upload job.
+    * Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name or Size to sort presets by name or resolution size.
+    * Choose an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
+    * You can select Adaptive Video Encoding and one or more encoding preset per video. For example, you can encode a file for both desktop and mobile in one upload job.
 
 After you click **Start Upload**, the original master video file is uploaded and encoded files are generated from the master file.
 
@@ -400,16 +403,6 @@ For information about encoding options parameters, see [About the encoding prese
 
 **OGG Theora Vorbis - OGV file extension**
 
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>RB: New table added for OGG 9/6/2012</p>
-
- -->
-
 ||Encoding Preset Name/Tooltip Text|Target connection speed (Kbps)|Encoded file suffix|Video data rate (Kbps)|Width/Height (pixels)|Fps|Audio bit rate (Kbps)|Recommendations|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |1|16:9, 480x270 (400 Kbps), OGG|500|_OGG_480x270_400K|400|480x270|Same as source|64|Low widescreen resolution|
@@ -442,7 +435,6 @@ For information about encoding options parameters, see [About the encoding prese
 |9|4:3, 448x336, Mobile (1000 Kbps)|1.2 Mbps|_Mobile_448x336_1000K|1000|448x336|Same as source|80|High resolution, Wi-Fi|
 |10|4:3, 448x336, Mobile (1200 Kbps)|1.5 Mbps|_Mobile_448x336_1200K|1200|448x336|Same as source|96|High resolution, Wi-Fi|
 
-
 ## Viewer Presets {#viewer-presets}
 
 >[!NOTE]
@@ -453,7 +445,7 @@ A *Viewer Preset* is a collection of settings that determine how users view rich
 
 As a best practice, use Dynamic Media Classic HTML5 Video viewers. The presets used in HTML5 Video viewers are robust video players. By combining into a single player the ability to design the playback components using HTML5 and CSS, have embedded playback, and use adaptive and progressive streaming depending on the browser’s capability, you extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
 
-See [About HTML5 Viewers](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_viewers_about.html) in the Adobe Scene7 Viewers Reference Guide.
+See [About HTML5 Viewers](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_viewers_about.html) in the Adobe Viewers Reference Guide.
 
 See [Dynamic Media Classic Viewer Preset compatibility matrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -461,13 +453,13 @@ See [Best practice: Using the HTML5 Video viewer](best-practice-using-html5-vide
 
 Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people using the viewers share the viewer with others or open the Dynamic Media Classic web site.
 
-See also [Dynamic Media Classic Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also [Adobe Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
 
 ### Viewer support for responsive designed web pages {#viewer-support-for-responsive-designed-web-pages}
 
 Different web pages have different needs. Sometimes you will want a web page that provides a link that opens the HTML5 Viewer in a separate browser window. In other cases, it may be necessary to embed the HTML5 Viewer directly on the hosting page. In the latter case, the web page may have a static layout. Or, it may be "responsive" and display differently on different devices or for different browser window sizes. To accommodate these needs, the HTML5 Viewers that come with Dynamic Media Classic support both static web pages and responsive designed web pages.
 
-See [Responsive Static Image library](https://marketing.adobe.com.com/resources/help/en_US/s7/is_ir_api/is_api/c_about_responsive_static_image_library.html)in the *Scene7 Image Serving API Help* for more information on how to embed responsive viewers onto your web pages.
+See [Responsive Static Image library](https://marketing.adobe.com.com/resources/help/en_US/s7/is_ir_api/is_api/c_about_responsive_static_image_library.html)in the *Adobe Image Serving API Help* for more information on how to embed responsive viewers onto your web pages.
 
 ### Viewer Preset types {#viewer-preset-types}
 
@@ -501,11 +493,11 @@ For more information about this important change, see the following FAQ website:
 
 The following table identifies the currently available Dynamic Media Classic Viewer Presets. The table also specifies the viewer’s compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
 
-See also [Dynamic Media Classic Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also [Adobe Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
 
 For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
-See [Scene7 Viewers Reference Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
+See [Adobe Viewers Reference Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
@@ -551,7 +543,7 @@ Dynamic Media Classic supports mobile video playback for MP4 H.264 video.
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|Blackberry Smartphone|Windows Phone|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-|Universal_HTML5_Video(Includes support for closed captioning.)See [Best practice: Using the Universal HTML5 Video viewer.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)|HTML5|X|X|X|X|X|X|X|
+|Universal_HTML5_Video(Includes support for closed captioning.) See [Best practice: Using the Universal HTML5 Video viewer.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)|HTML5|X|X|X|X|X|X|X|
 |Universal_HTML5_Video_social(Includes support for closed captioning and social media.)|HTML5|X|X|X|X|X|X|X|
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
@@ -581,11 +573,11 @@ The Viewer Presets screen offers tools for doing these tasks:
 
 See [Adding and editing Viewer presets](application-setup.md#adding_and_editing_viewer_presets).
 
-**Editing a preset** Select a preset, and then click Edit.
+**Editing a preset** Select a preset, and then click **Edit**.
 
 See [Adding and editing Viewer presets](application-setup.md#adding_and_editing_viewer_presets).
 
-**Deleting a preset** Select a preset, and then click Delete.
+**Deleting a preset** Select a preset, and then click **Delete**.
 
 **Exporting a preset** Select an HTML5 viewer preset, and then click Export to download the viewer skin so that you can use it as the basis for creating and adding a new viewer preset.
 
@@ -628,14 +620,16 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 
    After you reconfigure the Video Viewer, click **Save As** to save the preset using a different name in the Preset Name text field.
 
-   **Editing** Select an existing Viewer Preset, and then click Edit.
+   **Editing** Select an existing Viewer Preset, and then click **Edit**.
 
 1. In the Configure Viewer screen, in the Preset Name field, enter or edit the preset name.
 1. Set the remaining options that you want.
 
-   **note**: Choose Same As Source to automatically size the Video Viewer to the resolution size of the encoded video itself. If you choose this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you choose Same As Source, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following illustration to help you determine the margin sizes that you want to use.*
+   >[NOTE]
+   >
+   >Choose Same As Source to automatically size the Video Viewer to the resolution size of the encoded video itself. If you choose this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you choose Same As Source, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following illustration to help you determine the margin sizes that you want to use.*
 
-   ![](assets/vs_video_viewer_configure_margin.png)
+    ![](assets/vs_video_viewer_configure_margin.png)
 
 1. Do one of the following:
 
@@ -707,11 +701,11 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
+
    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
+
    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Copy URL**.
@@ -731,11 +725,11 @@ Editing of the code is not permitted in the Embed Code dialog box.
    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
+
    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
+
    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Embed Code**.
@@ -757,12 +751,12 @@ You can use Default Viewers to configure the default viewer that is associated w
 
 **To configure default viewers**
 
-1. In the Setup drop-down list, click Application Setup.
-1. In the Setup window, in the left pane, expand Application Setup &gt; Viewers
-1. Click Default Viewers.
+1. In the Setup drop-down list, click **Application Setup**.
+1. In the Setup window, in the left pane, expand **Application Setup** &gt; **Viewers**
+1. Click **Default Viewers**.
 1. In the Default Viewers window, in the drop-down list for each asset type, select the viewer that you want to associate with the asset’s preview.
-1. In the lower-right corner of the Default Viewers window, click Save Settings.
-1. In the lower-right corner of the Setup window, click Close to return to the Asset window.
+1. In the lower-right corner of the Default Viewers window, click **Save Settings**.
+1. In the lower-right corner of the Setup window, click **Close** to return to the Asset window.
 
 ## Metadata Views {#metadata-views}
 
@@ -967,11 +961,11 @@ There is no minimum or maximum number of rows or columns that you must have in a
 As an example, suppose you want to create a multi-axis spin set named *spin-2dspin*. You have a set of spin set images that contain three rows, with 12 images per row. The images are named as follows:
 
 ```as3
-spin-01-01 
-spin-01-02 
+spin-01-01
+spin-01-02
 … 
-spin-01-12 
-spin-02-01 
+spin-01-12
+spin-02-01
 … 
 spin-03-12
 ```

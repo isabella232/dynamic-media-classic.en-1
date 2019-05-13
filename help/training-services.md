@@ -14,7 +14,7 @@ discoiquuid: 2bccf91d-ec27-4cdf-a322-55804b6ba0d3
 
 # Adobe Training Services{#adobe-training-services}
 
-Scene7 offers training in the form of video tutorials, instructor-led workshops and web sessions, and demos.
+Dynamic Media Classic offers training in the form of video tutorials, instructor-led workshops and web sessions, and demos.
 
 **Adobe Training Services**
 
@@ -30,12 +30,12 @@ See [Quick Start Video Tutorials](https://marketing.adobe.com/resources/help/en_
 
 **Demos**
 
-Watch demonstrations of Scene7 features.
+Watch demonstrations of Dynamic Media Classic features.
 
 See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media-assets-demos.html).
 
 **Getting Started chapter of Help**
 
-The Getting Started section of the Help system presents instructions for users who are new to Scene7. It explains the basics of the platform, navigation, setup, asset management, and building rich media.
+The Getting Started section of the Help system presents instructions for users who are new to Dynamic Media Classic. It explains the basics of the platform, navigation, setup, asset management, and building rich media.
 
 See [Getting started](scene7-platform-overview.md).

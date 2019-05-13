@@ -78,7 +78,7 @@ See [Managing Info Panel content](info-panel-content.md#managing-info-panel-cont
 
 **4. Setting up eCatalog Viewer Presets**
 
-End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Scene7 comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
+End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Dynamic Media Classic comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
 
 To create an eCatalog Viewer Preset, click the Setup button on the Global Navigation bar and choose Viewer Presets. Then click Add, choose a platform, and choose eCatalog &gt; Viewer.
 
@@ -96,7 +96,7 @@ See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-
 
 **6. Publishing eCatalog and associated PDFs**
 
-Publishing your eCatalog and associated PDF places it on Scene7 Image Servers so that it can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates the URL string for your eCatalog. Use this URL to call the eCatalog from Scene7 Image Servers to your web site or application.
+Publishing your eCatalog and associated PDF places it on Dynamic Media Classic Image Servers so that it can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Classic Image Servers to your web site or application.
 
 After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click Start Publish.
 
@@ -104,7 +104,7 @@ See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-p
 
 **7. Linking an eCatalog to a web page**
 
-Scene7 activates the URL callout string necessary for displaying your eCatalog when you publish it to Scene7 Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail view) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
+Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Classic Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail view) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
 
 Work with your IT team to place the link to the eCatalog in the appropriate place in your web page. When users click the link, the eCatalog Viewer appears and users can browse your eCatalog.
 

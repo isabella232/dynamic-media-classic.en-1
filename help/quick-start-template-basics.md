@@ -20,7 +20,7 @@ Template Basics are dynamically created and addressable layered image files like
 >
 >You can also create templates from layout-based designs by using Template Publishing and files from Adobe Illustrator and Adobe InDesign. See [Template Publishing](quick-start-template-publishing.md) .
 
-A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, as well as create templates in Scene7. You can create text layers in templates using fonts that you uploaded into SPS. After you add text to a template, you can format it by changing its justification, fonts, font size, and color.
+A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, as well as create templates in Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into SPS. After you add text to a template, you can format it by changing its justification, fonts, font size, and color.
 
 Using the Parameters screen, you can convert any aspect of a template to an addressable parameter. In so doing, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
 
@@ -30,9 +30,9 @@ This Quick Start is designed to get up and running quickly with Template Basics.
 
 **1. Upload the files**
 
-Start by uploading the PSD file or image file for your template. Scene7 supports many image file formats in addition to PSD, but lossless TIFF and PNG images are recommended for templates because they allow for transparency.
+Start by uploading the PSD file or image file for your template. Dynamic Media Classic supports many image file formats in addition to PSD, but lossless TIFF and PNG images are recommended for templates because they allow for transparency.
 
-If you are using a PSD file to build your template, select the Create Template option on the Upload Job Options dialog box when you upload the PSD file. Also choose a Layer Naming option to tell Scene7 how to name PSD layers when they are uploaded to the Scene7 Publishing System.
+If you are using a PSD file to build your template, select the Create Template option on the Upload Job Options dialog box when you upload the PSD file. Also choose a Layer Naming option to tell Dynamic Media Classic how to name PSD layers when they are uploaded to the Scene7 Publishing System.
 
 If you are using image files, you can crop the images and also create a mask from clipping paths in the images as you upload them.
 
@@ -58,7 +58,7 @@ To parameterize a layer, open the template in the Template screen and select the
 
 **4. Publish templates**
 
-Publishing your template places it on Scene7 Image Servers so that it can be dynamically delivered to your web site or application. Publishing also activates the URL to call the template from Scene7 Image Servers to your web site or application.
+Publishing your template places it on Dynamic Media Classic Image Servers so that it can be dynamically delivered to your web site or application. Publishing also activates the URL to call the template from Dynamic Media Classic Image Servers to your web site or application.
 
 Be sure to publish all images associated with your template.
 
@@ -66,6 +66,6 @@ To publish a template, mark it for publish and select the Publish button on the 
 
 **5. Link a template to a web page**
 
-Scene7 creates URLs for templates, and activates the URLs when you publish templates to Scene7 Image Servers. You can copy these URL strings from the Template Preview screen.
+Dynamic Media Classic creates URLs for templates, and activates the URLs when you publish templates to Dynamic Media Classic Image Servers. You can copy these URL strings from the Template Preview screen.
 
 Select your template in the Browse Panel and click the Preview button to open the Template Preview screen. Then choose an Image Preset for delivering your template and select the Copy URL button. After you copy the URL from the Preview screen, you can use it in your web site or application. See [Linking a template to a web page](linking-template-web-page.md#linking_a_template_to_a_web_page).

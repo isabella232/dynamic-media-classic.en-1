@@ -14,7 +14,7 @@ discoiquuid: ca7c8a7f-76f4-4a25-8c36-617a029e55be
 
 # Sharing asset changes with peers in real time{#sharing-asset-changes-with-peers-in-real-time}
 
-With multiple copies of Scene7 running on one or more computers in the same company, the following actions from any Scene7 client are updated in real-time with all peer clients:
+With multiple copies of Dynamic Media Classic running on one or more computers in the same company, the following actions from any Dynamic Media Classic client are updated in real-time with all peer clients:
 
 * Edit an asset (builder, image editor, etc.)
 * Rename an asset

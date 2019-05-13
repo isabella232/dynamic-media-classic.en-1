@@ -14,4 +14,4 @@ discoiquuid: 51806e89-c402-40d5-8a38-c28506790604
 
 # What’s new {#what-s-new}
 
-To review the latest Adobe Scene7 release information, including new features, enhancements, and fixes, see the [Scene7 Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html).
+To review the latest Adobe Dynamic Media Classic release information, including new features, enhancements, and fixes, see the [Dynamic Media Classic Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html).

@@ -14,7 +14,7 @@ discoiquuid: 05e443b2-ac15-4d87-859a-271699593304
 
 # Support {#support}
 
-Technical support offerings are designed to meet the needs of any size company. The following table describes Scene7 Customer Care offerings:
+Technical support offerings are designed to meet the needs of any size company. The following table describes Dynamic Media Classic Customer Care offerings:
 
 |Support|Subscription|
 |--- |--- |
@@ -31,7 +31,7 @@ When reporting issues to Technical Support, include this information:
 
 * Scene7 Publishing System company name.
 * Your name, phone number, and e-mail address.
-* Scene7 application, platform, and version.
+* Dynamic Media Classic application, platform, and version.
 * Issue description and the steps necessary to reproduce the problem.
 * Error message, if any.
 * Browser type and version, if applicable.

@@ -14,11 +14,11 @@ discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
 
 # Publishing zoom images{#publishing-zoom-images}
 
-Publishing places your zoom images on Scene7 Image Servers so they can be made available to your web site and application. As part of the publishing process, SPS activates the URL strings. You can place these URL strings in the HTML code of your web site.
+Publishing places your zoom images on Dynamic Media Classic Image Servers so they can be made available to your web site and application. As part of the publishing process, SPS activates the URL strings. You can place these URL strings in the HTML code of your web site.
 
 ## Marking images for publish {#marking-images-for-publish}
 
-Images must be marked for publish in order for them to be copied to Scene7 Image Servers. You can mark your images for publish in the Browse Panel by selecting the **Mark for Publish** icon. As well, you can mark images for publish when you upload them.
+Images must be marked for publish in order for them to be copied to Dynamic Media Classic Image Servers. You can mark your images for publish in the Browse Panel by selecting the **Mark for Publish** icon. As well, you can mark images for publish when you upload them.
 
 ## Publishing the images {#publishing-the-images}
 

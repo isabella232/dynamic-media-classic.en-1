@@ -2,7 +2,7 @@
 title: Parameterizing a template in Dynamic Media Classic
 seo-title: Parameterizing a template in Dynamic Media Classic
 description: null
-seo-description: Learn how to parameterize a template in Dynamic Media Classic (Scene7)
+seo-description: Learn how to parameterize a template in Dynamic Media Classic
 uuid: 27c8c8b4-47f3-4270-a6db-d304648ba357
 contentOwner: admin
 content-type: reference
@@ -16,7 +16,7 @@ discoiquuid: df1a9ff5-a5ba-4480-ba0d-a19bc665f907
 
 After you upload an Illustrator template that you saved as Dynamic Media Classic FXG to the Scene7 Publishing System, you can define its variable elements. Do so by parameterizing variable elements in the Template Publishing Build and Preview screens. Dynamic Media Classic offers tools for defining text and object parameters on layers and their respective properties. You can also create different versions of a template.
 
-Parameterizing an FXG template allows you to customize the variability of text, images, and graphics in the template. For example, you can parameterize a line of text so that end users can modify the text through a web user interface. You can define empty text fields as variable so that end users can fill these fields with personalized text. You can also parameterize the attributes and properties of design elements in the S7 Template Publishing Build screen.
+Parameterizing an FXG template allows you to customize the variability of text, images, and graphics in the template. For example, you can parameterize a line of text so that end users can modify the text through a web user interface. You can define empty text fields as variable so that end users can fill these fields with personalized text. You can also parameterize the attributes and properties of design elements in the Dynamic Media Classic Template Publishing Build screen.
 
 >[!NOTE]
 >
@@ -27,15 +27,13 @@ Parameterizing an FXG template allows you to customize the variability of text, 
 Follow these steps in Dynamic Media Classic to define parameters for an FXG template:
 
 1. In the Browse window, select the FXG file.
-1. Click Build and choose Template Publishing, or click the file’s Edit button.
+1. Click **Build** and choose **Template Publishing**, or click the file’s **Edit** button.
 
    The Template Publishing screen opens.
 
+1. Select LRCo\FXG\Welcome_Summit_10 (FXG file) and click **Build** &gt; **Template Publishing**.</p>
 
-1. Select LRCo\FXG\Welcome_Summit_10 (FXG file) and choose Build &gt; Template Publishing.</p>
-
-
-   ![](assets/wp_fxg_edit.png)
+    ![](assets/wp_fxg_edit.png)
 
 1. In the Layers panel in the Template Publishing screen, select the layer with the elements that you want to parameterize.
 
@@ -45,16 +43,16 @@ Follow these steps in Dynamic Media Classic to define parameters for an FXG temp
 
 1. In the Properties panel, click a parameter in the Name column (to parameterize text) or Parameter column (to parameterize objects).
 
-   **Text** Click in the text field (scroll to the bottom of the Properties list to find it). The Parameters dialog box appears. Select the text that you want to parameterize and click Add. You can create multiple parameters from the same text property by selecting different portions of the text and adding parameters for each portion. To change the name of the parameter, click it, enter a new name, and click Close.
+   **Text** Click in the text field (scroll to the bottom of the Properties list to find it). The Parameters dialog box appears. Select the text that you want to parameterize and click **Add**. You can create multiple parameters from the same text property by selecting different portions of the text and adding parameters for each portion. To change the name of the parameter, click it, enter a new name, and click **Close**.
 
-   **Objects** Click a box in the Parameter column. The Edit Parameter dialog box appears. Enter a name and click OK.
+   **Objects** Click a box in the Parameter column. The Edit Parameter dialog box appears. Enter a name and click **OK**.
 
    To customize multiple attributes at once with the same value, use the same parameter name for each attribute. For example, if your template has a rectangle and a star, you can type `newcolor` as the Parameter name for the SolidColor color attribute of each. Whenever you change the `newcolor` value, both the rectangle and the star change to the new color.
 
 1. Specify a default value for the attribute in the Value or Data field. Set all properties for the selected object to specify the exact appearance you want.
 1. (Optional) Repeat steps 3- 5 for all objects or layers that you want to parameterize. 
-1. Click Save or Save As.
-1. Click Preview to open the FXG Preview window and see the parameters you created with their default values.
+1. Click **Save** or **Save As**.
+1. Click **Preview** to open the FXG Preview window and see the parameters you created with their default values.
 
 ## Show or hide an object or layer in the FXG template {#show-or-hide-an-object-or-layer-in-the-fxg-template}
 
@@ -84,7 +82,7 @@ This table describes the attributes that support stroked text.
 
 |Attribute|Description|
 |--- |--- |
-|s7:fill `<Boolean> `(S7FXG Only)|Specifies whether fill is enabled for text. Default is true.|
+|s7:fill `<Boolean>`(S7FXG Only)|Specifies whether fill is enabled for text. Default is true.|
 |s7:stroke `<Boolean>` (S7FXG Only)|Specifies whether stroke is enabled for text. Default is false.|
 |s7:weight `<number>` (S7FXG Only)|Specifies the weight of the stroke for text in points. Default is 1 point.|
 |s7:joints `<string>` (miter, round, bevel) (S7FXG Only)|Specifies the type of join of the stroke. Default is round.|

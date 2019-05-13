@@ -14,7 +14,7 @@ discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
 
 # Media Portal system requirements {#system-requirements}
 
-For the best experience using Scene7 Media Portal, make sure that your system meets the following system requirements and recommendations:
+For the best experience using Dynamic Media Classic Media Portal, make sure that your system meets the following system requirements and recommendations:
 
 * Microsoft® Windows® 7 or later or Mac OS X 10.6 or higher Macintosh® Intel processor required.
 * 3 GB RAM or higher required (4 GB or higher recommended).

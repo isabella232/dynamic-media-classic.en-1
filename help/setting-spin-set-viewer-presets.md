@@ -14,7 +14,7 @@ discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
 
 # Setting up Spin Set Viewer Presets{#setting-up-spin-set-viewer-presets}
 
-Spin Set Viewer Presets determine the style, behavior, and look of your viewers. Scene7 comes with default Spin Set Viewer Presets. If you are an administrator, you can create your own Spin Set Viewer Presets as well. You can configure a Spin Set Viewer Preset with different colors, borders, fonts, and image settings.
+Spin Set Viewer Presets determine the style, behavior, and look of your viewers. Dynamic Media Classic comes with default Spin Set Viewer Presets. If you are an administrator, you can create your own Spin Set Viewer Presets as well. You can configure a Spin Set Viewer Preset with different colors, borders, fonts, and image settings.
 
 Follow these steps to create a Spin Set Viewer Preset:
 

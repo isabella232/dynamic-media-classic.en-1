@@ -14,11 +14,11 @@ discoiquuid: 5138ffd8-37ea-4b4a-9d8f-c9d8c56815df
 
 # Upload files for Template Publishing{#upload-files-for-template-publishing}
 
-To create files for Scene7 Template Publishing, convert your Illustrator file to the Scene7 FXG file format and upload the file to SPS.
+To create files for Dynamic Media Classic Template Publishing, convert your Illustrator file to the Dynamic Media Classic FXG file format and upload the file to SPS.
 
 ## Preparing the file for upload {#preparing-the-file-for-upload}
 
-Do the following *before* you manually upload the Scene7 FXG file to the Scene7 Publishing System:
+Do the following *before* you manually upload the Dynamic Media Classic FXG file to the Scene7 Publishing System:
 
 * Upload fonts separately before you upload the FXG file. 
 * Upload related images found in the assets folder created by the FXG plug-in.

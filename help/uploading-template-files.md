@@ -18,13 +18,13 @@ Upload the files you need for your template into the Scene7 Publishing System be
 
 >[!NOTE]
 >
->Scene7 recommends using transparent TIFF or PSD images in your templates at the exact size you want to display them on your web site. When you publish the template, call the image with an Image Preset that is also the same size. Paying attention to size ensures that your template is not resized (resampled) at a size larger or smaller than the size at which it was designed.
+>Dynamic Media Classic recommends using transparent TIFF or PSD images in your templates at the exact size you want to display them on your web site. When you publish the template, call the image with an Image Preset that is also the same size. Paying attention to size ensures that your template is not resized (resampled) at a size larger or smaller than the size at which it was designed.
 
 Templates can be created from Adobe Photoshop PSD files or image files.
 
 For detailed instructions on uploading files, see [Uploading files](uploading-files.md#uploading_files). Keep the following in mind when uploading template files:
 
-* If you’re uploading a PSD file, you can create a template from it. Scene7 creates a separate image for each layer in the PSD. In the Upload Job Options dialog box, select Photoshop Options, select the Maintain Layers option, and select the Create Template option. Then choose an option on the Layer Naming menu for naming the images that Scene7 creates from layers in the PSD. See [PSD upload options](psd-files.md#psd_upload_options).
+* If you’re uploading a PSD file, you can create a template from it. Dynamic Media Classic creates a separate image for each layer in the PSD. In the Upload Job Options dialog box, select Photoshop Options, select the Maintain Layers option, and select the Create Template option. Then choose an option on the Layer Naming menu for naming the images that Dynamic Media Classic creates from layers in the PSD. See [PSD upload options](psd-files.md#psd_upload_options).
 * If uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
 >[!MORELIKETHIS]

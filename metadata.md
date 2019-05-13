@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-solution-title: Dynamic Media Classic (Scene7)
+solution-title: Dynamic Media Classic
 solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
 solution-image: 
 getting-started-title: Getting Started
