@@ -12,19 +12,19 @@ discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 
 # Uploading and encoding videos{#uploading-and-encoding-videos}
 
-To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to the Scene7 Publishing System. Scene7 encodes videos to MP4 format and it publishes video in the following file formats:
+To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to the Scene7 Publishing System. Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
 
-**MP4** Scene7 recommends MP4 as the preferred video file format. Use MP4 files for the following:
+**MP4** Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
 
 * HTTP Dynamic Streaming on desktops.
 * HTTP Live Streaming (Apple’s streaming protocol).
 * Progressive video delivery to Android, Blackberry, and Windows mobile devices
 
-Scene7 offers two workflows for uploading video files:
+Dynamic Media Classic offers two workflows for uploading video files:
 
-**Pre-encoded Videos** You upload MP4 files directly to Scene7. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
+**Pre-encoded Videos** You upload MP4 files directly to Dynamic Media Classic. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
 
-**Master source videos** Upload master source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled “Video” in the Browse panel. Scene7 supports the encoding of video files in many formats.
+**Master source videos** Upload master source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled “Video” in the Browse panel. Dynamic Media Classic supports the encoding of video files in many formats.
 
 * Make sure the master source video files you want to encode are supported.
 
@@ -36,7 +36,7 @@ Scene7 offers two workflows for uploading video files:
   
   See [Best practices for video encoding](uploading-encoding-videos.md#best-practices-for-video-encoding).
 
-Scene7 also generates video thumbnails. You can learn more about video thumbnails, how to obtain their URLs, and modifying poster frames.
+Dynamic Media Classic also generates video thumbnails. You can learn more about video thumbnails, how to obtain their URLs, and modifying poster frames.
 
 See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#working-with-video-thumbnails).
 
@@ -74,7 +74,7 @@ Do one of the following:
     
 If you want to re-encode a video file that you previously uploaded
 
-1.  In Scene7, in the Browse panel, navigate to the video and select it.
+1.  In Dynamic Media Classic, in the Browse panel, navigate to the video and select it.
 1. Click **File** &gt; **Reprocess**.
 1. In the Reprocess Assets dialog box, expand EVideo Options.
 1. Do one of the following:
@@ -144,7 +144,7 @@ The following table describes the recommended size, aspect ratio, and minimum bi
 
 ### Obtaining a file’s metadata {#obtaining-a-file-s-metadata}
 
-You can obtain a file’s metadata by viewing its metadata in Scene7, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
+You can obtain a file’s metadata by viewing its metadata in Dynamic Media Classic, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
 
 1. Go to this web page: [https://mediainfo.sourceforge.net/en/Download](https://mediainfo.sourceforge.net/en/Download).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
@@ -246,7 +246,7 @@ As an example, suppose that your source video is 1920 x 1080. In the following t
 
 ### Encoded video file format {#encoded-video-file-format}
 
-Adobe Scene7 recommends using MP4 H.264 video encoding presets. Because MP4 files use the H.264 video codec, it provides high-quality video but in a compressed file size.
+Adobe Dynamic Media Classic recommends using MP4 H.264 video encoding presets. Because MP4 files use the H.264 video codec, it provides high-quality video but in a compressed file size.
 
 ## Working with video encoding presets {#working-with-video-encoding-presets}
 
@@ -254,7 +254,7 @@ Master video files created with video production equipment and video-editing sof
 
 See [Uploading and encoding videos](uploading-encoding-videos.md#uploading-and-encoding-videos).
 
-Scene7 gives you a library of predefined video encoding presets that reflect the most common encoding settings used today. These encoding presets are optimized for playback on target screens. In addition, administrators can create their own video encoding presets to customize the size and playback quality of videos to end users. All video encoding presets, whether out-of-the-box from Scene7, or custom-made, output video in the MP4 file format.
+Dynamic Media Classic gives you a library of predefined video encoding presets that reflect the most common encoding settings used today. These encoding presets are optimized for playback on target screens. In addition, administrators can create their own video encoding presets to customize the size and playback quality of videos to end users. All video encoding presets, whether out-of-the-box from Dynamic Media Classic, or custom-made, output video in the MP4 file format.
 
 On the Video Presets screen, administrators can set up and manage video encoding. They can do the following:
 
@@ -291,7 +291,7 @@ You can also filter based on a playback device option to narrow the list to Vide
 
 **To filter the list of video encoding presets**
 
-1. In Scene7, click **Setup** &gt; **Application Setup** &gt; **Video Presets** &gt; **Adaptive Video Presets** or **Single Encoding Presets**.
+1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets** &gt; **Adaptive Video Presets** or **Single Encoding Presets**.
 
    The pages for Adaptive Video Presets and Single Encoding Presets include a table that lists the Active status, Preset name, intended Playback Device, video dimensions, and Target data rate of each video preset. 
 
@@ -306,7 +306,7 @@ Activated Video Presets show up in the Upload Job Options dialog box. This is th
 
 **To activate or deactivate video encoding presets**
 
-1. In Scene7, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
+1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
 1. Do one of the following:
 
     * Click **Adaptive Video Presets**.
@@ -323,9 +323,9 @@ Activated Video Presets show up in the Upload Job Options dialog box. This is th
 
 ### Adding or editing a video encoding preset {#adding-or-editing-a-video-encoding-preset}
 
-You can create your own custom single encoding video presets and add them to the Video Presets table. You can also make changes to any pre-defined single encoding Video Presets that came with Scene7, provided you save the edited preset with a new name.
+You can create your own custom single encoding video presets and add them to the Video Presets table. You can also make changes to any pre-defined single encoding Video Presets that came with Dynamic Media Classic, provided you save the edited preset with a new name.
 
-Scene7 has set maximum limits on the target data rate, resolution height, and resolution width to ensure a proper playback experience. Warning messages appear if you exceed these limits which are the following:
+Dynamic Media Classic has set maximum limits on the target data rate, resolution height, and resolution width to ensure a proper playback experience. Warning messages appear if you exceed these limits which are the following:
 
 * For computer playback, the limits are: (Width/16) &#42; (Height/16) &lt; 8192.
 * For mobile playback, the limits are: (Width/16) &#42; (Height/16) &lt; 660; target data rate &lt; 4000.
@@ -333,14 +333,14 @@ Scene7 has set maximum limits on the target data rate, resolution height, and re
 
 **To add or edit a video encoding preset**
 
-1. In Scene7, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
+1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
 1. Click **Single Encoding Presets** to open the Video Presets page.
 1. In the Video Presets page, do any one of the following:
 
     * On the Video Presets toolbar click **Add** to add a new Video Preset.
     * Select a Video Preset. In the toolbar, click **Edit**.
 
-      You cannot edit Scene7 predefined presets; you can only create a preset from an existing one by choosing **Save As**.
+      You cannot edit Dynamic Media Classic predefined presets; you can only create a preset from an existing one by choosing **Save As**.
 
 1. On the Add Video Preset page or the Edit Video Preset page, set the Video Preset options you want.
 
@@ -355,7 +355,7 @@ Scene7 has set maximum limits on the target data rate, resolution height, and re
     |Aspect Ratio|Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen, high-definition TV content (HDTV) and movies.</li><li>Auto-scale - (Default) A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video’s aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio.</li></ul>|
     |Resolution Size|Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the dimension. Enter a width and height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and height values automatically adhere to the aspect ratio you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height.If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto.Click Preview to open a browser window and see your resolution choices there.|
     |Encode File Suffix|Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed.|
-    |Other Settings|Scene7 determines all other encoding settings automatically according to best-practice encoding guidelines.|
+    |Other Settings|Dynamic Media Classic determines all other encoding settings automatically according to best-practice encoding guidelines.|
 
 1. Do one of the following:
 
@@ -364,11 +364,11 @@ Scene7 has set maximum limits on the target data rate, resolution height, and re
 
 ### Deleting a video encoding preset {#deleting-a-video-encoding-preset}
 
-Administrators can delete custom Video Presets. Video presets that come with Scene7 cannot be deleted.
+Administrators can delete custom Video Presets. Video presets that come with Dynamic Media Classic cannot be deleted.
 
 **To delete a video encoding preset**
 
-1. In Scene7, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
+1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
 1. Click **Single Encoding Presets** to open the Video Presets page.
 1. In the Video Presets page, select a Video Preset in the table that you no longer want or need.
 1. On the Video Presets toolbar, click **Delete**.

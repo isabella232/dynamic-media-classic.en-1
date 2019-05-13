@@ -14,9 +14,9 @@ discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 
 # Quick Start: Image Sizing{#quick-start-image-sizing}
 
-Image Sizing refers to the ability of Scene7 to create multiple derivative images based on a single high-resolution image. Rather than manually creating several images—for example, a thumbnail and enlarged-view image—for your web site or application, you provide a single master image. Scene7 generates all modified images just as you request them. Being able to deliver images dynamically from a single master image has many advantages:
+Image Sizing refers to the ability of Dynamic Media Classic to create multiple derivative images based on a single high-resolution image. Rather than manually creating several images—for example, a thumbnail and enlarged-view image—for your web site or application, you provide a single master image. Dynamic Media Classic generates all modified images just as you request them. Being able to deliver images dynamically from a single master image has many advantages:
 
-* You do not have to manually create several copies of the image at different sizes. You supply one master image to Scene7, and Scene7 generates different-sized derivatives from the master image. 
+* You do not have to manually create several copies of the image at different sizes. You supply one master image to Dynamic Media Classic, and Dynamic Media Classic generates different-sized derivatives from the master image. 
 * You can quickly change the size of an image type throughout your web site or application. For example, to change all thumbnail images, you can modify the “thumbnail” Image Preset. An Image Preset—it’s similar to a macro—is a collection of size and formatting attributes. You can modify the “thumbnail” Image Preset to change the size of all thumbnail images throughout your web site or application. 
 * You do not have to manage the masters and all of the various derivatives in any of your content or asset management systems internally or externally.
 
@@ -28,13 +28,13 @@ This Image Sizing Quick Start is designed to help you get up and running quickly
 
 **1. Uploading master images**
 
-Start by uploading your master images to the Scene7 Publishing System. As to size, Scene7 recommends using images that are the largest size you anticipate using on your web site or application. For example, if you want viewers to zoom images, upload images that are at least 2000 pixels in the largest dimension. Scene7 supports many image file formats, but lossless TIFF and PNG images are recommended.
+Start by uploading your master images to the Scene7 Publishing System. As to size, Dynamic Media Classic recommends using images that are the largest size you anticipate using on your web site or application. For example, if you want viewers to zoom images, upload images that are at least 2000 pixels in the largest dimension. Dynamic Media Classic supports many image file formats, but lossless TIFF and PNG images are recommended.
 
 Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System. See [Uploading master images](uploading-master-images.md#uploading_master_images).
 
 **2. Setting up Image Presets**
 
-Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Scene7 Image Servers. You can set up Image Presets on your own if you have company administrator status. Scene7 also comes with default Image Presets, and you can use them to dynamically deliver images.
+Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Classic Image Servers. You can set up Image Presets on your own if you have company administrator status. Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
 
 To create an Image Preset (if you are an administrator), choose Setup &gt; Application Setup. On the Setup screen, display the Application Setup options and choose Image Presets. Then click **Add** or **Edit** to create an Image Preset.
 
@@ -54,13 +54,13 @@ See [Previewing an image asset based on its Image Preset](previewing-asset.md#pr
 
 Publishing your master image files serves two essential purposes:
 
-* Publishing your master images to Scene7 Image Servers so that images can be dynamically delivered to your web site and application.
-* Publishing activates the URL strings for calling images from Scene7 Image Servers to your web site or application. After publishing, you can copy and place the Scene7-generated URLs where necessary in your web site or application.
+* Publishing your master images to Dynamic Media Classic Image Servers so that images can be dynamically delivered to your web site and application.
+* Publishing activates the URL strings for calling images from Dynamic Media Classic Image Servers to your web site or application. After publishing, you can copy and place the Dynamic Media Classic-generated URLs where necessary in your web site or application.
 
 Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select the Start Publish button. See [Publishing master images](publishing-master-images.md#publishing_master_images).
 
 **5. Linking URLs to your web application**
 
-Scene7 creates URL callout strings for images. When you publish images to Scene7 Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail view) or Preview screen. After you copy the URL strings, you can use them in your web site and applications. The URL for image sizing replaces the reference to a static image name in your web page code. The URL references a master image name, which is replaced by your database for each new image to display.
+Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Classic Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail view) or Preview screen. After you copy the URL strings, you can use them in your web site and applications. The URL for image sizing replaces the reference to a static image name in your web page code. The URL references a master image name, which is replaced by your database for each new image to display.
 
 URL strings generated with Image Presets contain the name of an Image Preset. This name is enclosed in dollar signs (`$`). For example, `$thumbnail$` can be the Image Preset designed to show master images at thumbnail size. See [Linking URLs to your web application](linking-urls-web-application.md#linking_urls_to_your_web_application).

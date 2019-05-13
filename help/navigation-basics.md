@@ -28,13 +28,13 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Build** Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
-**Publish** Opens the Publish screen so you can publish rich media assets to Scene7 Image Servers and the rest of the Scene7 SAAS Infrastructure. See Publishing.
+**Publish** Opens the Publish screen so you can publish rich media assets to Dynamic Media Classic Image Servers and the rest of the Dynamic Media Classic SAAS Infrastructure. See Publishing.
 
 **Jobs** Opens the Jobs screen so you can examine records of upload and publish jobs.
 
 **Recent** Opens the Recent Activity screen so you can view the names of recently modified assets and recent upload and publish jobs.
 
-**Setup** Opens the Setup screen so you can choose setup or administration options for optimizing your use of Scene7. See Setup.
+**Setup** Opens the Setup screen so you can choose setup or administration options for optimizing your use of Dynamic Media Classic. See Setup.
 
 **Help** Choose a Help option:
 
@@ -44,9 +44,9 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Help &gt; Help Contents** Opens the Help system to the Introduction page. You can click through the Table of Contents to find and view different topics.
 
-**Help &gt; About** Tells you which version of Scene7 you are running.
+**Help &gt; About** Tells you which version of Dynamic Media Classic you are running.
 
-**Help &gt; Support** Tells you how to get technical support from Scene7.
+**Help &gt; Support** Tells you how to get technical support from Dynamic Media Classic.
 
 **Sign Out** Exits the Scene7 Publishing System.
 

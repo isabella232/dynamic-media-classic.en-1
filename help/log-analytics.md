@@ -14,9 +14,9 @@ discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 
 # Log in to Adobe Analytics{#log-in-to-adobe-analytics}
 
-Before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Scene7 events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Marketing Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, click **Admin Tools** &gt; **User Management** &gt; **Edit Groups**.
+Before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Dynamic Media Classic events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Marketing Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, click **Admin Tools** &gt; **User Management** &gt; **Edit Groups**.
 
-When you log in you have the option of entering your Marketing Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data to not integrate correctly with other data for that client from outside Scene7.
+When you log in you have the option of entering your Marketing Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data to not integrate correctly with other data for that client from outside Dynamic Media Classic.
 
 **To log in to Adobe Analytics**
 

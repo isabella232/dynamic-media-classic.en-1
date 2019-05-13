@@ -22,7 +22,7 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 >[!NOTE]
 >
->Scene7 recommends organizing assets with metadata rather than Projects. See [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md).
+>Dynamic Media Classic recommends organizing assets with metadata rather than Projects. See [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md).
 
 >[!NOTE]
 >

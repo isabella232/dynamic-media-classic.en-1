@@ -14,7 +14,7 @@ discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
 
 # Linking a Spin Set to a web page{#linking-a-spin-set-to-a-web-page}
 
-Web sites and applications access Scene7 Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your web pages and applications, you copy it from the Scene7 Publishing System.
+Web sites and applications access Dynamic Media Classic Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your web pages and applications, you copy it from the Scene7 Publishing System.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Web sites and applications access Scene7 Image Server content, including Spin Se
 
 ## Adding Spin Set URLs to your web page {#adding-spin-set-urls-to-your-web-page}
 
-Spin Sets are deployed like all zoom viewers, by way of a dynamic page (ASP or JSP) that displays the Spin Set in a zoom window. The URL call to the Scene7 platform follows the same protocol on the zoom viewer. However, the Viewer Preset name depends on the Preset that your administrator defined as the default Spin Set Viewer Preset. For example, the following non-live, URL syntax example includes a Preset name called `viewer.jsp` and the SKU parameter is now the Spin Set name:
+Spin Sets are deployed like all zoom viewers, by way of a dynamic page (ASP or JSP) that displays the Spin Set in a zoom window. The URL call to the Dynamic Media Classic platform follows the same protocol on the zoom viewer. However, the Viewer Preset name depends on the Preset that your administrator defined as the default Spin Set Viewer Preset. For example, the following non-live, URL syntax example includes a Preset name called `viewer.jsp` and the SKU parameter is now the Spin Set name:
 
 ```as3
 https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_spin

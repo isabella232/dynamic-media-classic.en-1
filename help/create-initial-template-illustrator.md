@@ -19,6 +19,6 @@ Begin by creating the initial artwork and template in Illustrator. Make sure tha
 * Carefully determine which template components you want to be variable.
 * Make sure that layers are in the correct order so that no object is unintentionally obscured.
 * Remove unnecessary layers. Removing these layers prevents them from being used mistakenly as parameters.
-* Upload all fonts for your template to the Scene7 Publishing System. Do so before you upload your template (and make sure that the upload job is complete before you upload the template). Scene7 needs these fonts to render text correctly in the template.
+* Upload all fonts for your template to the Scene7 Publishing System. Do so before you upload your template (and make sure that the upload job is complete before you upload the template). Dynamic Media Classic needs these fonts to render text correctly in the template.
 * Set the resolution to 300ppi if you intend to print the final document at high quality.
 

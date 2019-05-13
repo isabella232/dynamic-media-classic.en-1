@@ -55,11 +55,11 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 
 >[!NOTE]
 >
->Scene7 recommends overwriting asset files rather than deleting them if your reason for deleting an asset file is to replace it with another by the same name.
+>Dynamic Media Classic recommends overwriting asset files rather than deleting them if your reason for deleting an asset file is to replace it with another by the same name.
 
 ## Delete multiple assets with a text file {#delete-multiple-assets-with-a-text-file}
 
-To delete many assets at once throughout the Asset Library, you can list the assets you want to delete in a text file and submit the list to Scene7.
+To delete many assets at once throughout the Asset Library, you can list the assets you want to delete in a text file and submit the list to Dynamic Media Classic.
 
 Create the list of Scene7 Publishing System IDs and save it as a text (.txt) file. Each Scene7 Publishing System ID must be on its own line (followed by a hard return).
 
@@ -69,7 +69,7 @@ After you create the list, follow these steps to use it to delete assets:
 1. In the Delete Asset list dialog box, browse or type the path to the text file with the list of assets you want to delete.
 1. Click the Delete button.
 
-When you delete assets with a text file, if any Scene7 Publishing System ID is not on the list, a message is displayed letting you know that Scene7 is “Unable to validate these entries in your list:” along with the list of entries. However, Scene7 will not generate an error on the Job screen.
+When you delete assets with a text file, if any Scene7 Publishing System ID is not on the list, a message is displayed letting you know that Dynamic Media Classic is “Unable to validate these entries in your list:” along with the list of entries. However, Dynamic Media Classic will not generate an error on the Job screen.
 
 >[!MORELIKETHIS]
 >

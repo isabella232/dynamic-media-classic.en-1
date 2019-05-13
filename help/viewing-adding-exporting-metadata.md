@@ -14,17 +14,17 @@ discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 
 # Viewing, adding, and exporting metadata{#viewing-adding-and-exporting-metadata}
 
-You can store information specific to the files you work with in the Scene7 Publishing System; this information is called *metadata*. You can use metadata in Scene7 for organizing, searching, filtering, and sorting your assets.
+You can store information specific to the files you work with in the Scene7 Publishing System; this information is called *metadata*. You can use metadata in Dynamic Media Classic for organizing, searching, filtering, and sorting your assets.
 
-Metadata appears in Detail view along with Scene7-generated information, such as the file creation date, publishing date, and keywords. To view metadata, open the asset in Detail view and select the Metadata panel. You can enter and edit metadata in Detail view.
+Metadata appears in Detail view along with Dynamic Media Classic-generated information, such as the file creation date, publishing date, and keywords. To view metadata, open the asset in Detail view and select the Metadata panel. You can enter and edit metadata in Detail view.
 
-Some metadata is embedded directly into a file. If a file contains this metadata, Scene7 automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Scene7 recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail view. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
+Some metadata is embedded directly into a file. If a file contains this metadata, Dynamic Media Classic automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Dynamic Media Classic recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail view. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
 
 For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en).
 
 ## View metadata {#view-metadata}
 
-To view an asset’s metadata, open the asset in Detail view, and click the Metadata panel. Then choose an option on the Metadata View menu to select a set of metadata fields. Scene7 offers these Metadata Views:
+To view an asset’s metadata, open the asset in Detail view, and click the Metadata panel. Then choose an option on the Metadata View menu to select a set of metadata fields. Dynamic Media Classic offers these Metadata Views:
 
 **Compact View** A basic list of values.
 
@@ -65,7 +65,7 @@ If you’ve added keywords to other files during this session, or if you’ve re
 
 >[!NOTE]
 >
->You can add keywords to files as you upload them to Scene7. In the Upload Job Options dialog box, choose Additional Metadata and enter keywords. See [Upload options](uploading-files.md#upload_options).
+>You can add keywords to files as you upload them to Dynamic Media Classic. In the Upload Job Options dialog box, choose Additional Metadata and enter keywords. See [Upload options](uploading-files.md#upload_options).
 
 ## Import metadata {#import-metadata}
 
@@ -142,7 +142,7 @@ The job log for the Metadata job will show which IDs were successfully renamed a
 
 ## Create a template for entering metadata to upload {#create-a-template-for-entering-metadata-to-upload}
 
-Scene7 offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Scene7 Publishing System. Follow these steps to create a template for use in recording and importing metadata to Scene7 Publishing System:
+Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Scene7 Publishing System. Follow these steps to create a template for use in recording and importing metadata to Scene7 Publishing System:
 
 1. Select image assets with metadata fields you want for your template.
 1. Choose File &gt; Import Metadata.

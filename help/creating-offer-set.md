@@ -22,7 +22,7 @@ You can create any of the following types of offer sets:
 
 For templates, click **Add and Preview**, then set the parameters you choose. The other offer set types do not include parameters, but you can still customize them by clicking **Preview** and changing the available presets.
 
-Scene7 offers tools for editing as well as creating offer sets.
+Dynamic Media Classic offers tools for editing as well as creating offer sets.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Create an offer set from the following types of offer sets:
 
 **Images** You can assemble images for an offer set. Each image includes a different offer in the set.
 
-**Image template** You can parameterize image templates in Scene7 with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
+**Image template** You can parameterize image templates in Dynamic Media Classic with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
 
 **Video** You can assemble video for an offer set. Each video is a different offer in the set.
 

@@ -14,7 +14,7 @@ discoiquuid: 3c1a5da4-0bee-47c3-9e3f-f8b961c54d47
 
 # Linking an FXG template to a web page{#linking-an-fxg-template-to-a-web-page}
 
-After you publish an FXG template, Scene7 activates a URL string that references the FXG template on Scene7 servers. You can paste this URL in a web browser for testing.
+After you publish an FXG template, Dynamic Media Classic activates a URL string that references the FXG template on Dynamic Media Classic servers. You can paste this URL in a web browser for testing.
 
 To place URL strings in your web pages and applications, copy them from the Scene7 Publishing System. To obtain an FXG template URL string generated with an Image Preset for viewing the template at a specific size, go to the FXG Template Preview screen or the Browse Panel (in Detail view). Then select an Image Preset and click the copy URL button.
 

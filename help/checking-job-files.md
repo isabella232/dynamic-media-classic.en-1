@@ -14,7 +14,7 @@ discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 
 # Checking job files{#checking-job-files}
 
-To monitor file uploads to the Scene7 Publishing System and files you publish to Scene7 servers, SPS offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to the Scene7 Publishing System and files you publish to Dynamic Media Classic servers, SPS offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
 When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can click the icon to see more information about the active job.
 
@@ -36,7 +36,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 **Total** The number of files transferred.
 
-**W (warnings)** The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, .DS_store files (Macintosh) and Thumbs.db files (Windows) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Scene7. You can double-click a job name to get detailed information about warnings.
+**W (warnings)** The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, .DS_store files (Macintosh) and Thumbs.db files (Windows) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
 **E (errors)** Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 

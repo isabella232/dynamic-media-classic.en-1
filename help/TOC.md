@@ -1,15 +1,15 @@
 ---
 cloud: experience-cloud
-product: dynamic media classic scene7 
+product: dynamic media classic 
 audience: end-user
-user-guide-title: Dynamic Media Classic - Scene7 Help
+user-guide-title: Dynamic Media Classic Help
 index: y
 ---
 
-# Dynamic Media Classic - Scene7 Help {#using}
+# Dynamic Media Classic Help {#using}
 
-+ [Dynamic Media Classic (Scene7) Documentation Home](home.md)
-+ Introducing Adobe Scene7 {#intro}
++ [Dynamic Media Classic Documentation Home](home.md)
++ Introducing Adobe Dynamic Media Classic {#intro}
     + [About Dynamic Media Classic](introduction.md)
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
@@ -125,7 +125,7 @@ index: y
     + [Create the initial template in Adobe Illustrator](create-initial-template-illustrator.md)
     + [Upload files for Template Publishing](upload-files-template-publishing.md)
     + [Defining variability: Parameterization versus DOM manipulation](defining-variability-parameterization-versus-dom.md)
-    + [Parameterizing a template in Scene7](parameterizing-template-scene7.md)
+    + [Parameterizing a template in Dynamic Media Classic](parameterizing-template-scene7.md)
     + [Preview and update template attributes](preview-update-template-attributes.md)
     + [DOM manipulation](dom-manipulation.md)
     + [Linking an FXG template to a web page](linking-fxg-template-web-page.md)
@@ -146,7 +146,7 @@ index: y
     + [Publishing a Mixed Media Set](publishing-mixed-media-set.md)
     + [Linking a Mixed Media Set to a web page](linking-mixed-media-set-web.md)
 + Adobe Analytics instrumentation kit {#analytics-kit}
-    + [Quick Start: Integrating Scene7 and Adobe Analytics ](quick-start-integrating-scene7-analytics.md)
+    + [Quick Start: Integrating Dynamic Media Classic with Adobe Analytics ](quick-start-integrating-scene7-analytics.md)
     + [Log in to Adobe Analytics](log-analytics.md)
     + [Configuring Adobe Analytics reports](configuring-analytics-reports.md)
     + [Instrumenting a viewer using the Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)

@@ -18,7 +18,7 @@ You can save assets you edited in Scene7 Publishing System to a local network dr
 
 The compressed Zip file has a maximum file size of 1 GB for the export job. Also, be aware that you are allowed a maximum of 500 total assets per export job.
 
-Scene7 keeps a record of export jobs in the Jobs screen.
+Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
 **To export assets from Scene7 Publishing System**
 

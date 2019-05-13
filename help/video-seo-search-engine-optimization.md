@@ -16,7 +16,7 @@ discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 
 SEO is the process of improving the volume of traffic to a Web site from search engines. While search engines excel at gathering information about text-based content, they cannot adequately acquire information about video unless this information is provided to them.
 
-Using Scene7 Video SEO, you can leverage video metadata to provide search engines with descriptions of your videos. Scene7 provides the ability to create Video Sitemaps and mRSS feeds. These are standard XML files for submitting video information to search engines:
+Using Dynamic Media Classic Video SEO, you can leverage video metadata to provide search engines with descriptions of your videos. Dynamic Media Classic provides the ability to create Video Sitemaps and mRSS feeds. These are standard XML files for submitting video information to search engines:
 
 **Video Sitemap** Informs Google exactly where and what the video content is on a site. Consequently, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see https://www.google.com/support/webmasters/bin/answer.py?answer=80471.
 
@@ -26,17 +26,17 @@ Using Scene7 Video SEO, you can leverage video metadata to provide search engine
 >
 >Google supports both the Video Sitemap and mRSS feed protocol for submitting information to search engines.
 
-Scene7 can generate Video Sitemaps and mRSS feeds from metadata that is stored with each video. When you create Video Sitemaps and mRSS feeds, you decide which metadata fields from video files to include. In this way, you describe your videos to search engines so that search engines can more accurately direct traffic to videos on your web site
+Dynamic Media Classic can generate Video Sitemaps and mRSS feeds from metadata that is stored with each video. When you create Video Sitemaps and mRSS feeds, you decide which metadata fields from video files to include. In this way, you describe your videos to search engines so that search engines can more accurately direct traffic to videos on your web site
 
 >[!NOTE]
 >
 >Before creating a Video Sitemap or mRSS feed, find out which fields the search engine requires in the XML file and how to structure these fields. To create a successful Video Sitemap or mRSS feed, it must satisfy the requirements of the search engine.
 
-Scene7 creates reports about Video Sitemaps and mRSS feeds after you generate them. These reports are available on the Video SEO Report screen.
+Dynamic Media Classic creates reports about Video Sitemaps and mRSS feeds after you generate them. These reports are available on the Video SEO Report screen.
 
 >[!NOTE]
 >
->For the Video Sitemaps and mRSS feeds, Scene7 captures metadata only from videos that are marked for publish. Mark videos for publish to include their metadata in Video Sitemaps and mRSS feeds.
+>For the Video Sitemaps and mRSS feeds, Dynamic Media Classic captures metadata only from videos that are marked for publish. Mark videos for publish to include their metadata in Video Sitemaps and mRSS feeds.
 
 ## Choosing Video SEO settings {#choosing-video-seo-settings}
 
@@ -60,9 +60,9 @@ On the Generation Mode drop-down list, choose a report mode:
 
 On the Automatic/Manual Mode drop-down list, choose whether to generate automatically or manually:
 
-**Automatic Mode** Scene7 automatically generates one Video Sitemap, Media RSS (mRSS) feed, or both, each day. Choose the Mark for Publish option to automatically mark for publish the XML file that Scene7 generates.
+**Automatic Mode** Dynamic Media Classic automatically generates one Video Sitemap, Media RSS (mRSS) feed, or both, each day. Choose the Mark for Publish option to automatically mark for publish the XML file that Dynamic Media Classic generates.
 
-**Manual Mode** Scene7 generates the Video Sitemap, Media RSS (mRSS) feed, or both, when you click Generate or Save & Generate in the Video Search Optimization Settings screen. Choose these options as well:
+**Manual Mode** Dynamic Media Classic generates the Video Sitemap, Media RSS (mRSS) feed, or both, when you click Generate or Save & Generate in the Video Search Optimization Settings screen. Choose these options as well:
 
 **No Further Settings** Doesn't mark for publish the XML file that is generated.
 
@@ -72,7 +72,7 @@ On the Automatic/Manual Mode drop-down list, choose whether to generate automati
 
 ### Choosing Generation Settings {#choosing-generation-settings}
 
-The Generation Settings area lists input fields for the Video Sitemap and/or mRSS feed, and in the Metadata panel, the names of metadata fields. Use the General Settings area to map input fields to metadata fields. By doing so, you tell Scene7 where to obtain metadata for the Video Sitemap and/or mRSS feed.
+The Generation Settings area lists input fields for the Video Sitemap and/or mRSS feed, and in the Metadata panel, the names of metadata fields. Use the General Settings area to map input fields to metadata fields. By doing so, you tell Dynamic Media Classic where to obtain metadata for the Video Sitemap and/or mRSS feed.
 
 1. On the Metadata Views menu, choose a metadata view. After you choose a view, the names of metadata fields appear in the Metadata panel. (For information about metadata views, see [Metadata Views](application-setup.md#metadata_views).)
 1. Drag metadata field names from the Metadata panel to the Landing Page, Title, Description, Tags, and Category input fields. The Landing Page, Title, and Description fields are required.
