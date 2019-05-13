@@ -16,7 +16,7 @@ discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
 
 You can view your Swatch Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Swatch Sets.
 
-Scene7 comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
+Dynamic Media Classic comes with default Viewer Presets. Administrators can create or modify the Viewer Presets.
 
 ## Setting up Zoom Viewer presets for Swatch Sets {#setting-up-zoom-viewer-presets-for-swatch-sets}
 

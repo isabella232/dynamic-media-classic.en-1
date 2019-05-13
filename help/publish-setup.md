@@ -29,7 +29,7 @@ The Image Server screen establishes default settings for delivering images from 
 
 Change these settings only with the assistance of a Dynamic Media Classic support person.
 
-**Catalog Management** These settings determine how Scene7 Publishing System and the catalog interact. Unlike most web servers, Scene7 Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+**Catalog Management** These settings determine how Scene7 Publishing System and the catalog interact. Unlike most web servers, Dynamic Media Classic Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
 **Request Attributes** These settings impose limits on images that can be delivered from the server.
 
@@ -58,7 +58,7 @@ For more information about setting up **Localization Support**, see [Considerati
 >
 >If you want to set up Localization Support options in Scene7 Publishing System, such as the Locale Map field, contact Adobe Dynamic Media Classic Technical Support. Or, send an email to s7support@adobe.com requesting setup help.
 
-A common way to use the Scene7 Publishing System (SPS) is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a very few part of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. S7 uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
+A common way to use the Scene7 Publishing System (SPS) is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a very few part of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
 **How assets are localized**
 

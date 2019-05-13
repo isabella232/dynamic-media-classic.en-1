@@ -14,11 +14,11 @@ discoiquuid: 1ddc89ff-d2e9-42eb-a442-aa6b9871c991
 
 # Testing the integration by viewing an Adobe Analytics report{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 
-After you have created the necessary variables in Adobe Analytics, linked them to Scene7 events and completed the necessary implementation steps, then you should test the setup. You can test and verify that the data is being captured, inside Adobe Analytics itself. If the setup works here, then no further steps are needed. Assuming you followed the steps above and linked your Scene7 event data to one or more custom traffic variables, then follow this workflow to test your data inside Adobe Analytics.
+After you have created the necessary variables in Adobe Analytics, linked them to Dynamic Media Classic events and completed the necessary implementation steps, then you should test the setup. You can test and verify that the data is being captured, inside Adobe Analytics itself. If the setup works here, then no further steps are needed. Assuming you followed the steps above and linked your Dynamic Media Classic event data to one or more custom traffic variables, then follow this workflow to test your data inside Adobe Analytics.
 
 **To test the integration by viewing a Adobe Analytics report**
 
-1. Launch a Scene7 viewer from your account, particularly one that broadcasts the metric that you want to capture, and interact with it to create some event data.
+1. Launch a Dynamic Media Classic viewer from your account, particularly one that broadcasts the metric that you want to capture, and interact with it to create some event data.
 
    For example, if you want to measure the most popular alternative views in an Image Set, then preview an Image Set and click on the different thumbnails images.
 
@@ -30,6 +30,6 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 
 >[!NOTE]
 >
->All Scene7 viewer data is displayed and reported in Custom Traffic reports or Custom Conversion reports of Adobe Analytics.
+>All Dynamic Media Classic viewer data is displayed and reported in Custom Traffic reports or Custom Conversion reports of Adobe Analytics.
 
 For more information, see [www.adobe.com/go/learn_sc7_sitecatalystguide_en](https://www.adobe.com/go/learn_sc7_sitecatalystguide_en).

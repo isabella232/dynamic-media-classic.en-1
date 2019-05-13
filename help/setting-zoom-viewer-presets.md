@@ -14,13 +14,13 @@ discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
 
 # Setting up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}
 
-Zoom Viewer Presets determine the style, behavior, and look of your Zoom viewers. Scene7 offers many options for customizing and skinning Viewers. Scene7 comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create new company Zoom Viewer Presets or edit a default preset and save it with a new name.
+Zoom Viewer Presets determine the style, behavior, and look of your Zoom viewers. Dynamic Media Classic offers many options for customizing and skinning Viewers. Dynamic Media Classic comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create new company Zoom Viewer Presets or edit a default preset and save it with a new name.
 
 All Zoom Viewers have buttons for zooming in, zooming out, panning, and resetting the image to its original state after zooming. What these buttons look like and what the window itself looks like depends on your choice of Zoom Viewer Presets. You can configure a Zoom Viewer Preset with different colors, borders, fonts, and image settings. When configuring a Guided Zoom Viewer, you can also choose where to place the zoom targets. Zoom targets are the thumbnails that users click to zoom to areas you specify.
 
 ## About Zoom Viewer Presets {#about-zoom-viewer-presets}
 
-Scene7 offers these Zoom Viewer Presets:
+Dynamic Media Classic offers these Zoom Viewer Presets:
 
 **Zoom Viewer: Basic** Provides a basic zoom on original image.
 
@@ -30,7 +30,7 @@ When determining the complete bandwidth usage for this viewer, consider that bot
 
 For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of 3, the resulting flyout image is 1050 by 1050 pixels. If your main image size is 300 by 300 pixels, with a Zoom Factor of 4, the flyout image is 1200 by 1200 pixels. Depending on the JPEG quality setting (recommended settings are between 80-90), you can decrease the file size significantly. Recommended zoom factors are 2.5 to 4, depending on the size of your main image.
 
-Scene7 recommends these parameters for fly-out Zoom Viewer Presets:
+Dynamic Media Classic recommends these parameters for fly-out Zoom Viewer Presets:
 
 **Enlarged image size** Approximately 1500 by 1500 pixels, not to exceed 2000 by 2000 pixels.
 

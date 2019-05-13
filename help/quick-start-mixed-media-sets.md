@@ -20,7 +20,7 @@ Mixed Media Set Viewer Presets include community options for end users to embed 
 
 **Quick Start**
 
-This Mixed Media Sets Quick Start is designed to get up and running quickly with Mixed Media Set techniques in Scene7.
+This Mixed Media Sets Quick Start is designed to get up and running quickly with Mixed Media Set techniques in Dynamic Media Classic.
 
 **1. Uploading the images, swatch files, and videos**
 
@@ -44,7 +44,7 @@ See [Creating a Mixed Media Set](creating-mixed-media-set.md#creating-a-mixed-me
 
 **4. Setting up Mixed Media viewer presets**
 
-Scene7 comes with default viewer presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set viewer presets.
+Dynamic Media Classic comes with default viewer presets for Mixed Media Sets. Administrators can create or modify Mixed Media Set viewer presets.
 
 When setting up a Mixed Media Set viewer preset, add the viewer presets for all of the other assets in your set. For example, if your Mixed Media Set includes videos, add a video viewer preset to the Mixed Media Set viewer preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
 
@@ -58,7 +58,7 @@ See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
 **6. Publishing a Mixed Media Set**
 
-Publishing an Mixed Media Set places it on Scene7 servers and activates the URL string.
+Publishing an Mixed Media Set places it on Dynamic Media Classic servers and activates the URL string.
 
 Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. You use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.
 
@@ -66,6 +66,6 @@ See [Publishing a Mixed Media Set](publishing-mixed-media-set.md#publishing-a-mi
 
 **7. Linking a Mixed Media Set to a web page**
 
-Scene7 activates URL calls for Mixed Media Sets after you publish them. You can copy these URLs from the Preview screen.
+Dynamic Media Classic activates URL calls for Mixed Media Sets after you publish them. You can copy these URLs from the Preview screen.
 
 Select the Mixed Media Set, and click Preview. In the Preview screen, select a Mixed Media Set Viewer Preset and click the Copy URL button. See [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).

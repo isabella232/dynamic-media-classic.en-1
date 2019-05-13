@@ -2,7 +2,7 @@
 title: About managing assets
 seo-title: About managing assets
 description: null
-seo-description: An introduction to managing assets in Dynamic Media Classic (Scene7)
+seo-description: An introduction to managing assets in Dynamic Media Classic
 uuid: 875e3227-d8a9-4e6c-be4e-6f0328eb4ef8
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7

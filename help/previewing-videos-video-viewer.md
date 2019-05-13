@@ -36,13 +36,13 @@ See [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_
 
 >[!NOTE]
 >
->Scene7 provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what you see in the desktop preview does not realistically show what playback looks like on the mobile device. To preview how video looks and plays on a mobile device, go to the Preview screen, select the Copy URL and enter that URL in the web browser of a mobile device. For more information, see [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
+>Dynamic Media Classic provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what you see in the desktop preview does not realistically show what playback looks like on the mobile device. To preview how video looks and plays on a mobile device, go to the Preview screen, select the Copy URL and enter that URL in the web browser of a mobile device. For more information, see [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
 ## Working with video viewer presets {#working-with-video-viewer-presets}
 
 Users watch videos in the Video Viewer. How the Video Viewer behaves, what it looks like, and how its playback controls work depends on the Viewer Preset you choose for playing the video. You choose a Viewer Preset on the Preview screen. After you choose a preset, you can obtain the URL or the embed code for playing the video using the Viewer Preset you chose.
 
-Scene7 comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
+Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
 
 See also [Previewing videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 

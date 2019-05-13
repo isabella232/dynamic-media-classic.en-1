@@ -14,7 +14,7 @@ discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 
 # Working with PSD files{#working-with-psd-files}
 
-PSD (Photoshop Document files) are most often used in Scene7 to create templates. When you upload a PSD file, you can create a Scene7 template automatically from the file (select the Create Template option on the Upload screen).
+PSD (Photoshop Document files) are most often used in Dynamic Media Classic to create templates. When you upload a PSD file, you can create a Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
 
 SPS creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
 
@@ -66,7 +66,7 @@ To trim based on transparency, specify 0 to crop pixels only if they are totally
 
 ## Viewing and editing layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
-If you selected the Maintain Layers option when you uploaded your PSD, Scene7 ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail view.
+If you selected the Maintain Layers option when you uploaded your PSD, Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail view.
 
 1. Double-click the full PSD file in the Browse Panel to open it in Detail view.
 

@@ -14,11 +14,11 @@ discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 
 # Quick Start: Swatch Sets{#quick-start-swatch-sets}
 
-Scene7 Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by clicking a thumbnail.
+Dynamic Media Classic Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by clicking a thumbnail.
 
 **Quick Start**
 
-This Swatch Sets Quick Start is designed to get up and running quickly with Swatch Set techniques in Scene7.
+This Swatch Sets Quick Start is designed to get up and running quickly with Swatch Set techniques in Dynamic Media Classic.
 
 **1. Uploading the images and swatch files**
 
@@ -32,7 +32,7 @@ To create a Swatch Set, click Build &gt; Swatch Sets. On the Swatch Set screen, 
 
 **3. Setting up Swatch Set Viewer Presets**
 
-Administrators can create or modify Image Set Viewer Presets. Scene7 comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom &gt; Image Sets/Color Swatches presets to view your Swatch Sets.
+Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom &gt; Image Sets/Color Swatches presets to view your Swatch Sets.
 
 See [Creating and editing Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -44,7 +44,7 @@ See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
 **5. Publishing a Swatch Set**
 
-Publishing a Swatch Set places it on Scene7 servers and activates the URL string.
+Publishing a Swatch Set places it on Dynamic Media Classic servers and activates the URL string.
 
 Click the **Mark For Publish** icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Start Publish**.
 
@@ -52,6 +52,6 @@ See [Publishing](publishing-files.md#publishing-files).
 
 **6. Linking a Swatch Set to a web page**
 
-Scene7 creates URL calls for Swatch Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
+Dynamic Media Classic creates URL calls for Swatch Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
 
 Select the Swatch Set, and then select the Preview button. The Preview screen opens. Select a Swatch Set Viewer Preset and select the Copy URL button. See [Linking a Swatch Set to a web page](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).

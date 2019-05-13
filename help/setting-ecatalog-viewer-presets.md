@@ -13,9 +13,9 @@ discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 
 # Setting up eCatalog Viewer Presets{#setting-up-ecatalog-viewer-presets}
 
-eCatalog Viewer Presets determine the style, behavior, and look of eCatalog Viewers. Scene7 provides eCatalog Viewer Presets, and you can create your own eCatalog Viewer Presets as well if you are an administrator.
+eCatalog Viewer Presets determine the style, behavior, and look of eCatalog Viewers. Dynamic Media Classic provides eCatalog Viewer Presets, and you can create your own eCatalog Viewer Presets as well if you are an administrator.
 
-To create a new preset, you can start from scratch or start with a Scene7-provided eCatalog Viewer Preset and save it under a new name. You can create your own eCatalog Viewer Presets to present printed material in your company colors and set the tone.
+To create a new preset, you can start from scratch or start with a Dynamic Media Classic-provided eCatalog Viewer Preset and save it under a new name. You can create your own eCatalog Viewer Presets to present printed material in your company colors and set the tone.
 
 eCatalog Viewer Presets offer many settings for going from page to page, zooming, searching, and choosing “skins.” What these controls look like and what the Viewer itself looks like depends on your choice of eCatalog Viewer Presets.
 
@@ -43,7 +43,7 @@ Follow these steps to create a eCatalog Viewer Preset (you must be an administra
     |`$2$`|frame|The sequence number of the currently shown frame in the image set.|
     |`$3$`|imageroot|The first path element of the first item specified in the image command (typically the image catalog ID of the catalog entry specifying the image set).|
 
-1. (Optional) In the Info Panel Settings, in the Response Template box, type the text you want to appear if Scene7 encounters an error in retrieving information for an image map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Info Panel Settings, in the Response Template box, type the text you want to appear if Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
 
 >[!NOTE]
 >

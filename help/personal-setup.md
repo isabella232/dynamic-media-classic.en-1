@@ -119,7 +119,7 @@ See also [User-Defined Fields](application-setup.md#user_defined_fields).
 ## Email
 
 * **Email Options**
-  * Choose how you want Scene7 to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
+  * Choose how you want Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
 * **Email Scope**
   * Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
 * **Email Types**

@@ -47,7 +47,7 @@ To conduct a simple search:
 
 >[!NOTE]
 >
->Scene7 tracks searches. To run a search a second time, select the Search button and choose the name of a search at the bottom of the Search menu.
+>Dynamic Media Classic tracks searches. To run a search a second time, select the Search button and choose the name of a search at the bottom of the Search menu.
 
 ## Conducting an advanced search {#conducting-an-advanced-search}
 

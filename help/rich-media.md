@@ -14,13 +14,13 @@ discoiquuid: 86f72d31-19aa-4077-a746-2badb53b02ec
 
 # Rich media{#rich-media}
 
-Scene7 offers many tools for creating rich media. You create these rich media types:
+Dynamic Media Classic offers many tools for creating rich media. You create these rich media types:
 
 **eCatalogs** Present an interactive, search-enabled web version of your catalog or other print material. Create clickable areas (called Image Maps) that show rollover content and allow customers to turn pages, zoom, pan, and attach sticky notes to pages. See Quick Start: eCatalog.
 
-**eVideo** Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Scene7 encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets. See Quick Start: eVideo.
+**eVideo** Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets. See Quick Start: eVideo.
 
-**Image Maps** Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one master image. As Scene7 delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening. See Quick Start: Image Sizing.
+**Image Maps** Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one master image. As Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening. See Quick Start: Image Sizing.
 
 **Image Sets** Deliver an interactive shopping experience in which users can view products in multiple views. You can combine zoom, multiple views, and color swatches for an integrated viewing experience. See Quick Start: Image Sets.
 
@@ -34,4 +34,4 @@ Scene7 offers many tools for creating rich media. You create these rich media ty
 
 **Template Publishing** Create professionally branded print content that is easy for your customers, clients, and staff to customize and personalize. You can maintain corporate content and brand identity throughout the publishing process. End users can customize the print content — but only the part of the content that you allow them to customize. Personalized stationary, business cards, posters, greeting cards, labels, checks, gifts, clothing, calendars, scrapbooks, and photo albums are examples of customized print products that you can deliver. Corporations can maintain a common brand identity in their signage that can be customized for different regions, franchises, stores, and branch offices. See Quick Start: Template Publishing.
 
-**Zoom Targets** Allow customers to zoom in, zoom out, and pan images using the configurable viewers that come with Scene7. Customers can quickly and interactively view high-resolution product details. See Quick Start: Zoom.
+**Zoom Targets** Allow customers to zoom in, zoom out, and pan images using the configurable viewers that come with Dynamic Media Classic. Customers can quickly and interactively view high-resolution product details. See Quick Start: Zoom.

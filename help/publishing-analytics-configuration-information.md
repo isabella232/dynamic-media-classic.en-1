@@ -14,7 +14,7 @@ discoiquuid: deeb9fed-ef27-4d58-af98-f381de33c431
 
 # Publishing Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}
 
-Publish your Scene7 viewers so that information about configuring Adobe Analytics reports is sent to Scene7 servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Scene7 servers. From the servers, it can be relayed to Adobe Analytics after users perform activity on the viewers.
+Publish your Dynamic Media Classic viewers so that information about configuring Adobe Analytics reports is sent to Dynamic Media Classic servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Dynamic Media Classic servers. From the servers, it can be relayed to Adobe Analytics after users perform activity on the viewers.
 
 >[!NOTE]
 >

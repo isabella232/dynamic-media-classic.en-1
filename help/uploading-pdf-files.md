@@ -21,7 +21,7 @@ Prepare your PDF files before uploading them to the Scene7 Publishing System:
 
 * Place all the files in the same folder on your computer or network to make uploading the files easier.
 * Name the files in alphanumeric order by page. Ordering the pages will make it easier to place the pages in the proper order after the files are uploaded.
-* Examine the PDF pages to see whether they contain crop marks, registration targets, or color bars. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Scene7 provides options for cropping marks when you upload PDF files.
+* Examine the PDF pages to see whether they contain crop marks, registration targets, or color bars. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Dynamic Media Classic provides options for cropping marks when you upload PDF files.
 * If you want viewers to search your eCatalog by keyword, find out whether your PDF files are “flattened.” You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you can’t select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
 * Because they are meant to be printed, PDF files usually contain CMYK images. By default, SPS can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
 
@@ -41,9 +41,9 @@ Select the files you want to upload, and then select these *best practice* PDF O
 
 **Auto-Generate eCatalog from multiple page PDF (optional)** Select this option to automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
 
-**Resolution** Scene7 recommends 150 pixels per inch.
+**Resolution** Dynamic Media Classic recommends 150 pixels per inch.
 
-**Colorspace** Scene7 recommends choosing Detect Automatically. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
+**Colorspace** Dynamic Media Classic recommends choosing Detect Automatically. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 

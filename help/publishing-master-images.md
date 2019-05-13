@@ -14,15 +14,15 @@ discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
 
 # Publishing master images{#publishing-master-images}
 
-Publishing your image files publishes them to Scene7 Image Servers, where they are available to your web site and application. What’s more, during the publishing process, the Scene7 Publishing System activates the URL strings you need for your web site and application.
+Publishing your image files publishes them to Dynamic Media Classic Image Servers, where they are available to your web site and application. What’s more, during the publishing process, the Scene7 Publishing System activates the URL strings you need for your web site and application.
 
 ## Marking master images for publish {#marking-master-images-for-publish}
 
-Master images must be marked for publish in order for them to be copied to Scene7 Image Servers. You can mark your master images for publish in the Browse Panel by clicking the Mark for Publish icon. You can also mark images for publish when you upload them to the Scene7 Publishing System.
+Master images must be marked for publish in order for them to be copied to Dynamic Media Classic Image Servers. You can mark your master images for publish in the Browse Panel by clicking the Mark for Publish icon. You can also mark images for publish when you upload them to the Scene7 Publishing System.
 
 ## Publishing your master images {#publishing-your-master-images}
 
-To publish master images to Scene7 Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option (One-Time or Recurring), optionally enter a name for the publish job, and select the Start Publish button.
+To publish master images to Dynamic Media Classic Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option (One-Time or Recurring), optionally enter a name for the publish job, and select the Start Publish button.
 
 >[!NOTE]
 >

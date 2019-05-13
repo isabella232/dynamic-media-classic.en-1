@@ -14,7 +14,7 @@ discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 
 # Quick Start: Spin Sets{#quick-start-spin-sets}
 
-A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Scene7 offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
+A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Dynamic Media Classic offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
 
 ![Images for a spin set.](/help/assets/spin_set.png)
 
@@ -24,7 +24,7 @@ See [Creating Image Maps](creating-image-maps.md).
 
 **Quick Start**
 
-This Spin Sets Quick Start is designed to get up and running quickly with Spin Set techniques in Scene7. Follow steps 1 through 7. At the end of each step is a cross-reference to a topic heading where you can find more information if you need it.
+This Spin Sets Quick Start is designed to get up and running quickly with Spin Set techniques in Dynamic Media Classic. Follow steps 1 through 7. At the end of each step is a cross-reference to a topic heading where you can find more information if you need it.
 
 **1. Creating and uploading the images**
 
@@ -82,7 +82,7 @@ See [Previewing a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 **6. Publishing a Spin Set**
 
-Publishing a Spin Set places it on Scene7 servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Scene7 Image servers to your web site or application.
+Publishing a Spin Set places it on Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Classic Image servers to your web site or application.
 
 To publish a Spin Set, mark it for publish by selecting the **Mark for Publish** icon beside its name in the Browse Panel. Click **Publish** on the Global Navigation bar to initiate a publish. On the Publish screen, click **Start Publish**.
 
@@ -90,7 +90,7 @@ See [Publishing a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 
 **7. Linking a Spin Set to a web page**
 
-Scene7 creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview screen.
+Dynamic Media Classic creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview screen.
 
 Select the Spin Set, and then click **Preview**. The Preview screen opens. Select a Spin Set Viewer Preset. Then click **Copy URL**.
 

@@ -14,7 +14,7 @@ discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 
 # Quick Start: Media Portal{#quick-start-media-portal}
 
-Media Portal lets companies easily acquire, control, and distribute approved creative assets to external partners and channels, and internal business users. This browser-based, "self-serve" environment provides Media Portal users with administrator-controlled "views" into Scene7 assets for easy access to, browse, search, preview, and export assets in corporate-approved formats.
+Media Portal lets companies easily acquire, control, and distribute approved creative assets to external partners and channels, and internal business users. This browser-based, "self-serve" environment provides Media Portal users with administrator-controlled "views" into Dynamic Media Classic assets for easy access to, browse, search, preview, and export assets in corporate-approved formats.
 
 As an administrator, you control how users view, access, and use assets in Media Portal. Moreover, you can customize the Media Portal interface to match your web site and brand. You can specify font, font color, and font size, as well as incorporate branding elements such as logos in the Media Portal interface.
 
