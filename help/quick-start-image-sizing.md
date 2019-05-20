@@ -34,7 +34,7 @@ Select the Upload button on the Global Navigation bar to upload files from your 
 
 **2. Setting up Image Presets**
 
-Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Classic Image Servers. You can set up Image Presets on your own if you have company administrator status. Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
+Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. You can set up Image Presets on your own if you have company administrator status. Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
 
 To create an Image Preset (if you are an administrator), choose Setup &gt; Application Setup. On the Setup screen, display the Application Setup options and choose Image Presets. Then click **Add** or **Edit** to create an Image Preset.
 
@@ -54,13 +54,13 @@ See [Previewing an image asset based on its Image Preset](previewing-asset.md#pr
 
 Publishing your master image files serves two essential purposes:
 
-* Publishing your master images to Dynamic Media Classic Image Servers so that images can be dynamically delivered to your web site and application.
-* Publishing activates the URL strings for calling images from Dynamic Media Classic Image Servers to your web site or application. After publishing, you can copy and place the Dynamic Media Classic-generated URLs where necessary in your web site or application.
+* Publishing your master images to Dynamic Media Image Servers so that images can be dynamically delivered to your web site and application.
+* Publishing activates the URL strings for calling images from Dynamic Media Image Servers to your web site or application. After publishing, you can copy and place the Dynamic Media Classic-generated URLs where necessary in your web site or application.
 
 Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select the Start Publish button. See [Publishing master images](publishing-master-images.md#publishing_master_images).
 
 **5. Linking URLs to your web application**
 
-Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Classic Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail view) or Preview screen. After you copy the URL strings, you can use them in your web site and applications. The URL for image sizing replaces the reference to a static image name in your web page code. The URL references a master image name, which is replaced by your database for each new image to display.
+Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail view) or Preview screen. After you copy the URL strings, you can use them in your web site and applications. The URL for image sizing replaces the reference to a static image name in your web page code. The URL references a master image name, which is replaced by your database for each new image to display.
 
 URL strings generated with Image Presets contain the name of an Image Preset. This name is enclosed in dollar signs (`$`). For example, `$thumbnail$` can be the Image Preset designed to show master images at thumbnail size. See [Linking URLs to your web application](linking-urls-web-application.md#linking_urls_to_your_web_application).

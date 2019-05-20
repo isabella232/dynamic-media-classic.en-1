@@ -14,7 +14,7 @@ discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
 
 # Linking Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}
 
-Your web sites and applications access Dynamic Media Classic Image Server content, including master images and associated zoom targets, and Zoom Viewer Presets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your web pages and applications, you copy them from the Scene7 Publishing System.
+Your web sites and applications access Dynamic Media Image Server content, including master images and associated zoom targets, and Zoom Viewer Presets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your web pages and applications, you copy them from the Scene7 Publishing System.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Your web sites and applications access Dynamic Media Classic Image Server conten
 
 Typically, visitors to a web site zoom images by first selecting a Zoom icon (often the icon shows the image of a magnifying glass). Selecting this icon launches a dynamic web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors actually zoom the image.
 
-For additional details and code samples, see [Embedding HTML5 Basic Zoom Viewer in the Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_20_basic_zoom_viewer_about.html).
+For additional details and code samples, see [Embedding HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_20_basic_zoom_viewer_about.html).
 
 ## Copying the embed copy of a Zoom viewer {#copying-the-embed-copy-of-a-zoom-viewer}
 

@@ -71,7 +71,7 @@ To achieve optimal results with the Dynamic Media Classic platform, be sure to u
 
 >[!NOTE]
 >
->When you upload image files and PDFs to SPS, the system converts these source files to P-TIFF (Pyramid TIFF) files. These P-TIFFs are the files that are later published to Dynamic Media Classic Image Servers. Dynamic Media Classic uses the Pyramid Tiff file format because it contains various zoom ratios that allow for fast zooming when viewed with a Dynamic Media Classic Zoom Viewer.
+>When you upload image files and PDFs to SPS, the system converts these source files to P-TIFF (Pyramid TIFF) files. These P-TIFFs are the files that are later published to Dynamic Media Image Servers. Dynamic Media Classic uses the Pyramid Tiff file format because it contains various zoom ratios that allow for fast zooming when viewed with a Dynamic Media Classic Zoom Viewer.
 
 ### Supported Static File Formats {#supported-static-file-formats}
 

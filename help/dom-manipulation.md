@@ -70,7 +70,7 @@ Publishing your FXG template places it on the Dynamic Media Classic servers, whe
 
 ### Mark FXG templates for publish {#mark-fxg-templates-for-publish}
 
-Templates and all their support files must be marked for publish for them to be placed on Dynamic Media Classic Image Servers.
+Templates and all their support files must be marked for publish for them to be placed on Dynamic Media Image Servers.
 
 1. In the Browse Panel, select the FXG template along with any graphics, images, and fonts used.
 1. Click **Mark For Publish**.

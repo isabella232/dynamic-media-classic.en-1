@@ -29,7 +29,7 @@ The Image Server screen establishes default settings for delivering images from 
 
 Change these settings only with the assistance of a Dynamic Media Classic support person.
 
-**Catalog Management** These settings determine how Scene7 Publishing System and the catalog interact. Unlike most web servers, Dynamic Media Classic Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+**Catalog Management** These settings determine how Scene7 Publishing System and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
 **Request Attributes** These settings impose limits on images that can be delivered from the server.
 

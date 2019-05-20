@@ -52,7 +52,7 @@ See [Parameterizing a template in Dynamic Media Classic](parameterizing-template
 
 **4. Publish the FXG template**
 
-After you finish defining and testing parameters and attributes, publish the file. Publishing your FXG template places it on the Dynamic Media Classic Image Servers and activates the URL.
+After you finish defining and testing parameters and attributes, publish the file. Publishing your FXG template places it on the Dynamic Media Image Servers and activates the URL.
 
 Be sure to publish all images and fonts associated with your FXG template.
 

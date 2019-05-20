@@ -23,7 +23,7 @@ See also [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/u
 ## Best practices for image format (&fmt=) {#best-practices-for-image-format-fmt}
 
 * JPG or PNG are the best choices to deliver images in good quality and with manageable size and weight.
-* If no format command is supplied in the URL, Dynamic Media Classic Image Serving defaults to JPG for delivery.
+* If no format command is supplied in the URL, Dynamic Media Image Serving defaults to JPG for delivery.
 * JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except in some cases, such as when images contain a white background. Typically though, PNG file sizes are larger than JPG files.
 * JPG uses lossy compression, meaning that picture elements (pixels) are dropped during compression. PNG on the other hand uses lossless compression.
 * JPG often compresses photographic images with better fidelity than synthetic images with sharp edges and contrast. 
@@ -33,7 +33,7 @@ As a best practice for image format, start with the most common setting `&fmt=JP
 
 ## Best practices for image size {#best-practices-for-image-size}
 
-Dynamically reducing image size is one of the most common tasks that Dynamic Media Classic Image Serving performs. It involves specifying the size and, optionally, which downsampling mode is used to downscale the image.
+Dynamically reducing image size is one of the most common tasks that Dynamic Media Image Serving performs. It involves specifying the size and, optionally, which downsampling mode is used to downscale the image.
 
 * For image sizing, the best and most straightforward approach is to use `&wid=<value>` and `&hei=<value>` or just `&hei=<value>`. These parameters automatically set the image width in accordance to the aspect ratio.
 * `&resMode=<value>` controls the algorithm used for downsampling. Start with `&resMode=sharp2`. This value provides the best image quality. While using the downsampling value `=bilin` is faster, it often results in the aliasing of artifacts.
@@ -122,6 +122,6 @@ If sharpening results are still not satisfactory, increase the radius in decimal
 As you experiment, you may also find the following general suggestions helpful to optimize your workflow:
 
 * Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Scene7 Publishing System's image adjustment functionality which provides real-time previews for adjustment operations. 
-* As a best practice, remember that you can group Dynamic Media Classic Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs. 
+* As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs. 
 * Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying sharpening images on ingestion. For advanced use cases where this may be an option to further tune and optimize rendering results, Adobe Professional Services can help you with customized insight and best practices.
 

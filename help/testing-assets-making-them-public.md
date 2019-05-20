@@ -36,7 +36,7 @@ From your corporate network, you can figure out your public IP address using web
 
 With the Secure Testing, Dynamic Media Classic establishes a dedicated Image Server for staging environments or internal applications. Any request to this server checks the origin IP address. If the incoming request is not within the approved list of IP addresses, a failure response is returned. The Dynamic Media Classic Company Administrator configures the approved list of IP addresses for their company’s Secure Testing environment.
 
-Because the location of the original request must be confirmed, the traffic of the Secure Testing service is not routed through a content distribution network like public Dynamic Media Classic Image Server traffic. Requests to the Secure Testing service might have a slightly higher latency compared to the public Dynamic Media Classic Image Servers.
+Because the location of the original request must be confirmed, the traffic of the Secure Testing service is not routed through a content distribution network like public Dynamic Media Image Server traffic. Requests to the Secure Testing service might have a slightly higher latency compared to the public Dynamic Media Image Servers.
 
 Unpublished assets are immediately available from the Secure Testing services, without the need to publish. This allows you to run a preview before assets are published to their public facing image server.
 

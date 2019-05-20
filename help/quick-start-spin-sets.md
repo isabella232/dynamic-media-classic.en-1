@@ -82,7 +82,7 @@ See [Previewing a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 **6. Publishing a Spin Set**
 
-Publishing a Spin Set places it on Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Classic Image servers to your web site or application.
+Publishing a Spin Set places it on Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your web site or application.
 
 To publish a Spin Set, mark it for publish by selecting the **Mark for Publish** icon beside its name in the Browse Panel. Click **Publish** on the Global Navigation bar to initiate a publish. On the Publish screen, click **Start Publish**.
 

@@ -14,7 +14,7 @@ discoiquuid: 39099bc0-9228-46f0-9bee-3542059f4695
 
 # Publishing files{#publishing-files}
 
-You publish your assets to Dynamic Media Classic Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from the Scene7 Publishing System and add them to your website or application.
+You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from the Scene7 Publishing System and add them to your website or application.
 
 Scene7 Publishing System now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
 

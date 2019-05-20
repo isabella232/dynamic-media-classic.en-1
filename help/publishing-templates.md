@@ -14,7 +14,7 @@ discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 
 # Publishing templates{#publishing-templates}
 
-Publishing your template places it on Dynamic Media Classic Image Servers, where it is available to your web site and application. During the publishing process, the Scene7 Publishing System activates the URLs you need for your web site and application.
+Publishing your template places it on Dynamic Media Image Servers, where it is available to your web site and application. During the publishing process, the Scene7 Publishing System activates the URLs you need for your web site and application.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ Publishing your template places it on Dynamic Media Classic Image Servers, where
 
 ## Marking templates for publish {#marking-templates-for-publish}
 
-Templates and all their support files must be marked for publish in order for them to be placed on Dynamic Media Classic Image Servers. You can mark these items for publish in the Browse Panel by clicking the **Mark for Publish** icon.
+Templates and all their support files must be marked for publish in order for them to be placed on Dynamic Media Image Servers. You can mark these items for publish in the Browse Panel by clicking the **Mark for Publish** icon.
 
 ## Publishing your template {#publishing-your-template}
 
-To publish templates to Dynamic Media Classic Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option, optionally enter a name for the publish job, and select the Start Publish button.
+To publish templates to Dynamic Media Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option, optionally enter a name for the publish job, and select the Start Publish button.
 
 >[!MORELIKETHIS]
 >

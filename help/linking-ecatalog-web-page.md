@@ -14,7 +14,7 @@ discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 
 # Linking an eCatalog to a web page{#linking-an-ecatalog-to-a-web-page}
 
-Your web sites and applications access Dynamic Media Classic Image Server content, including eCatalogs, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your web pages and applications, you copy it from the Scene7 Publishing System.
+Your web sites and applications access Dynamic Media Image Server content, including eCatalogs, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your web pages and applications, you copy it from the Scene7 Publishing System.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Your web sites and applications access Dynamic Media Classic Image Server conten
 
 The most common way to deploy an eCatalog is to place a link in the form of an eCatalog thumbnail cover page on your web page. Work with your IT team to make sure that the eCatalog launches in a clean, centered pop-up window. Ask your IT team to keep the toolbar and address bar in the browser from showing.
 
-For additional details and code samples, see [Embedding HTML5 eCatalog Viewer in the Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_20_ecatalog_viewer_about.html).
+For additional details and code samples, see [Embedding HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_20_ecatalog_viewer_about.html).
 
 ## Copying the embed code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 
