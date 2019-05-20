@@ -54,10 +54,10 @@ Zoom buttons appear. You can see what the zoom images look like on your web site
 
 **5. Publishing zoom images**
 
-Publishing your zoom images places them on Dynamic Media Classic Image Servers so that they can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates URL strings. These URL strings call zoom images from Dynamic Media Classic Image Servers to your web site or application.
+Publishing your zoom images places them on Dynamic Media Image Servers so that they can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates URL strings. These URL strings call zoom images from Dynamic Media Image Servers to your web site or application.
 
 Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select the Start Publish button. See [Publishing zoom images](publishing-zoom-images.md#publishing_zoom_images).
 
 **6. Linking Zoom Viewers to your web page**
 
-Dynamic Media Classic creates the URL callout strings necessary for zooming images, and activates them when you publish images to Dynamic Media Classic Image Servers. You can copy these URL strings from the Preview screen. After you copy the URL strings, they are available to your web sites and applications. See [Linking Zoom Viewers to your web page](linking-zoom-viewers-web-pages.md#linking_zoom_viewers_to_your_web_pages).
+Dynamic Media Classic creates the URL callout strings necessary for zooming images, and activates them when you publish images to Dynamic Media Image Servers. You can copy these URL strings from the Preview screen. After you copy the URL strings, they are available to your web sites and applications. See [Linking Zoom Viewers to your web page](linking-zoom-viewers-web-pages.md#linking_zoom_viewers_to_your_web_pages).

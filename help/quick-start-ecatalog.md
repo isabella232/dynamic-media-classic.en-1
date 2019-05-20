@@ -96,7 +96,7 @@ See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-
 
 **6. Publishing eCatalog and associated PDFs**
 
-Publishing your eCatalog and associated PDF places it on Dynamic Media Classic Image Servers so that it can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Classic Image Servers to your web site or application.
+Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
 
 After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click Start Publish.
 
@@ -104,7 +104,7 @@ See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-p
 
 **7. Linking an eCatalog to a web page**
 
-Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Classic Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail view) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
+Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail view) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
 
 Work with your IT team to place the link to the eCatalog in the appropriate place in your web page. When users click the link, the eCatalog Viewer appears and users can browse your eCatalog.
 

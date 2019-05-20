@@ -14,7 +14,7 @@ discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
 
 # Linking a Spin Set to a web page{#linking-a-spin-set-to-a-web-page}
 
-Web sites and applications access Dynamic Media Classic Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your web pages and applications, you copy it from the Scene7 Publishing System.
+Web sites and applications access Dynamic Media Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your web pages and applications, you copy it from the Scene7 Publishing System.
 
 >[!NOTE]
 >

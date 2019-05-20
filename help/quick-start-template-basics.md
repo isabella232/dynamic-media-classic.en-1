@@ -58,7 +58,7 @@ To parameterize a layer, open the template in the Template screen and select the
 
 **4. Publish templates**
 
-Publishing your template places it on Dynamic Media Classic Image Servers so that it can be dynamically delivered to your web site or application. Publishing also activates the URL to call the template from Dynamic Media Classic Image Servers to your web site or application.
+Publishing your template places it on Dynamic Media Image Servers so that it can be dynamically delivered to your web site or application. Publishing also activates the URL to call the template from Dynamic Media Image Servers to your web site or application.
 
 Be sure to publish all images associated with your template.
 
@@ -66,6 +66,6 @@ To publish a template, mark it for publish and select the Publish button on the 
 
 **5. Link a template to a web page**
 
-Dynamic Media Classic creates URLs for templates, and activates the URLs when you publish templates to Dynamic Media Classic Image Servers. You can copy these URL strings from the Template Preview screen.
+Dynamic Media Classic creates URLs for templates, and activates the URLs when you publish templates to Dynamic Media Image Servers. You can copy these URL strings from the Template Preview screen.
 
 Select your template in the Browse Panel and click the Preview button to open the Template Preview screen. Then choose an Image Preset for delivering your template and select the Copy URL button. After you copy the URL from the Preview screen, you can use it in your web site or application. See [Linking a template to a web page](linking-template-web-page.md#linking_a_template_to_a_web_page).

@@ -28,7 +28,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Build** Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
-**Publish** Opens the Publish screen so you can publish rich media assets to Dynamic Media Classic Image Servers and the rest of the Dynamic Media Classic SAAS Infrastructure. See Publishing.
+**Publish** Opens the Publish screen so you can publish rich media assets to Dynamic Media Image Servers and the rest of the Dynamic Media Classic SAAS Infrastructure. See Publishing.
 
 **Jobs** Opens the Jobs screen so you can examine records of upload and publish jobs.
 

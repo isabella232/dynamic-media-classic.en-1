@@ -262,7 +262,7 @@ See also [ICC profiles](icc-profiles.md#icc_profiles).
 
 **URL Modifiers** If you prefer to specify the URL modifiers that define your Image Preset, rather than the settings, enter the modifiers here.
 
-**Sample Image URL** Lists the “raw” URL string that the Dynamic Media Classic Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings you select in the Add Preset or Edit Preset screen.
+**Sample Image URL** Lists the “raw” URL string that the Dynamic Media Image Server uses to deliver images with the Image Preset you are adding or editing. This URL string encodes all the format settings you select in the Add Preset or Edit Preset screen.
 
 ### Editing, removing, or deactivating an image preset {#editing-removing-or-deactivating-an-image-preset}
 
@@ -667,7 +667,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
    See [Uploading files](uploading-files.md#uploading_files).
 
-1. Publish the CSS file to the Dynamic Media Classic Image Server.
+1. Publish the CSS file to the Dynamic Media Image Server.
 
    See [Publishing files](publishing-files.md#publishing_files).
 

@@ -24,7 +24,7 @@ However, whether you use Image Presets and Viewer Presets, or some alternate met
 
 >[!NOTE]
 >
->The Sharpen commands override Image Preset settings, including their sharpening effects. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Classic Image Servers. Dynamic Media Classic highly recommends using Image Presets to deliver all images to make sure that images are delivered at a uniform size and sharpening. After the sharpening settings of an individual image have been changed, however, Image Preset sharpening settings no longer apply to the image. It is delivered without Image Preset sharpening settings.
+>The Sharpen commands override Image Preset settings, including their sharpening effects. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. Dynamic Media Classic highly recommends using Image Presets to deliver all images to make sure that images are delivered at a uniform size and sharpening. After the sharpening settings of an individual image have been changed, however, Image Preset sharpening settings no longer apply to the image. It is delivered without Image Preset sharpening settings.
 
 It is often necessary to sharpen images. Dynamic Media Classic SPS and Image Servers offer several sharpening options. It is important to understand what sharpening does to an image and how much sharpening you need. Most images need some sharpening but the amount required depends upon the image.
 
@@ -32,9 +32,9 @@ Image sharpening increases the contrast of pixels to create the effect of accent
 
 Over sharpening an image creates a halo effect, or banding of the edge’s lines.
 
-There are best practices you can follow to optimize the sharpening of your images in Scene7 Publishing System and on Dynamic Media Classic Image Server.
+There are best practices you can follow to optimize the sharpening of your images in Scene7 Publishing System and on Dynamic Media Image Server.
 
-See [Best practices for sharpening images in Scene7 Publishing System and on Dynamic Media Classic Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
+See [Best practices for sharpening images in Scene7 Publishing System and on Dynamic Media Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
 
 **To sharpen an image**
 

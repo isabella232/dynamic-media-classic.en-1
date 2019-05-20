@@ -14,13 +14,13 @@ discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 
 # Publishing eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 
-Publishing places your eCatalog and PDF on Dynamic Media Classic Image Servers so it can be made available to your web site or application. As part of the publishing process, the Scene7 Publishing System activates the URL string. You can place this URL string in your HTML web page code.
+Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your web site or application. As part of the publishing process, the Scene7 Publishing System activates the URL string. You can place this URL string in your HTML web page code.
 
 >[!NOTE]
 >
 >Make sure your eCatalog and PDF reside in the same folder and they are marked for publish in the Browse Panel or Asset Details page before you publish them.
 
-To publish your eCatalog to Dynamic Media Classic Image Servers:
+To publish your eCatalog to Dynamic Media Image Servers:
 
 1. Click **Publish** on the Global Navigation bar.
 1. On the Publish screen, select a When option (One-Time or Recurring).
