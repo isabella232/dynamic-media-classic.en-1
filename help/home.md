@@ -1,8 +1,8 @@
 ---
-title: Dynamic Media Classic Help Home
-seo-title: Adobe Dynamic Media Classic
-description: Dynamic Media Classic
-seo-description: Dynamic Media Classic 
+title: Dynamic Media Classic technical documentation
+seo-title: Technical documentation and self help for Adobe Dynamic Media Classic
+description: Dynamic Media Classic technical documentation
+seo-description: Technical documentation, release notes and self-help materials for Adobe Dynamic Media Classic, formerly Scene 7 
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 ---
