@@ -168,111 +168,141 @@ During (or immediately after) a large upload job, some new items may display the
 
 To cancel an upload job in progress, select **Cancel** next to the Duration time.
 
-### Upload files using SPS Desktop application {#upload-files-using-sps-desktop-application}
+### Upload files using the FROM DESKTOP tab {#upload-files-using-sps-desktop-application}
 
 The Scene7 Publishing System Desktop application lets you upload files and folders by dragging.
 
-1. In the Scene7 Publishing System Desktop application, on the Global Navigation bar, click **Upload**. The Desktop File System dialog box opens
-1. In the Desktop File System dialog box, in the bottom half, select the destination folder for the uploaded files or folders.
-1. Drag one or more files or folders from list of files and folders on your computer or network (on the top half of the dialog box) to the bottom half of the dialog box.
-1. Click **Job Options**, and then specify the options you want.
+1. In the Scene7 Publishing System Desktop application, on the Global Navigation bar, click **Upload**.
+1. On the Upload page, click the **FROM DESKTOP** tab.
+1. On the left side of the Upload page, click **Browse** to select the files or folders you want to upload, then click **Open**.
+1. On the right side of the Upload page, navigate to a destination folder where you want the uploaded files or folders added.
+1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that SPS provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
+See [Checking job files](checking-job-files.md#checking_job_files).
+1. (Optional) Near the bottom of the Upload page, select **Publish After Uploading** if you want to automatically publish the assets that you upload.
+When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. Note that this same option is also available in the Job Options dialog box.
+1. (Optional) Near the bottom of the Upload page, select **Overwrite in any folder, same base asset name regardless of extension** if you want the files you upload to replace existing files with the same names. Note that this same option is also available in the Job Options dialog box.
+The name of this option could be different, depending on the settings in **Application Setup > General Settings > Upload to Application > Overwrite Images**.
+1. Near the lower-right corner of the Upload page, click **Job Options**, then specify the options you want.
 
    See [Upload options](uploading-files.md#upload_options).
 
-1. Click **Upload Now**.
+1. In the Upload Job Options dialog box, click **Save**.
+1. In the lower-right corner of the Upload page, click **Submit Upload**.
 
 To cancel an upload job in progress, click **Jobs**, and then click **Cancel**.
 
-### Upload files using Via FTP {#upload-files-using-via-ftp}
+### Upload files using the VIA FTP tab {#upload-files-using-via-ftp}
 
 1. Log in to the Dynamic Media Classic FTP site that is specific to your particular region. Use the FTP user name and password that you received from your administrator.
 1. In Dynamic Media Classic, on the Global Navigation bar, click **Upload**.
-1. On the Upload page, click **Via FTP**.
-1. Choose an FTP folder to upload files from, and then choose a destination folder in the Scene7 Publishing System.
-1. Click **Job Options** and specify the options you want.
+1. On the Upload page, click the **VIA FTP** tab.
+1. On the left side of the page, choose an FTP folder from which to upload files. 
+1. On the right side of the page, choose a destination folder in the Scene7 Publishing System.
+1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that SPS provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
+See [Checking job files](checking-job-files.md#checking_job_files).
+1. (Optional) Near the bottom of the Upload page, select **Publish After Upload** if you want to automatically publish the assets that you upload.
+When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. Note that this same option is also available in the Job Options dialog box.
+1. (Optional) Near the bottom of the Upload page, select **Overwrite in any folder, same base asset name regardless of extension** if you want the files you upload to replace existing files with the same names. Note that this same option is also available in the Job Options dialog box.
+The name of this option could be different, depending on the settings in **Application Setup > General Settings > Upload to Application > Overwrite Images**.
+1. (Optional; available only if you clicked the **VIA FTP** tab) Near the bottom of the Upload page, select **Uncompress Zip or Tar Files on Upload** if you want to automatically extract all files from your uploaded ZIP or TAR file. Note that this same option is also available in the Job Options dialog box. 
+1. Near the lower-right corner of the Upload page, click **Job Options**, then specify the options you want.
 
    See [Upload options](uploading-files.md#upload_options).
 
-   >[!NOTE]
-   >
-   >Two upload options, Publish After Uploading and Overwrite in Any Folder, are available on the Upload page. You can access other upload job options by clicking **Job Options**. For information about all the upload options, see [Upload options](uploading-files.md#upload_options).
-
-1. Click **Submit Upload**.
+1. In the Upload Job Options dialog box, click **Save**. 
+1. In the lower-right corner of the Upload page, click **Submit Upload**.
 
    To see the progress of the upload, on the Global Navigation Bar, click **Jobs**. The Jobs page shows you the progress of the upload. You can continue working in Scene7 Publishing System and return to the Jobs page at any time to review an in-progress job.
 
 To cancel an upload job in progress, click **Cancel** next to the Duration time.
 
-## Upload options {#upload-options}
+## Upload Job Options dialog box {#upload-options}
 
 When uploading files, you can choose from the following options:
 
-**Job Name** Enter a name for this upload job. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
+* **JOB**
+Click **JOB** to choose options that affect the entire upload job.
 
-See [Checking job files](checking-job-files.md#checking_job_files).
+    Note that you can also choose default options for uploading files starting on the Application General Settings page. To open this page, choose **Setup > Application Setup**. Click **Default Upload Options** to open the Upload Job Options dialog box.
 
-**Publish After Upload** Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
+    * **When**  
+    The **When** option is available only if you selected the **VIA FTP** tab.
+        * **One-Time**
+        Specify an upload job that runs once. Options include the following:
+            * **Now** - Runs the upload job immediately after you click **Save** in the Upload Job Options dialog box, then click **Submit Upload** on the Upload page.
+            * **Schedule For Later** - Select the year, month, day, and time (in 15 minute increments) that you want the upload job to run.
+        * **Recurring**
+        Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
+            * **Daily**
+            * **Weekly**
+            * **Monthly**
+            * **Custom**
 
-See also [Instant Publish Notice PDF](https://microsite.omniture.com/t2/help/en_US/s7/instant_publish_notification.pdf).
+    * **Publish After Upload** 
+Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
 
-**Overwrite in any folder, same base asset name regardless&#xA;of extension** Select this option if you want the files you upload to replace existing files with the same names. The name of this option could be different, depending on the settings in Application Setup > General Settings > Upload to Application > Overwrite Images.
+    * **Overwrite in any folder, same base asset name regardless of extension** 
+Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in **Application Setup > General Settings > Upload to Application > Overwrite Images**.
 
-**Job Options** Click Job Options to open the Upload Job Options dialog box and choose options that affect the entire upload job. These options are the same for all file types.
+    * **Uncompress Zip or Tar Files on Upload** 
+Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab.
+Select this option if you want to automatically extract all files from your uploaded ZIP or TAR file. Note that this same option is also available in the Job Options dialog box. 
 
-***note**: You can choose default options for uploading files starting on the Application General Settings page. To open this page, choose Setup > Application Setup. Click the Default Upload Options button to open the Upload Job Options dialog box.*
+    * **Include subfolders** 
+Available only if you selected the **VIA FTP** tab.
+Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in SPS.
 
-**When (Via FTP uploads&#xA;only)** Select One-Time or Recurring. To set a recurring job, choose a Repeat option—Daily, Weekly, Monthly, or Custom—to specify when you want the publishing job to recur. Then specify the scheduling options as necessary.
-
-**Overwrite in any folder, same base asset name regardless&#xA;of extension** Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in Application Setup > General Settings > Upload to Application > Overwrite Images.
-
-**Include subfolders (Via FTP uploads only)** Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in SPS.
-
-**Process metadata files (Via FTP uploads only)** Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
-
+    * **Process metadata files** 
+Available only if you selected either the **VIA FTP** tab.
+Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
-**Crop Options** To automatically crop white-space pixels from an image, open the Crop menu, choose Manual, and enter pixel measurements in the Top, Right, Bottom, and Left fields to crop from the sides. You can also choose Trim on the Crop menu and choose these options:
+* **CROP OPTIONS** 
+To automatically crop white-space pixels from an image, open the Crop menu, choose Manual, and enter pixel measurements in the Top, Right, Bottom, and Left fields to crop from the sides. You can also choose Trim on the Crop menu and choose these options:
 
-**Trim Away Based On** Choose whether to crop based on color or transparency:
+    * **Trim Away Based On** Choose whether to crop based on color or transparency:
 
-* Color: Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
-* Transparency: Choose the Transparency option.
+        * **Color** - Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
 
-**Tolerance** Drag the slider to specify a tolerance from 0 through 1:
+            Trimming based on color: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
 
-* Trimming based on color: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
-* Trimming based on transparency: Specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
+        * **Transparency** -  Choose the Transparency option.
 
-**Color Profile Options** Choose a color conversion when you create optimized files that are used for Dynamic Media Classic dynamic delivery:
+            Trimming based on transparency: Specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
 
-**Default Color Preservation** Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
+        * **Tolerance** - Drag the slider to specify a tolerance from 0 through 1.
 
-**Keep Original Color Space** Retains the original colors without any color conversion at the point of ingestion into Scene7 Publishing System. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
+* **COLOR PROFILE OPTIONS**
+Choose a color conversion when you create optimized files that are used for Dynamic Media Classic dynamic delivery:
 
-**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should only select this option when all the images that you are submitting contain incorrect or missing color profile data.
+    * **Default Color Preservation** Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
 
-**Image Editing Options** You can preserve the clipping masks in images, and choose a color profile.
+    * **Keep Original Color Space** Retains the original colors without any color conversion at the point of ingestion into Scene7 Publishing System. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
 
+    * **Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should select this option only when all the images that you are submitting contain incorrect or missing color profile data.
+
+* **IMAGE EDITING OPTIONS**
+You can preserve the clipping masks in images, and choose a color profile.
 See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
-**PostScript Options** You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
-
+* **POSTSCRIPT OPTIONS**
+You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Working with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-**Photoshop Options** You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
-
+* **PHOTOSHOP OPTIONS**
+You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
 See [PSD upload options](psd-files.md#psd_upload_options).
 
-**PDF Options** You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
-
+* **PDF OPTIONS**
+You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
 See [PDF upload options](pdfs.md#pdf_upload_options).
 
-**Illustrator Options** You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
-
+* **ILLUSTRATOR OPTIONS**
+You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Working with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-**eVideo Options** You can transcode a video file by choosing a Video Preset.
-
+* **EVIDEO OPTIONS**
+You can transcode a video file by choosing a Video Preset.
 See [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
 **Additional Metadata Options** Enter keywords that describe the files you will upload. Separate keywords by comma. Keywords make searching for assets easier.
