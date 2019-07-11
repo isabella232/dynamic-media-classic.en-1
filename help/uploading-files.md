@@ -192,100 +192,80 @@ To cancel an upload job in progress, click **Cancel** next to the Duration time.
 
 When uploading files, you can choose from the following options in the Upload Job Options dialog box:
 
-* **JOB**
-Click **JOB** to choose options that affect the entire upload job.
+* **JOB** &mdash; Click **JOB** to choose options that affect the entire upload job.
 
     Note that you can also choose *default* options for uploading jobs by using the **Default Upload Options** dialog box in General Settings. Click **Setup > Application Setup > General Settings > Default Upload Options**, then set the default options you want.
 
-    * **When**  
-    The **When** option is available only if you selected the **VIA FTP** tab.
-        * **One-Time**
-        Specify an upload job that runs once. Options include the following:
-            * **Now** - Runs the upload job immediately after you click **Save** in the Upload Job Options dialog box, then click **Submit Upload** on the Upload page.
-            * **Schedule For Later** - Select the year, month, day, and time (in 15 minute increments) that you want the upload job to run.
-        * **Recurring**
-        Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
-            * **Daily** - Set the time you want the job to run every day. If you want the job to run only Monday to Friday, select **Weekdays Only**.
-            * **Weekly** - Choose a specific day of the week and time that you want the job to run.
-            * **Monthly** - Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
-            * **Custom** - Customize an upload  or publish job time interval to your own specifications. See [Creating a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
+    * **When** &mdash; The **When** option is available only if you selected the **VIA FTP** tab.
+        * **One-Time** &mdash; Specify an upload job that runs once. Options include the following:
+            * **Now** &mdash; Runs the upload job immediately after you click **Save** in the Upload Job Options dialog box, then click **Submit Upload** on the Upload page.
+            * **Schedule For Later** &mdash; Select the year, month, day, and time (in 15 minute increments) that you want the upload job to run.
+        * **Recurring** &mdash; Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
+            * **Daily** &mdash; Set the time you want the job to run every day. If you want the job to run only Monday to Friday, select **Weekdays Only**.
+            * **Weekly** &mdash; Choose a specific day of the week and time that you want the job to run.
+            * **Monthly** &mdash; Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
+            * **Custom** &mdash; Customize an upload  or publish job time interval to your own specifications. See [Creating a custom upload or publish job time interval](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
 
-    * **Publish After Uploading** 
-Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
+    * **Publish After Uploading** &mdash; Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
 
-    * **Overwrite in any folder, same base asset name regardless of extension** 
-Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in **Application Setup > General Settings > Upload to Application > Overwrite Images**.
+    * **Overwrite in any folder, same base asset name regardless of extension** &mdash; Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option if you want the files you upload to replace existing files with the same names. This option is also available on the Upload page. The name of this option could be different, depending on the settings in **Application Setup > General Settings > Upload to Application > Overwrite Images**.
 
-    * **Uncompress Zip or Tar Files on Upload** 
-Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab.
+    * **Uncompress Zip or Tar Files on Upload** &mdash; Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab.
 Select this option if you want to automatically extract all files from your uploaded ZIP or TAR file. Note that this same option is also available in the Job Options dialog box. 
 
-    * **Include subfolders** 
-Available only if you selected the **VIA FTP** tab.
+    * **Include subfolders** &mdash; Available only if you selected the **VIA FTP** tab.
 Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in SPS.
 
-    * **Process metadata files** 
-Available only if you selected either the **VIA FTP** tab.
-Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
+    * **Process metadata files** &mdash; Available only if you selected either the **VIA FTP** tab. Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
-* **CROP OPTIONS** 
-To automatically crop white-space pixels from an image, open the Crop menu, choose Manual, and enter pixel measurements in the Top, Right, Bottom, and Left fields to crop from the sides. You can also choose Trim on the Crop menu and choose these options:
+* **CROP OPTIONS** &mdash; To automatically crop white-space pixels from an image, open the Crop menu, choose Manual, and enter pixel measurements in the Top, Right, Bottom, and Left fields to crop from the sides. You can also choose Trim on the Crop menu and choose these options:
 
-    * **Trim Away Based On** Choose whether to crop based on color or transparency:
+    * **Trim Away Based On** &mdash; Choose whether to crop based on color or transparency:
 
-        * **Color** - Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
+        * **Color** &mdash; Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
 
             Trimming based on color: Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
 
-        * **Transparency** -  Choose the Transparency option.
+        * **Transparency** &mdash;  Choose the Transparency option.
 
             Trimming based on transparency: Specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
 
-        * **Tolerance** - Drag the slider to specify a tolerance from 0 through 1.
+        * **Tolerance** &mdash; Drag the slider to specify a tolerance from 0 through 1.
 
-* **COLOR PROFILE OPTIONS**
-Choose a color conversion when you create optimized files that are used for Dynamic Media Classic dynamic delivery:
+* **COLOR PROFILE OPTIONS** &mdash; Choose a color conversion when you create optimized files that are used for Dynamic Media Classic dynamic delivery:
 
-    * **Default Color Preservation** Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
+    * **Default Color Preservation** &mdash; Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
 
-    * **Keep Original Color Space** Retains the original colors without any color conversion at the point of ingestion into Scene7 Publishing System. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
+    * **Keep Original Color Space** &mdash; Retains the original colors without any color conversion at the point of ingestion into Scene7 Publishing System. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
 
-    * **Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should select this option only when all the images that you are submitting contain incorrect or missing color profile data.
+    * **Custom From &gt; To** &mdash; Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should select this option only when all the images that you are submitting contain incorrect or missing color profile data.
 
-* **IMAGE EDITING OPTIONS**
-You can preserve the clipping masks in images, and choose a color profile.
+* **IMAGE EDITING OPTIONS** &mdash; You can preserve the clipping <> masks in images, and choose a color profile.
 See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
-* **POSTSCRIPT OPTIONS**
-You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **POSTSCRIPT OPTIONS** &mdash; You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Working with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **PHOTOSHOP OPTIONS**
-You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
+* **PHOTOSHOP OPTIONS** &mdash; You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
 See [PSD upload options](psd-files.md#psd_upload_options).
 
-* **PDF OPTIONS**
-You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
+* **PDF OPTIONS** &mdash; You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
 See [PDF upload options](pdfs.md#pdf_upload_options).
 
-* **ILLUSTRATOR OPTIONS**
-You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **ILLUSTRATOR OPTIONS** &mdash; You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Working with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **EVIDEO OPTIONS**
-You can transcode a video file by choosing a Video Preset.
+* **EVIDEO OPTIONS** &mdash; You can transcode a video file by choosing a Video Preset.
 See [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
-* **ADDITIONAL METADATA**
-Enter keywords that describe the files you will upload. Separate keywords by comma. Keywords make searching for assets easier.
+* **ADDITIONAL METADATA** &mdash; Enter keywords that describe the files you will upload. Separate keywords by comma. Keywords make searching for assets easier.
 See [Conducting an advanced search](searching-assets.md#conducting_an_advanced_search).
 
-* **BATCH SET PRESETS**
-If you want to create an Image Set, multi-axis Spin Set, or Swatch Set from the uploaded files, click the Active column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
+* **BATCH SET PRESETS** &mdash; If you want to create an Image Set, multi-axis Spin Set, or Swatch Set from the uploaded files, click the Active column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
 See [Batch Set Presets](application-setup.md#batch_set_presets).
 
-* **ADVANCED**
+* **ADVANCED** &mdash; See [Follow an upload with another job](uploading-files.md#follow-an-upload-with-another-job).
 
 ## Follow an upload with another job {#follow-an-upload-with-another-job}
 
@@ -295,16 +275,19 @@ The new job sends a notification to the address you specify so that the code at 
 
 **To follow an upload with another job**
 
-1. Click **Upload**, and click the **VIA FTP** tab.
-1. In the **ADVANCED** section of the Upload Job Options dialog box, choose one of the following from the **Follow Upload with another job** drop-down list:
+1. Click **Upload**, then click the **VIA FTP** tab.
+1. In the lower-right corner of the Upload page, click **Job Options**.
+1. In the Upload Job Options dialog box, expand the **ADVANCED** section.
+1. Choose one of the following from the **Follow Upload with another job** drop-down list:
 
+    * None
     * HTTP Request
     * Image Serving Publish
     * Image Rendering Publish
     * Video Publish
 
 1. Specify the HTTP address.
-1. Specify if you want to execute only if files were uploaded.
+1. Specify if you want to run only if files were uploaded.
 1. Indicate whether you want to run this request every time this job completes, or only when files were published.
 
    >[!NOTE]
