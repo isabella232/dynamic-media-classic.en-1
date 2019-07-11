@@ -147,8 +147,8 @@ The Scene7 Publishing System Desktop application lets you upload files and folde
 
 1. In the Scene7 Publishing System Desktop application, on the Global Navigation bar, click **Upload**.
 1. On the Upload page, click the **FROM DESKTOP** tab.
-1. On the left side of the Upload page, click **Browse** to select the files or folders you want to upload, then click **Open**.
-1. On the right side of the Upload page, navigate to a destination folder where you want the uploaded files or folders added.
+1. On the left side of the Upload page, in the **Select Files for Upload** area, click **Browse** to select the files or folders you want to upload, then click **Open**.
+1. On the right side of the Upload page, in the **Choose Folder Destination** area, navigate to a destination folder where you want the uploaded files or folders added.
 1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that SPS provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
 See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **Publish After Uploading** if you want to automatically publish the assets that you upload.
@@ -168,8 +168,8 @@ The name of this option could be different, depending on the settings in **Appli
 1. Log in to the Dynamic Media Classic FTP site that is specific to your particular region. Use the FTP user name and password that you received from your administrator.
 1. In Dynamic Media Classic, on the Global Navigation bar, click **Upload**.
 1. On the Upload page, click the **VIA FTP** tab.
-1. On the left side of the page, choose an FTP folder from which to upload files. 
-1. On the right side of the page, choose a destination folder in the Scene7 Publishing System.
+1. On the left side of the Upload page, in the **Choose FTP Folder For Upload** area, choose an FTP folder from which to upload files. 
+1. On the right side of the Upload page, in the **Choose SPS Folder Destination** area, choose a destination folder in the Scene7 Publishing System.
 1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that SPS provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
 See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **Publish After Upload** if you want to automatically publish the assets that you upload.
@@ -190,12 +190,12 @@ To cancel an upload job in progress, click **Cancel** next to the Duration time.
 
 ## Upload Job Options dialog box {#upload-options}
 
-When uploading files, you can choose from the following options:
+When uploading files, you can choose from the following options in the Upload Job Options dialog box:
 
 * **JOB**
 Click **JOB** to choose options that affect the entire upload job.
 
-    Note that you can also choose default options for uploading files starting on the Application General Settings page. To open this page, choose **Setup > Application Setup**. Click **Default Upload Options** to open the Upload Job Options dialog box.
+    Note that you can also choose *default* options for uploading jobs by using the **Default Upload Options** dialog box in General Settings. Click **Setup > Application Setup > General Settings > Default Upload Options**, then set the default options you want.
 
     * **When**  
     The **When** option is available only if you selected the **VIA FTP** tab.
@@ -205,12 +205,12 @@ Click **JOB** to choose options that affect the entire upload job.
             * **Schedule For Later** - Select the year, month, day, and time (in 15 minute increments) that you want the upload job to run.
         * **Recurring**
         Specify an upload job that runs daily, weekly, or monthly. Or, customize the upload job to your own specifications.
-            * **Daily**
-            * **Weekly**
-            * **Monthly**
-            * **Custom**
+            * **Daily** - Set the time you want the job to run every day. If you want the job to run only Monday to Friday, select **Weekdays Only**.
+            * **Weekly** - Choose a specific day of the week and time that you want the job to run.
+            * **Monthly** - Choose a specific day of the month or day of the week, including the start time, that you want the job to run.
+            * **Custom** - Customize an upload  or publish job time interval to your own specifications. See [Creating a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
-    * **Publish After Upload** 
+    * **Publish After Uploading** 
 Available if you selected either the **FROM DESKTOP** tab or the **VIA FTP** tab. Select this option to automatically publish the assets that you upload. When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. This option is also available on the Upload page.
 
     * **Overwrite in any folder, same base asset name regardless of extension** 
