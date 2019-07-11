@@ -131,44 +131,17 @@ The folder-naming approach and structure you choose for storing your content on 
 
 **Mirror of web site folder hierarchy** This folder structure mirrors the folder structure of the website, with the folders named, for example, for product categories.
 
-## Uploading your files {#uploading-your-files}
+## About uploading files {#uploading-your-files}
 
-You can upload individual files from the desktop or upload folders via FTP. If you want to upload more than 100 MB of files or upload entire folders and subfolders, select Via FTP.
+You can upload individual files from the desktop or upload folders via FTP. If you want to upload more than 100 MB of files or upload entire folders and subfolders, select the **VIA FTP** tab.
 
-If you’ve installed the Scene7 Publishing System desktop application, you can drag files and folders directly from your desktop to the destination upload folder.
+If you installed the Scene7 Publishing System desktop application, you can drag files and folders directly from your desktop to the destination upload folder.
 
 The Scene7 Publishing System sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
 
-During (or immediately after) a large upload job, some new items may display the “Image not yet optimized” message. This message appears because the files have not been fully processed and added to SPS. You can optimize these files later. (See [Optimize Files](application-setup.md#optimize_files).)
+During (or immediately after) a large upload job, some new items may display the “Image not yet optimized” message. This message appears because the files are not yet fully processed and added to SPS. You can optimize these files later. (See [Optimize Files](application-setup.md#optimize_files).)
 
-### Upload files from the desktop using Dynamic Media Classic {#upload-files-from-the-desktop-using-scene}
-
-1. On the Global Navigation bar, click **Upload**.
-1. On the Upload page, click **From Desktop**.
-1. Click **Browse**.
-1. In the Select files to Upload dialog box, select the files you want to upload, and then click **Open** (Windows®) or Select (Mac OS®).
-
-   >[!NOTE]
-   >
-   >After you select files, Dynamic Media Classic lists their names on the Filenames list. You can remove a file by selecting it and selecting the Delete button.
-
-1. In the Choose Folder Destination group box, select a destination folder for the uploaded files. 
-1. Near the lower-right corner of the Upload page, click **Job Options**, and then specify the options you want.
-
-   See [Upload options](uploading-files.md#upload_options).
-
-   >[!NOTE]
-   >
-   >Two upload options, Publish After Uploading and Overwrite in Any Folder, are available on the Upload Job Options dialog box. Other options might be available, depending on the settings in Applications Setup &gt; General Settings &gt; Upload to Applications &gt; Overwrite Images. You can access other upload job options by clicking the Job Options button. For information about all the upload options, see [Upload options](uploading-files.md#upload_options).
-
-1. Click **Save**.
-1. Click **Submit Upload**.
-
-   To see the progress of the upload, click **Jobs** on the Global Navigation Bar. You can continue working in Scene7 Publishing System and return to the Jobs page at any time to review an in-progress job.
-
-To cancel an upload job in progress, select **Cancel** next to the Duration time.
-
-### Upload files using the FROM DESKTOP tab {#upload-files-using-sps-desktop-application}
+### Uploading files using the FROM DESKTOP tab {#upload-files-using-sps-desktop-application}
 
 The Scene7 Publishing System Desktop application lets you upload files and folders by dragging.
 
@@ -188,10 +161,9 @@ The name of this option could be different, depending on the settings in **Appli
 
 1. In the Upload Job Options dialog box, click **Save**.
 1. In the lower-right corner of the Upload page, click **Submit Upload**.
+   To see the progress of the upload, click **Jobs** on the Global Navigation Bar. You can continue working in Scene7 Publishing System and return to the Jobs page at any time to review an in-progress job. To cancel an upload job in progress, select **Cancel** next to the Duration time.
 
-To cancel an upload job in progress, click **Jobs**, and then click **Cancel**.
-
-### Upload files using the VIA FTP tab {#upload-files-using-via-ftp}
+### Uploading files using the VIA FTP tab {#upload-files-using-via-ftp}
 
 1. Log in to the Dynamic Media Classic FTP site that is specific to your particular region. Use the FTP user name and password that you received from your administrator.
 1. In Dynamic Media Classic, on the Global Navigation bar, click **Upload**.
@@ -305,13 +277,15 @@ See [Working with PostScript and Illustrator files](postscript-illustrator-files
 You can transcode a video file by choosing a Video Preset.
 See [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
-**Additional Metadata Options** Enter keywords that describe the files you will upload. Separate keywords by comma. Keywords make searching for assets easier.
-
+* **ADDITIONAL METADATA**
+Enter keywords that describe the files you will upload. Separate keywords by comma. Keywords make searching for assets easier.
 See [Conducting an advanced search](searching-assets.md#conducting_an_advanced_search).
 
-**Batch Set Presets** If you want to create an Image Set, multi-axis Spin Set, or Swatch Set from the uploaded files, click the Active column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
-
+* **BATCH SET PRESETS**
+If you want to create an Image Set, multi-axis Spin Set, or Swatch Set from the uploaded files, click the Active column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
 See [Batch Set Presets](application-setup.md#batch_set_presets).
+
+* **ADVANCED**
 
 ## Follow an upload with another job {#follow-an-upload-with-another-job}
 
@@ -322,7 +296,7 @@ The new job sends a notification to the address you specify so that the code at 
 **To follow an upload with another job**
 
 1. Click **Upload**, and click the **VIA FTP** tab.
-1. In the Advanced section, choose one of the following from the Follow Upload With Another Job option:
+1. In the **ADVANCED** section of the Upload Job Options dialog box, choose one of the following from the **Follow Upload with another job** drop-down list:
 
     * HTTP Request
     * Image Serving Publish
