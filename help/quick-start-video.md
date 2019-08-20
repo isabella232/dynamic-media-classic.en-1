@@ -86,7 +86,7 @@ Upload and generate adaptive video sets using one of the following two scenarios
 
 See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
-**Optional **
+**Optional**
 
 Dynamic Media Classic offers numerous predefined video encoding presets. These predefined presets reflect the most common video encoding settings used today and are optimized for playback on target screens.
 

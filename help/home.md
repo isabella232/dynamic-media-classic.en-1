@@ -9,7 +9,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 # Dynamic Media Classic Help Home {#scene7-overview}
 
-Welcome to the Dynamic Media Classic Help. Here you can access all available resources to successfully learn more about using Dynamic Media Classic (formerly known as Scene7). 
+Welcome to the Dynamic Media Classic Help. Here you can access all available resources to successfully learn more about using Dynamic Media Classic (formerly known as Scene7).
 
 ## Dynamic Media Classic Technical Documentation
 
