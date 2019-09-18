@@ -34,6 +34,13 @@ To create an eCatalog, you typically use high-resolution PDF files created in Ad
 
 As part of creating your eCatalog, you can arrange pages or page spreads in the order you choose. You can also declare whether you want single pages, double-page spreads, or multi-page spreads. You can create Image Maps for page regions so that viewers can, for example, click an area on the page and open a new page on your web site. You can manage the rollover text that appears using InfoPanel settings within the eCatalog screen. You can also configure the eCatalog Viewer by choosing from more than 100 different configuration options. You can tailor the features and the appearance of your Viewer for your particular audience.
 
+>[!NOTE]
+>
+>If you are an AEM Dynamic Media - Scene7 mode user and want to use eCatalogs, you will need to edit the `pdfbrochure` value in CRXDE Lite. To do so, in AEM, click **[UICONTROL Tools > General > CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+In the lower right pane, in the **Properties** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
+In the upper-left corner of the CRXDE Lite page, click **Save All**.
+You will now be able to author eCatalogs in SPS.
+
 **Quick Start**
 
 This eCatalog Quick Start is designed to help you get up and running quickly with eCatalogs. Follow steps 1 through 7. After each step is a cross-reference to a topic heading where you can find more information.
@@ -80,7 +87,7 @@ See [Managing Info Panel content](info-panel-content.md#managing-info-panel-cont
 
 End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Dynamic Media Classic comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
 
-To create an eCatalog Viewer Preset, click the Setup button on the Global Navigation bar and choose Viewer Presets. Then click Add, choose a platform, and choose eCatalog &gt; Viewer.
+To create an eCatalog Viewer Preset, click the Setup button on the Global Navigation bar and choose Viewer Presets. Then click Add, choose a platform, and choose **[UICONTROL eCatalog > Viewer]**.
 
 See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
