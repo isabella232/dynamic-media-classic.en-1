@@ -49,10 +49,10 @@ Open the Zoom Target Editor screen and follow these steps to create a zoom targe
 1. Click **[!UICONTROL Select Target]** (arrow), click to select the zoom target you created, and adjust the size and position of the target.
 
     * **Resizing**
-   Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
+    Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
 
     * **Positioning**
-   Move the pointer over the zoom target and drag it to a different location.
+    Move the pointer over the zoom target and drag it to a different location.
 
 1. Enter a name for the zoom target in the Name box.
 
