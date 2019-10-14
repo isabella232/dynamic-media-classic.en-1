@@ -101,8 +101,11 @@ The following table describes Dynamic Media Classic variables.
 
 On the Adobe Analytics Configuration screen, you can activate, edit, and delete viewer events:
 
-**Activating** Click **Enable** to activate or Disable to deactivate a selected viewer event.
+* **Activating**
+Click **[!UICONTROL Enable]** to activate or **[!UICONTROL Disable]** to deactivate a selected viewer event.
 
-**Editing** Select a viewer event and click **View/Edit** Variables grey button. In the Dynamic Media Classic Variable and Adobe Analytics Variable drop-down lists, choose a different variable from each respective list. For more information, see Assigning Adobe Analytics variables to Dynamic Media Classic viewer events and variables.
+* **Editing**
+Select a viewer event and click **[!UICONTROL View/Edit]** Variables grey button. In the Dynamic Media Classic Variable and Adobe Analytics Variable drop-down lists, choose a different variable from each respective list. For more information, see Assigning Adobe Analytics variables to Dynamic Media Classic viewer events and variables.
 
-**Deleting** Select a viewer event, and click **View/Edit** Variables grey button. Click **Delete**.
+* **Deleting**
+Select a viewer event, and click **[!UICONTROL View/Edit]** Variables grey button. Click **[!UICONTROL Delete]**.

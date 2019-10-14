@@ -22,9 +22,11 @@ All Zoom Viewers have buttons for zooming in, zooming out, panning, and resettin
 
 Dynamic Media Classic offers these Zoom Viewer Presets:
 
-**Zoom Viewer: Basic** Provides a basic zoom on original image.
+* **Zoom Viewer: Basic**
+Provides a basic zoom on original image.
 
-**Zoom Viewer: Fly-out** Displays a second image of the zoomed area next to the original image. There are no controls to use, users simply move the selection over the area they want to view.
+* **Zoom Viewer: Fly-out**
+Displays a second image of the zoomed area next to the original image. There are no controls to use, users simply move the selection over the area they want to view.
 
 When determining the complete bandwidth usage for this viewer, consider that both the main image and the flyout image are served in the viewer. The flyout image size is determined by the main image size (Stage Width and Height) and the Zoom Factor. To keep the flyout file size from becoming too large, balance these two values: if you have a large main image size, lower the Zoom Factor value. (The Flyout Width and Flyout Height determine the size of the flyout window, but not the size of the flyout image that is served into the viewer.)
 
@@ -32,11 +34,14 @@ For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of
 
 Dynamic Media Classic recommends these parameters for fly-out Zoom Viewer Presets:
 
-**Enlarged image size** Approximately 1500 by 1500 pixels, not to exceed 2000 by 2000 pixels.
+* **Enlarged image size**
+Approximately 1500 by 1500 pixels, not to exceed 2000 by 2000 pixels.
 
-**Image size** 100KB or under, not to exceed 150KB (compress the file to keep it under 150KB).
+* **Image size**
+100KB or under, not to exceed 150KB (compress the file to keep it under 150KB).
 
-**Zoom Viewer: Custom** Provides guided or unguided zoom with images, Image Sets with multiple views, or Color Swatch Sets.
+* **Zoom Viewer: Custom**
+Provides guided or unguided zoom with images, Image Sets with multiple views, or Color Swatch Sets.
 
 ## Creating and editing Zoom Viewer Presets {#creating-and-editing-zoom-viewer-presets}
 
@@ -45,9 +50,11 @@ Follow these steps to create or edit a Zoom Viewer Preset:
 1. Click **Setup** &gt; **Viewer Presets**.
 1. Do one of the following:
 
-   **Creating a preset** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose a Zoom Viewer, and then click Add. Enter a name for the preset in the Preset Name box.
+   * **Creating a preset**
+   Click Add. In the Add Viewer Preset dialog box, choose a platform, choose a Zoom Viewer, and then click Add. Enter a name for the preset in the Preset Name box.
 
-   **Editing a preset** Select a Zoom Viewer Preset, then click **Edit**.
+   * **Editing a preset**
+   Select a Zoom Viewer Preset, then click **Edit**.
 
 1. Specify settings as desired.
 

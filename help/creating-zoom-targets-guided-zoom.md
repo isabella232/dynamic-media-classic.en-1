@@ -33,24 +33,26 @@ You can change the size of the Zoom Viewer to match the size being used on your 
 
 Create and edit zoom targets on the Zoom Target Editor screen. To open this screen, select an image and do one of the following:
 
-* Click the rollover **Edit** button and choose Zoom Targets.
-* In the Browse Panel, display the image in Detail view and click **Zoom Targets**.
+* Click the rollover **[!UICONTROL Edit]** button and choose Zoom Targets.
+* In the Browse Panel, display the image in **[!UICONTROL Detail View]**, then click **[!UICONTROL Zoom Targets]**.
 
-On the Zoom Target Editor screen, click **Select Targe**t button (the arrow) to select a target before changing its size or position. Click **Add Targets** (the rectangle) to create a zoom target on the image. The Zoom Target Editor screen also offers tools for deleting, copying, and naming zoom targets.
+On the Zoom Target Editor screen, click **[!UICONTROL Select Target]** button (arrow) to select a target before changing its size or position. Click **[!UICONTROL Add Targets]** (rectangle) to create a zoom target on the image. The Zoom Target Editor screen also offers tools for deleting, copying, and naming zoom targets.
 
 ### Creating a zoom target {#creating-a-zoom-target}
 
 Open the Zoom Target Editor screen and follow these steps to create a zoom target:
 
-1. Click **Add Targets** (the rectangle), move the pointer over the image, and click where you want to the zoom target to be.
+1. Click **[!UICONTROL Add Targets]** (rectangle), move the pointer over the image, and click where you want to the zoom target to be.
 
    A thumbnail image of the zoom target appears in the panel on the right side of the screen.
 
-1. Click **Select Target** (the arrow), click to select the zoom target you created, and adjust the size and position of the target.
+1. Click **[!UICONTROL Select Target]** (arrow), click to select the zoom target you created, and adjust the size and position of the target.
 
-   **Resizing** Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
+    * **Resizing**
+   Move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
 
-   **Positioning** Move the pointer over the zoom target and drag it to a different location.
+    * **Positioning**
+   Move the pointer over the zoom target and drag it to a different location.
 
 1. Enter a name for the zoom target in the Name box.
 
@@ -59,7 +61,7 @@ Open the Zoom Target Editor screen and follow these steps to create a zoom targe
    >What you enter in the Name box is more than a name. When users move the pointer over the zoom target, they see what you enter in the Name box. Enter a brief description of the zoom target in the Name box so users know what they can zoom on.
 
 1. Optionally, enter user data in the User Data field. This field is for web site designers to add information to the zoom target.
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
    The coordinates and zoom level of the zoom target are saved. A thumbnail of your zoom target with the name you entered appears on the right side of the screen.
 
@@ -71,19 +73,23 @@ Open the Zoom Target Editor screen and follow these steps to create a zoom targe
 
 Use these techniques on the Zoom Target Editor screen to edit zoom targets:
 
-**Repositioning** With the Select Target button (the arrow), click the target to select it. Then drag the target to a different location.
+* **Repositioning**
+With the Select Target button (the arrow), click the target to select it. Then drag the target to a different location.
 
-**Resizing** With the Select Target button (the arrow), click the target to select it. Then move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
+* **Resizing**
+With the Select Target button (the arrow), click the target to select it. Then move the pointer over a corner of the zoom target and drag to enlarge or shrink the target.
 
-**Deleting** Click the target’s thumbnail image on the right side of the screen. Then click Delete Target.
+* **Deleting**
+Click the target’s thumbnail image on the right side of the screen. Then click **[!UICONTROL Delete Target]**.
 
-**Renaming** Click the target’s thumbnail image on the right side of the screen. Then enter a name in the Name box and click Save.
+* **Renaming**
+Click the target’s thumbnail image on the right side of the screen. Then enter a name in the **[!UICONTROL Name]** text field and click **[!UICONTROL Save]**.
 
 ### Copying zoom targets {#copying-zoom-targets}
 
 You can copy zoom targets from one image to another. Copy targets when two images present similar content and their zoom targets belong in the same locations. Follow these steps to copy zoom targets to another image:
 
 1. Open the image with zoom targets you want to copy in the Zoom Target Editor screen. 
-1. Click **Copy Targets To**.
-1. In the Select Images dialog box, select an image and click **Select**.
+1. Click **[!UICONTROL Copy Targets To]**.
+1. In the Select Images dialog box, select an image and click **[!UICONTROL Select]**.
 

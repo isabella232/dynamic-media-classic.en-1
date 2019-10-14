@@ -141,7 +141,7 @@ You can view the HTML source code associated with the form above by clicking the
 
 In Firefox, right-click in the browser window, and then click **View Page Source**. The code shows the corresponding URL query string and the POST method that are run when the user clicks **Submit**.
 
-To view the XML response in Internet Explorer, click **View** &gt; **Source**. To view XML response in Firefox, click **Tools** &gt; **Web Developer** &gt; **Page Source**. Firefox is recommended for viewing XML responses.
+To view the XML response in Internet Explorer, click **View > Source**. To view XML response in Firefox, click **Tools > Web Developer > Page Source**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 

@@ -43,9 +43,11 @@ Follow these steps in Dynamic Media Classic to define parameters for an FXG temp
 
 1. In the Properties panel, click a parameter in the Name column (to parameterize text) or Parameter column (to parameterize objects).
 
-   **Text** Click in the text field (scroll to the bottom of the Properties list to find it). The Parameters dialog box appears. Select the text that you want to parameterize and click **Add**. You can create multiple parameters from the same text property by selecting different portions of the text and adding parameters for each portion. To change the name of the parameter, click it, enter a new name, and click **Close**.
+   * **Text**
+   Click in the text field (scroll to the bottom of the Properties list to find it). The Parameters dialog box appears. Select the text that you want to parameterize and click **Add**. You can create multiple parameters from the same text property by selecting different portions of the text and adding parameters for each portion. To change the name of the parameter, click it, enter a new name, and click **Close**.
 
-   **Objects** Click a box in the Parameter column. The Edit Parameter dialog box appears. Enter a name and click **OK**.
+   * **Objects**
+   Click a box in the Parameter column. The Edit Parameter dialog box appears. Enter a name and click **OK**.
 
    To customize multiple attributes at once with the same value, use the same parameter name for each attribute. For example, if your template has a rectangle and a star, you can type `newcolor` as the Parameter name for the SolidColor color attribute of each. Whenever you change the `newcolor` value, both the rectangle and the star change to the new color.
 

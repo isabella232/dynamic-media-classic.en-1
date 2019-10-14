@@ -32,11 +32,14 @@ Dynamic Media Classic offers tools for editing as well as creating offer sets.
 
 Create an offer set from the following types of offer sets:
 
-**Images** You can assemble images for an offer set. Each image includes a different offer in the set.
+* **Images**
+You can assemble images for an offer set. Each image includes a different offer in the set.
 
-**Image template** You can parameterize image templates in Dynamic Media Classic with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
+* **Image template**
+You can parameterize image templates in Dynamic Media Classic with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
 
-**Video** You can assemble video for an offer set. Each video is a different offer in the set.
+* **Video**
+You can assemble video for an offer set. Each video is a different offer in the set.
 
 ## Creating an offer set with a parameterized template {#creating-an-offer-set-with-a-parameterized-template}
 
@@ -86,9 +89,11 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Assemble images or videos for the offer set. Start in the Target Classic Offer Set screen or in the Grid View or List View and use one of the following methods:
 
-   **Target Classic Offer Set screen** Click Build > Target Classic Offer Set. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
+   * **Target Classic Offer Set screen**
+   Click Build > Target Classic Offer Set. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
 
-   **Grid or List view** Select the images or videos, and then click Build > Target Classic Offer Set.
+   * **Grid or List view**
+   Select the images or videos, and then click Build > Target Classic Offer Set.
 
 1. Optionally, select an image or video and click **Preview**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the offer set.
 
@@ -120,18 +125,18 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. To edit an offer set, display the offer set in Grid view or List view, and then click its **Edit** rollover button.
 1. In the Target Classic Offer Set page, do any of the following:
 
-   **Removing an offer**
+    * **Removing an offer**
+    Select the offer, and then click **Delete** to remove an offer from the set.
+    * **Adding an offer**
+    How you add an offer depends on the type of offer set you are working with:
+    * **Templates**
+    Click **Add & Preview**, and on the Add & Preview Offers page, create another offer.
+    * **Images and videos**
+    Drag an image or video onto the Target Classic Offer Set page.
 
-   Select the offer, and then click **Delete** to remove an offer from the set.
-
-   **Adding an offer**
-
-   How you add an offer depends on the type of offer set you are working with:
-
-    * Templates: Click **Add & Preview**, and on the Add & Preview Offers page, create another offer.
-    * Images and videos: Drag an image or video onto the Target Classic Offer Set page.
-
-   ***Note**: You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, log on to Target Classic and remove the campaign associations first. Even after un-associating from a campaign, the asset can only be deleted from Scene7 Publishing System, requiring a login to Target Classic, and not from within Target Classic.*
+    >[!NOTE]
+    >
+    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, log on to Target Classic and remove the campaign associations first. Even after un-associating from a campaign, the asset can only be deleted from Scene7 Publishing System, requiring a login to Target Classic, and not from within Target Classic.
 
 1. When you finish editing, near the lower-right corner of the page, ensure that **Publish after save** is selected (default).
 1. Click **Save**, select a storage folder, enter a name for the set, and then click **Save**.

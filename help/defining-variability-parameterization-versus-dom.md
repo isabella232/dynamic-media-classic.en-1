@@ -16,9 +16,11 @@ discoiquuid: 5b844afe-ac55-4dd2-8fe8-125a9c9af948
 
 Dynamic Media Classic offers two techniques for managing variable content in a template. With both techniques, you design the initial template in Illustrator, convert the template to the Dynamic Media Classic FXG file format, and upload it to SPS. However, the techniques differ in the degree of control you have over variable elements and the skill required to use them:
 
-**Parameterizing in the Scene7 Publishing System** This technique entails defining variability in the Template Publishing Build and Preview screens in SPS, or in the Adobe Illustrator Plug-in for Web-to-Print. Either method provides the tools for you to create parameters, assign parameter values, and test the results.
+* **Parameterizing in the Scene7 Publishing System**
+This technique entails defining variability in the Template Publishing Build and Preview screens in SPS, or in the Adobe Illustrator Plug-in for Web-to-Print. Either method provides the tools for you to create parameters, assign parameter values, and test the results.
 
-**Using DOM manipulation** This technique lets you take control over the design and the template on an XML level. Dynamic Media Classic FXG files are XML. With this approach, you can edit your design template directly by way of its XML DOM (display object model). In Illustrator you mark variable elements with s7:elementIDs to later manipulate them with URL commands.
+* **Using DOM manipulation**
+This technique lets you take control over the design and the template on an XML level. Dynamic Media Classic FXG files are XML. With this approach, you can edit your design template directly by way of its XML DOM (display object model). In Illustrator you mark variable elements with s7:elementIDs to later manipulate them with URL commands.
 
 >[!MORELIKETHIS]
 >

@@ -26,11 +26,14 @@ For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp
 
 To view an asset’s metadata, open the asset in Detail view, and click the Metadata panel. Then choose an option on the Metadata View menu to select a set of metadata fields. Dynamic Media Classic offers these Metadata Views:
 
-**Compact View** A basic list of values.
+* **Compact View**
+A basic list of values.
 
-**IPTC** Values as defined by the International Press Telecommunications Council.
+* **IPTC**
+Values as defined by the International Press Telecommunications Council.
 
-**XMP** Values as defined by the extensible metadata platform.
+* **XMP**
+Values as defined by the extensible metadata platform.
 
 Administrators can create Metadata Views. These views also appear on the Metadata Views menu. For information about creating Metadata Views, see [Metadata Views](application-setup.md#metadata_views).
 

@@ -75,8 +75,10 @@ The following step-by-step workflow description is designed to help you get up a
 
 Upload and generate adaptive video sets using one of the following two scenarios:
 
-* **Upload pre-encoded videos** - If your videos were already encoded outside Dynamic Media Classic, click **Upload** on the Global Navigation bar to browse and upload MP4 video files directly to Scene7 Publishing System. Then, click **Build** &gt; **Adaptive Video Sets**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
-* **Upload master source videos** - If your videos are not encoded, click **Upload** on the Global Navigation bar to upload master video source files (non-MP4) and have Scene7 Publishing System encode them to MP4 files for you. In the Upload Job Options dialog box, under EVideo Options, select **Adaptive Video**.
+* **Upload pre-encoded videos**
+If your videos were already encoded outside Dynamic Media Classic, click **Upload** on the Global Navigation bar to browse and upload MP4 video files directly to Scene7 Publishing System. Then, click **Build > Adaptive Video Sets**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
+* **Upload master source videos**
+If your videos are not encoded, click **Upload** on the Global Navigation bar to upload master video source files (non-MP4) and have Scene7 Publishing System encode them to MP4 files for you. In the Upload Job Options dialog box, under EVideo Options, select **Adaptive Video**.
 
   This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three video encodes in the correct aspect ratio.
 
@@ -90,7 +92,7 @@ See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_e
 
 Dynamic Media Classic offers numerous predefined video encoding presets. These predefined presets reflect the most common video encoding settings used today and are optimized for playback on target screens.
 
-However, if further customization is needed, administrators can create Video Presets to customize the size and playback experience of Videos to end users. Administrators can add and manage Video Presets from the Video Presets page available under Setup &gt; Application Setup &gt; Video Presets &gt; Single Encoding Presets. The Video Presets page offers options for adding, editing, deleting, and activating Video Presets.
+However, if further customization is needed, administrators can create Video Presets to customize the size and playback experience of Videos to end users. Administrators can add and manage Video Presets from the Video Presets page available under Setup &gt; Application Setup > Video Presets > Single Encoding Presets. The Video Presets page offers options for adding, editing, deleting, and activating Video Presets.
 
 See [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
@@ -118,7 +120,9 @@ To integrate video into your website, you can do either one of the following:
 
   When you click Copy URL, the URL is copied to the Clipboard. Place this code in the HTML of your website, mobile site, or application.
 
-  ***note**: URLs are activated only after you publish the video or Adaptive Video Set.*
+  >[!NOTE]
+  >
+  >URLs are activated only after you publish the video or Adaptive Video Set.
 
 * Display the video embedded on the web page, in which case you should use the Embed Code feature.
 
@@ -126,7 +130,9 @@ To integrate video into your website, you can do either one of the following:
 
   Click Close and paste the embed code in your web pages.
 
-  ***note**: Embed code is only activated after you publish the video or Adaptive Video Set.*
+  >[!NOTE]
+  >
+  >Embed code is only activated after you publish the video or Adaptive Video Set.
 
 See [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 

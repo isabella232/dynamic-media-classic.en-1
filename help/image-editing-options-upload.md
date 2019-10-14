@@ -29,17 +29,23 @@ These options are located on the Upload screen under Image Editing Options.
 
 To automatically crop white-space pixels from an image, select the Crop menu and choose Trim. Then choose these options:
 
-**Trim&#xA;Away Based On** Choose whether to crop based on color or transparency:
+* **Trim Away Based On**
+Choose whether to crop based on color or transparency:
 
-**Color** Choose the Color option. Then, from the Corner drop-down list, select the corner of the image with the color that best represents the white-space color you want to crop.
+* **Color**
+Choose the Color option. Then, from the Corner drop-down list, select the corner of the image with the color that best represents the white-space color you want to crop.
 
-**Transparency** Choose the Transparency option.
+* **Transparency**
+Choose the Transparency option.
 
-**Tolerance** Drag the slider to specify a tolerance from 0 through 1:
+* **Tolerance**
+Drag the slider to specify a tolerance from 0 through 1:
 
-**Trimming based on color** Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
+* **Trimming based on color**
+Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
 
-**Trimming based on transparency** Specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
+* **Trimming based on transparency**
+Specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
 
 **Cropping manually from the sides of images**
 
@@ -49,11 +55,14 @@ To manually crop from the sides of an image, select the Crop menu and choose Man
 
 Choose a Color Profile option to select a color space for the image:
 
-**Convert To sRGB** Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
+* **Convert To sRGB**
+Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
 
-**Keep Original Color Space** Retains the original color space.
+* **Keep Original Color Space**
+Retains the original color space.
 
-**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS.
+* **Custom From &gt; To**
+Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 

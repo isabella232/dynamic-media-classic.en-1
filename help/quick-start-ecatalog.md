@@ -18,14 +18,14 @@ An eCatalog is a digital, web version of print material—a catalog, brochure, f
 
 * Search the catalog for a keyword or keywords. The search results are displayed as a list of thumbnails in a search panel on the left side of the catalog. Each clickable thumbnail represents a catalog spread where the highlighted search term was found.
 
-* Share the catalog by way of social media; download the catalog to view offline; enable Favorites to mark items you want to return to quickly, or print the catalog. 
-* Navigate the catalog using the table of contents or the page grid view; page forward or backward by clicking the middle edge of a page. 
-* Zoom in, zoom out, and pan to examine items on a page. 
-* Move the pointer over a page region (called an Image Map) to see a pop-up window with information about an item. 
-* Click a page region to open a new web page with more information about an item. 
-* Write a sticky note and attach it to an eCatalog page. 
-* Tap image map icons to launch related web pages or in-context info panels. 
-* Use gesture interactions, including pinching to zoom and swiping to turn pages. 
+* Share the catalog by way of social media; download the catalog to view offline; enable Favorites to mark items you want to return to quickly, or print the catalog.
+* Navigate the catalog using the table of contents or the page grid view; page forward or backward by clicking the middle edge of a page.
+* Zoom in, zoom out, and pan to examine items on a page.
+* Move the pointer over a page region (called an Image Map) to see a pop-up window with information about an item.
+* Click a page region to open a new web page with more information about an item.
+* Write a sticky note and attach it to an eCatalog page.
+* Tap image map icons to launch related web pages or in-context info panels.
+* Use gesture interactions, including pinching to zoom and swiping to turn pages.
 * Search by keyword for items.
 
 ![The eCatalog as it looks to users. A) eCatalog opening page. B)eCatalog turned to page 2.](/help/assets/ec_cat_viewer_popup.png)
@@ -36,9 +36,9 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 
 >[!NOTE]
 >
->If you are an AEM Dynamic Media - Scene7 mode user and want to use eCatalogs, you will need to edit the `pdfbrochure` value in CRXDE Lite. To do so, in AEM, click **[UICONTROL Tools > General > CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
-In the lower right pane, in the **Properties** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
-In the upper-left corner of the CRXDE Lite page, click **Save All**.
+>If you are an AEM Dynamic Media - Scene7 mode user and want to use eCatalogs, you will need to edit the `pdfbrochure` value in CRXDE Lite. To do so, in AEM, click **[!UICONTROL Tools > General > CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+In the lower right pane, in the **[!UICONTROL Properties]** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
+In the upper-left corner of the CRXDE Lite page, click **[!UICONTROL Save All]**.
 You will now be able to author eCatalogs in SPS.
 
 **Quick Start**
@@ -63,7 +63,7 @@ On the Order Pages tab, select a Layout button—1 Up, 2 Up, or Custom—to choo
 
 To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import a large number of page names.
 
-Click the Save button, enter a name for your eCatalog, choose an SPS folder for storing it, and select the Save button. Each time you change the page order or edit your eCatalog, save your changes by clicking the Save button.
+Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose an SPS folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
 
 See [Creating an eCatalog](creating-ecatalog.md).
 
@@ -71,7 +71,7 @@ See [Creating an eCatalog](creating-ecatalog.md).
 
 Image Maps add another dimension to eCatalog pages. An Image Map is a region on a page that delivers more information about an item. When viewers roll the pointer over an Image Map, they see a description of the item. Clicking an Image Map activates an external reference that opens a new web page where you can learn more about an item.
 
-To create an Image Map, open the eCatalog screen. Then go to the Map Pages tab of the eCatalog screen, and draw the map with the Rectangle Image Map tool or Polygon Image Map tool. You can adjust the position and size of Image Maps by dragging map borders with the Pan tool.
+To create an Image Map, open the eCatalog screen. Then go to the **[!UICONTROL Map Pages]** tab of the eCatalog screen, and draw the map with the Rectangle Image Map tool or Polygon Image Map tool. You can adjust the position and size of Image Maps by dragging map borders with the Pan tool.
 
 After you draw the Image Map, enter the URL address that you want to go to when you click the Image Map. You can also enter the rollover text that appears when you move your pointer over the Image Map.
 
@@ -87,7 +87,7 @@ See [Managing Info Panel content](info-panel-content.md#managing-info-panel-cont
 
 End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Dynamic Media Classic comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
 
-To create an eCatalog Viewer Preset, click the Setup button on the Global Navigation bar and choose Viewer Presets. Then click Add, choose a platform, and choose **[UICONTROL eCatalog > Viewer]**.
+To create an eCatalog Viewer Preset, on the Global Navigation bar, click **[!UICONTROL Setup]** and choose **[!UICONTROL Viewer Presets]**. Then click **[!UICONTROL Add]**, choose a platform, then click **[!UICONTROL eCatalog > Viewer]**.
 
 See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
@@ -95,7 +95,7 @@ See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#sett
 
 eCatalog Viewer Presets determine the style and behavior of your eCatalog Viewers.
 
-To find out how eCatalog Viewer Presets display your eCatalog, select your eCatalog in the Browse Panel and click Preview. The Preview screen opens in the default viewer.
+To find out how eCatalog Viewer Presets display your eCatalog, select your eCatalog in the Browse Panel and click **[!UICONTROL Preview]**. The Preview screen opens in the default viewer.
 
 Notice the orientation, color scheme, what the controls for changing pages look like, and what pages look like when they are turned.
 
@@ -105,7 +105,7 @@ See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-
 
 Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
 
-After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click Start Publish.
+After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click **[!UICONTROL Start Publish]**.
 
 See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
