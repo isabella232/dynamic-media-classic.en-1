@@ -32,9 +32,11 @@ You can create your own Image Presets if you are a company administrator. You ca
 
 1. Do one of the following:
 
-   **Creating an&#xA;Image Preset** Click Add.
+   * **Creating an&#xA;Image Preset**
+   Click Add.
 
-   **Editing an Image Preset** Browse to the Image Preset that is most like the one you want to create and then click Edit.
+   * **Editing an Image Preset**
+   Browse to the Image Preset that is most like the one you want to create and then click Edit.
 
 1. Enter a name for the Image Preset.
 1. Enter Width and Height measurements in pixels. These measurements determine the size at which images are delivered.
@@ -42,13 +44,17 @@ You can create your own Image Presets if you are a company administrator. You ca
 
    Dynamic Media Classic recommends these “best practice” option choices to start:
 
-   **Format** Choose JPEG or another format that meets your requirements. All web browsers support the JPEG image format; it offers a good balance between small files sizes and image quality. However, JPEG format images use a lossy compression scheme that can introduce unwanted image artifacts if the compression setting is too low. For that reason, Dynamic Media Classic recommends setting the compression quality (on the slider) to 75. This setting offers a good balance between image quality and small file size.
+   * **Format**
+   Choose JPEG or another format that meets your requirements. All web browsers support the JPEG image format; it offers a good balance between small files sizes and image quality. However, JPEG format images use a lossy compression scheme that can introduce unwanted image artifacts if the compression setting is too low. For that reason, Dynamic Media Classic recommends setting the compression quality (on the slider) to 75. This setting offers a good balance between image quality and small file size.
 
-   **Sharpening** Do not select Sharpening (this sharpening filter offers less control than Unsharp Masking settings).
+   * **Sharpening**
+   Do not select Sharpening (this sharpening filter offers less control than Unsharp Masking settings).
 
-   **Resample Mode** Choose Bi-Cubic.
+   * **Resample Mode**
+   Choose Bi-Cubic.
 
-   **Unsharp Masking (USM) options** Enter the settings shown here:
+   * **Unsharp Masking (USM) options**
+   Enter the settings shown here:
 
     |Preset type|Size|USM: Amount|USM: Radius|USM: Threshold|
     |--- |--- |--- |--- |--- |
@@ -61,11 +67,14 @@ You can create your own Image Presets if you are a company administrator. You ca
 
 The Dynamic Media Classic “best practice” options for creating Image Presets listed here are general recommendations; sharpening is highly subjective. These “best practice” settings were based on a 2000 x 2000 master image; settings for larger or smaller masters can be different. If you want to adjust the Unsharp Masking settings, Dynamic Media Classic recommends these ranges:
 
-**Amount** Between .8 and 1.5.
+* **Amount**
+Between .8 and 1.5.
 
-**Radius** Between .6 and 2.
+* **Radius**
+Between .6 and 2.
 
-**Threshold** From 1-6.
+* **Threshold**
+From 1-6.
 
 To delete an Image Preset, select it on the Image Presets screen and select the Delete button.
 

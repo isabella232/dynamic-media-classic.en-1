@@ -39,8 +39,8 @@ To closely examine, preview, or work on an asset, you can display it in Detail v
 1. In the Browse Panel, do one of the following:
 
     * Double-click the asset.
-    * Select the asset, then click **Detail View**.
-    * Select the asset, then click **File** &gt; **Details**.
+    * Select the asset, then click **[!UICONTROL Detail View]**.
+    * Select the asset, then click **[!UICONTROL File > Details]**.
 
 >[!NOTE]
 >
@@ -56,15 +56,20 @@ You can obtain an asset URL in Detail view; however, the URL is not active until
 
 Detail view offers tools for working with the asset you opened. Which tools are available depends on the type of asset you are working with, but Detail view always offers these functions:
 
-**items for publish** Click the Publish icon to the left of the name, or click File > Publish or File > Unpublish.
+* **items for publish**
+Click the **[!UICONTROL Publish]** icon to the left of the name, or click **[!UICONTROL File > Publish]** or **[!UICONTROL File > Unpublish]**.
 
-**Renaming the asset** Select the name and enter a new name.
+* **Renaming the asset**
+Select the name and enter a new name.
 
-**Editing and adding metadata** Select the Metadata panel and make changes as desired. See Viewing, adding, and exporting metadata.
+* **Editing and adding metadata**
+Select the Metadata panel and make changes as desired. See [Viewing, adding, and exporting metadata](/help/viewing-adding-exporting-metadata.md).
 
-**Editing and adding keywords** Select Keywords and add or remove them as desired. See Add or edit keywords.
+* **Editing and adding keywords**
+Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/viewing-adding-exporting-metadata.md).
 
-**Deleting the asset** Click File > Delete.
+* **Deleting the asset**
+Click **[!UICONTROL File > Delete]**.
 
 For discrete files—images, Image Sets, and fonts, for example—you can view the publishing and editing history, and check job details, in Detail view.  
   

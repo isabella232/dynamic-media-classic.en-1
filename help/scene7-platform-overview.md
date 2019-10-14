@@ -20,13 +20,17 @@ Dynamic Media Classic is an integrated, rich media management, publishing, and s
 
 The key Dynamic Media Classic workflow steps are:
 
-**Upload and manage your assets** Upload your media assets to SPS. You can organize, browse, and search for assets on the system. You can also apply metadata to assets. If you install Adobe Scene7 Publishing System desktop application, you can upload files and folders by dragging them from your desktop to an upload folder.
+* **Upload and manage your assets**
+Upload your media assets to SPS. You can organize, browse, and search for assets on the system. You can also apply metadata to assets. If you install Adobe Scene7 Publishing System desktop application, you can upload files and folders by dragging them from your desktop to an upload folder.
 
-**Create rich media** Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates. For more information, see About rich media.
+* **Create rich media**
+Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates. For more information, see About rich media.
 
-**Publish and administer** Publish assets to the Dynamic Media Classic Saas network, as well as monitor the status of assets when they are published, administer user rights, and maintain security.
+* **Publish and administer**
+Publish assets to the Dynamic Media Classic Saas network, as well as monitor the status of assets when they are published, administer user rights, and maintain security.
 
-**Serve** Deliver media from Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
+* **Serve**
+Deliver media from Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
 ![The Dynamic Media Classic workflow process](/help/assets/gs_workflow.png) 
 

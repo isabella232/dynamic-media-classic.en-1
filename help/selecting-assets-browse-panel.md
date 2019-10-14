@@ -16,10 +16,14 @@ discoiquuid: 8e6ce2bf-c99b-4106-942a-1716f152c7b2
 
 Select an asset in the Browse Panel to work with it. Use these techniques to select assets:
 
-**A single asset** Click the asset (double-clicking opens the asset in Detail view).
+* **A single asset**
+Click the asset (double-clicking opens the asset in Detail view).
 
-**Several assets** Ctrl+click (Windows) or Command+click (Macintosh) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
+* **Several assets**
+Ctrl+click (Windows) or Command+click (Macintosh) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
 
-**All assets in the Browse Panel** Choose Select > All.
+* **All assets in the Browse Panel**
+Click Select > All.
 
-**No assets** Choose Select > None.
+* **No assets**
+Click Select > None.

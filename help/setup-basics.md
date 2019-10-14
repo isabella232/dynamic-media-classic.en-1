@@ -23,9 +23,11 @@ The settings available to you on this screen depend on your status as a user or 
 
 Administrators can also set up Image Presets and Viewer Presets in the Setup screen:
 
-**Image Presets** Image Presets are saved formats for displaying master images at different sizes and formats.
+* **Image Presets**
+Image Presets are saved formats for displaying master images at different sizes and formats.
 
-**Viewer Presets** Viewer Presets determine how you see your rich media when you see it in a viewer.
+* **Viewer Presets**
+Viewer Presets determine how you see your rich media when you see it in a viewer.
 
 >[!MORELIKETHIS]
 >

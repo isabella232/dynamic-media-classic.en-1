@@ -25,9 +25,11 @@ For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. 
 1. On the left of the Map Pages screen, select the page you want.
 1. In the Image Map area, draw a rectangular or polygonal (many-sided) Image Map:
 
-   **Rectangular map** Select the Rectangle Image Map tool and drag on the page to create the rectangle.
+   * **Rectangular map**
+   Select the Rectangle Image Map tool and drag on the page to create the rectangle.
 
-   **Polygonal map** Select the Polygon Image Map tool and click as many times as necessary around the perimeter of the image. As you click, Dynamic Media Classic draws the borders of the Image Map.
+   * **Polygonal map**
+   Select the Polygon Image Map tool and click as many times as necessary around the perimeter of the image. As you click, Dynamic Media Classic draws the borders of the Image Map.
 
    After you draw an Image Map, Dynamic Media Classic assigns it a name in the Image Map list. To form the name, Dynamic Media Classic appends a sequential number to the name of the eCatalog page in which you are working.
 
@@ -70,25 +72,30 @@ You can also optionally display tool tip text when customers move their pointers
 
 Starting on the Map Pages tab of the eCatalog screen, use these techniques to edit eCatalog Image Maps:
 
-**Adjusting the position** Select the Pan tool and move the pointer near but not over the border of the map. When the pointer shows a four-headed arrow, drag the entire image map to a new location.
+* **Adjusting the position**
+Select the Pan tool and move the pointer near but not over the border of the map. When the pointer shows a four-headed arrow, drag the entire image map to a new location.
 
-See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+    See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-**Changing the shape and size** To resize a rectangular Image Map, select the Pan tool. Then move the pointer over a borderline or a corner, and when you see the double-headed arrow icon, drag. To resize a polygonal Image Map, drag a square selection handle. To create a selection handle, click the border of the Image Map and drag.
+* **Changing the shape and size**
+To resize a rectangular Image Map, select the Pan tool. Then move the pointer over a borderline or a corner, and when you see the double-headed arrow icon, drag. To resize a polygonal Image Map, drag a square selection handle. To create a selection handle, click the border of the Image Map and drag.
 
-See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+    See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-**Deleting Image Maps** Select the Pan tool, click the Image Map to select it, and then click Delete.
+* **Deleting Image Maps**
+Select the Pan tool, click the Image Map to select it, and then click **Delete**.
 
-To remove all Image Maps from an eCatalog, click the Order Pages tab, and then click Clear Maps.
+    To remove all Image Maps from an eCatalog, click the **Order Pages** tab, and then click **Clear Maps**.
 
-**Handling overlapping Image Maps** Drag to change the order of Image Maps on the Image Map list.
+* **Handling overlapping Image Maps**
+Drag to change the order of Image Maps on the Image Map list.
 
-See [Handling overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
+    See [Handling overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
 
-**Copying Image Maps to other pages** Select the Copy Maps To button (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click the Select button.
+* **Copying Image Maps to other pages**
+Select the Copy Maps To button (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click the Select button.
 
-See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
+    See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
 
 >[!NOTE]
 >

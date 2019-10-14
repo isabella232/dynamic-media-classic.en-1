@@ -32,9 +32,11 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 You can create a Project folder starting in the Assets Library or when you upload files to the Scene7 Publishing System:
 
-**In the Asset Library** Scroll to the bottom of the Asset Library, to the Projects section, and select the Add Project button . Then enter a name for the project.
+* **In the Asset Library**
+Scroll to the bottom of the Asset Library, to the Projects section, and select the Add Project button . Then enter a name for the project.
 
-**When uploading files** In the Upload screen, select the Add to Project menu and choose Create Project. Then enter a name for the project.
+* **When uploading files**
+In the Upload screen, select the Add to Project menu and choose Create Project. Then enter a name for the project.
 
 >[!NOTE]
 >
@@ -44,16 +46,21 @@ You can create a Project folder starting in the Assets Library or when you uploa
 
 Follow these instructions to display, delete, and rename a Project folder:
 
-**Browsing contents** Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
+* **Browsing contents**
+Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
 
-**Deleting Project folders** Select the Project folder and then select the Remove Project button . Deleting assets from a Project folder does not delete them from Scene7 Publishing System; the assets remain in the original folders in which they are stored.
+* **Deleting Project folders**
+Select the Project folder and then select the Remove Project button . Deleting assets from a Project folder does not delete them from Scene7 Publishing System; the assets remain in the original folders in which they are stored.
 
-**Renaming Project folders** Double-click the name of the folder in the Asset Panel, and then enter a new name.
+* **Renaming Project folders**
+Double-click the name of the folder in the Asset Panel, and then enter a new name.
 
 ## Adding assets to a Project folder {#adding-assets-to-a-project-folder}
 
 You can add images to a Project folder starting in the Browse Panel or when you upload files to the Scene7 Publishing System:
 
-**From the Browse Panel** Select the assets and drag them to a Project folder. You can also choose File > Add To Project, select a Project folder name in the Select Project dialog box, and select the Submit button.
+* **From the Browse Panel**
+Select the assets and drag them to a Project folder. You can also choose File > Add To Project, select a Project folder name in the Select Project dialog box, and select the Submit button.
 
-**When uploading files** In the Upload screen, click the Job Options button. In the Upload Job Options dialog box, choose Projects, and select a project name.
+* **When uploading files**
+In the Upload screen, click the Job Options button. In the Upload Job Options dialog box, choose Projects, and select a project name.

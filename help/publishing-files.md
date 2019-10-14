@@ -26,9 +26,11 @@ For more information, see the [Instant Publish Notice PDF](https://marketing.ado
 
 Use these techniques to mark assets for publish:
 
-**Publish After Uploading** On the Upload page, near the bottom, select Publish After Uploading. The default is a selected state.
+* **Publish After Uploading**
+On the Upload page, near the bottom, select Publish After Uploading. The default is a selected state.
 
-**Publish After Uploading** In the Job Options dialog box, select Publish After Uploading. The default is a selected state.
+* **Publish After Uploading**
+In the Job Options dialog box, select Publish After Uploading. The default is a selected state.
 
 Some "child" assets are automatically marked for publish when their parents are marked for publish. This table lists child assets that are marked for publish automatically.
 
@@ -87,13 +89,17 @@ See [Creating a custom upload or publish job time interval](checking-job-files.m
 
 You can display the Advanced options on the Publish page and choose these options for handling a publish job:
 
-**Publish To** Choose a server type to publish assets only to a specific server, not to all servers.
+* **Publish To**
+Choose a server type to publish assets only to a specific server, not to all servers.
 
-**Publish** By default, SPS publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can choose Full Publish to also publish assets that have been updated or changed since they were last published. Choose Full w/ Search Data if you are publishing an eCatalog and you want readers to be able to search it by keyword.
+* **Publish**
+By default, SPS publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can choose Full Publish to also publish assets that have been updated or changed since they were last published. Choose Full w/ Search Data if you are publishing an eCatalog and you want readers to be able to search it by keyword.
 
-**Run Job As** Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publish job with a user.
+* **Run Job As**
+Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publish job with a user.
 
-**HTTP Notification** Enter a URL to trigger subsequent publish jobs.
+**HTTP Notification**
+Enter a URL to trigger subsequent publish jobs.
 
 See [Using an upload or publish job as a trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
 
@@ -119,7 +125,7 @@ Unpublished assets are indicated in the user interface by a grey, round icon wit
 
     * In the Grid View, List View, or Details View, use standard file selection methods to select one or more unpublished assets.
 
-      On the Global Navigation Bar, click **File** &gt; **Publish**.
+      On the Global Navigation Bar, click **File > Publish**.
     
     * In the Grid View, List View, or Details View, click the grey, round icon with a slash through it, to the left of the asset’s name.
 
@@ -135,7 +141,7 @@ Published assets are indicated in the user interface by a round, green icon with
 
     * In the Grid View, List View, or Details View, select one or more pubished assets.
 
-      On the Global Navigation Bar, click **File** &gt; **Unpublish**.
+      On the Global Navigation Bar, click **File > **Unpublish**.
     
     * In the Grid View, List View, or Details View, click the round, green check mark icon to the left of the asset’s name.
 
@@ -153,7 +159,7 @@ Newly published Dynamic Media Classic content is available immediately to the en
 
 If you want your newly republished image assets to be available sooner than the ten-hour delay, you can flush web caches on CDN. Flushing these web caches removes old content from CDN web caches and replaces it with your most recently published assets.
 
-To flush the cache, click File &gt; Invalidate CDN. All selected files are removed from the cache. If there are no publishable assets, or if you are not a company admin, the Remove from CDN option is not available.
+To flush the cache, click File > Invalidate CDN. All selected files are removed from the cache. If there are no publishable assets, or if you are not a company admin, the Remove from CDN option is not available.
 
 >[!MORELIKETHIS]
 >

@@ -72,9 +72,9 @@ The resolution of bitmap images is preserved by the Dynamic Media Classic server
 
 Your document and images can use grayscale, CMYK, named spot colors, RGB, or Lab color models. Each can be either uncalibrated or calibrated by employing an ICC color profile. For best results, embed the profile in the generated print-ready PDF. The Dynamic Media Classic Server does this by default. Make sure that all required color profiles have been uploaded to the Dynamic Media Classic platform. Preferably, make sure that the color management options set in your design application, match those set in your Dynamic Media Classic Server:
 
-**Design application color management settings:** In the Color Settings of your authoring application (such as Adobe Illustrator), specify the RGB and CMYK color profiles in the Working Spaces section.
+* **Design application color management settings:** In the Color Settings of your authoring application (such as Adobe Illustrator), specify the RGB and CMYK color profiles in the Working Spaces section.
 
-**Dynamic Media Classic color management settings:** Typically, the color management settings in the design application should match the default color profiles in your Dynamic Media Classic server. You can find these settings in the Publish Setup/Image Server window.
+* **Dynamic Media Classic color management settings:** Typically, the color management settings in the design application should match the default color profiles in your Dynamic Media Classic server. You can find these settings in the Publish Setup/Image Server window.
 
 ## Displaying printer marks {#displaying-printer-marks}
 
@@ -98,13 +98,17 @@ All marks available from the "Add Printer Marks" screen in Acrobat are supported
 
 When preparing a document for print production, printer marks may be needed to help the print service align separation films for producing proofs, measure film for correct calibration and ink density, trim film to size, and so on. Printer marks indicate the boundaries of document boxes such as trim boxes and bleed boxes. Production-related content may include:
 
-**Media box** The boundaries of the physical medium on which the page will be printed. Content outside the media box can safely be discarded without affecting the meaning of the file.
+* **Media box**
+The boundaries of the physical medium on which the page will be printed. Content outside the media box can safely be discarded without affecting the meaning of the file.
 
-**Bleed box** The region to which the contents of the page are clipped when output in a production environment. The bleed box may include areas needed to accommodate the physical limitations of cutting, folding, and trimming equipment. The default value is the page's crop box.
+* **Bleed box**
+The region to which the contents of the page are clipped when output in a production environment. The bleed box may include areas needed to accommodate the physical limitations of cutting, folding, and trimming equipment. The default value is the page's crop box.
 
-**Trim box** The intended dimensions of the finished page after trimming. The trim box may be smaller than the media box to allow for production-related content, such as printing instructions, cut marks, and color bars. The default value is the page's crop box.
+* **Trim box**
+The intended dimensions of the finished page after trimming. The trim box may be smaller than the media box to allow for production-related content, such as printing instructions, cut marks, and color bars. The default value is the page's crop box.
 
-**Art box** The extent of the page's meaningful content (including potential white space) as intended by the page's creator. The default value is the page's crop box.
+* **Art box**
+The extent of the page's meaningful content (including potential white space) as intended by the page's creator. The default value is the page's crop box.
 
 You can use the modifiers shown in this table to replicate the printer marks available in Adobe Illustrator, InDesign, and Acrobat:
 

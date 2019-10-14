@@ -25,23 +25,31 @@ Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 1. Select the assets you want to export, and then click **File** &gt; **Export**. 
 1. In the Export Selected Assets window, click **Image Options**, and then specify any of the following options (administrators determine which options are available to their users):
 
-   **Presets** Optionally, choose an Image Preset to format the asset when you export it. If you choose an Image Preset, the other formatting options are not available, as the asset adopts the formats defined by the Image Preset.
+   * **Presets**
+   Optionally, choose an Image Preset to format the asset when you export it. If you choose an Image Preset, the other formatting options are not available, as the asset adopts the formats defined by the Image Preset.
 
-   **Conversion** Convert the asset file or the original image.
+   * **Conversion**
+   Convert the asset file or the original image.
 
-   **Size** You can select a standard size. Or, you can click Other from the Size drop-down list, choose the desired unit of measure, and then specify the width and height.
+   * **Size**
+   You can select a standard size. Or, you can click Other from the Size drop-down list, choose the desired unit of measure, and then specify the width and height.
 
-   See also [Specifying export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+        See also [Specifying export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-   **Format** Choose an image format.
+   * **Format**
+   Choose an image format.
 
-   **Color** Choose RGB, CMYK, or Gray.
+   * **Color**
+   Choose RGB, CMYK, or Gray.
 
-   **Resolution** Choose 72, 150, or 300 ppi.
+   * **Resolution**
+   Choose 72, 150, or 300 ppi.
 
-   **Job Name** You can assign a job name to the export.
+   * **Job Name**
+   You can assign a job name to the export.
 
-   **Send Email To** Optionally, enter an e-mail address to send the assets by e-mail. The e-mail message lists the URL where the recipient can go to download the assets.
+   * **Send Email To**
+   Optionally, enter an e-mail address to send the assets by e-mail. The e-mail message lists the URL where the recipient can go to download the assets.
 
 1. Click **Export**.
 
