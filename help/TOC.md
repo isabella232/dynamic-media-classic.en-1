@@ -9,6 +9,7 @@ index: y
 # Dynamic Media Classic Help {#using}
 
 + [Dynamic Media Classic Documentation Home](home.md)
++ [Dynamic Media Newsletter by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
     + [About Dynamic Media Classic](introduction.md)
     + [Developer resources](developer-resources.md)
