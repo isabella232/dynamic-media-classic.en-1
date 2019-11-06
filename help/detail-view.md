@@ -19,7 +19,7 @@ You can work with and learn about an asset by opening it in Detail view. In Deta
 <!-- 
 
 Comment Type: remark
-Last Modified By: Rick Brough (rbrough)
+Last Modified By: Rick Brough (rbrough@adobe.com)
 Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 <p>as_detail_view_popup.png found in Downloads on local in folder "scene7-images"</p>
