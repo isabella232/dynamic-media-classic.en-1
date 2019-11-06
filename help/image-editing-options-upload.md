@@ -87,7 +87,7 @@ Under Unsharp Masking, set the options you want. Setting options are described i
 
 See also [Sharpening an image](sharpening-image.md#sharpening_an_image).
 
-See also [Sharpening images in Scene7 Publishing System and on Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
+See also [Sharpening images in Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
 **Knockout Background**
 

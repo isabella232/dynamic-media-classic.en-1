@@ -22,7 +22,7 @@ Scene7 Publishing System now supports the delivery of all images and video over 
 
 Assets either in a published or unpublished state. By default, any assets that you upload into Dynamic Media Classic are automatically marked for publishing.
 
-For more information, see the [Instant Publish Notice PDF](https://marketing.adobe.com/resources/help/en_US/s7/rendering-instant-publish-notification.pdf).
+For more information, see the [Instant Publish Notice PDF](/help/assets/rendering-instant-publish-notification.pdf).
 
 Use these techniques to mark assets for publish:
 
