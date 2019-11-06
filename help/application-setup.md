@@ -453,7 +453,7 @@ See [Best practice: Using the HTML5 Video viewer](best-practice-using-html5-vide
 
 Depending on the viewer, you can add community features. Community features include an Embed button, E-mail button, Link button, and Visit Site button. These buttons let people using the viewers share the viewer with others or open the Dynamic Media Classic web site.
 
-See also [Adobe Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also Adobe Viewers Reference Library Examples [here](/help/assets/vlist/vlist.html) and [here](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 ### Viewer support for responsive designed web pages {#viewer-support-for-responsive-designed-web-pages}
 
@@ -493,7 +493,7 @@ For more information about this important change, see the following FAQ website:
 
 The following table identifies the currently available Dynamic Media Classic Viewer Presets. The table also specifies the viewer’s compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
 
-See also [Adobe Viewers Reference Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also Adobe Viewers Reference Library Examples [here](/help/assets/vlist/vlist.html) and [here](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
@@ -538,8 +538,8 @@ See [Adobe Viewers Reference Release Notes](https://marketing.adobe.com/resource
 
 Dynamic Media Classic supports mobile video playback for MP4 H.264 video. 
 
-* You can find Blackberry devices that support this video format at the following: [Supported video formats on Blackberry](https://docs.blackberry.com/en/smartphone_users/deliverables/18349/711-01774-123_Supported_Media_Types_on_BlackBerry_Smartphones.pdf)
-* You can also find Windows devices that support this video format at the following:[Supported video formats on Windows Phone](https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx)
+* You can find Blackberry devices that support this video format at the following: [Supported video formats on Blackberry](https://developer.blackberry.com/devzone/develop/supported_media/bb10_media_support.html)
+* You can also find Windows devices that support this video format at the following:[Supported video formats on Windows Phone](https://docs.microsoft.com/en-us/previous-versions/windows/apps/ff462087(v=vs.105)?redirectedfrom=MSDN)
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|Blackberry Smartphone|Windows Phone|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |

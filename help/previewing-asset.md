@@ -20,7 +20,7 @@ See [Configuring Default Viewers](application-setup.md#configuring_default_viewe
 
 If you are previewing a template asset with parameter layers, you can make changes to the parameters or change the image preset. Because your changes are made inline, you can view the results immediately from the same Preview window.
 
-See also [Dynamic Media Classic Viewer Library Examples](https://marketing.adobe.com/resources/help/en_US/s7/vlist/vlist.html).
+See also Adobe Viewers Reference Library Examples [here](/help/assets/vlist/vlist.html) and [here](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 **To preview an asset**
 

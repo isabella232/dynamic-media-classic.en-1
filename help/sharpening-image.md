@@ -34,7 +34,7 @@ Over sharpening an image creates a halo effect, or banding of the edge’s lines
 
 There are best practices you can follow to optimize the sharpening of your images in Scene7 Publishing System and on Dynamic Media Image Server.
 
-See [Best practices for sharpening images in Scene7 Publishing System and on Dynamic Media Image Server](https://marketing.adobe.com/resources/help/en_US/s7/sharpening/s7_sharpening_images.pdf).
+See [Best practices for sharpening images in Scene7 Publishing System and on Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
 
 **To sharpen an image**
 
