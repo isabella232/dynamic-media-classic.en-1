@@ -22,5 +22,17 @@ Welcome to Adobe Dynamic Media Classic (formerly Scene7), the leading on-demand 
 ## Key resources
 
 * [Getting started & overview](/help/scene7-platform-overview.md)
+* [Quick Start: Ecatalog](/help/quick-start-ecatalog.md)
+* [Quick Start: Image sets](/help/quick-start-image-sets.md)
+* [Quick Start: Image sizing](/help/quick-start-image-sizing.md)
+* [Quick Start: Integrating Scene7 analytics](/help/quick-start-integrating-scene7-analytics.md)
 * [Quick Start: Media Portal](/help/quick-start-media-portal-administration.md)
-* [What's new](/help/whats-new.md)
+* [Quick Start: Mixed media sets](/help/quick-start-mixed-media-sets.md)
+* [Quick Start: Spin sets](/help/quick-start-spin-sets.md)
+* [Quick Start: Swatch sets](/help/quick-start-swatch-sets.md)
+* [Quick Start: Target Classic integration](/help/quick-start-target-classic-integration.md)
+* [Quick Start: Template basics](/help/quick-start-template-basics.md)
+* [Quick Start: Template publishing](/help/quick-start-template-publishing.md)
+* [Quick Start: Video](/help/quick-start-video.md)
+* [Quick Start: Zoom](/help/quick-start-zoom.md)
+

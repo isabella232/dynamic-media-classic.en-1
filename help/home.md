@@ -11,19 +11,20 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 Welcome to the Dynamic Media Classic Help. Here you can access all available resources to successfully learn more about using Dynamic Media Classic (formerly known as Scene7).
 
-## Dynamic Media Classic Technical Documentation
+## New Dynamic Media Classic user interface coming in first half of 2020
 
-* [Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [User Guide](introduction.md)
+Dynamic Media Classic users can expect a refresh of their user interface in the first half of 2020. The experience will deliver an updated log-in with links to valuable resources. Plus, this update will no longer rely on Adobe Flash technology in the browser.
 
-## Dynamic Media Classic Developer Resources
+See [Frequently Asked Questions](new-ui-2020.md).
 
-* [Adobe Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/index.html)
-* [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
-* [Image Serving and Image Rendering API](https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/index.html)
+## Dynamic Media Developer Resources
 
-## Dynamic Media Classic Webinars and Tutorials
+* [Dynamic Media Developer Resources landing page](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html) &mdash; Includes Viewers Reference Guide, Image Serving/Image Rendering API, Image Production System API, and Dynamic Media Classic Release Notes.
+* [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) &mdash; Includes viewer examples for video, shoppable media, mixed media, spin sets, inline zoom, image and swatch sets, and flyouts.   
 
+## Dynamic Media Classic Newsletters, Webinars, and Tutorials
+
+* [Dynamic Media Newsletter Archive](dynamic-media-newsletter.md)
 * [Best Practices for Sharpening Images](/help/assets/s7_sharpening_images.pdf)
 * [Maximize your Asset ROI](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&fcsContent=true&pbMode=normal&proto=true) - Learn industry best practices to deliver rich media across your sites and mobile apps. In this webinar we give examples and demonstrations showing you how to deliver video efficiently across devices, deliver dynamic creative in your marketing campaigns, and increase conversion by making any image, style guide, or lookbook shoppable.
 * [Accelerate Your Content Delivery Lifecycle](https://adobecustomersuccess.adobeconnect.com/p88ducm9pqv/) - This webinar gives you an introduction and demonstration of Adobe Experience Manager Assets - on demand, the next generation platform for rich media management and delivery. Learn how to collaborate and share assets between creative and marketing teams to streamline asset review processes; best practices to manage asset metadata efficiently to make assets easy to find, use, reuse and share, and how to deliver interactive cross-channel rich media experiences.
