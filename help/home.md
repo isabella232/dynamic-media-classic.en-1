@@ -11,11 +11,11 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 Welcome to the Dynamic Media Classic Help. Here you can access all available resources to successfully learn more about using Dynamic Media Classic (formerly known as Scene7).
 
-## New Dynamic Media Classic user interface coming in first half of 2020
+<!-- ## New Dynamic Media Classic user interface coming in first half of 2020
 
 Dynamic Media Classic users can expect a refresh of their user interface in the first half of 2020. The experience will deliver an updated log-in with links to valuable resources. Plus, this update will no longer rely on Adobe Flash technology in the browser.
 
-See [Frequently Asked Questions](new-ui-2020.md).
+See [Frequently Asked Questions](new-ui-2020.md).-->
 
 ## Dynamic Media Developer Resources
 
