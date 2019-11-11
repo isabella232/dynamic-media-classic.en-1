@@ -9,7 +9,7 @@ index: y
 # Dynamic Media Classic Help {#using}
 
 + [Dynamic Media Classic Documentation Home](home.md)
-+ [New Dynamic Media Classic user interface coming in first half of 2020](new-ui-2020.md)
+<!-- + [New Dynamic Media Classic user interface coming in first half of 2020](new-ui-2020.md)-->
 + [Dynamic Media Newsletter by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
     + [About Dynamic Media Classic](introduction.md)
