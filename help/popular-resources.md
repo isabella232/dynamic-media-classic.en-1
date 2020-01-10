@@ -9,7 +9,7 @@ discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 
 ---
 
-# Popular resources
+# Popular resources{#popular-resources}
 
 ## Dynamic Media Classic Technical Documentation
 
