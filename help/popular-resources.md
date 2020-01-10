@@ -9,7 +9,7 @@ discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 
 ---
 
-# Popular resources {#popular-resources}
+# Popular resources{#popular-resources}
 
 ## Dynamic Media Classic Technical Documentation
 
@@ -30,12 +30,12 @@ discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 * [Design for Mobile Optimization](https://adobecustomersuccess.adobeconnect.com/p6oqd3wydif/?launcher=false&fcsContent=true&pbMode=normal&proto=true) - Use Dynamic Media Classic to efficiently deliver targeted rich media to all devices. In this webinar, you learn how to design and deliver imaging and video viewing experiences that are effective across mobile apps and responsive sites.
 * [How Adobe Dyanmic Media Classic Supports SEO](/help/assets/s7_seo.pdf) - Search engines today enable search for websites and images. SPS supports efforts to make images more search-engine friendly so that more traffic is driven to the Dynamic Media Classic user's website. This PDF gives you the background and implementation recommendations to make that happen.
 * [Using Dynamic Media Classic to maximize holiday conversion](https://adobecustomersuccess.adobeconnect.com/p32n1yr85c9/?proto=true) - This webinar teaches you how to set up automated workflows to get content from watched folders and automatically create spin sets and videos. You also learn how to quickly manage changes and update images.
-* [Best practices to deliver interactive experiences with Dynamic Media Classic](http://seminars.adobeconnect.com/p7wb8ej3u6d/) - This webinar teaches you how to get content in and out of Dynamic Media Classic and how to set up image presets for optimal performance and experience. You also learn about viewer presets and caching configurations.
-* [Best practices for responsive design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - This webinar teaches you practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one master asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images.
+* [Best practices to deliver interactive experiences with Dynamic Media Classic](https://seminars.adobeconnect.com/p7wb8ej3u6d/) - This webinar teaches you how to get content in and out of Dynamic Media Classic and how to set up image presets for optimal performance and experience. You also learn about viewer presets and caching configurations.
+* [Best practices for responsive design](https://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - This webinar teaches you practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one master asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images.
 
 ## Dynamic Media Classic Training
 
-Go [here](http://training.adobe.com/training/courses.html#product=adobe-scene7) to see the training courses that are currently available.
+Go [here](https://training.adobe.com/training/courses.html#product=adobe-scene7) to see the training courses that are currently available.
 [Dynamic Media Classic training videos](https://marketing.adobe.com/resources/help/en_US/s7/training-videos/).
 
 Please see all the popular resources available for [Dynamic Media Classic](home.md).

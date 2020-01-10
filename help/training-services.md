@@ -30,7 +30,7 @@ See [Quick Start Video Tutorials](https://marketing.adobe.com/resources/help/en_
 
 **Demos**
 
-Watch demonstrations of Dynamic Media Classic features.
+Watch demonstrations of Dynamic Media Classic viewer features.
 
 See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media-assets-demos.html).
 
