@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: dynamic media classic 
+product: dynamic media classic
 audience: end-user
 user-guide-title: Dynamic Media Classic Help
 index: y
@@ -21,7 +21,7 @@ index: y
     + [Help for Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
     + [Adobe Training Services](training-services.md)
     + [Popular resources](popular-resources.md)
-    * [Training videos](training-videos.md)
+    + [Training videos](training-videos.md)
 + Getting started {#getting-started}
     + [Adobe Dynamic Media Classic platform overview](scene7-platform-overview.md)
     + [Using Scene7 Publishing System desktop version](using-scene7-publishing-system-desktop.md)
