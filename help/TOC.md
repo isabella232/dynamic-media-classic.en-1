@@ -149,7 +149,7 @@ index: y
     + [Publishing a Mixed Media Set](publishing-mixed-media-set.md)
     + [Linking a Mixed Media Set to a web page](linking-mixed-media-set-web.md)
 + Adobe Analytics instrumentation kit {#analytics-kit}
-    + [Quick Start: Integrating Dynamic Media Classic with Adobe Analytics ](quick-start-integrating-scene7-analytics.md)
+    + [Quick Start: Integrating Dynamic Media Classic with Adobe Analytics](quick-start-integrating-scene7-analytics.md)
     + [Log in to Adobe Analytics](log-analytics.md)
     + [Configuring Adobe Analytics reports](configuring-analytics-reports.md)
     + [Instrumenting a viewer using the Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
