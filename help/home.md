@@ -37,4 +37,6 @@ See [Frequently Asked Questions](new-ui-2020.md).
 ## Dynamic Media Classic Training
 
 Go [here](http://training.adobe.com/training/courses.html#product=adobe-scene7) to see the training courses that are currently available.
-[Dynamic Media Classic training videos](https://marketing.adobe.com/resources/help/en_US/s7/training-videos/).
+[Dynamic Media Classic training videos](/help/training-videos.md). 
+
+<!-- old path was (https://marketing.adobe.com/resources/help/en_US/s7/training-videos/) -->
