@@ -1,6 +1,6 @@
 ---
 title: Dynamic Media Classic Training Videos
-description: null
+description: Dynamic Media Classic training videos on getting started, dynamic imaging, video, media portal, templates, and image authoring and rendering.
 
 ---
 
