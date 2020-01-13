@@ -218,7 +218,7 @@ Training videos on various aspects of the following:
 
 * [Introduction to overlap objects](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/610_IA005-Intro-Overlap_ia_05overlap-AVS)
 
-### Three Dimensional (3D) Room Scenes {#3d-room-scenes}
+### 3D Room Scenes {#three-dimensional-room-scenes}
 
 * [3D project overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/611_01_3D_project_ov_ia_06room3d-AVS)
 
