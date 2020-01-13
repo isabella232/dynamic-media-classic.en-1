@@ -91,6 +91,7 @@ Dynamic Media Classic training videos on getting started, dynamic imaging, video
 * [SPS 6.5, update overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/529_6.5%20highlights_2012.11.06%20-%20Scene7%20-%206.5%20Release%20Highlights_Scratch-AVS) 
 
 ## Image Authoring and Rendering {#image-authoring-rendering-training}
+
 Training videos on various aspects of the following:
 
 * Colorizing
@@ -217,7 +218,7 @@ Training videos on various aspects of the following:
 
 * [Introduction to overlap objects](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/610_IA005-Intro-Overlap_ia_05overlap-AVS)
 
-### 3D Room Scenes {#3d-room-scenes}
+### Three Dimensional (3D) Room Scenes {#3d-room-scenes}
 
 * [3D project overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/611_01_3D_project_ov_ia_06room3d-AVS)
 
