@@ -19,6 +19,15 @@ In this one-stop shop newsletter, discover valuable knowledge-building resources
 
 ## Missed an issue of the Dynamic Media Newsletter?
 
+* **[January 2020, Issue 1](http://amc-mkt-prod1-t.adobe-campaign.com/rest/head/mirrorPage/@NpvOA7LHuVbd-W1B5pENdSLNFZ4L4ZeEkA_bVd4reX31KUOs3uaPFEuEx2mWz-3oNkVBcY5fdimoW3RM-SzTt6QXI4l1Rd2mEwrYsWp7C1LnUMVp.html)**
+    In this issue:
+
+    * Five new Skill Builder Webinars to hone your Dynamic Media Classic skills.
+    * A free audit to help you get more value from Dynamic Media Classic.
+    * A record-setting holiday shopping season for our rich media customers.
+    * Your go-to guide for selecting a DAM (Digital Asset Manager) that meets your needs for today and prepares you for what's new in rich media tomorrow.
+    * Meet Mark Dean, Digital Media Specialist.
+
 * **[November 2019, Issue 11](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_11_2019_Nov.html)**
     In this issue:
 
