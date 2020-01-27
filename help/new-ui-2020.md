@@ -11,6 +11,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 # New Dynamic Media Classic user interface coming in first half of 2020{#new-ui-2020}
 
+_Last updated January 27, 2020_
+
 Dynamic Media Classic users can expect a refresh of their user interface in the first half of 2020. This experience will deliver an updated log-in that no longer relies on Adobe Flash technology in the browser. Be sure you read the following Frequently Asked Questions and stay tuned for more details in the coming months. 
 
 **_When browsers stop supporting Adobe Flash on December 31, 2020, will there be any impact to Dynamic Media Classic (formerly Scene7)?_**
