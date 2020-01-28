@@ -25,7 +25,6 @@ Adobe Flash is a web browser plug-in that allows software to be run on any web b
 
 The new Dynamic Media Classic desktop app is scheduled for released in the first half of 2020.
 
-\
 ### **_What if I am using the Dynamic Media Classic APIs to access the product and do not log in through the web user interface?_**
 
 There is no change to the underlying APIs for Dynamic Media Classic.
