@@ -39,7 +39,7 @@ No. There is no impact to automation scripts. The new desktop application acts a
 
 **_Will the new Dynamic Media Classic desktop app work on Mac and PC?_**
 
-Yes. The new desktop app will be a cross-platform solution and works on Macs and PCs.
+Yes. The new desktop app will be a cross-platform solution and works on Macs and PCs. Linux will not be supported.
 
 **_My company has strict security requirements. How will the new Dynamic Media Classic desktop app handle these requirements?_**
 
