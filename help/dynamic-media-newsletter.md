@@ -19,6 +19,16 @@ In this one-stop shop newsletter, discover valuable knowledge-building resources
 
 ## Missed an issue of the Dynamic Media Newsletter?
 
+* **[February 2020, Issue 2](http://amc-mkt-prod1-t.adobe-campaign.com/rest/head/mirrorPage/@5lYjerUalNCDQd6ABlMufSyP3GqbFDn747uBiom3-3_efxsaEjuw8LNhJxrs89ft1vcsQzjvxTGMo55w-4k0YyBVGiL6m5AWSe9I7H7wIXKT0Efz.html)**
+    In this issue:
+
+    * Attend new Skill Builder Webinars and transform into a Dynamic Media Classic expert.
+    * See where you'll find Dynamic Media at Adobe Summit 2020.
+    * Discover how to use the cropping magic of Dynamic Media.
+    * Take advantage of a free audit to help you get more value from Dynamic Media Classic.
+    * Learn about the new user interface for Dynamic Media Classic.
+    * Meet Georgia Myers, Manager of Customer Success for Adobe Experience Cloud.
+
 * **[January 2020, Issue 1](http://amc-mkt-prod1-t.adobe-campaign.com/rest/head/mirrorPage/@NpvOA7LHuVbd-W1B5pENdSLNFZ4L4ZeEkA_bVd4reX31KUOs3uaPFEuEx2mWz-3oNkVBcY5fdimoW3RM-SzTt6QXI4l1Rd2mEwrYsWp7C1LnUMVp.html)**
     In this issue:
 
