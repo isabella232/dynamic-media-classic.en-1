@@ -2,12 +2,12 @@
 cloud: experience-cloud
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
-solution-image: 
+solution-image:
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-manager/scene7/topics/getting-started.html
 tutorials-title: Tutorials
 tutorials-url: https://marketing.adobe.com/resources/help/en_US/s7/training-videos/
-git-repo: https://git.corp.adobe.com/AdobeDocs/scene7.en
+git-repo: https://github.com/AdobeDocs/dynamic-media-classic.en
 ---
 
 # Metadata for internal use
