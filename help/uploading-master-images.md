@@ -23,7 +23,7 @@ For details on uploading images, see [Uploading files](uploading-files.md#upload
 Prepare your master image files before you upload them to the Scene7 Publishing System:
 
 * **Image size**
-Create the largest size images you anticipate using. Typical image sizes range from 1500 to 2500 pixels in the longest dimension. If you intend to use the Zoom feature, Dynamic Media Classic recommends using images that are at least 2000 pixels in the longest dimension for optimal zoom detail.
+Create the largest size images you anticipate using. Typical image sizes range from 1500 to 2500 pixels in the longest dimension. If you intend to use the Zoom feature, Dynamic Media Classic recommends using images that are at least 2000 pixels in the longest dimension for optimal zoom detail. Dynamic Media Classic can render images up to 25 megapixels each. For example, you could use a 5000 x 5000 megapixel image or any other size combination up to 25 megapixels.
 
 * **File formats**
 Dynamic Media Classic supports all standard image file formats, including TIFF, BMP, JPEG, PSD, GIF, and EPS. Lossless image formats—TIFF and PNG—are recommended. If you are using a JPEG image, use the highest quality settings.
