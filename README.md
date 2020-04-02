@@ -1,4 +1,4 @@
-# Dynamic Media Classic Documentation
+# Adobe Dynamic Media Classic Documentation
 
 This is the repository for Adobe Dynamic Media Classic documentation.
 
