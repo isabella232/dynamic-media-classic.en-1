@@ -25,10 +25,10 @@ In this one-stop shop newsletter, discover valuable knowledge-building resources
 
     * Discover three ways your rich media investment can help during these challenging times.
     * Sign up for the webinar to learn how to lighten your page load with Smart Imaging.
-    * Watch the on-demand Skill Builder webinars for Dynamic Media Classic
-    * View the Dynamic Media sessions from Online Adobe Summit 2020
-    * Learn more about our free Dynamic Media Classic audits
-    * Meet John Monroe, Senior Program Manager for Customer Success Services
+    * Watch the on-demand Skill Builder webinars for Dynamic Media Classic.
+    * View the Dynamic Media sessions from Online Adobe Summit 2020.
+    * Learn more about our free Dynamic Media Classic audits.
+    * Meet John Monroe, Senior Program Manager for Customer Success Services.
 
     >[!IMPORTANT]
     >
