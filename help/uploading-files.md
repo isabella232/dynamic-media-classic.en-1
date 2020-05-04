@@ -46,6 +46,17 @@ This table lists the asset file formats that the Scene7 Publishing System suppor
 
 TAR and ZIP upload support includes a check box to select if you want to unpack the files.
 
+### Unsupported image formats in Dynamic Media {#unsupported-image-formats-dynamic-media}
+
+The following list describes the sub-types of raster image file formats that are *not* supported in Dynamic Media.
+
+* PNG files that have an IDAT chunk size greater than 100 MB.
+* PSB files.
+* PSD files with a color space other than CMYK, RGB, Grayscale, or Bitmap are not supported. DuoTone, Lab, and Indexed color spaces are not supported.
+* PSD files that have a bit depth greater than 16.
+* TIFF files that have floating point data.
+* TIFF files that have Lab color space.
+
 ### Asset types {#asset-types}
 
 To achieve optimal results with the Dynamic Media Classic platform, be sure to use the recommended file formats and sizes. This table lists asset types, some with recommended formats and file sizes for commonly used assets.
