@@ -13,7 +13,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 ## _Last updated May 7, 2020_
 
-On June 30, 2020, Dynamic Media classic users will gain access to a new logon experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
+On June 30, 2020, Dynamic Media classic users will gain access to a new login experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
 
 ### **_When browsers stop supporting Adobe Flash on December 31, 2020, will there be any impact to Dynamic Media Classic (formerly Scene7)?_**
 

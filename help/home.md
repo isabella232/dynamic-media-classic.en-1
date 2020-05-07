@@ -11,16 +11,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 Welcome to the Dynamic Media Classic Help. Here you can access all available resources to successfully learn more about using Dynamic Media Classic (formerly known as Scene7).
 
-## New Dynamic Media Classic user interface coming in first half of 2020
+## New Dynamic Media Classic log in experience available June 30, 2020
 
-Dynamic Media Classic users can expect a refresh of their user interface in the first half of 2020. The experience will deliver an updated log-in with links to valuable resources. Plus, this update will no longer rely on Adobe Flash technology in the browser.
+On June 30, 2020, Dynamic Media classic users will gain access to a new log in experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
 
-See [Frequently Asked Questions](new-ui-2020.md).
+See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 
 ## Dynamic Media Developer Resources
 
 * [Dynamic Media Developer Resources landing page](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html) &mdash; Includes Viewers Reference Guide, Image Serving/Image Rendering API, Image Production System API, and Dynamic Media Classic Release Notes.
-* [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) &mdash; Includes viewer examples for video, shoppable media, mixed media, spin sets, inline zoom, image and swatch sets, and flyouts.   
+* [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) &mdash; Includes viewer examples for video, shoppable media, mixed media, spin sets, inline zoom, image and swatch sets, and flyouts.
 
 ## Dynamic Media Classic User Resources
 
