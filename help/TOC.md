@@ -123,16 +123,6 @@ index: y
     + [Publishing templates](publishing-templates.md)
     + [Linking a template to a web page](linking-template-web-page.md)
     + [Managing content variations](content-variations.md)
-+ Template publishing {#template-publishing}
-    + [Quick Start: Template publishing](quick-start-template-publishing.md)
-    + [Create the initial template in Adobe Illustrator](create-initial-template-illustrator.md)
-    + [Upload files for Template Publishing](upload-files-template-publishing.md)
-    + [Defining variability: Parameterization versus DOM manipulation](defining-variability-parameterization-versus-dom.md)
-    + [Parameterizing a template in Dynamic Media Classic](parameterizing-template-scene7.md)
-    + [Preview and update template attributes](preview-update-template-attributes.md)
-    + [DOM manipulation](dom-manipulation.md)
-    + [Linking an FXG template to a web page](linking-fxg-template-web-page.md)
-    + [Creating a PDF document](creating-pdf-document.md)
 + Video {#video}
     + [Quick Start: Video](quick-start-video.md)
     + [Best practice: Using the HTML5 Video viewer](best-practice-using-html5-video.md)
