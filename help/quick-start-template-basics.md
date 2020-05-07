@@ -16,10 +16,6 @@ discoiquuid: dd0fbb39-3f6a-496b-a9b6-63b11dcb823a
 
 Template Basics are dynamically created and addressable layered image files like layered files in image-editing applications such as Adobe Photoshop. Unlike a static file containing layers, such as a PSD file, a template can include parameters. Through parameters, the different aspects of the image can be addressed and customized.
 
->[!NOTE]
->
->You can also create templates from layout-based designs by using Template Publishing and files from Adobe Illustrator and Adobe InDesign. See [Template Publishing](quick-start-template-publishing.md) .
-
 A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, as well as create templates in Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into SPS. After you add text to a template, you can format it by changing its justification, fonts, font size, and color.
 
 Using the Parameters screen, you can convert any aspect of a template to an addressable parameter. In so doing, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.

@@ -16,7 +16,6 @@ Welcome to Adobe Dynamic Media Classic (formerly Scene7), the leading on-demand 
 * Media Portal: Self-serve environment providing portal users with administrator-controlled “views” into Dynamic Media Classic assets for easy access to upload, browse, search, preview, and export of assets.
 * eVideo: Upload final videos in any format, manage, edit, create hot spots and video templates, publish and stream into configurable video viewers
 * Visual Configurators: Real-time rendering technology to enable online visual configuration for personalization and customization effects such as real-time rendering of colors textures, surfaces, patterns, monograms, and engravings into product images or scenes.
-* Web-to-Print: Real-time composition technology and framework to enable custom web-to-print solutions for creating customized and personalized documents.
 * Target email and print: Deliver visually targeted, personalized email campaigns tied to customer profile, product, and channel databases.
 
 ## Key resources
@@ -32,7 +31,6 @@ Welcome to Adobe Dynamic Media Classic (formerly Scene7), the leading on-demand 
 * [Quick Start: Swatch sets](/help/quick-start-swatch-sets.md)
 * [Quick Start: Target Classic integration](/help/quick-start-target-classic-integration.md)
 * [Quick Start: Template basics](/help/quick-start-template-basics.md)
-* [Quick Start: Template publishing](/help/quick-start-template-publishing.md)
 * [Quick Start: Video](/help/quick-start-video.md)
 * [Quick Start: Zoom](/help/quick-start-zoom.md)
 

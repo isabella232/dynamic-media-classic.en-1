@@ -30,25 +30,6 @@ Identifies your account name, name, user name (e-mail address), and assigned use
 
 Click Install Now to install the desktop version of Scene7 Publishing System on your local hard drive. Or, click Reinstall Now to install the desktop version again.
 
-### Illustator Plug-in for Web-to-Print
-
-On computers running Windows 7 or 8, you must have administrator privileges and log on as an administrator in Windows to install the Adobe Illustrator Plug-in for Web-to-Print. After you install the plug-in, it is available in Adobe Illustrator.
-
-The plug-in is supported for the following Adobe Illustrator versions:
-
-* Adobe Illustrator 18 in Adobe Creative Cloud 2014.
-* Adobe Illustrator 17 in Adobe Creative Cloud.
-* Adobe Illustrator 16 in Adobe Creative Suite 6.
-
-Supported Adobe Illustrator platforms include the following:
-
-* Apple Mac OS X 10.7 or greater.
-* Windows 8, 32-bit and 64-bit.
-* Windows 7, 32-bit and 64-bit.
-* Windows XP, 32-bit and 64-bit (for Adobe Illustrator 16 in Adobe Creative Suite 6 only).
-
-See also [Template Publishing](quick-start-template-publishing.md).
-
 ## To install the plug-in on your local hard drive
 
 1. On the Personal Setup page in Scene7 Publishing System, under Illustrator Plug-in for Web-to-Print, click **Download Now** to download the **Illustrator Plug-in for Web-to-Print.zip** file. 
@@ -135,7 +116,6 @@ See also [User-Defined Fields](application-setup.md#user_defined_fields).
     * Contain at least one uppercase letter
     * Contain at least one number
     * Contain at least one of the following special characters: #$&-_:{}
-
 * **Re-Type Password**
   * Re-enter the new password to confirm that you are entering it correctly.
 * **Password Expiration**
