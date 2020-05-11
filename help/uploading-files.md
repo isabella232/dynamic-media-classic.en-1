@@ -50,6 +50,8 @@ TAR and ZIP upload support includes a check box to select if you want to unpack 
 
 The following list describes the sub-types of raster image file formats that are *not* supported in Dynamic Media.
 
+See also [Detect unsupported file formats for Dynamic Media](https://helpx.adobe.com/experience-manager/kb/detect-unsupported-assets-for-dynamic-media.html).
+
 * PNG files that have an IDAT chunk size greater than 100 MB.
 * PSB files.
 * PSD files with a color space other than CMYK, RGB, Grayscale, or Bitmap are not supported. DuoTone, Lab, and Indexed color spaces are not supported.
