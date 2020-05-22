@@ -16,7 +16,7 @@ index: y
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
     + [System requirements](system-requirements.md)
-    + [Adobe Scene7 Publishing System desktop applications](scene7-publishing-system-desktop-applications.md)
+    + [Adobe Dynamic Media Classic desktop app coming soon!](dynamic-media-classic-desktop-app.md)
     + [Support](support.md)
     + [Help for Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
     + [Adobe Training Services](training-services.md)
