@@ -1,8 +1,8 @@
 ---
-title: New Dynamic Media Classic user interface coming in first half of 2020
-seo-title: New Dynamic Media Classic user interface coming in first half of 2020
-description: Dynamic Media Classic users can expect a refresh of their user interface in the first half of 2020. The experience will deliver an updated log-in with links to valuable resources, plus this update will no longer rely on Adobe Flash technology in the browser.
-seo-description: Dynamic Media Classic users can expect a refresh of their user interface in the first half of 2020. The experience will deliver an updated log-in with links to valuable resources, plus this update will no longer rely on Adobe Flash technology in the browser.
+title: New Dynamic Media Classic login experience available June 30, 2020
+seo-title: New Dynamic Media Classic June 30, 2020
+description: Dynamic Media Classic users can expect a refresh of their user interface June 30, 2020. The experience will deliver an updated log-in with links to valuable resources, plus this update will no longer rely on Adobe Flash technology in the browser.
+seo-description: Dynamic Media Classic users can expect a refresh of their user interface on June 30, 2020. The experience will deliver an updated log-in with links to valuable resources, plus this update will no longer rely on Adobe Flash technology in the browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
