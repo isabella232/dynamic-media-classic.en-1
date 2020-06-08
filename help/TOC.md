@@ -24,7 +24,6 @@ index: y
     + [Training videos](training-videos.md)
 + Getting started {#getting-started}
     + [Adobe Dynamic Media Classic platform overview](scene7-platform-overview.md)
-    + [Using Scene7 Publishing System desktop version](using-scene7-publishing-system-desktop.md)
     + [Media Portal](media-portal.md)
     + [Signing in and out](signing-out.md)
     + [Navigation basics](navigation-basics.md)
