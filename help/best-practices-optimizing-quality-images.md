@@ -24,7 +24,7 @@ See also [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/u
 
 * JPG or PNG are the best choices to deliver images in good quality and with manageable size and weight.
 * If no format command is supplied in the URL, Dynamic Media Image Serving defaults to JPG for delivery.
-* JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except in some cases, such as when images contain a white background. Typically though, PNG file sizes are larger than JPG files.
+* JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except in some cases, such as when images contain a empty background. Typically though, PNG file sizes are larger than JPG files.
 * JPG uses lossy compression, meaning that picture elements (pixels) are dropped during compression. PNG on the other hand uses lossless compression.
 * JPG often compresses photographic images with better fidelity than synthetic images with sharp edges and contrast. 
 * If your images contain transparency, use PNG because JPG does not support transparency.
