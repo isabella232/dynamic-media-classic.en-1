@@ -66,13 +66,13 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
  
 1. Post the login UI, you will notice the familiar browser UI experience. You can carry your day to day activity as usual now on the desktop app UI.
 
-## Known Limitations with the Dynamic Media Classic desktop app 
+## Known Windows-only limitations with the Dynamic Media Classic desktop app 
  
-Q1) When trying to copy the file name on the asset, CTRL+C erases the file name. <<Windows only limitation>>
-A1) Use right click mouse action, to copy file name of an asset
+*When trying to copy the file name on the asset, CTRL+C erases the file name.* 
+Use right-click on your mouse to copy the file name of an asset.
  
-Q2) Is there a limitation on the number of files that can be uploaded through the desktop app UI? <<Windows only limitation>>
-A2) Yes, for Windows, only a maximum of 150 files can be uploaded at a time through the desktop app UI
+*Is there a limitation on the number of files that can be uploaded through the desktop app UI?*
+Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
  
 ## Tips and Tricks 
 *I am unable to see Media Cart panel on the landing page of Dynamic Media Classic*<br>Go to Setup > Personal Setup > BROWSER section. Ensure the checkbox on "Show MediaPortal Features" is enabled. Tap **[!UICONTROL Save > Close]**.
