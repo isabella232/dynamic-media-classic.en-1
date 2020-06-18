@@ -41,18 +41,18 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
     * **For macOS** &ndash; In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
 
-        ![image text](/help/assets/dragondrop-install.png)
+        ![Drag and drop install on macOS](/help/assets/dragondrop-install.png)
 
     * In the **[!UICONTROL Applications]** folder, tap the Adobe Dynamic Media Classic icon.
     * In the dialog box, tap **[!UICONTROL Open]** to open the Adobe Dynamic Media Classic desktop app.
 
-        ![image text](/help/assets/open-dmclassicapp.png)
+        ![Open downloaded app](/help/assets/open-dmclassicapp.png)
 
     * **For Windows** &ndash; Run the installer binary and follow the on-screen instructions to install the desktop app.
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
 
-    ![image text](/help/assets/dmclassic-login.png)
+    ![Dynamic Media Classic sign in](/help/assets/dmclassic-login.png)
 
 1. Use the same credentials as your browser credentials to sign in to Adobe Dynamic Media Classic.
 
@@ -66,14 +66,17 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
  
 1. Post the login UI, you will notice the familiar browser UI experience. You can carry your day to day activity as usual now on the desktop app UI.
 
-## Known Windows-only limitations with the Dynamic Media Classic desktop app 
+## Known Windows-only limitation in Dynamic Media Classic 
  
 **_Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
  
 ## Tips and Tricks 
 
-**_I am unable to see Media Cart panel on the landing page of Dynamic Media Classic_**<br>In Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
+**_I am unable to see Media Cart panel on the landing page of Dynamic Media Classic._**<br>In Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section, make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
  
-**_Publish state (Green indicator) of an asset is not reflected correctly._**<br>In the browser UI, a re-login to the UI was required to see the correct publish state of assets. In the desktop app, we have introduced a **[!UICONTROL Refresh]** icon in the right panel (as shown below). Tap the icon to see the latest status of all the assets on the given page. No re-login required as with the browser UI.
+**_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser UI, a re-login to the UI was required to see the correct publish state of assets. In the desktop app, we have introduced a **[!UICONTROL Refresh]** icon on the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No re-login required as with the browser UI.
+
+![Refresh icon](/help/assets/refresh-icon.png)
+*Refresh icon*
  
-**_I don't see batch set presets working in the desktop app._**<br>In **[!UICONTROL Upload > Job Options > Batch Set Presets]**, ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.
+**_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.
