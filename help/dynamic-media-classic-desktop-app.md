@@ -68,15 +68,12 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 ## Known Windows-only limitations with the Dynamic Media Classic desktop app 
  
-*When trying to copy the file name on the asset, CTRL+C erases the file name.* 
-Use right-click on your mouse to copy the file name of an asset.
- 
-*Is there a limitation on the number of files that can be uploaded through the desktop app UI?*
-Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
+**_Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
  
 ## Tips and Tricks 
-*I am unable to see Media Cart panel on the landing page of Dynamic Media Classic*<br>Go to Setup > Personal Setup > BROWSER section. Ensure the checkbox on "Show MediaPortal Features" is enabled. Tap **[!UICONTROL Save > Close]**.
+
+**_I am unable to see Media Cart panel on the landing page of Dynamic Media Classic_**<br>In Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
  
-*Publish state (Green indicator) of an asset is not reflected correctly.*<br>In the browser UI, a re-login to the UI was required to see the correct Publish state of asset(s). In the desktop app, we have introduced a "Refresh" icon in the right panel (as shown below). Clicking this, gets the latest status of all the assets on the given page. No re-login required as with the browser UI.
+**_Publish state (Green indicator) of an asset is not reflected correctly._**<br>In the browser UI, a re-login to the UI was required to see the correct publish state of assets. In the desktop app, we have introduced a **[!UICONTROL Refresh]** icon in the right panel (as shown below). Tap the icon to see the latest status of all the assets on the given page. No re-login required as with the browser UI.
  
-*I don't see batch set presets working in the desktop app.*<br>In **[!UICONTROL Upload > Job Options > Batch Set Presets]**, ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.
+**_I don't see batch set presets working in the desktop app._**<br>In **[!UICONTROL Upload > Job Options > Batch Set Presets]**, ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.
