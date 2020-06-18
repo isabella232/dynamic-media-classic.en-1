@@ -14,9 +14,9 @@ discoiquuid: 27278fef-8b0e-41cd-b393-7a4c3625d5c0
 
 # System requirements {#system-requirements}
 
-For the best experience using Scene7 Publishing System, make sure that your system meets the following system requirements and recommendations:
+For the best experience using Dynamic Media Classic desktop app, make sure that your system meets the following system requirements and recommendations:
 
-* Microsoft® Windows® 7 or later or Mac OS X 10.6 or higher Macintosh® Intel processor required.
+* Microsoft® Windows® 7 or later or macOS X 10.6 or higher Macintosh® Intel processor required.
 * 3 GB RAM or higher required (4 GB or higher recommended).
 * Color monitor.
 * Video card supporting True Color at 1280x1024 resolution or higher.
