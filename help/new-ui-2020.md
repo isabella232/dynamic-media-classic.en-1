@@ -1,41 +1,50 @@
 ---
-title: New Dynamic Media Classic login experience available June 30, 2020
-seo-title: New Dynamic Media Classic June 30, 2020
-description: Dynamic Media Classic users can expect a refresh of their user interface June 30, 2020. The experience will deliver an updated log-in with links to valuable resources, plus this update will no longer rely on Adobe Flash technology in the browser.
-seo-description: Dynamic Media Classic users can expect a refresh of their user interface on June 30, 2020. The experience will deliver an updated log-in with links to valuable resources, plus this update will no longer rely on Adobe Flash technology in the browser.
+title: New Dynamic Media Classic sign in experience now available
+seo-title: New Dynamic Media Classic desktop app now available
+description: Dynamic Media Classic users can now experience a complete refresh of the user interface. The experience delivers an updated sign in with links to valuable resources, plus this update no longer relies on Adobe Flash technology in the browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 ---
 
-# New Dynamic Media Classic login experience available June 30, 2020 {#new-ui-2020}
+# New Dynamic Media Classic sign in experience is now available {#new-ui-2020}
 
-## _Last updated May 7, 2020_
+See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the app, and then sign in to it.
 
-On June 30, 2020, Dynamic Media classic users will gain access to a new login experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
+## _Last updated June 30, 2020_
+
+Dynamic Media classic users now have access to a new sign in experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
 
 ### **_When browsers stop supporting Adobe Flash on December 31, 2020, will there be any impact to Dynamic Media Classic (formerly Scene7)?_**
 
-Adobe Flash Player is a web browser plug-in that lets web browsers use content developed on the Adobe Flash Platform. The web user interface of Dynamic Media Classic&ndash;currently labeled Scene7 Publishing System or SPS in the product&ndash;currently requires the Adobe Flash Player. Adobe will provide customers with a desktop application that replaces the browser application.
+Adobe Flash Player is a web browser plug-in that lets web browsers use content developed on the Adobe Flash Platform. The web user interface of Dynamic Media Classic&ndash;currently labeled [!DNL Scene7 Publishing System] or [!DNL SPS] in the product&ndash;currently requires the Adobe Flash Player. Adobe has provided customers with a desktop application that now replaces the browser application.
 
 ### **_When will the new desktop app be available to Dynamic Media Classic customers?_**
 
-The new Dynamic Media Classic desktop app will be available for download starting on June 30, 2020. We recommend that you install the app by October 1, 2020, to ensure a smooth transition before Adobe Flash Player is deprecated on December 31, 2020.  On that date, it will no longer be possible to log on to the browser version of Dynamic Media Classic (labeled as Scene7 Publishing System in the product).
+The new Dynamic Media Classic desktop app is now available for download and installation. We recommend that you install the app by October 1, 2020, to ensure a smooth transition before Adobe Flash Player is deprecated on December 31, 2020.  On that date, it will no longer be possible to sign in to the browser version of Dynamic Media Classic (labeled as [!DNL Scene7 Publishing System] in the product).
+
+See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the app, and then sign in to it.
 
 ### **_How will I access the new desktop app?_**
 
-The new desktop app will be a `.dmg` installer for macOS and `.exe` installer for Windows. Links to download these installers will be updated in the Dynamic Media Classic public documentation on June 30, 2020. The links will also be shared by way of the Dynamic Media Classic newsletter. Subscribe here to stay up to date.
+The new desktop app is a `.dmg` installer for macOS and `.exe` installer for Windows.
+
+See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the app, and then sign in to it.
+
+The download links will also be shared by way of the Dynamic Media Classic newsletter.
 
 ### **_How will the new desktop app work?_**
 
-After you download, install, and launch the desktop app, you are presented with a refreshed logon experience. By entering your existing user name and password and selecting the appropriate server based on your region, you will be logged into Dynamic Media Classic. You will notice that the overall experience is the same as the familiar browser version you are used to. From the desktop app, you can access the Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
+After you download, install, and launch the desktop app, you are presented with a refreshed sign in experience. By entering your existing user name and password and selecting the appropriate server based on your region, you will be signed in Dynamic Media Classic. You will notice that the overall experience is the same as the familiar browser version you are used to. From the desktop app, you can access the Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
 
 >[!IMPORTANT]
 >
 >Only one instance of the desktop app can be installed and be active at a time.
 
-### **_What if I am using the Dynamic Media Classic APIs to access the product and do not log on through the web user interface?_**
+See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the app, and then sign in to it.
+
+### **_What if I am using the Dynamic Media Classic APIs to access the product and do not sign in through the web user interface?_**
 
 There are no changes to the underlying APIs for Dynamic Media Classic.
 
@@ -49,7 +58,7 @@ No. There is no impact to automation scripts. The new desktop app acts and behav
 
 ### **_Will the new Dynamic Media Classic desktop app work on Macs and personal computers?_**
 
-Yes. The new desktop app will be a cross-platform solution and works on Macs and PCs. Linux will not be supported.
+Yes. The new desktop app is a cross-platform solution and works on Macs and PCs. Linux is *not* supported.
 
 ### **_My company has strict security requirements. How will the new Dynamic Media Classic desktop app handle these requirements?_**
 
@@ -62,6 +71,14 @@ If your company does not let you download and install software and apps onto you
 ### **_Will the new Dynamic Media Classic desktop app require a new SKU? Is there a license cost involved?_**
 
 No SKU or license change is required to use the new Dynamic Media Classic desktop app.
+
+### **_How will upgrades to Dynamic Media Classic desktop app be enabled?_**
+
+Following the release of Adobe Dynamic Media Classic desktop app on June 30, 2020, if Adobe releases a new version, customers are required to download the new version and install as usual (replace the existing app in **[!UICONTROL Applications]**). Customers will be notified of the new release through the Dynamic Media newsletter or through their CSMs. Adobe is also working on an in-app upgrade notification mechanism that will notify users of an upgrade.
+
+### **_How do I get help for any issues that I have with Dynamic Media Classic desktop app?_**
+
+Contact Adobe Support with any issues you have while using the app.
 
 ### **_I want to make sure I'm optimizing my rich media strategy. How can I learn even more about Dynamic Media Classic?_** 
 
