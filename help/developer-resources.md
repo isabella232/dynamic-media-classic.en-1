@@ -13,11 +13,11 @@ discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
 
 # Developer resources{#developer-resources}
 
-Dynamic Media Classic provides documentation for the latest major version of each Dynamic Media Classic software module. Module documents are available for Image Authoring, Scene7 Publishing System, Image Server and Image Rendering, Viewers, and Web-to-Print.
+Dynamic Media Classic provides documentation for the latest major version of each Dynamic Media Classic software module. Module documents are available for Image Authoring, Scene7 Publishing System, Image Server and Image Rendering, and Viewers.
 
 Release notes are also available for some modules. Release notes provide details on the release, including enhancements, new functionality, tips, troubleshooting advice, and known outstanding issues. Release notes also offer interactive examples of rich-media features and how to activate them. In addition, Release Notes offer installation and configuration instructions for clients with licensed software.
 
-Reference Guides to Image Serving and Image Rendering, and Viewers describe the http protocols for these server modules. Web site developers who want to further customize and leverage Dynamic Media Classic rich media for a web site or custom application can use these guides. Dynamic Media Classic assumes that the reader is familiar with Scene7 Publishing System, general http protocol standards and conventions, and basic imaging terminology.
+Reference Guides to Image Serving and Image Rendering, and Viewers describe the http protocols for these server modules. Web site developers who want to further customize and leverage Dynamic Media Classic rich media for a web site or custom application can use these guides. Dynamic Media Classic assumes that the reader is familiar with the desktop app, general http protocol standards and conventions, and basic imaging terminology.
 
 
 **Scene7 Publishing System API**
@@ -37,18 +37,22 @@ Reference Guides to Image Serving and Image Rendering, and Viewers describe the 
 
 |Document|Web address|
 |--- |--- |
-|API Reference Guide| [https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/index.html](https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/index.html)|
+|API Reference Guide| [https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/home.html](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/home.html)|
 
 **Viewers**
 
 |Document|Web address|
 |--- |--- |
-|Viewers Reference Guide and Release Notes|[https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/index.html](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/index.html)|
-|Viewer Library Examples|[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.htm)|
+|Viewers Reference Guide and Release Notes|[https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html)|
+|Viewer Library Examples|[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)|
 
+
+<!-- 
 
 **Web-to-Print**
 
 |Document|Web address|
 |--- |--- |
-|Reference Guide|[https://www.adobe.com/go/learn_s7_webtoprint_en](https://www.adobe.com/go/learn_s7_webtoprint_en)|
+|Reference Guide|[https://www.adobe.com/go/learn_s7_webtoprint_en](https://www.adobe.com/go/learn_s7_webtoprint_en)| 
+
+-->

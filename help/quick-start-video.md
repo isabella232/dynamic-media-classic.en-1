@@ -49,7 +49,7 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
   Adaptive video streaming is supported on a variety of iOS platforms.
 
-  See the latest support in the [Adobe Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
+  See the latest support in the [Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
 
   Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find Blackberry devices that support this video format at the following website:
 

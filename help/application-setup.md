@@ -445,7 +445,7 @@ A *Viewer Preset* is a collection of settings that determine how users view rich
 
 As a best practice, use Dynamic Media Classic HTML5 Video viewers. The presets used in HTML5 Video viewers are robust video players. By combining into a single player the ability to design the playback components using HTML5 and CSS, have embedded playback, and use adaptive and progressive streaming depending on the browser’s capability, you extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
 
-See [About HTML5 Viewers](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_viewers_about.html) in the Adobe Viewers Reference Guide.
+See [About HTML5 Viewers](hhttps://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html) in the Adobe Viewers Reference Guide.
 
 See [Dynamic Media Classic Viewer Preset compatibility matrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -497,7 +497,7 @@ See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en
 
 For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
-See [Adobe Viewers Reference Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
+See [Adobe Viewers Reference Release Notes](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
