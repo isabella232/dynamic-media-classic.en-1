@@ -4,7 +4,7 @@ seo-title: Popular resources
 description: null
 seo-description: Links to webinars, training videos, best practices information, and developer resources.
 uuid: a2ef0e50-056c-4528-96d8-343c24f944a2
-contentOwner: alvawb
+contentOwner: Rick Brough
 discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 
 ---
@@ -13,14 +13,14 @@ discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 
 ## Dynamic Media Classic Technical Documentation
 
-* [Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Release Notes](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/release-notes/s7rn2017.html)
 * [User Guide](introduction.md)
 
 ## Dynamic Media Classic Developer Resources
 
-* [Adobe Viewers Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/index.html)
+* [Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html)
 * [Viewer Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
-* [Image Serving and Image Rendering API](https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/index.html)
+* [Image Serving and Image Rendering API](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/home.html)
 
 ## Dynamic Media Classic Webinars and Tutorials
 
@@ -36,6 +36,6 @@ discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 ## Dynamic Media Classic Training
 
 Go [here](https://training.adobe.com/training/courses.html#product=adobe-scene7) to see the training courses that are currently available.
-[Dynamic Media Classic training videos](https://marketing.adobe.com/resources/help/en_US/s7/training-videos/).
+[Dynamic Media Classic training videos](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/intro/training-videos.html).
 
 Please see all the popular resources available for [Dynamic Media Classic](home.md).
