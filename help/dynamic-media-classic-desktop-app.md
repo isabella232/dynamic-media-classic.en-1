@@ -69,7 +69,14 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 ## Known Windows-only limitation in Dynamic Media Classic 
  
 **_Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
- 
+
+**_How do I switch between companies?_**<br>To switch between companies, do the following:
+* In the Dynamic Media Classic app, select the new company from the company drop-down list.
+* When the pop-up appears, tap **[!UICONTROL OK]** to sign out and close the app.
+
+    ![Restart the app to use the new company](/help/assets/dmclassic-new-company.png)
+* Restart Dynamic Media Classic, then sign in as usual to work with the new company.
+
 ## Tips and Tricks 
 
 **_I am unable to see Media Cart panel on the landing page of Dynamic Media Classic._**<br>In Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section, make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
