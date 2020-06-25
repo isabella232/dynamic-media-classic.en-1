@@ -9,6 +9,7 @@ index: y
 # Dynamic Media Classic Help {#using}
 
 + [Dynamic Media Classic Documentation Home](home.md)
++ [Best Practices Tutorial](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NEW Dynamic Media Classic login experience available June 30, 2020](new-ui-2020.md)
 + [Dynamic Media Newsletter by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
