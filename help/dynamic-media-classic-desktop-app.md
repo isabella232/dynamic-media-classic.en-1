@@ -74,11 +74,11 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
  
 1. Post the login UI, you will notice the familiar browser UI experience. You can carry your day to day activity as usual now on the desktop app UI.
 
-## Known Windows-only limitation in Dynamic Media Classic 
+## Known limitations in Dynamic Media Classic 
  
-**_Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
+**_Applies to Windows only &ndash; Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
 
-**_How do I switch between companies?_**<br>To switch between companies, do the following:
+**_Applies to Windows and macOS &ndash; How do I switch between companies?_**<br>To switch between companies, do the following:
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up appears, tap **[!UICONTROL OK]** to sign out and close the app.
 
