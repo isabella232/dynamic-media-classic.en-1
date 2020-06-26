@@ -42,8 +42,8 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * macOS (.dmg) &ndash; [Text](link).
-    * Windows (.exe) &ndash; [Text](link).
+    * macOS (.dmg) &ndash; [Download](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg).
+    * Windows (.exe) &ndash; [Download](lhttp://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe).
 
 1. Do one of the following based on the installer you downloaded.
 
