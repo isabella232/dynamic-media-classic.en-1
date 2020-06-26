@@ -20,8 +20,6 @@ Dynamic Media classic users now have access to a new sign in experience that no 
 
 Adobe Flash Player was a web browser plug-in that let web browsers use content developed on the Adobe Flash platform. The web user interface of Dynamic Media Classic (currently labeled [!DNL Scene7 Publishing System] or [!DNL SPS] in the product) required the Adobe Flash Player. When Adobe Flash is deprecated December 31, 2020, Dynamic Media Classic customers will no longer be able to log into the web user interface. Because of this, Adobe has provided customers with a desktop app that replaces the browser experience.
 
-See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the new app, and then sign in to it.
-
 ### **_How do I access the new desktop app?_**
 
 The new desktop app is available as a `.dmg` installer for macOS or as an `.exe` installer for Windows.
