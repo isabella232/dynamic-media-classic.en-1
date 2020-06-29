@@ -10,15 +10,7 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 
 ---
 
-# Coming soon: Adobe Dynamic Media Classic Desktop app {#dynamic-media-classic-desktop-app}
-
-Dynamic Media Classic users will gain access to a new desktop app experience that no longer relies on Adobe Flash technology in the browser. This new app will be available for Windows and macOS on June 30, 2020. 
-
-See the FAQ for the [New Dynamic Media Classic login experience coming June 30, 2020](/help/new-ui-2020.md).
-
-<!--
-
-# Adobe Dynamic Media Classic desktop app {#dynamic-media-classic-desktop-app}
+# Now available: Adobe Dynamic Media Classic desktop app {#dynamic-media-classic-desktop-app}
 
 Dynamic Media Classic users now have access to a new desktop app experience that no longer relies on Adobe Flash technology in the browser. 
 
@@ -42,8 +34,8 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * macOS (.dmg) &ndash; [Text](link).
-    * Windows (.exe) &ndash; [Text](link).
+    * macOS (.dmg) &ndash; [Download](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg).
+    * Windows (.exe) &ndash; [Download](lhttp://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe).
 
 1. Do one of the following based on the installer you downloaded.
 
@@ -95,5 +87,3 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 *Refresh icon*
  
 **_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**. 
-
--->
