@@ -13,7 +13,7 @@ index: y
 + [NEW Dynamic Media Classic sign in experience now available](new-ui-2020.md)
 + [Dynamic Media Newsletter by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
-    + [Adobe Dynamic Media Classic desktop app now available!](dynamic-media-classic-desktop-app.md)
+    + [Adobe Dynamic Media Classic desktop app - Now available](dynamic-media-classic-desktop-app.md)
     + [About Dynamic Media Classic](introduction.md)
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
