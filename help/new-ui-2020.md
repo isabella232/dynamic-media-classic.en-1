@@ -1,6 +1,6 @@
 ---
-title: New Dynamic Media Classic sign in experience now available
-seo-title: New Dynamic Media Classic desktop app now available
+title: Adobe Dynamic Media Classic Desktop app
+seo-title: Adobe Dynamic Media Classic Desktop app
 description: Dynamic Media Classic users can now experience a complete refresh of the user interface. The experience delivers an updated sign in with links to valuable resources, plus this update no longer relies on Adobe Flash technology in the browser.
 contentOwner: rbrough
 content-type: reference
@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 
 ---
 
-# New Dynamic Media Classic sign in experience is now available {#new-ui-2020}
+# Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}
 
 See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the new app, and then sign in to it.
 
