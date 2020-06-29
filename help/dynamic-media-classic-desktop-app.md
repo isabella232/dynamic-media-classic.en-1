@@ -41,18 +41,18 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
     * **For macOS** &ndash; In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
 
-        ![Drag and drop install on macOS](/help/assets/dragondrop-install.png)
+        ![Drag and drop install on macOS](/help/assets/dragondrop-install1.png)
 
     * In the **[!UICONTROL Applications]** folder, tap the Adobe Dynamic Media Classic icon.
     * In the dialog box, tap **[!UICONTROL Open]** to open the Adobe Dynamic Media Classic desktop app.
 
-        ![Open downloaded app](/help/assets/open-dmclassicapp.png)
+        ![Open downloaded app](/help/assets/open-dmclassicapp1.png)
 
     * **For Windows** &ndash; Run the installer binary and follow the on-screen instructions to install the desktop app.
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
 
-    ![Dynamic Media Classic sign in](/help/assets/dmclassic-login.png)
+    ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
 1. Use the same credentials as your browser credentials to sign in to Adobe Dynamic Media Classic.
 
@@ -74,7 +74,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up appears, tap **[!UICONTROL OK]** to sign out and close the app.
 
-    ![Restart the app to use the new company](/help/assets/dmclassic-new-company.png)
+    ![Restart the app to use the new company](/help/assets/dmclassic-new-company1.png)
 * Restart Dynamic Media Classic, then sign in as usual to work with the new company.
 
 ## Tips and Tricks 
@@ -83,7 +83,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
  
 **_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser UI, a re-login to the UI was required to see the correct publish state of assets. In the desktop app, we have introduced a **[!UICONTROL Refresh]** icon on the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No re-login required as with the browser UI.
 
-![Refresh icon](/help/assets/refresh-icon.png)
+![Refresh icon](/help/assets/refresh-icon1.png)
 *Refresh icon*
  
 **_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**. 
