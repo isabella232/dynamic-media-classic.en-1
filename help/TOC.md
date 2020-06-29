@@ -10,14 +10,14 @@ index: y
 
 + [Dynamic Media Classic Documentation Home](home.md)
 + [Best Practices Tutorial](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NEW Dynamic Media Classic login experience available June 30, 2020](new-ui-2020.md)
++ [NEW Dynamic Media Classic sign in experience now available](new-ui-2020.md)
 + [Dynamic Media Newsletter by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
+    + [Adobe Dynamic Media Classic desktop app now available!](dynamic-media-classic-desktop-app.md)
     + [About Dynamic Media Classic](introduction.md)
     + [Developer resources](developer-resources.md)
     + [What’s new](whats-new.md)
     + [System requirements](system-requirements.md)
-    + [Adobe Dynamic Media Classic desktop app coming soon!](dynamic-media-classic-desktop-app.md)
     + [Support](support.md)
     + [Help for Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
     + [Adobe Training Services](training-services.md)
