@@ -20,7 +20,7 @@ After integrating Adobe Analytics with the Scene7 Publishing System, you can get
 
 Using Adobe Analytics reports, you can get a clear picture of the activity of customers on your website. You can determine which product presentations lead to conversion and which do not draw customer interest.
 
-See also [Measuring Video in Adobe Analytics](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/hbvideo/).
+See also [Measuring Video in Adobe Analytics](https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html).
 
 >[!NOTE]
 >

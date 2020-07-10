@@ -22,12 +22,6 @@ Adobe Training Services provides in-depth, customized classroom training designe
 
 See [Adobe Training Services](https://training.adobe.com/training.html) [](https://www.adobe.com/go/learn_sc7_trainingrequest_en).
 
-**Quick Start Video Tutorials**
-
-Learn about Media Portal, dynamic imaging, eCatalogs, eVideos, Web to Print, and many other subjects pertaining to understanding and using Scene7 Publishing System.
-
-See [Quick Start Video Tutorials](https://marketing.adobe.com/resources/help/en_US/home/index.html#Scene7).
-
 **Demos**
 
 Watch demonstrations of Dynamic Media Classic viewer features.

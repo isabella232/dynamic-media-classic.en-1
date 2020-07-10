@@ -4,9 +4,9 @@ solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
 solution-image:
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/experience-manager/scene7/topics/getting-started.html
+getting-started-url: https://docs.adobe.com/content/help/en/dynamic-media-classic/using/getting-started/scene7-platform-overview.html
 tutorials-title: Tutorials
-tutorials-url: https://marketing.adobe.com/resources/help/en_US/s7/training-videos/
+tutorials-url: https://docs.adobe.com/content/help/en/dynamic-media-classic/using/intro/training-videos.html
 git-repo: https://github.com/AdobeDocs/dynamic-media-classic.en
 ---
 
