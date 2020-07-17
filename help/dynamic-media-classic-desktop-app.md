@@ -66,6 +66,10 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
  
 1. Post the login UI, you will notice the familiar browser UI experience. You can carry your day to day activity as usual now on the desktop app UI.
 
+## Video walk-through on using Dynamic Media Classic Desktop App
+
+Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Length: 2 minutes and 36 seconds). 
+
 ## Known limitations in Dynamic Media Classic 
  
 **_Applies to Windows only &ndash; Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
