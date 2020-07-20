@@ -68,7 +68,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 ## Video walk-through on using Dynamic Media Classic Desktop App
 
-Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Length: 2 minutes and 36 seconds). 
+Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Length: 2 minutes 36 seconds). 
 
 ## Known limitations in Dynamic Media Classic 
  
