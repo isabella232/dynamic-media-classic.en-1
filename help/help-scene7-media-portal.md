@@ -6,7 +6,7 @@ seo-description: Learn how to get help for Dynamic Media Classic Media Portal.
 uuid: d8d2ebe1-0228-43c3-8321-c51ffac7fd58
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: a55f7279-6bba-43f1-99fa-88e922ac1803
 

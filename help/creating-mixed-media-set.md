@@ -6,7 +6,7 @@ seo-description: Learn how to create a Mixed Media Set.
 uuid: a0c6e5fa-7a85-4376-b9a3-b72ae63d3d95
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
 
 ---

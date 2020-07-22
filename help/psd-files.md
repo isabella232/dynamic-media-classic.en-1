@@ -6,7 +6,7 @@ seo-description: Learn how to work with PSD files.
 uuid: 5836b660-6bca-46e7-ab39-1a31d1e0cff2
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 
@@ -16,7 +16,7 @@ discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 
 PSD (Photoshop Document files) are most often used in Dynamic Media Classic to create templates. When you upload a PSD file, you can create a Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
 
-SPS creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
+Dynamic Media Classic creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
 
 ## PSD upload options {#psd-upload-options}
 
@@ -44,7 +44,7 @@ To trim based on transparency, specify 0 to crop pixels only if they are totally
 
 **Keep Original Color Space** Retains the original color space of the image.
 
-**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS. See ICC profiles.
+**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic. See ICC profiles.
 
 **Maintain Layers** Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail view and selecting the layer panel. See Viewing and editing layers in a PSD file.
 
@@ -54,7 +54,7 @@ To trim based on transparency, specify 0 to crop pixels only if they are totally
 
 **Extend Layers To Background Size** Extends the size of ripped image layers to the size of the background layer.
 
-**Layer Naming** Layers in the PSD file are uploaded as separate images. Choose an option to name these images in the Scene7 Publishing System:
+**Layer Naming** Layers in the PSD file are uploaded as separate images. Choose an option to name these images in Dynamic Media Classic:
 
 **Layer Name** Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file, not their default layer names.
 

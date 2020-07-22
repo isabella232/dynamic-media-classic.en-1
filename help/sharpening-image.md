@@ -6,7 +6,7 @@ seo-description: Learn how to sharpen an image.
 uuid: d86af74a-89c5-4f2b-96ba-f2e7da600bca
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 
@@ -26,15 +26,15 @@ However, whether you use Image Presets and Viewer Presets, or some alternate met
 >
 >The Sharpen commands override Image Preset settings, including their sharpening effects. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. Dynamic Media Classic highly recommends using Image Presets to deliver all images to make sure that images are delivered at a uniform size and sharpening. After the sharpening settings of an individual image have been changed, however, Image Preset sharpening settings no longer apply to the image. It is delivered without Image Preset sharpening settings.
 
-It is often necessary to sharpen images. Dynamic Media Classic SPS and Image Servers offer several sharpening options. It is important to understand what sharpening does to an image and how much sharpening you need. Most images need some sharpening but the amount required depends upon the image.
+It is often necessary to sharpen images. Dynamic Media Classic and Image Servers offer several sharpening options. It is important to understand what sharpening does to an image and how much sharpening you need. Most images need some sharpening but the amount required depends upon the image.
 
 Image sharpening increases the contrast of pixels to create the effect of accentuating edges. Humans perceive this enhanced edge contrast as sharpness. Although it is easy to enhance an image by running sharpening filters on an image, it is also easy to over-sharpen an image.
 
 Over sharpening an image creates a halo effect, or banding of the edge’s lines.
 
-There are best practices you can follow to optimize the sharpening of your images in Scene7 Publishing System and on Dynamic Media Image Server.
+There are best practices you can follow to optimize the sharpening of your images in Dynamic Media Classic and on Dynamic Media Image Server.
 
-See [Best practices for sharpening images in Scene7 Publishing System and on Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
+See [Best practices for sharpening images in Dynamic Media Classic and on Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
 
 **To sharpen an image**
 
@@ -125,7 +125,7 @@ To set your company’s default sharpening options, go to Setup &gt; Application
 
 Unless you add sharpening image modifiers to the preset, the small initial load image can look soft because it is downsampled to fit into the viewer window without being sharpened.
 
-In SPS, Viewer Presets (like Image Presets) allow you to centralize many options into one location, including choice of skin and viewer options (such as including a Print button or controlling the speed of the zoom animation). Viewer Presets are found in the same section as Image Presets, under Setup &gt; Application Settings &gt; Viewer Presets.
+In Dynamic Media Classic, Viewer Presets (like Image Presets) allow you to centralize many options into one location, including choice of skin and viewer options (such as including a Print button or controlling the speed of the zoom animation). Viewer Presets are found in the same section as Image Presets, under Setup &gt; Application Settings &gt; Viewer Presets.
 
 The Modifiers option is found under the Core Settings section of all eCatalog, Spin, and Custom Zoom Viewer Presets. By adding the URL sharpening commands to the Modifiers box, you add sharpening every time that viewer is called with that viewer preset.
 
@@ -139,4 +139,4 @@ The preset here sharpens and changes the default skin of the viewer.
 
 The last, and least recommended, sharpening method is to create sharpening overrides on an image-by-image basis. This overrides the sharpening in an Image Preset with its own specific values. However, this overrides all other sharpening methods at any size. The best use case for this method is if some of your images are not high resolution, and the values in the Image Presets are too high for these small images. In this case, some per-image sharpening might be needed.
 
-In SPS, select any image, go to the Detail View (by double-clicking or pressing the Detail View button), and click Sharpen. Change any parameter, then click Save. This tells the Image Server to use these sharpening parameters rather than any command you call in the URL, such as a sharpening modifier or Image Preset. You must publish to see the changes take effect.
+In Dynamic Media Classic, select any image, go to the Detail View (by double-clicking or pressing the Detail View button), and click Sharpen. Change any parameter, then click Save. This tells the Image Server to use these sharpening parameters rather than any command you call in the URL, such as a sharpening modifier or Image Preset. You must publish to see the changes take effect.

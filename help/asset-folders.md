@@ -6,7 +6,7 @@ seo-description: Learn how to work with asset folders.
 uuid: 3bd83701-e2c2-4e39-b225-c2d27ad836c2
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 
@@ -14,9 +14,9 @@ discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 
 # Working with asset folders{#working-with-asset-folders}
 
-File assets in the Scene7 Publishing System are kept in folders. These folders are listed in alphabetical order in the Asset Library Panel. Before you upload files from your computer or network to Scene7 Publishing System, you are asked to name a folder for storing the files. Create these folders before uploading any files.
+File assets in the Dynamic Media Classic are kept in folders. These folders are listed in alphabetical order in the Asset Library Panel. Before you upload files from your computer or network to Dynamic Media Classic, you are asked to name a folder for storing the files. Create these folders before uploading any files.
 
-Be sure to establish a folder structure and organization for storing your files on Scene7 Publishing System before you upload files.
+Be sure to establish a folder structure and organization for storing your files on Dynamic Media Classic before you upload files.
 
 ## Displaying, moving, hiding, and opening folders {#displaying-moving-hiding-and-opening-folders}
 
@@ -46,7 +46,7 @@ Follow these steps to create a folder:
 
    >[!NOTE]
    >
-   >You can also create folders in Scene7 Publishing System when you upload files via FTP. Selecting the Include Subfolders option when you upload via FTP replicates the folder structure on your computer in the system. Files and subfolders on your computer or network are replicated in the Asset Library, and the assets you upload are placed in these folders.
+   >You can also create folders in Dynamic Media Classic when you upload files via FTP. Selecting the Include Subfolders option when you upload via FTP replicates the folder structure on your computer in the system. Files and subfolders on your computer or network are replicated in the Asset Library, and the assets you upload are placed in these folders.
 
 ## Deleting and renaming folders {#deleting-and-renaming-folders}
 
@@ -60,4 +60,4 @@ Double-click the name and enter a new name.
 
 >[!NOTE]
 >
->You cannot copy folders or assets because doing so would create duplicate folders and assets on Scene7 Publishing System, and duplicates are not permitted.
+>You cannot copy folders or assets because doing so would create duplicate folders and assets on Dynamic Media Classic, and duplicates are not permitted.

@@ -6,7 +6,7 @@ seo-description: Learn how to link URLs to your web application.
 uuid: 1179bdd3-9b39-47f9-945d-1c1ca186bf96
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 
@@ -16,7 +16,7 @@ discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 
 Your web sites and applications access Dynamic Media Image Server content via URL strings. After you publish an image, Dynamic Media Classic activates a URL string that references the Image Preset on Dynamic Media Image Servers. You can paste these URLs into a web browser for testing.
 
-To place these URL strings in your web pages and applications, copy them from the Scene7 Publishing System. To obtain a URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail view).
+To place these URL strings in your web pages and applications, copy them from Dynamic Media Classic. To obtain a URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail view).
 
 ## Obtaining an Image Preset URL {#obtaining-an-image-preset-url}
 

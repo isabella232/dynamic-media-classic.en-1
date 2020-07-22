@@ -6,7 +6,7 @@ seo-description: Learn how to use fonts in Dynamic Media Classic.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 
@@ -14,7 +14,7 @@ discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 
 # Fonts{#fonts}
 
-In some cases, the Scene7 Publishing System requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
+In some cases, Dynamic Media Classic requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
 
 Dynamic Media Classic supports these font types:
 
@@ -24,7 +24,7 @@ Dynamic Media Classic supports these font types:
 * OpenType/PostScript fonts
 * PhotoFonts
 
-After a font file has been uploaded, you can change its SPS ID, font name, and type information on the Edit Info screen.
+After a font file has been uploaded, you can change its Dynamic Media Classic ID, font name, and type information on the Edit Info screen.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ After a font file has been uploaded, you can change its SPS ID, font name, and t
 
 ## Uploading font files {#uploading-font-files}
 
-Upload font files with the same techniques you use to upload other files. You can store font files in any SPS folder. See [Uploading your files](uploading-files.md#uploading_your_files).
+Upload font files with the same techniques you use to upload other files. You can store font files in any Dynamic Media Classic folder. See [Uploading your files](uploading-files.md#uploading_your_files).
 
 ## Editing font file information {#editing-font-file-information}
 

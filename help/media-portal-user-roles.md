@@ -6,7 +6,7 @@ seo-description: Learn about the various user roles that are available in Media 
 uuid: 1bf2cc85-3655-428f-81ab-5fdaa1e9401b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 1bd7cb5d-156c-4dad-a725-e177f05ccedf
 ---
@@ -35,7 +35,7 @@ This table describes the tasks that users with different roles can do. Administr
 |Browse metadata|X|X|X|
 |Preview files|X|X|X|
 |Search for files|X|X|X|
-|Upload files to Scene7 Publishing System||X|X|
+|Upload files to Dynamic Media Classic||X|X|
 |Edit and import asset metadata||X|X|
 |Create, rename, and delete folders||X|X|
 |Export asset metadata|X||X|
@@ -43,4 +43,4 @@ This table describes the tasks that users with different roles can do. Administr
 |Move files to different folders||X|X|
 |Rename files||X|X|
 |Delete files||X|X|
-|Export (download) files from SPS|X||X|
+|Export (download) files from Dynamic Media Classic|X||X|

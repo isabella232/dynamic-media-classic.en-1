@@ -6,7 +6,7 @@ seo-description: Learn how to create a swatch set.
 uuid: 250b3525-310d-4481-b0bc-f9057e823e0b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
 

@@ -6,7 +6,7 @@ seo-description: Learn about what is new Dynamic Media Classic by way of the cur
 uuid: 78b88ec0-69fc-481b-af54-4c2d0a31057f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 51806e89-c402-40d5-8a38-c28506790604
 

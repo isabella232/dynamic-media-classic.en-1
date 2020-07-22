@@ -6,7 +6,7 @@ seo-description: Learn how to add and manage Media Portal users
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 
@@ -127,6 +127,6 @@ Starting on the User Administration Setup screen, you can also do these tasks:
 
 **Edit user information** Enter up-to-date information about a user. See Edit user information.
 
-**Create user-defined fields** Create custom, user-defined metadata fields to help organize assets in the Scene7 Publishing System. The fields can also be activated or deactivated, as necessary.
+**Create user-defined fields** Create custom, user-defined metadata fields to help organize assets in the Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
 
 See [User-Defined Fields](application-setup.md#user_defined_fields).

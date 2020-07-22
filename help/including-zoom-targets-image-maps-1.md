@@ -6,7 +6,7 @@ seo-description: Learn how to include zoom targets and image maps in Swatch Sets
 uuid: e46ebebd-b086-450c-9812-22290a92db8c
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: f75f6d5b-d689-4640-838f-a32d77859f62
 

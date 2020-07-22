@@ -6,7 +6,7 @@ seo-description: Learn how to work with vignette, window covering, and cabinet f
 uuid: a738791c-4be0-4286-abbd-fae7a0e4bb73
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
 
@@ -14,7 +14,7 @@ discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
 
 # Working with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}
 
-Users of the Dynamic Media Classic Image Authoring tool can use vignettes (VNT files), window coverings (VNW files), and cabinets (VNC files) in Scene 7. These files cannot be created or edited in the Scene7 Publishing System.
+Users of the Dynamic Media Classic Image Authoring tool can use vignettes (VNT files), window coverings (VNW files), and cabinets (VNC files) in Scene 7. These files cannot be created or edited in Dynamic Media Classic.
 
 Vignettes, window coverings, and cabinets are authored images. Using a different Dynamic Media Classic program called Image Authoring, you mask objects in an image so users can see the same image in a variety of textures or colors. For example, users see a couch upholstered with a variety of fabrics, a window decorated with a variety of window treatments, or a cabinet finished with different types of wood.
 

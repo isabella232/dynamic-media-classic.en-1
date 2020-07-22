@@ -6,7 +6,7 @@ seo-description: Learn how to log in to Adobe Analytics.
 uuid: 5614babe-1097-4228-a3dc-27e5a25366d5
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 

@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Swatch Set to help you get u
 uuid: 6f8a95e8-e82a-477f-9f21-d2b7b511f8ae
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 
@@ -24,7 +24,7 @@ This Swatch Sets Quick Start is designed to get up and running quickly with Swat
 
 Start by uploading the images and swatch files for your Swatch Sets.
 
-Click Upload on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System. See [Preparing Swatch Set assets for upload](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload)and [Uploading your files](uploading-files.md#uploading-your-files).
+Click Upload on the Global Navigation bar to upload files from your computer to a folder on Dynamic Media Classic. See [Preparing Swatch Set assets for upload](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload)and [Uploading your files](uploading-files.md#uploading-your-files).
 
 **2. Creating a Swatch Set**
 

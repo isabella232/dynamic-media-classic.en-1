@@ -6,7 +6,7 @@ seo-description: Learn how to create a template in Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 
@@ -18,7 +18,7 @@ To create a template, click Build &gt; Template Basics. Select either Designer o
 
 >[!NOTE]
 >
->If you edit a template created in an earlier version of Scene7 Publishing System, you may receive the a prompt upon saving asking “Do you want to add a canvas layer?” Choose No to avoid adding a new base layer. If you accidentally choose Yes, delete the “&allowCanvasPrompt” and “&layer=0” modifiers in the URL and press Enter or Return.
+>If you edit a template created in an earlier version of Dynamic Media Classic, you may receive the a prompt upon saving asking “Do you want to add a canvas layer?” Choose No to avoid adding a new base layer. If you accidentally choose Yes, delete the “&allowCanvasPrompt” and “&layer=0” modifiers in the URL and press Enter or Return.
 
 ## Creating the initial template {#creating-the-initial-template}
 
@@ -135,7 +135,7 @@ Follow these steps to format text in a text layer:
 1. In the text box, select the text you want to format. You can select all the text, portions of the text, as well as individual characters.
 1. Specify any of these formatting options, and then click Apply.
 
-   **Font** Choose a font on the Font menu. If a font you want does not appear on the menu, you can upload it into the Scene7 Publishing System. See Fonts.
+   **Font** Choose a font on the Font menu. If a font you want does not appear on the menu, you can upload it into the Dynamic Media Classic. See Fonts.
 
    **Font Size** Choose a font size from the menu, type a specific size in the box, or click the up or down arrows to increase or decrease the size by two points.
 
@@ -287,7 +287,7 @@ To choose a background color, opacity, and blend mode for a layer or the canvas,
 
 ## Using shadow and glow effects on layers {#using-shadow-and-glow-effects-on-layers}
 
-You can apply a shadow or glow to a layer. The shadow or glow is applied to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in the Scene7 Publishing System.
+You can apply a shadow or glow to a layer. The shadow or glow is applied to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Dynamic Media Classic.
 
 After you apply a shadow or glow effect, you can adjust its size, color, opacity, and position in the Layer Properties area of the Template screen.
 

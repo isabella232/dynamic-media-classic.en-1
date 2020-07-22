@@ -6,7 +6,7 @@ seo-description: Learn how to create an eCatalog.
 uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 

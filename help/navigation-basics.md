@@ -6,7 +6,7 @@ seo-description: Learn about navigating the user interface of Dynamic Media Clas
 uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 
@@ -14,7 +14,7 @@ discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 
 # Navigation basics{#navigation-basics}
 
-The Scene7 Publishing System screen includes three major areas: Global Navigation bar, Asset Library, and Browse Panel/Build Panel.
+The Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, and Browse Panel/Build Panel.
 
 ![Navigation basics](/help/assets/gs_navigation_basics_popup_popup.png) 
 
@@ -24,7 +24,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Select Company** Choose the company you want to access from the menu. This button isn’t available if you’re working with one company.
 
-**Upload** Opens the Upload screen so you can upload files from your computer or network to SPS. You can upload files from your desktop or via FTP. See Uploading files.
+**Upload** Opens the Upload screen so you can upload files from your computer or network to Dynamic Media Classic. You can upload files from your desktop or via FTP. See Uploading files.
 
 **Build** Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
@@ -48,7 +48,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Help &gt; Support** Tells you how to get technical support from Dynamic Media Classic.
 
-**Sign Out** Exits the Scene7 Publishing System.
+**Sign Out** Exits Dynamic Media Classic.
 
 ## Asset Library {#asset-library}
 

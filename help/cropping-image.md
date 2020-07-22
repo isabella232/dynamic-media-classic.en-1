@@ -6,7 +6,7 @@ seo-description: Learn how to crop an image.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 
@@ -14,7 +14,7 @@ discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 
 # Cropping an image{#cropping-an-image}
 
-You can crop images in the Scene7 Publishing System. The system retains information about images that were cropped so you can restore them to their original state. You can also crop an image and save the cropped version under a new name.
+You can crop images in the Dynamic Media Classic. The system retains information about images that were cropped so you can restore them to their original state. You can also crop an image and save the cropped version under a new name.
 
 You can crop an image to remove white space around it, or crop an area of the image.
 

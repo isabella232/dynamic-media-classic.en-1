@@ -6,7 +6,7 @@ seo-description: Learn how to publish files.
 uuid: cdcf519b-4c1e-430b-b43a-2f20f75071b1
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 39099bc0-9228-46f0-9bee-3542059f4695
 
@@ -14,9 +14,9 @@ discoiquuid: 39099bc0-9228-46f0-9bee-3542059f4695
 
 # Publishing files{#publishing-files}
 
-You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from the Scene7 Publishing System and add them to your website or application.
+You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Dynamic Media Classic and add them to your website or application.
 
-Scene7 Publishing System now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
+Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
 
 ## Publish After Uploading {#publish-after-uploading}
 
@@ -61,7 +61,7 @@ Create a publish job to publish assets you have uploaded to Dynamic Media Classi
 
 1. Click **Submit Publish**.
 
-SPS tracks publish jobs on the Jobs page. You can review publish jobs on that page.
+Dynamic Media Classic tracks publish jobs on the Jobs page. You can review publish jobs on that page.
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ You can display the Advanced options on the Publish page and choose these option
 Choose a server type to publish assets only to a specific server, not to all servers.
 
 * **Publish**
-By default, SPS publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can choose Full Publish to also publish assets that have been updated or changed since they were last published. Choose Full w/ Search Data if you are publishing an eCatalog and you want readers to be able to search it by keyword.
+By default, Dynamic Media Classic publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can choose Full Publish to also publish assets that have been updated or changed since they were last published. Choose Full w/ Search Data if you are publishing an eCatalog and you want readers to be able to search it by keyword.
 
 * **Run Job As**
 Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publish job with a user.

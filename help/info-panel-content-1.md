@@ -5,7 +5,7 @@ description: null
 seo-description: Learn how to manage Info Panel content in Image Sets.
 uuid: ed7b4344-f180-41fc-a95a-62a9767dc056
 contentOwner: rbrough
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 content-type: reference
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
@@ -16,7 +16,7 @@ discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 
 In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.  
   
-You can manage your InfoPanel setup and data using the following features in Scene7 Publishing System:
+You can manage your InfoPanel setup and data using the following features in Dynamic Media Classic:
 
 * InfoPanel Setup panel lets you specify the template used to display the info panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the Image Set is automatically published.
 * InfoPanel Datafeed panel lets you specify a CSV file containing the text you want to appear in the info panel rollover text, as well as schedule times for updating the information.

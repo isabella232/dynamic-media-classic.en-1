@@ -6,7 +6,7 @@ seo-description: Learn how to preview eCatalogs in the eCatalog viewer.
 uuid: fdaf2129-e558-4f27-b30f-564126b6b3f2
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 92022dce-6534-4d93-befe-9dd2818c7b41
 

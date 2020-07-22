@@ -6,7 +6,7 @@ seo-description: Learn how to preview videos in a Video viewer.
 uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 
@@ -48,7 +48,7 @@ See also [Previewing videos in a video viewer](previewing-videos-video-viewer.md
 
 ### Adding or editing a video viewer preset {#adding-or-editing-a-video-viewer-preset}
 
-You can use Viewer Presets to see various viewer types and their pre-defined settings. You can also add and edit your own customized viewer presets or edit existing viewer presets that come with Scene7 Publishing System.
+You can use Viewer Presets to see various viewer types and their pre-defined settings. You can also add and edit your own customized viewer presets or edit existing viewer presets that come with Dynamic Media Classic.
 
 In Viewer Presets you can activate, filter, sort, and preview Viewer Presets.
 
@@ -56,7 +56,7 @@ See [Viewer Presets](application-setup.md#viewer_presets).
 
 **To add or edit a video viewer preset**
 
-1. Near the upper-right corner of Scene7 Publishing System, click **Setup** &gt; **Viewer Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **Setup** &gt; **Viewer Presets**.
 
    To see only presets for Video Viewers, select Video Viewer from the open the Viewers drop-down list in the toolbar directly above the table.
 

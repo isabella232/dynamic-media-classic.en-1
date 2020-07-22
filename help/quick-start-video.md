@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Video to help you get up and
 uuid: bf0ecf87-a1f2-4e83-8041-df5192dd26a1
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6cef541b-e9df-48eb-9a16-ca3e1f07238e
 
@@ -76,9 +76,9 @@ The following step-by-step workflow description is designed to help you get up a
 Upload and generate adaptive video sets using one of the following two scenarios:
 
 * **Upload pre-encoded videos**
-If your videos were already encoded outside Dynamic Media Classic, click **Upload** on the Global Navigation bar to browse and upload MP4 video files directly to Scene7 Publishing System. Then, click **Build > Adaptive Video Sets**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
+If your videos were already encoded outside Dynamic Media Classic, click **Upload** on the Global Navigation bar to browse and upload MP4 video files directly to Dynamic Media Classic. Then, click **Build > Adaptive Video Sets**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
 * **Upload master source videos**
-If your videos are not encoded, click **Upload** on the Global Navigation bar to upload master video source files (non-MP4) and have Scene7 Publishing System encode them to MP4 files for you. In the Upload Job Options dialog box, under EVideo Options, select **Adaptive Video**.
+If your videos are not encoded, click **Upload** on the Global Navigation bar to upload master video source files (non-MP4) and have Dynamic Media Classic encode them to MP4 files for you. In the Upload Job Options dialog box, under EVideo Options, select **Adaptive Video**.
 
   This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three video encodes in the correct aspect ratio.
 
@@ -106,7 +106,7 @@ You can play the video on the Preview screen. You can also choose different Vide
 
 **Optional**
 
-Viewer Preset customization - Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of the Scene7 Publishing System, click Setup &gt; Viewer Presets. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
+Viewer Preset customization - Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Dynamic Media Classic, click Setup &gt; Viewer Presets. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
 
 See [Working with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 

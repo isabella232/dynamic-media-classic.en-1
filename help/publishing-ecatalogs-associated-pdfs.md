@@ -6,7 +6,7 @@ seo-description: Learn how to publish eCatalogs and associated PDFs.
 uuid: 6f2f2c79-921a-4096-8f80-24e69c8983fa
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 
@@ -14,7 +14,7 @@ discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 
 # Publishing eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 
-Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your web site or application. As part of the publishing process, the Scene7 Publishing System activates the URL string. You can place this URL string in your HTML web page code.
+Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your web site or application. As part of the publishing process, Dynamic Media Classic activates the URL string. You can place this URL string in your HTML web page code.
 
 >[!NOTE]
 >

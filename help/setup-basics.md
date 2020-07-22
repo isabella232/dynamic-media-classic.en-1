@@ -6,7 +6,7 @@ seo-description: Learn how to use the Setup screen to enter your personal settin
 uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 
@@ -14,7 +14,7 @@ discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 
 # Setup basics{#setup-basics}
 
-Use the Scene7 Publishing System Setup screen to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup screen, click the Setup button on the Global Navigation bar.
+Use the Dynamic Media Classic Setup screen to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup screen, click the Setup button on the Global Navigation bar.
 
 The settings available to you on this screen depend on your status as a user or administrator:
 

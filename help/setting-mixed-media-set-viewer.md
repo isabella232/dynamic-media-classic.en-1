@@ -6,7 +6,7 @@ seo-description: Learn how to set up a Mixed Media Set Viewer Preset.
 uuid: d5bf1840-e453-445d-bebc-84889b29f3c8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
 

@@ -6,7 +6,7 @@ seo-description: The Publish Setup screen settings determine how assets are deli
 uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: cba59093-28b6-4490-b838-d942b72ad1ec
 
 ---
@@ -21,7 +21,7 @@ To open the Publish Setup screens, click Setup &gt; Application Setup &gt; Publi
 
 >[!NOTE]
 >
->The Publish Setup screens are for use by experienced web site developers and programmers. Dynamic Media Classic assumes that users who change settings on these screens are familiar with the Scene7 Publishing System, HTTP protocol standards and conventions, and basic imaging technology.
+>The Publish Setup screens are for use by experienced web site developers and programmers. Dynamic Media Classic assumes that users who change settings on these screens are familiar with Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
 
 ## Image Server {#image-server}
 
@@ -29,7 +29,7 @@ The Image Server screen establishes default settings for delivering images from 
 
 Change these settings only with the assistance of a Dynamic Media Classic support person.
 
-**Catalog Management** These settings determine how Scene7 Publishing System and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+**Catalog Management** These settings determine how Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
 **Request Attributes** These settings impose limits on images that can be delivered from the server.
 
@@ -56,9 +56,9 @@ For more information about setting up **Localization Support**, see [Considerati
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Scene7 Publishing System, such as the Locale Map field, contact Adobe Dynamic Media Classic Technical Support. Or, send an email to s7support@adobe.com requesting setup help.
+>If you want to set up Localization Support options in Dynamic Media Classic, such as the Locale Map field, contact Adobe Dynamic Media Classic Technical Support. Or, send an email to s7support@adobe.com requesting setup help.
 
-A common way to use the Scene7 Publishing System (SPS) is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a very few part of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
+A common way to use Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a very few part of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
 **How assets are localized**
 
@@ -94,7 +94,7 @@ Some of the benefits of using `locale=` and `attribute::DefaultLocale` include t
 
 **Implementing asset localization**
 
-Scene7 Publishing and Image Serving have an interface that allows for the localizations of images and static content.
+Dynamic Media Classic and Image Serving have an interface that allows for the localizations of images and static content.
 
 Without localization, an Image Server URL looks like the following:
 
@@ -114,7 +114,7 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 >[!NOTE]
 >
->The Global Locale setting is currently only possible when you set it through the API, not within the Scene7 Publishing System interface.
+>The Global Locale setting is currently only possible when you set it through the API, not within the Dynamic Media Classic interface.
 
 **Suffix example**
 
@@ -134,7 +134,7 @@ If an unknown or empty locale parameter is supplied with `locale=`, then the loc
 
 **About the defaultImage**
 
-The Image Server tries the options for the requested locale, one after the other. If no match is found, the locale options are applied to the defaultImage, and the matching version is returned. Therefore, either each locale should include an option for the image without localization, or localized defaultImage versions should be made available in Scene7 Publishing System.
+The Image Server tries the options for the requested locale, one after the other. If no match is found, the locale options are applied to the defaultImage, and the matching version is returned. Therefore, either each locale should include an option for the image without localization, or localized defaultImage versions should be made available in Dynamic Media Classic.
 
 **Scenarios for finding the localeMap**
 
@@ -217,7 +217,7 @@ Using the first example as a basis, images for all languages may have the suffix
 
 The Image Renderer screen establishes default settings for delivering Image Sets from image rendering servers. Settings are available in these five categories (see the Image Server screen itself for detailed descriptions of the settings):
 
-**Catalog Management** These settings determine how Scene7 Publishing System and the catalog file interact. Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Dynamic Media Classic support person.
+**Catalog Management** These settings determine how Dynamic Media Classic and the catalog file interact. Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Dynamic Media Classic support person.
 
 **Session Attributes** These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
 

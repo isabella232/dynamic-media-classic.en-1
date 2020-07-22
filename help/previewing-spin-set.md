@@ -6,7 +6,7 @@ seo-description: Learn how to preview a Spin Set.
 uuid: 5b9d4c37-a4ec-40c5-8f14-da875d71226e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 4b32ffff-4387-4699-9ba9-c3b23a2c3607
 

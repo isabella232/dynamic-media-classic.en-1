@@ -6,7 +6,7 @@ seo-description: Learn how to link a Mixed Media Set to a web page.
 uuid: 120326a2-77e9-4d6f-9b02-0a00fa9cbab1
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: b33dacc4-509d-4878-a769-76642bfaeb4e
 

@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Mixed Media Sets to help you
 uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 
@@ -26,7 +26,7 @@ This Mixed Media Sets Quick Start is designed to get up and running quickly with
 
 Start by uploading the images, swatch files, and videos for your Mixed Media Sets. Because users can zoom on images in the Mixed Media Set Viewer, take zooming into account when you choose images. Make sure that the images are least 2000 pixels in the largest dimension.
 
-Click Upload on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System.
+Click Upload on the Global Navigation bar to upload files from your computer to a folder on Dynamic Media Classic.
 
 See [Uploading your files](uploading-files.md#uploading-your-files).
 

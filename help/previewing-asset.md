@@ -6,7 +6,7 @@ seo-description: Learn how to preview an asset.
 uuid: 4a01be21-e37f-4d79-9220-f4e177e9179a
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 

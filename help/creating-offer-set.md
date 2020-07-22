@@ -6,8 +6,8 @@ seo-description: Learn how to create an offer set.
 uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
-geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 
 ---
@@ -26,7 +26,7 @@ Dynamic Media Classic offers tools for editing as well as creating offer sets.
 
 >[!NOTE]
 >
->Before you create an offer set, be sure you publish all assets that you intend to use for the set to Scene7 Publishing System. See [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+>Before you create an offer set, be sure you publish all assets that you intend to use for the set to Dynamic Media Classic. See [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 ## Types of offer sets {#types-of-offer-sets}
 
@@ -55,9 +55,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To create an offer set with a parameterized template**
 
 1. Select the template or banner.
-1. Click **Build** &gt; **Target Classic Offer Set**.
+1. Click **Build** &gt; **Test&Target Offer Set**.
 
-   The Target Classic Offer Set page lists offers in the offer set. The first item on the list is the object. 
+   The Test&Target Offer Set page lists offers in the offer set. The first item on the list is the object. 
 
 1. Select the object and click **Add & Preview**.
 
@@ -66,13 +66,13 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. Change parameter values to create the offer. For example, enter different text in a text field, change the size of a layer, swap one image for another, or choose a different viewer preset.
 1. Click **Save** or **Save As** to save the offer as part of the offer set.
 
-   The Target Classic Offer Set page lists the offers you created.
+   The Test&Target Offer Set page lists the offers you created.
 
 1. Repeat steps 3 through 5 to create more offers for the set.
 1. When you finish, near the lower-right corner of the page, ensure that **Publish after save** is selected (default).
 1. Click **Close**, enter a name for the offer set, and then click **Save**.
 
-Before you close the Target Classic Offer Set page, push the offer set to Target Classic. See [Pushing offer sets to Target Classic](pushing-offer-sets-target-classic.md#pushing_offer_sets_to_target_classic).
+Before you close the Test&Target Offer Set page, push the offer set to Target Standard/Premium. See [Pushing offer sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Creating an offer set with images or videos {#creating-an-offer-set-with-images-or-videos}
 
@@ -87,25 +87,25 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To create an offer set with images or videos**
 
-1. Assemble images or videos for the offer set. Start in the Target Classic Offer Set screen or in the Grid View or List View and use one of the following methods:
+1. Assemble images or videos for the offer set. Start in the Test&Target Offer Set screen or in the Grid View or List View and use one of the following methods:
 
-   * **Target Classic Offer Set screen**
-   Click Build > Target Classic Offer Set. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
+   * **Test&Target Offer Set screen**
+   Click **[!UICONTROL Build > Test&Target Offer Set]**. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
 
    * **Grid or List view**
-   Select the images or videos, and then click Build > Target Classic Offer Set.
+   Select the images or videos, and then click **[!UICONTROL Build > Test&Target Offer Set]**.
 
 1. Optionally, select an image or video and click **Preview**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the offer set.
 
     * Choose a Preset to change the look and size of the image or video.
     * Click the Select Presets to All check box to apply the preset you chose to all the offers in the offer set.
 
-   Click **Save** to save your changes to the image or video offer. Then click **Close** to return to the Target Classic Offer Set page.
+   Click **Save** to save your changes to the image or video offer. Then click **Close** to return to the Test&Target Offer Set page.
 
 1. After you finish creating offers for the offer set and choosing Image Presets for different images, ensure that **Publish after save** is selected (default).
 1. Click **Save** and enter a name for the offer set, and click **Save**.
 
-Before closing the Target Classic Offer Set page, push the offer set to Target Classic. See [Pushing offer sets to Target Classic](pushing-offer-sets-target-classic.md#pushing_offer_sets_to_target_classic).
+Before closing the Test&Target Offer Set page, push the offer set to Target Standard/Premium. See [Pushing offer sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Editing an Offer Set {#editing-an-offer-set}
 
@@ -123,7 +123,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To edit an Offer Set**
 
 1. To edit an offer set, display the offer set in Grid view or List view, and then click its **Edit** rollover button.
-1. In the Target Classic Offer Set page, do any of the following:
+1. In the Test&Target Offer Set page, do any of the following:
 
     * **Removing an offer**
     Select the offer, and then click **Delete** to remove an offer from the set.
@@ -132,11 +132,11 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
     * **Templates**
     Click **Add & Preview**, and on the Add & Preview Offers page, create another offer.
     * **Images and videos**
-    Drag an image or video onto the Target Classic Offer Set page.
+    Drag an image or video onto the Test&Target Offer Set page.
 
     >[!NOTE]
     >
-    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, log on to Target Classic and remove the campaign associations first. Even after un-associating from a campaign, the asset can only be deleted from Scene7 Publishing System, requiring a login to Target Classic, and not from within Target Classic.
+    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, sign in to Target Standard/Premium and remove the campaign associations first. Even after un-associating from a campaign, the asset can only be deleted from Dyanmic Media Classic, requiring a sign in to Target Standard/Premium, and not from within Target Standard/Premium.
 
 1. When you finish editing, near the lower-right corner of the page, ensure that **Publish after save** is selected (default).
 1. Click **Save**, select a storage folder, enter a name for the set, and then click **Save**.

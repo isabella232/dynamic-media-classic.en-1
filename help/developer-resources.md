@@ -6,21 +6,21 @@ seo-description: Learn about what developer resources are available for Dynamic 
 uuid: 97702f33-fb9c-4ba7-9c42-757dec7e6645
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
 
 ---
 
 # Developer resources{#developer-resources}
 
-Dynamic Media Classic provides documentation for the latest major version of each Dynamic Media Classic software module. Module documents are available for Image Authoring, Scene7 Publishing System, Image Server and Image Rendering, and Viewers.
+Dynamic Media Classic provides documentation for the latest major version of each Dynamic Media Classic software module. Module documents are available for Image Authoring, Dynamic Media Classic, Image Server and Image Rendering, and Viewers.
 
 Release notes are also available for some modules. Release notes provide details on the release, including enhancements, new functionality, tips, troubleshooting advice, and known outstanding issues. Release notes also offer interactive examples of rich-media features and how to activate them. In addition, Release Notes offer installation and configuration instructions for clients with licensed software.
 
 Reference Guides to Image Serving and Image Rendering, and Viewers describe the http protocols for these server modules. Web site developers who want to further customize and leverage Dynamic Media Classic rich media for a web site or custom application can use these guides. Dynamic Media Classic assumes that the reader is familiar with the desktop app, general http protocol standards and conventions, and basic imaging terminology.
 
 
-**Scene7 Publishing System API**
+**Dynamic Media Classic API**
 
 |Document|Web address|
 |--- |--- |

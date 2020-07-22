@@ -6,7 +6,7 @@ seo-description: Learn how to use the Browse panel to view assets.
 uuid: 677b1838-0bbe-4922-92a5-6e7d9030edb9
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: feab1194-a98c-4a18-812c-7e2e537ca488
 

@@ -6,7 +6,7 @@ seo-description: Learn how to link Zoom viewers to your web pages.
 uuid: cd350ea4-267e-4a8a-aed8-7553df86b438
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
 
@@ -14,7 +14,7 @@ discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
 
 # Linking Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}
 
-Your web sites and applications access Dynamic Media Image Server content, including master images and associated zoom targets, and Zoom Viewer Presets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your web pages and applications, you copy them from the Scene7 Publishing System.
+Your web sites and applications access Dynamic Media Image Server content, including master images and associated zoom targets, and Zoom Viewer Presets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your web pages and applications, you copy them from Dynamic Media Classic.
 
 >[!NOTE]
 >

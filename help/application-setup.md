@@ -6,7 +6,7 @@ seo-description: Learn how to setup the application area of Dynamic Media Classi
 uuid: 3e2f1d30-8f33-4a9d-bbe4-e8c3dbc968f8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
 ---
@@ -17,7 +17,7 @@ You can use the Application Setup pages to enter general settings, create image 
 
 >[!NOTE]
 >
->Only Scene7 Publishing System administrators can change settings on the Application Setup pages.
+>Only Dynamic Media Classic administrators can change settings on the Application Setup pages.
 
 ## General Settings {#general-settings}
 
@@ -29,119 +29,113 @@ On account creation, Dynamic Media Classic automatically provides the assigned s
 
 See also [Testing the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-**Published Server Name** This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Dynamic Media Classic support technician.
+* **Published Server Name** &ndash; This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Dynamic Media Classic support technician.
 
-**Origin Server Name** This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
+* **Origin Server Name** &ndash; This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
 
-**AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
+<!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician. -->
 
-**Test&amp;Target Server Name** Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating Dynamic Media Classic with Target Classic.
+* **Test&amp;Target Server Name** &ndash; Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating [!DNL Dynamic Media Classic] with [!DNL Target Standard/Premium].
 
-**iOS Streaming Server Name** The URL to your Dynamic Media Classic iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
+<!-- **Test Publish Context Server Name** -->
 
-**Progressive Video Server Name** The URL to your Dynamic Media Classic progressive video server. This server delivers progressive video using HTTP protocol.
+* **iOS Streaming Server Name** &ndash; The URL to your [!DNL Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
 
-**Show URL for unpublished assets** Select this option if you want Dynamic Media Classic to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
+* **Progressive Video Server Name** &ndash; The URL to your [!DNL Dynamic Media Classic] progressive video server. This server delivers progressive video using HTTP protocol.
 
-**Allow AIR install** Select this option to allow users to download Scene7 Publishing System desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen.
+* **Show URL for unpublished assets** &ndash; Select this option if you want [!DNL Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
-AIR users must manually uninstall their existing app and reinstall from the web version of Scene7 Publishing System (in Personal Settings). After this one-time reinstallation, you are prompted to upgrade whenever the server has a newer version of Scene7 Publishing System AIR. Scene7 Publishing System is integrated with the Application Update Framework which streamlines the upgrade process.
+<!-- **Allow AIR install** Select this option to allow users to download Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
-**CDN Invalidation Template** Specifies the template that is used for invalidating the CDN (Content Delivery Network) cache.
+<!-- AIR users must manually uninstall their existing app and reinstall from the web version of Dynamic Media Classic (in Personal Settings). After this one-time reinstallation, you are prompted to upgrade whenever the server has a newer version of Dynamic Media Classic AIR. Dynamic Media Classic is integrated with the Application Update Framework which streamlines the upgrade process. -->
 
-For example, suppose you enter an image URL (including image presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
+* **CDN Invalidation Template** &ndash; Specifies the template that is used for invalidating the CDN (Content Delivery Network) cache.
 
-`https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
+   For example, suppose you enter an image URL (including image presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
 
-If the Template just contains `<ID>`, then SPS fills in the `https://<server>/is/image`, where `<server>` is the Publish Server Name that is defined in General Settings.
+   `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
-Setting the CDN Invalidate Template, selecting an image named Backpack_B, and then clicking **File** > **Invalidate CDN** results in the following generated URL in the CDN Invalidate interface:
+   If the Template just contains `<ID>`, then Dynamic Media Classic fills in the `https://<server>/is/image`, where `<server>` is the Publish Server Name that is defined in General Settings.
 
-`https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
+   Setting the CDN Invalidate Template, selecting an image named Backpack_B, and then clicking **File** > **Invalidate CDN** results in the following generated URL in the CDN Invalidate interface:
 
-In the URL list box, click **Continue** to clear the cache for that specific image URL call. Note that you can also add URLs by typing or pasting them into the URL list box; you do not need to set the Template beforehand.
+   `https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
 
-After you have selected your CDN Invalidation Template, and made an Invalidate CDN request, an indicator will pop up in the user interface that gives you an estimate of how long it will take to clear the cache.
+   In the URL list box, click **Continue** to clear the cache for that specific image URL call. Note that you can also add URLs by typing or pasting them into the URL list box; you do not need to set the Template beforehand.
 
-Similarly, if multiple images are selected within SPS when you click **File** > **Invalidate CDN**, each image is referenced in the saved Template URL. Therefore, you can define a CDN Invalidate Template referencing each URL that is referenced on your Web site (such as product detail, search results, and so forth). Then, when you select one or images for invalidation from cache, the URLs automatically populate the interface.
+   After you have selected your CDN Invalidation Template, and made an Invalidate CDN request, an indicator will pop up in the user interface that gives you an estimate of how long it will take to clear the cache.
 
-See [Content caching](scene7-platform-overview.md#content_caching).
+   Similarly, if multiple images are selected within Dynamic Media Classic when you click **File** > **Invalidate CDN**, each image is referenced in the saved Template URL. Therefore, you can define a CDN Invalidate Template referencing each URL that is referenced on your Web site (such as product detail, search results, and so forth). Then, when you select one or images for invalidation from cache, the URLs automatically populate the interface.
 
-See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
+   See [Content caching](scene7-platform-overview.md#content_caching).
 
-**Browse**
+   See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
 
-**Show Projects** Determines whether Projects are available as a means of organizing your Dynamic Media Classic assets. See Organizing your work with Projects.
+### Browse
 
-**Show Sample eVideo Content** Turn on or off the display of eVideo sample content.
+* **Show Projects** &ndash; Determines whether Projects are available as a means of organizing your Dynamic Media Classic assets. See Organizing your work with Projects.
 
-**Show Generated Content** In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
+* **Show Sample eVideo Content** &ndash; Turn on or off the display of eVideo sample content.
 
-**Show Encoded Videos** Deselected (off) by default.
+* **Show Generated Content** &ndash; In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
 
-To quickly search and browse for videos in Scene7 Publishing System without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Master Video thumbnail, which is the source video you uploaded and used to create all the derivatives, and only the “parent” Adaptive Video Set thumbnail, which contains all the “child” derivatives of the encoded video set, are displayed in the user interface.
+* **Show Encoded Videos** &ndash; Deselected (off) by default.
 
-You can, however, still access individual encoded videos from the Master Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then click **Encoded Videos** in the right panel to access all the “child” videos.
+   To quickly search and browse for videos in Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Master Video thumbnail, which is the source video you uploaded and used to create all the derivatives, and only the “parent” Adaptive Video Set thumbnail, which contains all the “child” derivatives of the encoded video set, are displayed in the user interface.
 
-You can also use **File > Reprocess** to create more encoded “child” videos directly from an Adaptive Video Set. Scene7 Publishing System automatically finds the “parent” Master Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
+   You can, however, still access individual encoded videos from the Master Video or the Adaptive Video Set. To do so, double-click the video thumbnail image to open Detail View. Then click **Encoded Videos** in the right panel to access all the “child” videos.
 
-See [Uploading and transcoding video](uploading-encoding-videos.md#uploading_and_encoding_videos).
+   You can also use **File > Reprocess** to create more encoded “child” videos directly from an Adaptive Video Set. Dynamic Media Classic automatically finds the “parent” Master Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
 
-To continue the ability to access all your encoded video derivatives when you search and browse, select **Show Encoded Videos**.
+   See [Uploading and transcoding video](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
-There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **Show Encoded Videos**. The Build actions that over-ride the **Show Encoded Videos** setting include **Adaptive Video Sets**, and **eCatalogs**.
+   To continue the ability to access all your encoded video derivatives when you search and browse, select **Show Encoded Videos**.
 
->[Note]
->
->If you did not use Scene7 Publishing System to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
+   There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **Show Encoded Videos**. The Build actions that over-ride the **Show Encoded Videos** setting include **Adaptive Video Sets**, and **eCatalogs**.
 
-**Show Refresh Subfolders Button** Turn on or off the display of the subfolders Refresh button.
+   >[Note]
+   >
+   >If you did not use Dynamic Media Classic to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
 
-**Dynamic Media Classic FTP Account**
+* **Show Refresh Subfolders Button** &ndash; Turn on or off the display of the subfolders Refresh button.
 
-**Server** Lists your FTP account server.
+### Dynamic Media Classic FTP Account
 
-**User Name** Lists your FTP account user name.
+* **Server** &ndash; Lists your FTP account server.
 
-**Upload to Application**
+* **User Name** &ndash; Lists your FTP account user name.
 
-**Overwrite Images** Dynamic Media Classic does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
+### Upload to Application
 
-**Overwrite in current folder, same base image name/extension**
+* **Overwrite Images** &ndash; Dynamic Media Classic does not allow two files to have the same name. Each item's Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
 
-This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
+   * **Overwrite in current folder, same base image name/extension** &ndash; This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
-**Overwrite in current folder, same base asset name regardless of extension**
+   * **Overwrite in current folder, same base asset name regardless of extension** &ndash; Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
 
-Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
+   * **Overwrite in any folder, same base asset name/extension** &ndash; Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
 
-**Overwrite in any folder, same base asset name/extension**
+   * **Overwrite in any folder, same base asset name regardless of extension** &ndash; This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
-Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
+* **Retain Publish** &ndash; Specifies whether a replacement image uploaded to Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
 
-**Overwrite in any folder, same base asset name regardless of extension**
+* **Default Color Profiles** &ndash; Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
-This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
+* **Default Upload Options** &ndash; Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see Upload options.
 
-**Retain Publish** Specifies whether a replacement image uploaded to Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
+### Image Map Editor, to Application
 
-**Default Color Profiles** Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
+* **Default Image Mapping HREF** &ndash; Defines the default URL used for the image mapping href column. This URL is the default URL you see when you create new Image Maps.
 
-**Default Upload Options** Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see Upload options.
+* **Default Image Mapping Template** &ndash; Defines the default Javascript for the image mapping href template. You can set custom code here to be executed whenever you click an image map.
 
-**Image Map Editor, to Application**
+### Other Settings, to Application
 
-**Default Image Mapping HREF** Defines the default URL used for the image mapping href column. This URL is the default URL you see when you create new Image Maps.
-
-**Default Image Mapping Template** Defines the default Javascript for the image mapping href template. You can set custom code here to be executed whenever you click an image map.
-
-**Other Settings, to Application**
-
-**Trash Can Clean Up Warnings** Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See Managing the Trash folder.
+* **Trash Can Clean Up Warnings** &ndash; Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See Managing the Trash folder.
 
 ## Using the Overwrite Images option {#using-the-overwrite-images-option}
 
-Dynamic Media Classic does not allow two files to have the same name. Each item's Scene7 Publishing System ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box includes Overwrite Images options. The exact effect of this option depends on a setting for each company's Scene7 Publishing System Internal Settings.
+Dynamic Media Classic does not allow two files to have the same name. Each item's Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box includes Overwrite Images options. The exact effect of this option depends on a setting for each company's Dynamic Media Classic Internal Settings.
 
 If you previously uploaded images and then changed the original files (or replaced them), the chosen Overwrite option specifies how Dynamic Media Classic replaces the images. No information about the image changes, but the new image replaces the old one. If the folder also contains images that are not already in Dynamic Media Classic, these images are added.
 
@@ -250,7 +244,7 @@ For more information about sharpening, resample modes, and unsharp masking, see 
 
 **Color** Choose these options:
 
-**Output Color Profile** Select Use Default or one of the ICC color profiles available on the Scene7 Publishing System.
+**Output Color Profile** Select Use Default or one of the ICC color profiles available on the Dynamic Media Classic.
 
 See also [ICC profiles](icc-profiles.md#icc_profiles).
 
@@ -271,7 +265,7 @@ See also [ICC profiles](icc-profiles.md#icc_profiles).
 
     * Click **Edit** and then specify new options in the Edit Preset dialog box.
     * Click **Delete** to remove the preset from the list.
-    * Deselect the Active check box next to a preset name to remove it from the entire Scene7 Publishing System user interface for MediaPortal users.
+    * Deselect the Active check box next to a preset name to remove it from the entire Dynamic Media Classic user interface for MediaPortal users.
 
 ## Activating or deactivating adaptive video presets {#activating-or-deactivating-adaptive-video-presets}
 
@@ -283,7 +277,7 @@ See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_e
 
 **To activate or deactivate adaptive video presets**
 
-1. Near the upper-right corner of Scene7 Publishing System, click **Setup** &gt; **Application Setup** &gt; **Video Presets** &gt; **Adaptive Video Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets** &gt; **Adaptive Video Presets**.
 1. On the Adaptive Video Presets page, deselect the check box next to a preset name to remove the preset from the eVideo Options list in the Upload Job Options dialog box.
 1. Click **Close**.
 
@@ -439,7 +433,7 @@ For information about encoding options parameters, see [About the encoding prese
 
 >[!NOTE]
 >
->**Flash Viewers End-of-Life Notice** - Effective January 31, 2017, Adobe Scene7 Publishing System officially ended support for the Flash viewer platform. For more information about this important change, see the following FAQ website: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
+>**Flash Viewers End-of-Life Notice** - Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. For more information about this important change, see the following FAQ website: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
 
 A *Viewer Preset* is a collection of settings that determine how users view rich-media assets on their computer screens and mobile devices. As an administrator, you can create Viewer Presets. Settings are available for an array of viewer configuration options. For example, you can change the viewer display size, zoom behavior, color schemes, borders, and fonts.
 
@@ -487,7 +481,7 @@ For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of
 
 ### Dynamic Media Classic Viewer Preset compatibility matrix {#scene-viewer-preset-compatibility-matrix}
 
-**Flash Viewers End-of-Life Notice**: Effective January 31, 2017, Adobe Scene7 Publishing System officially ended support for the Flash viewer platform.
+**Flash Viewers End-of-Life Notice**: Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
 
 For more information about this important change, see the following FAQ website: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
 
@@ -606,7 +600,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 
 **To add and edit Viewer presets**
 
-1. Near the upper-right corner of Scene7 Publishing System, click **Setup** &gt; **Viewer Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **Setup** &gt; **Viewer Presets**.
 
    You can filter on the list of presets. For example, to see only presets for Video Viewers, select Video Viewer from the Viewers drop-down menu on the toolbar directly above the table.
 
@@ -640,7 +634,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 
 You can export an existing HTML5 Viewer Preset to use as the basis for creating a new HTML5 Viewer Preset. This export option is useful because you do not have to create the viewer from scratch. Instead, you export a preset that looks and behaves close to what you want, then you can use that as a starting point to make design adjustments.
 
-Note that all default, out-of-box Viewer preset CSS files in SPS use relative image serving paths that point to assets located on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file located on `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`However, if you are hosting Viewer CSS files on your own site, you must resolve these relative image path by using an explicit path to the Image Server in your own environment. For illustration purposes, if you were to update the relative path above to an explicit path, it might look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+Note that all default, out-of-box Viewer preset CSS files in Dynamic Media Classic use relative image serving paths that point to assets located on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file located on `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`However, if you are hosting Viewer CSS files on your own site, you must resolve these relative image path by using an explicit path to the Image Server in your own environment. For illustration purposes, if you were to update the relative path above to an explicit path, it might look like the following, where `https://s7d1.scene7.com` is the direct path to your image server: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **To export an HTML5 Viewer Preset**
 
@@ -663,7 +657,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
    Following export, you get a CSS file. Download and unzip the file.
 
 1. Open the CSS file in a CSS editor, make your changes, and then save the file.
-1. Upload the CSS file to Scene7 Publishing System.
+1. Upload the CSS file to Dynamic Media Classic.
 
    See [Uploading files](uploading-files.md#uploading_files).
 
@@ -739,7 +733,7 @@ Editing of the code is not permitted in the Embed Code dialog box.
 
 ## Configuring Default Viewers {#configuring-default-viewers}
 
-You can use Default Viewers to configure the default viewer that is associated with an asset when you use Preview in Scene7 Publishing System. You can set up the default preview experience for the following asset types:
+You can use Default Viewers to configure the default viewer that is associated with an asset when you use Preview in Dynamic Media Classic. You can set up the default preview experience for the following asset types:
 
 * Image
 * Video
@@ -815,9 +809,9 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 ## User-Defined Fields {#user-defined-fields}
 
-A Media Portal Administrator or a Company Administrator can create custom, user-defined metadata fields. Custom fields can help you organize assets in the Scene7 Publishing System. You can mark the fields as Active, as necessary. When activated, the names of these custom metadata fields appear in the Metadata panel in Detail view. Users can enter information in user-defined metadata fields to describe assets. Users can also make a user-defined metadata field a criterion in searches.
+A Media Portal Administrator or a Company Administrator can create custom, user-defined metadata fields. Custom fields can help you organize assets in Dynamic Media Classic. You can mark the fields as Active, as necessary. When activated, the names of these custom metadata fields appear in the Metadata panel in Detail view. Users can enter information in user-defined metadata fields to describe assets. Users can also make a user-defined metadata field a criterion in searches.
 
-One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an “activation” field, based on the type *Date*. Then, using the **Metadata** panel in **Detail** view or **File** &gt; **Edit Info**, you can specify when the asset is activated. Scene7 Publishing System checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as “Not Published”.
+One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an “activation” field, based on the type *Date*. Then, using the **Metadata** panel in **Detail** view or **File** &gt; **Edit Info**, you can specify when the asset is activated. Dynamic Media Classic checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as “Not Published”.
 
 >[!NOTE]
 >
@@ -879,9 +873,9 @@ To open this screen, click **Setup** &gt; **Application Setup** &gt; **Metadata*
 
 ## Optimize Files {#optimize-files}
 
-As you upload files to the Scene7 Publishing System, the system optimizes them for storage and publishing. If the upload process is interrupted, however, some images cannot be optimized. In this case, you see the “Image not yet optimized” message. You can, however, optimize these files if you are an administrator.
+As you upload files to the Dynamic Media Classic, the system optimizes them for storage and publishing. If the upload process is interrupted, however, some images cannot be optimized. In this case, you see the “Image not yet optimized” message. You can, however, optimize these files if you are an administrator.
 
-Scene7 Publishing System searches through your files and optimizes only those images that were not fully optimized before.
+Dynamic Media Classic searches through your files and optimizes only those images that were not fully optimized before.
 
 1. Choose **Setup** &gt; **Application Setup**, and then select O**ptimize Files**.
 1. Enter information for the optimization job and click **Submit**.
@@ -890,7 +884,7 @@ Scene7 Publishing System searches through your files and optimizes only those im
 
 ## Batch Set Presets {#batch-set-presets}
 
-Use the batch set presets to automatically create image sets or spin sets while a job is running to upload assets to the Scene7 Publishing System.
+Use the batch set presets to automatically create image sets or spin sets while a job is running to upload assets to Dynamic Media Classic.
 
 Company administrators first define naming conventions for the assets that they want to group together in a set. You can then create abatch set preset to reference these images. Each preset is a uniquely named, self-contained set of instructions that defines how to construct the set using images that match the defined naming conventions in the preset recipe.
 

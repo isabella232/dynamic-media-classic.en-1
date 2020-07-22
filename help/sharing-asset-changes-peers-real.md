@@ -6,7 +6,7 @@ seo-description: Learn how to share asset changes with peers in real time.
 uuid: 13fa4f6e-66bf-4682-96a9-0e7040706f53
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: ca7c8a7f-76f4-4a25-8c36-617a029e55be
 

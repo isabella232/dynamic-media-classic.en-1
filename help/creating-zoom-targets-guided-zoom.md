@@ -6,7 +6,7 @@ seo-description: Learn how to create zoom targets for Guided Zoom.
 uuid: 501ea37b-adc5-4290-87eb-52a3501e5d26
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
 

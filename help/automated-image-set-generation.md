@@ -6,7 +6,7 @@ seo-description: Learn how to automate the generation of image sets.
 uuid: bd4b3252-3e77-4230-9684-cd6d28b8eecb
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 1a9b525e-6120-44c7-b11a-e56bfb7cd017
 

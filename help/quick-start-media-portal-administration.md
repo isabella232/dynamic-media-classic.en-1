@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Media Portal to help you get
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 
@@ -42,7 +42,7 @@ See [Adding and managing Media Portal users](adding-media-portal-users.md#adding
 
 **4. Manage FTP accounts**
 
-You can have separate FTP accounts that are associated with Media Portal and mapped to a specific folder in your Scene7 Publishing System account. This kind of functionality means you can allow users to upload digital assets into your account using separate FTP accounts.
+You can have separate FTP accounts that are associated with Media Portal and mapped to a specific folder in your Dynamic Media Classic account. This kind of functionality means you can allow users to upload digital assets into your account using separate FTP accounts.
 
 See [Managing FTP accounts](ftp-accounts.md#managing_ftp_accounts).
 

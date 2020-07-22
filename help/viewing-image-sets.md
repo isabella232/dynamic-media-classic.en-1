@@ -6,7 +6,7 @@ seo-description: Learn how to view Image Sets.
 uuid: bb5b0fee-abc0-4236-ac43-09edb9bb3651
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 027aa3e0-f085-48ae-aff9-7b805bbdf8ab
 

@@ -6,7 +6,7 @@ seo-description: Learn how to manage FTP accounts.
 uuid: c9410f44-14bf-4f55-a199-f0f0de459219
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: d592f0a7-1c27-4463-998a-07351147da1d
 

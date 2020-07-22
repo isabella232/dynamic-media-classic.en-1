@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Zoom to help you get up and 
 uuid: 31eda632-3469-4f90-885b-e90c6a2e5e75
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
 
@@ -26,9 +26,9 @@ This Zoom Quick Start is designed to get up and running quickly with Zoom techni
 
 **1. Uploading zoom Images**
 
-Start by uploading your zoom images to the Scene7 Publishing System. For optimal zooming, Dynamic Media Classic recommends that the images are at least 2000 pixels in the longest dimension.
+Start by uploading your zoom images to Dynamic Media Classic. For optimal zooming, Dynamic Media Classic recommends that the images are at least 2000 pixels in the longest dimension.
 
-Select the Upload button on the Global Navigation bar to upload images from your computer or network to a folder on the Scene7 Publishing System. See [Uploading zoom images](uploading-zoom-images.md#uploading_zoom_images).
+Select the Upload button on the Global Navigation bar to upload images from your computer or network to a folder on Dynamic Media Classic. See [Uploading zoom images](uploading-zoom-images.md#uploading_zoom_images).
 
 **2. Creating zoom targets for guided zooming**
 
@@ -54,7 +54,7 @@ Zoom buttons appear. You can see what the zoom images look like on your web site
 
 **5. Publishing zoom images**
 
-Publishing your zoom images places them on Dynamic Media Image Servers so that they can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates URL strings. These URL strings call zoom images from Dynamic Media Image Servers to your web site or application.
+Publishing your zoom images places them on Dynamic Media Image Servers so that they can be delivered to your web site and application. As part of the publishing process, Dynamic Media Classic activates URL strings. These URL strings call zoom images from Dynamic Media Image Servers to your web site or application.
 
 Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select the Start Publish button. See [Publishing zoom images](publishing-zoom-images.md#publishing_zoom_images).
 

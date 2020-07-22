@@ -6,7 +6,7 @@ seo-description: Learn how to upload template files.
 uuid: e19979b5-3f41-49c5-99aa-107ede3be98c
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 
@@ -14,7 +14,7 @@ discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 
 # Uploading template files{#uploading-template-files}
 
-Upload the files you need for your template into the Scene7 Publishing System before you begin building the template. You can build templates from an Adobe® Photoshop® PSD or an image file. TIFF and PNG images are recommended because they allow for transparency.
+Upload the files you need for your template into Dynamic Media Classic before you begin building the template. You can build templates from an Adobe® Photoshop® PSD or an image file. TIFF and PNG images are recommended because they allow for transparency.
 
 >[!NOTE]
 >

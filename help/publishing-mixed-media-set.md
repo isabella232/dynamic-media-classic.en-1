@@ -6,7 +6,7 @@ seo-description: Learn how to publish a Mixed Media Set.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
 
@@ -18,7 +18,7 @@ Create a publish job to publish an Mixed Media Set that you have marked for publ
 
 ***note**: Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. You use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.*
 
-Scene7 Publishing System tracks publish jobs on the Jobs screen.
+Dynamic Media Classic tracks publish jobs on the Jobs screen.
 
 See [Publishing](publishing-files.md#publishing_files).
 

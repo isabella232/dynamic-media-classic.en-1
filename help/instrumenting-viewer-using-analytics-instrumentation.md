@@ -6,7 +6,7 @@ seo-description: Learn how to instrument a viewer using the Adobe Analytics Inst
 uuid: cf9a4002-966d-4641-9cd0-2ee8b5454f60
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: a2824244-1755-42de-a167-42af117cf038
 
@@ -18,15 +18,15 @@ You can use the Adobe Analytics Instrumentation Kit to integrate an HTML5 viewer
 
 If you use any of the predefined Dynamic Media Classic HTML5 viewer presets, be aware that they already contain all the implementation code needed to send data to Adobe Analytics--no further instrumentation is required by you.
 
-## Set up Adobe Analytics tracking from Scene7 Publishing System {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
+## Set up Adobe Analytics tracking from Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
 For all HTML5 viewers, add the following JavaScript to the HTML container, usually in the &lt;head&gt; element:
 
 ```as3
-<!-- ***** Site Catalyst Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<SPS Company ID>&preset=companypreset-1"></script>
+<!-- ***** Site Catalyst Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-`Company` is set to the SPS company name. `&preset` is optional unless the company preset name is not `companypreset`. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, click **Copy URL** , and then look at the `preset=`parameter to find the company preset name.
+`Company` is set to the Dynamic Media Classic company name. `&preset` is optional unless the company preset name is not `companypreset`. In such cases, it could be `companypreset-1, companypreset-2`, and so on. The higher number is a newer instance of the preset. To determine the correct company preset value name, click **Copy URL** , and then look at the `preset=`parameter to find the company preset name.
 
 Continuing, you will now you add a function that transmits the viewer event to the Adobe Analytics tracking code.
 

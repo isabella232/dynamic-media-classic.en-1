@@ -63,7 +63,7 @@ index: y
     + [Moving, renaming, and deleting assets](moving-renaming-deleting-assets.md)
     + [Working in Detail view](detail-view.md)
     + [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md)
-    + [Exporting assets from Scene7 Publishing System](exporting-assets-scene7-publishing-system.md)
+    + [Exporting assets from Dynamic Media Classic](exporting-assets-scene7-publishing-system.md)
     + [Sharing asset changes with peers in real time](sharing-asset-changes-peers-real.md)
     + [Printing assets](printing-assets.md)
     + [Managing the Trash folder](trash-folder.md)
@@ -147,11 +147,11 @@ index: y
     + [Testing the integration by viewing an Adobe Analytics report](testing-integration-viewing-analytics-report.md)
     + [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md)
     + [Publishing Adobe Analytics configuration information](publishing-analytics-configuration-information.md)
-+ Target Classic integration {#target-classic}
-    + [Quick Start: Target Classic integration](quick-start-target-classic-integration.md)
-    + [Integrating Adobe Dynamic Media Classic with Adobe Target Classic](integrating-scene7-target-classic.md)
++ Target Standard/Premium integration {#target-classic}
+    + [Quick Start: Target Standard/Premium integration](quick-start-target-integration.md)
+    + [Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md)
     + [Creating an offer set](creating-offer-set.md)
-    + [Pushing offer sets to Adobe Target Classic](pushing-offer-sets-target-classic.md)
+    + [Pushing offer sets to Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + User-generated content {#user-generated-content}
     + [About User-generated content](about-ugc.md)
     + [Deleting an uploaded asset](deleting-uploaded-asset.md)

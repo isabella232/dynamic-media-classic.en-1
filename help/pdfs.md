@@ -6,7 +6,7 @@ seo-description: Learn how to work with PDFs in Dynamic Media Classic.
 uuid: 26d70d28-9393-49b1-9051-d70456deca67
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 
@@ -58,7 +58,7 @@ Choose a Color Profile option:
 
 **Keep Original Color Space** Retains the original color space.
 
-**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS.
+**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 

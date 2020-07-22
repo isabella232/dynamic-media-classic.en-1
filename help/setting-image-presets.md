@@ -6,7 +6,7 @@ seo-description: Learn how to set up Image Presets.
 uuid: 90530948-dee9-41bd-b39e-684140446abc
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 

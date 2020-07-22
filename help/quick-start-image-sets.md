@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Image Sets to help you get u
 uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 
@@ -24,7 +24,7 @@ This Image Sets Quick Start is designed to get up and running quickly with Image
 
 Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, take zooming into account when you choose images. Make sure that the images are least 2000 pixels in the largest dimension. Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
-Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System.
+Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on Dynamic Media Classic.
 
 See [Preparing Image Set assets for upload](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) and [Uploading your files](uploading-files.md#uploading-your-files).
 
