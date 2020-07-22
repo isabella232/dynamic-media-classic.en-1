@@ -67,7 +67,7 @@ See also [Testing the Secure Testing service](testing-assets-making-them-public.
 
    Similarly, if multiple images are selected within Dynamic Media Classic when you click **File** > **Invalidate CDN**, each image is referenced in the saved Template URL. Therefore, you can define a CDN Invalidate Template referencing each URL that is referenced on your Web site (such as product detail, search results, and so forth). Then, when you select one or images for invalidation from cache, the URLs automatically populate the interface.
 
-   See [Content caching](scene7-platform-overview.md#content_caching).
+   See [Content caching](dmc-platform-overview.md#content_caching).
 
    See [Republished assets and CDN delays](publishing-files.md#republished_assets_and_cdn_delays).
 

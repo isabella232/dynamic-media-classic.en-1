@@ -32,4 +32,4 @@ See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media
 
 The Getting Started section of the Help system presents instructions for users who are new to Dynamic Media Classic. It explains the basics of the platform, navigation, setup, asset management, and building rich media.
 
-See [Getting started](scene7-platform-overview.md).
+See [Getting started](dmc-platform-overview.md).

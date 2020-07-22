@@ -12,7 +12,7 @@ discoiquuid: abec9a85-013c-4030-b129-bf27a89cb464
 
 ---
 
-# Quick Start: Integrating Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-scene-and-adobe-analytics}
+# Quick Start: Integrating Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-dmc-analytics}
 
 Adobe Analytics is the industry-leading product that provides marketers with one place where they can measure, analyze, and optimize integrated data from all online initiatives across multiple marketing channels.
 
