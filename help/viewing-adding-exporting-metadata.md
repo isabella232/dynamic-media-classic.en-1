@@ -6,7 +6,7 @@ seo-description: Learn how to view, add, and export metadata.
 uuid: a5254c51-9e04-45ae-8236-3eab2925e5fc
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 
@@ -14,7 +14,7 @@ discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 
 # Viewing, adding, and exporting metadata{#viewing-adding-and-exporting-metadata}
 
-You can store information specific to the files you work with in the Scene7 Publishing System; this information is called *metadata*. You can use metadata in Dynamic Media Classic for organizing, searching, filtering, and sorting your assets.
+You can store information specific to the files you work with in Dynamic Media Classic; this information is called *metadata*. You can use metadata in Dynamic Media Classic for organizing, searching, filtering, and sorting your assets.
 
 Metadata appears in Detail view along with Dynamic Media Classic-generated information, such as the file creation date, publishing date, and keywords. To view metadata, open the asset in Detail view and select the Metadata panel. You can enter and edit metadata in Detail view.
 
@@ -76,7 +76,7 @@ Rather than manually enter metadata one asset at a time, you can import metadata
 
 >[!NOTE]
 >
->You can create a template for entering metadata so that it can be properly imported to Scene7 Publishing System. After you create the template, you can use it to enter the metadata. See [Create a template for entering metadata to upload](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
+>You can create a template for entering metadata so that it can be properly imported to Dynamic Media Classic. After you create the template, you can use it to enter the metadata. See [Create a template for entering metadata to upload](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
 
 You can find more information about standardized properties at: https://www.adobe.com/devnet/xmp.html
 
@@ -129,9 +129,9 @@ Click the Upload button on the Global Navigation Bar, and on the Jobs screen, se
 
 ## Batch rename IDs using metadata {#batch-rename-ids-using-metadata}
 
-Using metadata imported from a tab-delimited file or XML file, you can rename Scene7 Publishing System IDs. The imported metadata is applied only to the images specified in the metadata file itself. It doesn't matter whether images are selected on the Browse Panel.
+Using metadata imported from a tab-delimited file or XML file, you can rename Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It doesn't matter whether images are selected on the Browse Panel.
 
-To rename an image’s Scene7 Publishing System ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called* new_vc_objectname* to the XML data.
+To rename an image’s Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called* new_vc_objectname* to the XML data.
 
 For example:
 
@@ -145,7 +145,7 @@ The job log for the Metadata job will show which IDs were successfully renamed a
 
 ## Create a template for entering metadata to upload {#create-a-template-for-entering-metadata-to-upload}
 
-Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Scene7 Publishing System. Follow these steps to create a template for use in recording and importing metadata to Scene7 Publishing System:
+Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Dynamic Media Classic. Follow these steps to create a template for use in recording and importing metadata to Dynamic Media Classic:
 
 1. Select image assets with metadata fields you want for your template.
 1. Choose File &gt; Import Metadata.
@@ -176,9 +176,9 @@ The system automatically generates a custom schema for User-defined fields with 
 
 >[!NOTE]
 >
->Changes to the schema never change the asset metadata itself. However, they are not visible for all SPS and Metadata Server functionality and can't be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in SPS and the Metadata Server.
+>Changes to the schema never change the asset metadata itself. However, they are not visible for all Dynamic Media Classic and Metadata Server functionality and can't be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Dynamic Media Classic and the Metadata Server.
 
-The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside SPS. A schema is defined by a prefix, a namespace, and a list of properties.
+The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside Dynamic Media Classic. A schema is defined by a prefix, a namespace, and a list of properties.
 
 * Name
 
@@ -186,11 +186,11 @@ The Metadata Schema Editor offers a graphical way to add or edit a custom compan
 
 * Prefix
 
-  Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
+  Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and our database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
 
 * Namespace
 
-  Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the SPS UI, but is used to store metadata in the XMP block.
+  Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the Dynamic Media Classic UI, but is used to store metadata in the XMP block.
 
 * Description
 
@@ -204,7 +204,7 @@ Properties describe the metadata that can be stored with this schema in the XMP 
 
 |Property|Description|
 |--- |--- |
-|ID|Technical identifier for this property. The ID is not visible in SPS UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
+|ID|Technical identifier for this property. The ID is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
 |Label|UI-Name for this property.|
 |Structure|Determines the type of the property together with Data Type. Structure can be one of:<ul><li>Simple Type: single value of data type</li><li>Sequence: a list of values of the same data type</li><li>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</li><li>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</li></ul>|
 |Data Type|Select from these available types: <ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date</li></ul>|
@@ -214,7 +214,7 @@ When the property has the structure Open Choice or Closed Choice, you must provi
 
 |Property|Description|
 |--- |--- |
-|ID|Technical identifier for this value. The ID is not visible in the SPS UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.|
+|ID|Technical identifier for this value. The ID is not visible in the Dynamic Media Classic UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.|
 |Label|UI-Name for this value.|
 
 >[!MORELIKETHIS]

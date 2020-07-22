@@ -6,32 +6,34 @@ seo-description: Learn how to setup the administration area of Dynamic Media Cla
 uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 
 ---
 
+<!-- UPDATE TOPIC AFTER DECEMBER 31, 2020!!!! -->
+
 # Administration Setup{#administration-setup}
 
-The Administration Setup screens are for administering Scene7 Publishing System users. Use these screens to enable users to work in the Scene7 Publishing System and to communicate by e-mail with users.
+The Administration Setup screens are for administering Dynamic Media Classic users. Use these screens to enable users to work in Dynamic Media Classic and to communicate by e-mail with users.
 
 1. To access Administration Setup options, click **Setup** &gt; **Personal Setup** &gt; **Administration Setup**.
 
 ## User Administration {#user-administration}
 
-All Dynamic Media Classic users are assigned a role that determines their privileges and access rights to features in Scene7 Publishing System. Administrators determine the different roles and responsibilities for the companies to which they are assigned.
+All Dynamic Media Classic users are assigned a role that determines their privileges and access rights to features in Dynamic Media Classic. Administrators determine the different roles and responsibilities for the companies to which they are assigned.
 
-Typically, Dynamic Media Classic configures the first set of companies and assigns a company administrator. The company administrator then sets up and administers Scene7 Publishing System users.
+Typically, Dynamic Media Classic configures the first set of companies and assigns a company administrator. The company administrator then sets up and administers Dynamic Media Classic users.
 
-Scene7 Publishing System supports three user roles. All three roles can access companies set up for the Scene7 Publishing System:
+Dynamic Media Classic supports several user roles. These roles can access companies set up for the Dynamic Media Classic:
 
-**SPS Administrator** Can view and administer all features in Scene7 Publishing System, as well as set up companies and add administrators and users.
+<!-- **Adobe Dynamic Media Classic Administrator** Can view and administer all features in Dynamic Media Classic, as well as set up companies and add administrators and users. -->
 
-**Company Administrator** Can view and administer only their own companies. A Company Administrator can also perform all administration functions, including adding administrators and users. A Company Administrator can add a user to the SPS company admin accounts. (This role is the default user role.)
+**Adobe Dynamic Media Classic User** Can access companies to which they have been assigned; cannot perform any administrative duties.
 
-**SPS User** Can access companies to which they have been assigned; cannot perform any administrative duties.
+**Adobe Dynamic Media Classic Company Admin** Can view and administer only their own companies. A Company Administrator can also perform all administration functions, including adding administrators and users. A Company Administrator can add a user to the DMC company admin accounts. (This role is the default user role.)
 
-After you add a user, Scene7 Publishing System sends the user a Welcome e-mail message. The message includes a password and the Scene7 Publishing System URL.
+After you add a user, Dynamic Media Classic sends the user a Welcome e-mail message. The message includes a password and the Dynamic Media Classic URL.
 
 ### Adding a user or administrator {#adding-a-user-or-administrator}
 
@@ -53,17 +55,17 @@ After you add a user, Scene7 Publishing System sends the user a Welcome e-mail m
 
    After saving, a prompt asks if you want to add a user to another company. Click Add if you want to add the user to a company.
 
-   All new users are given a randomly generated password; users are required to change passwords the first time they log in to Scene7 Publishing System.
+   All new users are given a randomly generated password; users are required to change passwords the first time they log in to Dynamic Media Classic.
 
    New users are sent a Welcome e-mail after you add them. The e-mail provides a temporary password and explains how to log on to the Scene 7 Publishing System.
 
-   If the user does not receive the welcome email, have them go the SPS login page (https://s7sps1.scene7.com), and click Forgot My Password. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
+   If the user does not receive the welcome email, have them go the Dynamic Media Classic sign in page (https://s7sps1.scene7.com), and click Forgot My Password. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
 
    When adding new Media Portal users, you can also go to Setup &gt; Application Setup &gt; User Administration, then click Upload User List and select a .csv file containing no more than 500 users.
 
 ### Deleting a user {#deleting-a-user}
 
-You can delete users from Scene7 Publishing System by making them invalid. Invalid users are removed from the system and all accounts.
+You can delete users from Dynamic Media Classic by making them invalid. Invalid users are removed from the system and all accounts.
 
 1. Click **Setup** &gt; **Application Setup** &gt; A**dministration Setup** &gt; **User Administration**.
 1. Select a user from the list, and then click **Edit**.
@@ -135,7 +137,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
 ## Bandwidth & Storage {#bandwidth-storage}
 
-SPS Administrators can generate bandwidth, storage, and other types of reports for the companies they administer. These reports are available on the Bandwidth & Storage screen.
+Dynamic Media Classic Administrators can generate bandwidth, storage, and other types of reports for the companies they administer. These reports are available on the Bandwidth & Storage screen.
 
 To open this screen, click Setup &gt; Personal Setup. Expand Administration Setup, and then click Bandwidth & Storage.
 
@@ -209,7 +211,7 @@ After you generate a report, you can export its data for use in spreadsheets and
 
 ## Image Errors {#image-errors}
 
-SPS Administrators can generate Image Error reports. An Image Error report provides a list of the 20 most frequent image errors, for the past 24 hours, for the company you are currently logged in to. Follow these steps to generate an Image Error report:
+Dynamic Media Classic Administrators can generate Image Error reports. An Image Error report provides a list of the 20 most frequent image errors, for the past 24 hours, for the company you are currently logged in to. Follow these steps to generate an Image Error report:
 
 1. Click Setup &gt; Personal Setup.
 1. Expand Administration Setup, and then click Image Errors.

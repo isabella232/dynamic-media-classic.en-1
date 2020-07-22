@@ -6,15 +6,17 @@ seo-description: Learn about signing in and out in Dynamic Media Classic
 uuid: eaf51ab7-d17a-4b7b-b6a4-1ec78bfee36b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: ad418881-ff31-43b1-bbb6-ab2fbcf89bea
 
 ---
 
+<!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
+
 # Signing in and out{#signing-in-and-out}
 
-Upload, building, and publishing with the Scene7 Publishing System requires meeting certain user prerequisites and system requirements. You identify yourself to SPS by signing in. When you have finished using Dynamic Media Classic, sign out.
+Upload, building, and publishing with Dynamic Media Classic requires meeting certain user prerequisites and system requirements. You identify yourself to Dynamic Media Classic by signing in. When you have finished using Dynamic Media Classic, sign out.
 
 Make sure that you have the following before using Dynamic Media Classic:
 

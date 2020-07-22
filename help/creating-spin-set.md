@@ -6,7 +6,7 @@ seo-description: Learn how to create a Spin Set.
 uuid: 697bd78f-5e39-46bf-aa6d-ad8ab99fe40e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 
@@ -32,7 +32,7 @@ In general, the more images you have in a Spin Set, the better the image spinnin
 
 ## Creating a Spin Set {#create}
 
-Be aware that the order in which the Spin Set is authored or created in Scene7 Publishing System is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction . Therfore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
+Be aware that the order in which the Spin Set is authored or created in Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction . Therfore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
 
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
 

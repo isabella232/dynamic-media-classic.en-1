@@ -6,7 +6,7 @@ seo-description: Learn how to link a Swatch Set to a web page.
 uuid: 1f623bf2-3bb0-481f-b063-79e4ce125424
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 0edab47b-531c-41a9-89c3-2e179c4f9fa4
 

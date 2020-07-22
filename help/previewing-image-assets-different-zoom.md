@@ -6,7 +6,7 @@ seo-description: Learn how to preview image assets with different Zoom viewers.
 uuid: 244c0faa-2a33-416f-8987-bdc0c85f5c2e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: b072d3b7-0d30-4903-9c87-5fbbcc89bd51
 

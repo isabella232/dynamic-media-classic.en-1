@@ -3,7 +3,7 @@ title: Dynamic Media Classic technical documentation
 seo-title: Technical documentation and self help for Adobe Dynamic Media Classic
 description: Dynamic Media Classic technical documentation
 seo-description: Technical documentation, release notes and self-help materials for Adobe Dynamic Media Classic, formerly Scene 7 
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 
 ---
 
@@ -27,7 +27,7 @@ See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 * [Dynamic Media Monthly Newsletter](dynamic-media-newsletter.md)
 * [Guide: Best Practices for Using Dynamic Media Classic](https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf)
 * [Guide: Best Practices Guide for Sharpening Images](/help/assets/s7_sharpening_images.pdf)
-* [Guide: How Adobe Dyanmic Media Classic Supports SEO](/help/assets/s7_seo.pdf) - Search engines today enable search for websites and images. SPS supports efforts to make images search-engine friendly so that more traffic is driven to the Dynamic Media Classic user's website. This guide in PDF gives you the background and implementation recommendations to make that happen.
+* [Guide: How Adobe Dyanmic Media Classic Supports SEO](/help/assets/s7_seo.pdf) - Search engines today enable search for websites and images. Dynamic Media Classic supports efforts to make images search-engine friendly so that more traffic is driven to the Dynamic Media Classic user's website. This guide in PDF gives you the background and implementation recommendations to make that happen.
 * [Webinar: Best Practices for Responsive Design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Learn practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one master asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images.
 * [Webinar: Best Practices Deliver Interactive Experiences with Dynamic Media Classic](http://seminars.adobeconnect.com/p7wb8ej3u6d/) - Learn how to get content in and out of Dynamic Media Classic and how to set up image presets for optimal performance and experience. You also learn about viewer presets and caching configurations.
 * [Webinar: Maximizing your Asset ROI](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&fcsContent=true&pbMode=normal&proto=true) - Learn industry best practices to deliver rich media across your sites and mobile apps. In this webinar we give examples and demonstrations showing you how to deliver video efficiently across devices, deliver dynamic creative in your marketing campaigns, and increase conversion by making any image, style guide, or lookbook shoppable.

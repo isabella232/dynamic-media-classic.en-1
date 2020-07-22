@@ -6,7 +6,7 @@ seo-description: Learn how to add chapter markers to a video.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 
@@ -52,7 +52,7 @@ See [WebVTT: The Web Video Text Tracks format](https://dev.w3.org/html5/webvtt/)
 
 **To add chapter markers to video**
 
-1. Using a simple text editor outside Scene7 Publishing System, create your video chapter file.
+1. Using a simple text editor outside Dynamic Media Classic, create your video chapter file.
 
    >[!NOTE]
    >
@@ -62,7 +62,7 @@ See [WebVTT: The Web Video Text Tracks format](https://dev.w3.org/html5/webvtt/)
 
    Generally, you want to name the chapter VTT file the same name as the video file, and append it with `chapters`. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.
 
-1. In Scene7 Publishing System, upload your WebVTT chapter file.
+1. In Dynamic Media Classic, upload your WebVTT chapter file.
 
    See [Uploading files](uploading-files.md#uploading_files).
 

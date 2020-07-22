@@ -6,7 +6,7 @@ seo-description: Learn how to work in Detail view.
 uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 
@@ -48,7 +48,7 @@ To closely examine, preview, or work on an asset, you can display it in Detail v
 
 ## Getting information in Detail view {#getting-information-in-detail-view}
 
-Detail view provides information about an asset or file. It shows this information about an item: the folder where it is stored, its filename, the date the item was uploaded to Scene7 Publishing System, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail view.
+Detail view provides information about an asset or file. It shows this information about an item: the folder where it is stored, its filename, the date the item was uploaded to Dynamic Media Classic, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail view.
 
 You can obtain an asset URL in Detail view; however, the URL is not active until you publish the asset. For images, Detail view also provides a list of build and derived assets and metadata, such as zoom targets and Image Sets.
 

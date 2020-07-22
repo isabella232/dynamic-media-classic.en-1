@@ -6,7 +6,7 @@ seo-description: Learn how to check job files.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 
@@ -14,7 +14,7 @@ discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 
 # Checking job files{#checking-job-files}
 
-To monitor file uploads to the Scene7 Publishing System and files you publish to Dynamic Media Classic servers, SPS offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to the Dynamic Media Classic and files you publish to Dynamic Media Classic servers, Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
 When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can click the icon to see more information about the active job.
 
@@ -64,7 +64,7 @@ Use these techniques to sort jobs or change your view of the History tab of the 
 
 ## Viewing, copying, or printing a Job Details report {#viewing-copying-or-printing-a-job-details-report}
 
-Double-click the name of a report on the Jobs page to open the Job Details page. This page provides a summary report about the files in the job. Click View Detail to see an entry’s SPS ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in SPS, the report lists the missing fonts.
+Double-click the name of a report on the Jobs page to open the Job Details page. This page provides a summary report about the files in the job. Click View Detail to see an entry’s Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Dynamic Media Classic, the report lists the missing fonts.
 
 You can copy this information to the Clipboard.
 

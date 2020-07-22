@@ -6,7 +6,7 @@ seo-description: Learn about technical support options.
 uuid: b4927dc0-3a58-43da-b967-d00e2582cb15
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 05e443b2-ac15-4d87-859a-271699593304
 
@@ -29,7 +29,7 @@ Technical support offerings are designed to meet the needs of any size company. 
 
 When reporting issues to Technical Support, include this information:
 
-* Scene7 Publishing System company name.
+* Dynamic Media Classic company name.
 * Your name, phone number, and e-mail address.
 * Dynamic Media Classic application, platform, and version.
 * Issue description and the steps necessary to reproduce the problem.

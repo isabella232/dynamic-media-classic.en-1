@@ -6,7 +6,7 @@ seo-description: Learn how to link a template to a web page.
 uuid: f111ef06-4afc-454c-86ce-5d640236d40b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 989dba07-448a-45b1-b157-af50abb5359a
 
@@ -16,7 +16,7 @@ discoiquuid: 989dba07-448a-45b1-b157-af50abb5359a
 
 Your web sites and applications access Dynamic Media Image Server content via URL strings. After you publish a template, Dynamic Media Classic activates a URL string that references the template on Dynamic Media Image Servers. You can paste this URL in a web browser for testing.
 
-To place URL strings in your web pages and applications, copy them from the Scene7 Publishing System. To obtain a Template URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail view). Then select an Image Preset and select the copy URL button.
+To place URL strings in your web pages and applications, copy them from Dynamic Media Classic. To obtain a Template URL string generated with an Image Preset, go to the Preview screen or the Browse Panel (in Detail view). Then select an Image Preset and select the copy URL button.
 
 >[!NOTE]
 >

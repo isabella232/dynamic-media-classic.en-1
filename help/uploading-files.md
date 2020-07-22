@@ -6,22 +6,22 @@ seo-description: Learn how to upload files.
 uuid: b3025f84-4f28-4276-bc9c-f0c0c2a26e12
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 
 ---
 
 # Uploading files{#uploading-files}
 
-Before you upload assets files to the Scene7 Publishing System, make sure that the asset files are named correctly, and that your folder structure is set up and organized the way you want. You can upload files from a Dynamic Media Classic-provided FTP site or directly from your computer or network. Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Scene7 Publishing System desktop application, you can upload files and folders by dragging them directly from your desktop. (See [Application General Settings](application-setup.md#general_settings).)
+Before you upload assets files to Dynamic Media Classic, make sure that the asset files are named correctly, and that your folder structure is set up and organized the way you want. You can upload files from a Dynamic Media Classic-provided FTP site or directly from your computer or network. Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Dynamic Media Classic desktop application, you can upload files and folders by dragging them directly from your desktop. (See [Application General Settings](application-setup.md#general_settings).)
 
 ## Preparing your assets and folders for uploading {#preparing-your-assets-and-folders-for-uploading}
 
-Before uploading assets to the Scene7 Publishing System, make sure that they are in the right format and size. You also have to observe the Dynamic Media Classic rules for naming assets. By setting up a folder organization and structure for the files, you make sure you can locate and work with files easily.
+Before uploading assets to Dynamic Media Classic, make sure that they are in the right format and size. You also have to observe the Dynamic Media Classic rules for naming assets. By setting up a folder organization and structure for the files, you make sure you can locate and work with files easily.
 
 ### Supported asset file formats {#supported-asset-file-formats}
 
-This table lists the asset file formats that the Scene7 Publishing System supports. For information on supported Camera Raw files, see [www.adobe.com/go/learn_s7_cameraraw_en](https://www.adobe.com/go/learn_s7_cameraraw_en).
+This table lists the asset file formats that Dynamic Media Classic supports. For information on supported Camera Raw files, see [www.adobe.com/go/learn_s7_cameraraw_en](https://www.adobe.com/go/learn_s7_cameraraw_en).
 
 |Asset file formats|Description|
 |--- |--- |
@@ -84,7 +84,7 @@ To achieve optimal results with the Dynamic Media Classic platform, be sure to u
 
 >[!NOTE]
 >
->When you upload image files and PDFs to SPS, the system converts these source files to P-TIFF (Pyramid TIFF) files. These P-TIFFs are the files that are later published to Dynamic Media Image Servers. Dynamic Media Classic uses the Pyramid Tiff file format because it contains various zoom ratios that allow for fast zooming when viewed with a Dynamic Media Classic Zoom Viewer.
+>When you upload image files and PDFs to Dynamic Media Classic, the system converts these source files to P-TIFF (Pyramid TIFF) files. These P-TIFFs are the files that are later published to Dynamic Media Image Servers. Dynamic Media Classic uses the Pyramid Tiff file format because it contains various zoom ratios that allow for fast zooming when viewed with a Dynamic Media Classic Zoom Viewer.
 
 ### Supported Static File Formats {#supported-static-file-formats}
 
@@ -129,12 +129,12 @@ In most cases, an asset filename can be the same as its item number, product SKU
 
 ### Folder organization and structure {#folder-organization-and-structure}
 
-Organize and structure folders and subfolders for your content in the Scene7 Publishing System before you upload your content to the system. Planning ahead this way has two major advantages:
+Organize and structure folders and subfolders for your content in Dynamic Media Classic before you upload your content to the system. Planning ahead this way has two major advantages:
 
-* When you upload your content to SPS via FTP, you can tell the system to replicate your folder structure during the upload. This way, your content is organized in the same folders and subfolders in SPS as it is on your computer or network. (To replicate your folder structure in SPS, select the Include Subfolders option when you upload assets via FTP.)
+* When you upload your content to Dynamic Media Classic via FTP, you can tell the system to replicate your folder structure during the upload. This way, your content is organized in the same folders and subfolders in Dynamic Media Classic as it is on your computer or network. (To replicate your folder structure in Dynamic Media Classic, select the Include Subfolders option when you upload assets via FTP.)
 * Reorganizing folders inside the system after files are uploaded is much more difficult than starting with a carefully considered folder structure.
 
-The folder-naming approach and structure you choose for storing your content on the Scene7 Publishing System depends on the needs of your organization. Here are some sample folder structures:
+The folder-naming approach and structure you choose for storing your content on the Dynamic Media Classic depends on the needs of your organization. Here are some sample folder structures:
 
 **SKU-based** Folders are named according to SKUs or item numbers. For example, separate folders are created for all 0-, 20-, 30- number series.
 
@@ -148,21 +148,19 @@ The folder-naming approach and structure you choose for storing your content on 
 
 You can upload individual files from the desktop or upload folders via FTP. If you want to upload more than 100 MB of files or upload entire folders and subfolders, select the **VIA FTP** tab.
 
-If you installed the Scene7 Publishing System desktop application, you can drag files and folders directly from your desktop to the destination upload folder.
+Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
 
-The Scene7 Publishing System sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
-
-During (or immediately after) a large upload job, some new items may display the “Image not yet optimized” message. This message appears because the files are not yet fully processed and added to SPS. You can optimize these files later. (See [Optimize Files](application-setup.md#optimize_files).)
+During (or immediately after) a large upload job, some new items may display the “Image not yet optimized” message. This message appears because the files are not yet fully processed and added to Dynamic Media Classic. You can optimize these files later. (See [Optimize Files](application-setup.md#optimize_files).)
 
 ### Uploading files using the FROM DESKTOP tab {#upload-files-using-sps-desktop-application}
 
-The Scene7 Publishing System Desktop application lets you upload files and folders by dragging.
+The Dynamic Media Classic Desktop application lets you upload files and folders by dragging.
 
-1. In the Scene7 Publishing System Desktop application, on the Global Navigation bar, click **Upload**.
+1. In the Dynamic Media Classic Desktop application, on the Global Navigation bar, click **Upload**.
 1. On the Upload page, click the **FROM DESKTOP** tab.
 1. On the left side of the Upload page, in the **Select Files for Upload** area, click **Browse** to select the files or folders you want to upload, then click **Open**.
 1. On the right side of the Upload page, in the **Choose Folder Destination** area, navigate to a destination folder where you want the uploaded files or folders added.
-1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that SPS provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
+1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that Dynamic Media Classic provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
 See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **Publish After Uploading** if you want to automatically publish the assets that you upload.
 When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. Note that this same option is also available in the Job Options dialog box.
@@ -174,7 +172,7 @@ The name of this option could be different, depending on the settings in **Appli
 
 1. In the Upload Job Options dialog box, click **Save**.
 1. In the lower-right corner of the Upload page, click **Submit Upload**.
-   To see the progress of the upload, click **Jobs** on the Global Navigation Bar. You can continue working in Scene7 Publishing System and return to the Jobs page at any time to review an in-progress job. To cancel an upload job in progress, select **Cancel** next to the Duration time.
+   To see the progress of the upload, click **Jobs** on the Global Navigation Bar. You can continue working in Dynamic Media Classic and return to the Jobs page at any time to review an in-progress job. To cancel an upload job in progress, select **Cancel** next to the Duration time.
 
 ### Uploading files using the VIA FTP tab {#upload-files-using-via-ftp}
 
@@ -182,8 +180,8 @@ The name of this option could be different, depending on the settings in **Appli
 1. In Dynamic Media Classic, on the Global Navigation bar, click **Upload**.
 1. On the Upload page, click the **VIA FTP** tab.
 1. On the left side of the Upload page, in the **Choose FTP Folder For Upload** area, choose an FTP folder from which to upload files. 
-1. On the right side of the Upload page, in the **Choose SPS Folder Destination** area, choose a destination folder in the Scene7 Publishing System.
-1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that SPS provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
+1. On the right side of the Upload page, in the **Choose Adobe Dynamic Media Folder Destination** area, choose a destination folder in Dynamic Media Classic.
+1. (Optional) Near the bottom of the Upload page, in the **Job Name** field, specify the new name of the upload job. Or, you can simply use the default, system-generated name that Dynamic Media Classic provides. The job and other upload and publishing jobs are recorded on the Jobs page, where you can check the status of jobs.
 See [Checking job files](checking-job-files.md#checking_job_files).
 1. (Optional) Near the bottom of the Upload page, select **Publish After Upload** if you want to automatically publish the assets that you upload.
 When you publish files, files are sent to live servers. URLs for these files can then be used on external websites and applications. Note that this same option is also available in the Job Options dialog box.
@@ -197,7 +195,7 @@ The name of this option could be different, depending on the settings in **Appli
 1. In the Upload Job Options dialog box, click **Save**. 
 1. In the lower-right corner of the Upload page, click **Submit Upload**.
 
-   To see the progress of the upload, on the Global Navigation Bar, click **Jobs**. The Jobs page shows you the progress of the upload. You can continue working in Scene7 Publishing System and return to the Jobs page at any time to review an in-progress job.
+   To see the progress of the upload, on the Global Navigation Bar, click **Jobs**. The Jobs page shows you the progress of the upload. You can continue working in Dynamic Media Classic and return to the Jobs page at any time to review an in-progress job.
 
 To cancel an upload job in progress, click **Cancel** next to the Duration time.
 
@@ -227,7 +225,7 @@ When uploading files, you can choose from the following options in the Upload Jo
 Select this option if you want to automatically extract all files from your uploaded ZIP or TAR file. Note that this same option is also available in the Job Options dialog box. 
 
     * **Include subfolders** &mdash; Available only if you selected the **VIA FTP** tab.
-Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in SPS.
+Select this option if you want to upload subfolders of the folder you intend to upload. The names of the folder and its subfolders you upload are entered automatically in Dynamic Media Classic.
 
     * **Process metadata files** &mdash; Available only if you selected either the **VIA FTP** tab. Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
@@ -250,7 +248,7 @@ See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-meta
 
     * **Default Color Preservation** &mdash; Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
 
-    * **Keep Original Color Space** &mdash; Retains the original colors without any color conversion at the point of ingestion into Scene7 Publishing System. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
+    * **Keep Original Color Space** &mdash; Retains the original colors without any color conversion at the point of ingestion into Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
 
     * **Custom From &gt; To** &mdash; Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should select this option only when all the images that you are submitting contain incorrect or missing color profile data.
 

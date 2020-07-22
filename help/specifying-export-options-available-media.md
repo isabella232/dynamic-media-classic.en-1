@@ -6,7 +6,7 @@ seo-description: Learn how to specify export options that are available to Media
 uuid: 5258b8a4-0704-43cd-97d1-c9af2e4e298b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 
 ---
@@ -20,7 +20,7 @@ The following two restrictions apply if you export image assets by way of a user
 * The compressed Zip export file has a maximum file size of 1 GB for the export job.
 * You can have a maximum of 500 total assets per export job.
 
-See also [Exporting assets from Scene7 Publishing System](exporting-assets-scene7-publishing-system.md#exporting_assets_from_scene7_publishing_system).
+See also [Exporting assets from Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
 
 **To specify export options available to Media Portal users**
 

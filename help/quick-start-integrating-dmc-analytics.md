@@ -6,17 +6,17 @@ seo-description: An introduction and Quick Start to integrating Dynamic Media Cl
 uuid: 3f9e2c91-15d4-4b53-8220-9b1ca57c0b1d
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: abec9a85-013c-4030-b129-bf27a89cb464
 
 ---
 
-# Quick Start: Integrating Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-scene-and-adobe-analytics}
+# Quick Start: Integrating Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-dmc-analytics}
 
 Adobe Analytics is the industry-leading product that provides marketers with one place where they can measure, analyze, and optimize integrated data from all online initiatives across multiple marketing channels.
 
-After integrating Adobe Analytics with the Scene7 Publishing System, you can get reports about the behavior of website visitors using Dynamic Media Classic viewers on your website. For example, when a website visitor clicks a zoom target in a Dynamic Media Classic Zoom Viewer, Adobe Analytics records this action. Adobe Analytics reports can gather cumulative information about user activity in Dynamic Media Classic viewers.
+After integrating Adobe Analytics with Dynamic Media Classic, you can get reports about the behavior of website visitors using Dynamic Media Classic viewers on your website. For example, when a website visitor clicks a zoom target in a Dynamic Media Classic Zoom Viewer, Adobe Analytics records this action. Adobe Analytics reports can gather cumulative information about user activity in Dynamic Media Classic viewers.
 
 Using Adobe Analytics reports, you can get a clear picture of the activity of customers on your website. You can determine which product presentations lead to conversion and which do not draw customer interest.
 
@@ -24,7 +24,7 @@ See also [Measuring Video in Adobe Analytics](https://docs.adobe.com/content/hel
 
 >[!NOTE]
 >
->A valid Adobe Analytics account is required to integrate Analytics with the Scene7 Publishing System and generate Analytics reports.
+>A valid Adobe Analytics account is required to integrate Analytics with Dynamic Media Classic and generate Analytics reports.
 
 **Quick Start**
 

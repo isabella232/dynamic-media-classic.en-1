@@ -6,7 +6,7 @@ seo-description: Learn how to search assets.
 uuid: 058209bc-bac4-4d5c-8261-e242a543beaf
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 
@@ -14,7 +14,7 @@ discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 
 # Searching assets{#searching-assets}
 
-To locate file assets in Scene7 Publishing System, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an advanced search, and filter for assets.
+To locate file assets in Dynamic Media Classic, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an advanced search, and filter for assets.
 
 >[!NOTE]
 >

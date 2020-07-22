@@ -6,7 +6,7 @@ seo-description: Learn how to upload the PDF files associated with an eCatalog.
 uuid: 9e178bb2-ac09-427a-b61a-aad4e87a5837
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 
 ---
@@ -17,13 +17,13 @@ Typically, Adobe PDF files are the source for an eCatalog; these files contain a
 
 ## Preparing your PDF files {#preparing-your-pdf-files}
 
-Prepare your PDF files before uploading them to the Scene7 Publishing System:
+Prepare your PDF files before uploading them to Dynamic Media Classic:
 
 * Place all the files in the same folder on your computer or network to make uploading the files easier.
 * Name the files in alphanumeric order by page. Ordering the pages will make it easier to place the pages in the proper order after the files are uploaded.
 * Examine the PDF pages to see whether they contain crop marks, registration targets, or color bars. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Dynamic Media Classic provides options for cropping marks when you upload PDF files.
 * If you want viewers to search your eCatalog by keyword, find out whether your PDF files are “flattened.” You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you can’t select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
-* Because they are meant to be printed, PDF files usually contain CMYK images. By default, SPS can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
+* Because they are meant to be printed, PDF files usually contain CMYK images. By default, Dynamic Media Classic can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
 
   See [ICC profiles](icc-profiles.md#icc_profiles).
 
@@ -63,7 +63,7 @@ Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space 
 Retains the original color space.
 
 * **Custom From > To**
-Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS.
+Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 

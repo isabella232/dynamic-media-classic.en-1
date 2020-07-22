@@ -6,7 +6,7 @@ seo-description: Learn how to set up Spin Set Viewer Presets.
 uuid: e095f989-f3df-46ea-be62-812922805dc0
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
 

@@ -6,7 +6,7 @@ seo-description: Learn how to publish master images.
 uuid: b56ba79a-f89a-45f1-a8bb-c73a22eab8d4
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
 
@@ -14,11 +14,11 @@ discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
 
 # Publishing master images{#publishing-master-images}
 
-Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What’s more, during the publishing process, the Scene7 Publishing System activates the URL strings you need for your web site and application.
+Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What’s more, during the publishing process, Dynamic Media Classic activates the URL strings you need for your web site and application.
 
 ## Marking master images for publish {#marking-master-images-for-publish}
 
-Master images must be marked for publish in order for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking the Mark for Publish icon. You can also mark images for publish when you upload them to the Scene7 Publishing System.
+Master images must be marked for publish in order for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking the Mark for Publish icon. You can also mark images for publish when you upload them to Dynamic Media Classic.
 
 ## Publishing your master images {#publishing-your-master-images}
 

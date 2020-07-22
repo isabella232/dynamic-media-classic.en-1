@@ -6,7 +6,7 @@ seo-description: Learn more about Adobe Training Services.
 uuid: c405f60c-d0a8-4c88-8530-b093875500cd
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 2bccf91d-ec27-4cdf-a322-55804b6ba0d3
 
@@ -32,4 +32,4 @@ See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media
 
 The Getting Started section of the Help system presents instructions for users who are new to Dynamic Media Classic. It explains the basics of the platform, navigation, setup, asset management, and building rich media.
 
-See [Getting started](scene7-platform-overview.md).
+See [Getting started](dmc-platform-overview.md).

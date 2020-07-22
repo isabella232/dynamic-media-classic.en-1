@@ -6,13 +6,13 @@ seo-description: Learn how to upload and encode videos.
 uuid: 9a7d6513-b10c-40b0-aebb-18a795c2b8d1
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 ---
 
 # Uploading and encoding videos{#uploading-and-encoding-videos}
 
-To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to the Scene7 Publishing System. Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
+To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to Dynamic Media Classic. Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
 
 **MP4** Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
 
@@ -53,7 +53,7 @@ Do one of the following:
 1. On the Upload page, make sure **Publish After Uploading** is checked.
 1. Click **Submit Upload**.
   
-*If you want to encode your videos using Scene7 Publishing System*
+*If you want to encode your videos using Dynamic Media Classic*
 
 1. On the Global Navigation bar, click **Upload**. 
 1. In the Upload screen, click **From Desktop** tab.
@@ -123,7 +123,7 @@ The following table lists video file types (with permitted video codecs) that yo
 
 ## Best practices for video encoding {#best-practices-for-video-encoding}
 
-The following are best-practice tips for encoding source video files in Scene7 Publishing System.
+The following are best-practice tips for encoding source video files in Dynamic Media Classic.
 
 For advice about video encoding, see the following:
 
@@ -263,7 +263,7 @@ On the Video Presets screen, administrators can set up and manage video encoding
 * Edit video encoding presets.
 * Delete video presets.
 
-Any video that you upload to Scene7 Publishing System or that you encode in Scene7 Publishing System is treated as “video”. In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Scene7 Publishing System. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
+Any video that you upload to Dynamic Media Classic or that you encode in Dynamic Media Classic is treated as “video”. In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
 
 See [Previewing videos in a video viewer](previewing-videos-video-viewer.md#previewing-videos-in-a-video-viewer).
 
@@ -271,7 +271,7 @@ See [Linking a video URL to a mobile site or a website](deploying-video-websites
 
 See [Embedding the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding-the-video-viewer-on-a-web-page).
 
-For video assets that you upload and encode in Scene7 Publishing System, video is delivered in the following file format:
+For video assets that you upload and encode in Dynamic Media Classic, video is delivered in the following file format:
 
 **MP4 H.264** Use MP4 files for the following:
 
@@ -279,7 +279,7 @@ For video assets that you upload and encode in Scene7 Publishing System, video i
 * HLS (HTTP Live Streaming, Apple’s streaming protocol).
 * Progressive video delivery to Android, Blackberry, and Windows mobile devices.
 
-Any other video format and codec is treated as a “Master Video”. This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Scene7 Publishing System. You also cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
+Any other video format and codec is treated as a “Master Video”. This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Dynamic Media Classic. You also cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
 
 ### Filtering the list of video encoding presets {#filtering-the-list-of-video-encoding-presets}
 

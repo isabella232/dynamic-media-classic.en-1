@@ -5,7 +5,7 @@ description: null
 seo-description: An introduction to uploading and publishing of assets in Dynamic Media Classic.
 uuid: 01a9c2d7-16bf-4fb2-9001-cb07a6233692
 contentOwner: rbrough
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
 
@@ -15,11 +15,11 @@ discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
 
 Your work in Dynamic Media Classic falls in three basic areas:
 
-* Uploading file assets to the Scene7 Publishing System.
+* Uploading file assets to Dynamic Media Classic.
 * Managing your files so you can use them to build rich-media assets.
 * Publishing your asset files to a Dynamic Media Classic server so that they are available for delivery to your website and application.
 
-When you upload asset files to SPS and when you publish asset files to Dynamic Media Classic servers, the system records these file transfers on the Jobs page. You can go to this page to track and monitor your upload and publishing activities.
+When you upload asset files to DMC and when you publish asset files to Dynamic Media Classic servers, the system records these file transfers on the Jobs page. You can go to this page to track and monitor your upload and publishing activities.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ When you upload asset files to SPS and when you publish asset files to Dynamic M
 
 >[!NOTE]
 >
->A new Instant Publish feature was made available shortly after the release of SPS 6.0. This feature, which publishes assets immediately with one step, is being rolled out gradually, replacing the “Mark for Publish” functionality. Some users will continue to see the current interface and functionality for a while, until they are included in the rollout. In addition, some assets will continue to use the “Mark for Publish” process for a while after the rollout.
+>A new Instant Publish feature was made available shortly after the release of DMC 6.0. This feature, which publishes assets immediately with one step, is being rolled out gradually, replacing the “Mark for Publish” functionality. Some users will continue to see the current interface and functionality for a while, until they are included in the rollout. In addition, some assets will continue to use the “Mark for Publish” process for a while after the rollout.

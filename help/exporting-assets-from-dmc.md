@@ -1,26 +1,26 @@
 ---
-title: Exporting assets from Scene7 Publishing System
-seo-title: Exporting assets from Scene7 Publishing System
+title: Exporting assets from Dynamic Media Classic
+seo-title: Exporting assets from Dynamic Media Classic
 description: null
-seo-description: Learn how to export assets from Scene7 Publishing System.
+seo-description: Learn how to export assets from Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 
 ---
 
-# Exporting assets from Scene7 Publishing System{#exporting-assets-from-scene-publishing-system}
+# Exporting assets from Dynamic Media Classic{#exporting-assets-from-dmc}
 
-You can save assets you edited in Scene7 Publishing System to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
+You can save assets you edited in Dynamic Media Classic to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
 
 The compressed Zip file has a maximum file size of 1 GB for the export job. Also, be aware that you are allowed a maximum of 500 total assets per export job.
 
 Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
-**To export assets from Scene7 Publishing System**
+**To export assets from Dynamic Media Classic**
 
 1. Select the assets you want to export, and then click **File** &gt; **Export**. 
 1. In the Export Selected Assets window, click **Image Options**, and then specify any of the following options (administrators determine which options are available to their users):

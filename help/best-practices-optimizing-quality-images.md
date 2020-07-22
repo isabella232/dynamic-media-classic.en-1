@@ -6,7 +6,7 @@ seo-description: Learn best practices for optimizing the quality of your images.
 uuid: 102e83fe-ee2a-443b-ba92-6ad5cc3daef0
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 8164466e-2520-482a-88ec-6191fdc77ea3
 
@@ -44,7 +44,7 @@ As a best practice for image sizing, use `&wid=<value>&hei=<value>&resMode=sharp
 
 Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Dynamic Media Classic by referring to the following helpful resources:
 
-Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
+Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html).
 
@@ -121,7 +121,7 @@ If sharpening results are still not satisfactory, increase the radius in decimal
 
 As you experiment, you may also find the following general suggestions helpful to optimize your workflow:
 
-* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Scene7 Publishing System's image adjustment functionality which provides real-time previews for adjustment operations. 
+* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Dynamic Media Classic's image adjustment functionality which provides real-time previews for adjustment operations. 
 * As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs. 
 * Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying sharpening images on ingestion. For advanced use cases where this may be an option to further tune and optimize rendering results, Adobe Professional Services can help you with customized insight and best practices.
 

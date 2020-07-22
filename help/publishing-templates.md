@@ -6,7 +6,7 @@ seo-description: Learn how to publish templates.
 uuid: 9b8e5b94-6958-4725-bcbc-5e6a9c4d1b02
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 
@@ -14,7 +14,7 @@ discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 
 # Publishing templates{#publishing-templates}
 
-Publishing your template places it on Dynamic Media Image Servers, where it is available to your web site and application. During the publishing process, the Scene7 Publishing System activates the URLs you need for your web site and application.
+Publishing your template places it on Dynamic Media Image Servers, where it is available to your web site and application. During the publishing process, Dynamic Media Classic activates the URLs you need for your web site and application.
 
 >[!NOTE]
 >

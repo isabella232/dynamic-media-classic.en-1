@@ -6,7 +6,7 @@ seo-description: Learn how to upload Zoom images.
 uuid: 5814ec28-3a06-4b92-b70e-0aa5b83e7b0e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
 
@@ -14,7 +14,7 @@ discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
 
 # Uploading Zoom images{#uploading-zoom-images}
 
-Zoom images must have a high pixel count. A high number of pixels is needed so that viewers can clearly see image details when they zoom images. Make sure that the images you use are the appropriate size before uploading them to SPS.
+Zoom images must have a high pixel count. A high number of pixels is needed so that viewers can clearly see image details when they zoom images. Make sure that the images you use are the appropriate size before uploading them to Dynamic Media Classic.
 
 Select the Upload button on the Global Navigation bar to begin uploading images.
 

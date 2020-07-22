@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Image Sizing to help you get
 uuid: 6c4ad4b7-549d-4daa-b6b9-5997a8427af8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 
@@ -24,13 +24,13 @@ Image Sizing refers to the ability of Dynamic Media Classic to create multiple d
 
 **Quick Start**
 
-This Image Sizing Quick Start is designed to help you get up and running quickly with Image Sizing techniques in the Scene7 Publishing System. Follow steps 1-5. After each step is a cross-reference where you can find more information if you need it.
+This Image Sizing Quick Start is designed to help you get up and running quickly with Image Sizing techniques in Dynamic Media Classic. Follow steps 1-5. After each step is a cross-reference where you can find more information if you need it.
 
 **1. Uploading master images**
 
-Start by uploading your master images to the Scene7 Publishing System. As to size, Dynamic Media Classic recommends using images that are the largest size you anticipate using on your web site or application. For example, if you want viewers to zoom images, upload images that are at least 2000 pixels in the largest dimension. Dynamic Media Classic supports many image file formats, but lossless TIFF and PNG images are recommended.
+Start by uploading your master images to Dynamic Media Classic. As to size, Dynamic Media Classic recommends using images that are the largest size you anticipate using on your web site or application. For example, if you want viewers to zoom images, upload images that are at least 2000 pixels in the largest dimension. Dynamic Media Classic supports many image file formats, but lossless TIFF and PNG images are recommended.
 
-Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on the Scene7 Publishing System. See [Uploading master images](uploading-master-images.md#uploading_master_images).
+Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on Dynamic Media Classic. See [Uploading master images](uploading-master-images.md#uploading_master_images).
 
 **2. Setting up Image Presets**
 

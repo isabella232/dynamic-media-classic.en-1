@@ -6,7 +6,7 @@ seo-description: An overview of the Dynamic Media Classic platform and workflow 
 uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 
@@ -21,7 +21,7 @@ Dynamic Media Classic is an integrated, rich media management, publishing, and s
 The key Dynamic Media Classic workflow steps are:
 
 * **Upload and manage your assets**
-Upload your media assets to SPS. You can organize, browse, and search for assets on the system. You can also apply metadata to assets. If you install Adobe Scene7 Publishing System desktop application, you can upload files and folders by dragging them from your desktop to an upload folder.
+Upload your media assets to Dynamic Media Classic. You can organize, browse, and search for assets on the system. You can also apply metadata to assets.
 
 * **Create rich media**
 Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates. For more information, see About rich media.

@@ -6,7 +6,7 @@ seo-description: Learn how to export source and encoded videos.
 uuid: 17511bdf-27b7-41e1-bf39-a5e39f55f5d8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
 
@@ -16,7 +16,7 @@ discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
 
 In the Browse panel, source videos are labeled “Master Video.” Encoded videos are labeled “Video.” You can export source videos as well as master videos. To export video files, select them in the Browse panel and choose File &gt; Export.
 
-See [Exporting assets from Scene7 Publishing System](exporting-assets-scene7-publishing-system.md#exporting_assets_from_scene7_publishing_system).
+See [Exporting assets from Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 
 >[!MORELIKETHIS]
 >

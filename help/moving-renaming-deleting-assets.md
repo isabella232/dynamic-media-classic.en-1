@@ -6,7 +6,7 @@ seo-description: Learn about how to move, rename, and delete assets.
 uuid: deff6521-0ad0-4db9-b4e0-e3211ff97740
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 
@@ -34,7 +34,7 @@ To rename an asset:
     * Select the name, type in a new name, and press Enter or click away from the name.
     * Choose File &gt; Rename. The name of the asset is highlighted. Enter a new name and press Enter.
 
-Be sure that you do not to enter the name of an existing Scene7 Publishing System asset.
+Be sure that you do not to enter the name of an existing Dynamic Media Classic asset.
 
 ## Delete assets {#delete-assets}
 
@@ -61,7 +61,7 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 
 To delete many assets at once throughout the Asset Library, you can list the assets you want to delete in a text file and submit the list to Dynamic Media Classic.
 
-Create the list of Scene7 Publishing System IDs and save it as a text (.txt) file. Each Scene7 Publishing System ID must be on its own line (followed by a hard return).
+Create the list of Dynamic Media Classic IDs and save it as a text (.txt) file. Each Dynamic Media Classic ID must be on its own line (followed by a hard return).
 
 After you create the list, follow these steps to use it to delete assets:
 
@@ -69,7 +69,7 @@ After you create the list, follow these steps to use it to delete assets:
 1. In the Delete Asset list dialog box, browse or type the path to the text file with the list of assets you want to delete.
 1. Click the Delete button.
 
-When you delete assets with a text file, if any Scene7 Publishing System ID is not on the list, a message is displayed letting you know that Dynamic Media Classic is “Unable to validate these entries in your list:” along with the list of entries. However, Dynamic Media Classic will not generate an error on the Job screen.
+When you delete assets with a text file, if any Dynamic Media Classic ID is not on the list, a message is displayed letting you know that Dynamic Media Classic is “Unable to validate these entries in your list:” along with the list of entries. However, Dynamic Media Classic will not generate an error on the Job screen.
 
 >[!MORELIKETHIS]
 >

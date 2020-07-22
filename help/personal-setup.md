@@ -6,7 +6,7 @@ seo-description: All users can change settings on the Personal Setup screen of D
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 
@@ -18,7 +18,7 @@ All users can change settings on the Personal Setup screen. To open the Personal
 
 >[!NOTE]
 >
->The Personal Setup screen lists which user role you have in the Scene7 Publishing System: Company Administrator, Administrator, or User.
+>The Personal Setup screen lists which user role you have in Dynamic Media Classic: Company Administrator, Administrator, or User.
 
 The Personal Setup settings control the default behavior of the Browse Panel, how you receive e-mail, and password settings. Remember to click Save after you change these settings.
 
@@ -28,11 +28,11 @@ Identifies your account name, name, user name (e-mail address), and assigned use
 
 ### Desktop Version
 
-Click Install Now to install the desktop version of Scene7 Publishing System on your local hard drive. Or, click Reinstall Now to install the desktop version again.
+Click Install Now to install the desktop version of Dynamic Media Classic on your local hard drive. Or, click Reinstall Now to install the desktop version again.
 
 ## To install the plug-in on your local hard drive
 
-1. On the Personal Setup page in Scene7 Publishing System, under Illustrator Plug-in for Web-to-Print, click **Download Now** to download the **Illustrator Plug-in for Web-to-Print.zip** file. 
+1. On the Personal Setup page in Dynamic Media Classic, under Illustrator Plug-in for Web-to-Print, click **Download Now** to download the **Illustrator Plug-in for Web-to-Print.zip** file. 
 1. Uncompress the ZIP file to a temporary folder.
 
    A readme file is included at the root of the unzipped file to provide you with additional information about the plug-in.
@@ -77,8 +77,6 @@ The plug-in is now available for you to use in Adobe Illustrator.
   * Displays a checkerboard layer behind images, letting you easily see the transparent areas of an image that has an alpha channel.
 * **Show File Size**
   * Displays the file size of an asset when you are browsing.
-* **Confirm When Leaving SPS**
-  * Displays a confirmation window before you exit Scene7 Publishing System.
 * **Include UDFs in Search**
   * Deselected (default) to improve system performance for most metadata searches that you run.
 

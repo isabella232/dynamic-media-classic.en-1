@@ -6,7 +6,7 @@ seo-description: Learn how to test assets before making them public.
 uuid: 5e8f3bec-6cf1-408e-8ea1-aebde0012a70
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 
@@ -26,7 +26,7 @@ You might prefer to create a staging environment rather than making assets publi
 
 >[!NOTE]
 >
->Secure Testing does not affect access to the Scene7 Publishing System. SPS security remains consistent and requires the usual credentials for access to SPS and related web services.
+>Secure Testing does not affect access to Dynamic Media Classic. Dynamic Media Classic security remains consistent and requires the usual credentials for access to Dynamic Media Classic and related web services.
 
 ## How Secure Testing works {#how-secure-testing-works}
 
@@ -40,7 +40,7 @@ Because the location of the original request must be confirmed, the traffic of t
 
 Unpublished assets are immediately available from the Secure Testing services, without the need to publish. This allows you to run a preview before assets are published to their public facing image server.
 
-***note**: Secure Testing services leverage the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, be aware that any uploaded assets in Scene7 Publishing System immediately become available on Secure Testing services. This functionality is true regardless of whether or not the assets are marked for publish on upload.*
+***note**: Secure Testing services leverage the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, be aware that any uploaded assets in Dynamic Media Classic immediately become available on Secure Testing services. This functionality is true regardless of whether or not the assets are marked for publish on upload.*
 
 Secure Testing services currently support the following asset types and functionalities:
 
@@ -88,13 +88,13 @@ Last Modified Date:
  -->
 
 1. Contact Technical Support and request that Secure Testing be enabled on your account.
-1. In Scene7 Publishing System, click **Setup** &gt; **Publish Setup** &gt; **Image Server**.
+1. In Dynamic Media Classic, click **Setup** &gt; **Publish Setup** &gt; **Image Server**.
 1. On the Image Server Publish page, in the Publish Context drop-down list, select **Test Image Serving**.
 1. For the Client Address Filter, click **Add**.
 1. Select the check box to enable (turn on) the address, and then type an IP address and net mask in the respective text fields.
 1. Repeat the previous two steps to add more IP addresses. Otherwise, continue to the next step.
 1. At the lower-left of the Image Server Publish page, click **Save**
-1. Upload the desired images to your Scene7 Publishing System account.
+1. Upload the desired images to your Dynamic Media Classic account.
 
    See [Uploading files](uploading-files.md#uploading_files).
 

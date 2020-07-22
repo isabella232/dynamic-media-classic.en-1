@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to eCatalogs to help you get up
 uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 
@@ -39,7 +39,7 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 >If you are an AEM Dynamic Media - Scene7 mode user and want to use eCatalogs, you will need to edit the `pdfbrochure` value in CRXDE Lite. To do so, in AEM, click **[!UICONTROL Tools > General > CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
 In the lower right pane, in the **[!UICONTROL Properties]** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
 In the upper-left corner of the CRXDE Lite page, click **[!UICONTROL Save All]**.
-You will now be able to author eCatalogs in SPS.
+You will now be able to author eCatalogs in Dynamic Media Classic.
 
 **Quick Start**
 
@@ -47,7 +47,7 @@ This eCatalog Quick Start is designed to help you get up and running quickly wit
 
 **1. Uploading the PDF files**
 
-Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. The Scene7 Publishing System detects these images and converts them using a standard CMYK color profile. However, you may have to upload and use a custom color profile.
+Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. Dynamic Media Classic detects these images and converts them using a standard CMYK color profile. However, you may have to upload and use a custom color profile.
 
 Click Upload on the Global Navigation bar to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or via FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
 
@@ -63,7 +63,7 @@ On the Order Pages tab, select a Layout button—1 Up, 2 Up, or Custom—to choo
 
 To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import a large number of page names.
 
-Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose an SPS folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
+Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose an Dynamic Media Classic folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
 
 See [Creating an eCatalog](creating-ecatalog.md).
 
@@ -103,7 +103,7 @@ See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-
 
 **6. Publishing eCatalog and associated PDFs**
 
-Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, the Scene7 Publishing System activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
+Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
 
 After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click **[!UICONTROL Start Publish]**.
 

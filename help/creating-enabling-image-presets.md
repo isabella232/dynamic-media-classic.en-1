@@ -6,7 +6,7 @@ seo-description: Learn how to create and enable image presets.
 uuid: 62cfc6fa-da91-4c42-a3ed-10956384d633
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 84257b2a-681c-4fe9-a6e5-3633c1d61d8c
 
@@ -16,7 +16,7 @@ discoiquuid: 84257b2a-681c-4fe9-a6e5-3633c1d61d8c
 
 When users export image assets using Media Portal, they can choose an Image Preset in the Export Selected Assets dialog box. An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image’s appearance when it is exported.
 
-Media Portal administrators can create Image Presets to control how images are reformatted when they are exported. Image Presets reformat images to the specifications of your company when users export images from the Scene7 Publishing System. Rather than reformatting images on their own, users export them to the precise specifications of an Image Preset.
+Media Portal administrators can create Image Presets to control how images are reformatted when they are exported. Image Presets reformat images to the specifications of your company when users export images from the Dynamic Media Classic. Rather than reformatting images on their own, users export them to the precise specifications of an Image Preset.
 
 The following restrictions apply when you export image assets:
 

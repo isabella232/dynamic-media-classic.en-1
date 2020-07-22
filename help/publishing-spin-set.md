@@ -6,7 +6,7 @@ seo-description: Learn how to publish a Spin Set.
 uuid: 3b21ee5c-e494-48d0-8ccf-cb7670d11f5b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 38efb70d-e17e-4cef-8af1-be748f66f3ea
 
@@ -14,7 +14,7 @@ discoiquuid: 38efb70d-e17e-4cef-8af1-be748f66f3ea
 
 # Publishing a Spin Set{#publishing-a-spin-set}
 
-Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your web site or application. What’s more, during the publishing process, SPS activates the Spin Set URL strings you need for your web site or application.
+Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your web site or application. What’s more, during the publishing process, Dynamic Media Classic activates the Spin Set URL strings you need for your web site or application.
 
 ## Marking a Spin Set for publish {#marking-a-spin-set-for-publish}
 

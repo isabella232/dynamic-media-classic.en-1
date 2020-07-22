@@ -6,7 +6,7 @@ seo-description: An introduction and Quick Start to Spin Set to help you get up 
 uuid: d0af9db6-cb6f-48f0-89f6-f3ab2da0659f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 
@@ -30,7 +30,7 @@ This Spin Sets Quick Start is designed to get up and running quickly with Spin S
 
 At minimum, you need 8-12 shots of an item for a one-dimensional Spin Set and 16-24 for a two-dimensional Spin Set. The shots must be taken at regular intervals to give the impression that the item is rotating and being flipped. For example, if a one-dimensional Spin Set includes 12 shots, rotate the item 30 degrees (360/12) for each shot.
 
-Select the Upload button on the Global Navigation bar to upload spin images from your computer or network to the Scene7 Publishing System.
+Select the Upload button on the Global Navigation bar to upload spin images from your computer or network to Dynamic Media Classic.
 
 See [Guidelines for shooting Spin Set images](creating-spin-set.md#guidelines-for-shooting-spin-set-images).
 

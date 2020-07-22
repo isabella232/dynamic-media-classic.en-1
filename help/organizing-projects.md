@@ -6,7 +6,7 @@ seo-description: Learn how to organize your work with Projects.
 uuid: bd2b1792-e2d9-4a15-90c1-8ef2cf632867
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
 
@@ -30,7 +30,7 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 ## Creating a Project folder {#creating-a-project-folder}
 
-You can create a Project folder starting in the Assets Library or when you upload files to the Scene7 Publishing System:
+You can create a Project folder starting in the Assets Library or when you upload files to Dynamic Media Classic:
 
 * **In the Asset Library**
 Scroll to the bottom of the Asset Library, to the Projects section, and select the Add Project button . Then enter a name for the project.
@@ -50,14 +50,14 @@ Follow these instructions to display, delete, and rename a Project folder:
 Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
 
 * **Deleting Project folders**
-Select the Project folder and then select the Remove Project button . Deleting assets from a Project folder does not delete them from Scene7 Publishing System; the assets remain in the original folders in which they are stored.
+Select the Project folder and then select the Remove Project button . Deleting assets from a Project folder does not delete them from Dynamic Media Classic; the assets remain in the original folders in which they are stored.
 
 * **Renaming Project folders**
 Double-click the name of the folder in the Asset Panel, and then enter a new name.
 
 ## Adding assets to a Project folder {#adding-assets-to-a-project-folder}
 
-You can add images to a Project folder starting in the Browse Panel or when you upload files to the Scene7 Publishing System:
+You can add images to a Project folder starting in the Browse Panel or when you upload files to Dynamic Media Classic:
 
 * **From the Browse Panel**
 Select the assets and drag them to a Project folder. You can also choose File > Add To Project, select a Project folder name in the Select Project dialog box, and select the Submit button.

@@ -19,12 +19,12 @@ index: y
     + [What’s new](whats-new.md)
     + [System requirements](system-requirements.md)
     + [Support](support.md)
-    + [Help for Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
+    + [Help for Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
     + [Adobe Training Services](training-services.md)
     + [Popular resources](popular-resources.md)
     + [Training videos](training-videos.md)
 + Getting started {#getting-started}
-    + [Adobe Dynamic Media Classic platform overview](scene7-platform-overview.md)
+    + [Adobe Dynamic Media Classic platform overview](dmc-platform-overview.md)
     + [Media Portal](media-portal.md)
     + [Signing in and out](signing-out.md)
     + [Navigation basics](navigation-basics.md)
@@ -63,7 +63,7 @@ index: y
     + [Moving, renaming, and deleting assets](moving-renaming-deleting-assets.md)
     + [Working in Detail view](detail-view.md)
     + [Viewing, adding, and exporting metadata](viewing-adding-exporting-metadata.md)
-    + [Exporting assets from Scene7 Publishing System](exporting-assets-scene7-publishing-system.md)
+    + [Exporting assets from Dynamic Media Classic](exporting-assets-from-dmc.md)
     + [Sharing asset changes with peers in real time](sharing-asset-changes-peers-real.md)
     + [Printing assets](printing-assets.md)
     + [Managing the Trash folder](trash-folder.md)
@@ -139,7 +139,7 @@ index: y
     + [Publishing a Mixed Media Set](publishing-mixed-media-set.md)
     + [Linking a Mixed Media Set to a web page](linking-mixed-media-set-web.md)
 + Adobe Analytics instrumentation kit {#analytics-kit}
-    + [Quick Start: Integrating Dynamic Media Classic with Adobe Analytics](quick-start-integrating-scene7-analytics.md)
+    + [Quick Start: Integrating Dynamic Media Classic with Adobe Analytics](quick-start-integrating-dmc-analytics.md)
     + [Log in to Adobe Analytics](log-analytics.md)
     + [Configuring Adobe Analytics reports](configuring-analytics-reports.md)
     + [Instrumenting a viewer using the Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
@@ -147,11 +147,11 @@ index: y
     + [Testing the integration by viewing an Adobe Analytics report](testing-integration-viewing-analytics-report.md)
     + [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md)
     + [Publishing Adobe Analytics configuration information](publishing-analytics-configuration-information.md)
-+ Target Classic integration {#target-classic}
-    + [Quick Start: Target Classic integration](quick-start-target-classic-integration.md)
-    + [Integrating Adobe Dynamic Media Classic with Adobe Target Classic](integrating-scene7-target-classic.md)
++ Target Standard/Premium integration {#target-classic}
+    + [Quick Start: Target Standard/Premium integration](quick-start-target-integration.md)
+    + [Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md)
     + [Creating an offer set](creating-offer-set.md)
-    + [Pushing offer sets to Adobe Target Classic](pushing-offer-sets-target-classic.md)
+    + [Pushing offer sets to Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + User-generated content {#user-generated-content}
     + [About User-generated content](about-ugc.md)
     + [Deleting an uploaded asset](deleting-uploaded-asset.md)

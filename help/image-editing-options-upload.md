@@ -6,7 +6,7 @@ seo-description: Learn about the image editing options that are available at the
 uuid: 0912ae6f-41c9-41b5-94d1-e266face782e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: d3f21cdf-2cb3-46e8-955a-b8daf0b233bc
 
@@ -62,7 +62,7 @@ Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space 
 Retains the original color space.
 
 * **Custom From &gt; To**
-Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to SPS.
+Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 
@@ -80,7 +80,7 @@ Under Unsharp Masking, set the options you want. Setting options are described i
 
 |Unsharp Mask options|Description|
 |--- |--- |
-|Amount|Controls the amount of contrast that is applied to edge pixels.<br><br>Think of it as the intensity of the effect. The main difference between the amount values of Unsharp Mask in SPS and the amount values in Adobe Photoshop, is that Photoshop has an amount range of 1% to 500%. Whereas, in SPS, the value range is 0.0 to 5.0. A value of 5.0 in SPS is the rough equivalent of 500% in Photoshop; a value of 0.9 is the equivalent of 90%, and so on.|
+|Amount|Controls the amount of contrast that is applied to edge pixels.<br><br>Think of it as the intensity of the effect. The main difference between the amount values of Unsharp Mask in Dynamic Media Classic and the amount values in Adobe Photoshop, is that Photoshop has an amount range of 1% to 500%. Whereas, in Dynamic Media Classic, the value range is 0.0 to 5.0. A value of 5.0 in Dynamic Media Classic is the rough equivalent of 500% in Photoshop; a value of 0.9 is the equivalent of 90%, and so on.|
 |Radius|Controls the radius of the effect. <br><br>The value range is 0-250.The effect is run on all pixels in an image and radiates out from all pixels in all directions. The radius is measured in pixels. For example, to get a similar sharpening effect for a 2000 x 2000 pixel image and 500 x 500 pixel image, you would set a radius of two pixels on the 2000 x 2000 pixel image and a radius value of one pixel on the 500 x 500 pixel image. A larger value is used for an image that has more pixels.|
 |Threshold|Threshold is a range of contrast that is ignored when the Unsharp Mask filter is applied. This is important so that no "noise" is introduced to an image when this filter is used. The value range is 0-255, which is the number of brightness steps in a grayscale image. 0=black, 128=50% gray and 255=white.<br><br>For example, a threshold value of 12 ignores slight variations is skin tone brightness to avoid adding noise, but still add edge contrast to contrasty areas such as where eyelashes meet skin.<br><br>For example, if you have a photo of someone’s face, the Unsharp Mask affects the contrasty parts of the image, such as where eyelashes and skin meet to create an obvious area of contrast, and the smooth skin itself. Even the smoothest skin exhibits subtle changes in brightness values. If you do not use a threshold value, the filter accentuates these subtle changes in skin pixels. In turn, a noisy and undesirable effect is created while contrast on the eyelashes is increased, enhancing sharpness.<br><br>To avoid this issue, a threshold value is introduced that tells the filter to ignore pixels that do not change contrast dramatically, like smooth skin. <br><br>In the zipper graphic shown earlier, notice the texture next to the zippers. Image noise is exhibited because the threshold values were too low to suppress the noise.|
 |Monochrome|Select to unsharp-mask image brightness (intensity).<br><br>Deselect to unsharp-mask each color component separately.|

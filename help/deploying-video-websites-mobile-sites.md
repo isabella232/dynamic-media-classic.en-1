@@ -6,7 +6,7 @@ seo-description: Learn how to deploy video to your websites and mobile sites.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 
@@ -14,7 +14,7 @@ discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 
 # Deploying video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobile sites, and desktop applications access Dynamic Media Classic server content, including video, by using URL strings or embedded code. Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your web pages, mobile pages, and desktop applications, copy it from the Scene7 Publishing System.
+Websites, mobile sites, and desktop applications access Dynamic Media Classic server content, including video, by using URL strings or embedded code. Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your web pages, mobile pages, and desktop applications, copy it from Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ There are two different methods you can use to publish video:
 
   If you do not want to publish videos immediately, you can manually publish videos at any time.
 
-After you publish videos, the Scene7 Publishing System activates the URL strings for your HTML page or application code.
+After you publish videos, Dynamic Media Classic activates the URL strings for your HTML page or application code.
 
 **To publish video**
 
@@ -134,7 +134,7 @@ If you use a third-party video player or a custom built video player instead of 
 
 **To deploy video using a third-party video player**
 
-1. In Scene7 Publishing System, on the Global Navigation bar, click **Setup** &gt; **Application Setup** &gt; **General Settings**.
+1. In Dynamic Media Classic, on the Global Navigation bar, click **Setup** &gt; **Application Setup** &gt; **General Settings**.
 1. Depending on the type of URL you want to use, do one of the following tasks:
 * To generate a direct HLS streaming video URL (multi-bitrate)
 
@@ -157,7 +157,7 @@ If you use a third-party video player or a custom built video player instead of 
 
 ## Working with video thumbnails {#working-with-video-thumbnails}
 
-Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Dynamic Media Classic generates and deploy these URLs outside SPS. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
+Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Dynamic Media Classic generates and deploy these URLs outside Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
 
 Thumbnails are generated based on the first heterogeneous frame (not an all black frame, or an all white frame, and so forth) of the video.
 

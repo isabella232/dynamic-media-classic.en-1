@@ -6,7 +6,7 @@ seo-description: Learn how to configure Adobe Analytics reports.
 uuid: bf210f68-dcb0-4e86-be04-0a8b2117ef2a
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: f4c8c2b3-cc95-416f-9a5d-da81c231dfc2
 
@@ -20,7 +20,7 @@ As well as associating viewer events with variables, the Adobe Analytics Configu
 
 >[!NOTE]
 >
->Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Scene7 Publishing System, re-save your Adobe Analytics configuration settings, and then re-publish.
+>Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Dynamic Media Classic, re-save your Adobe Analytics configuration settings, and then re-publish.
 
 See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
@@ -71,7 +71,7 @@ The following table describes viewer events you can add to the Adobe Analytics C
 |PAUSE|**X** (Video)|In Video viewers, when a user clicks Pause to pause a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Dynamic Media Classic. Video Heartbeat works with out-of-the-box Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
 |STOP|**X** (Video)|In Video viewers, when a user clicks Stop to stop playing a video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Dynamic Media Classic. Video Heartbeat works with out-of-the-box Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
 |MILESTONE|**X**  (Video)|In Video viewers, milestone events are generated when the user watches 0, 25, 50, 75, or 100 percent of the video.<br><br>**Note:** If you are using Adobe Analytics heartbeat-based video reporting, you do not need to map any variables to this viewer event when you configure Adobe Analytics in Dynamic Media Classic. Video Heartbeat works with out-of-the-box Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports. See [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md).|
-|SWATCH|X (Flyout, Zoom)|This viewer event is mapped to the PAGE viewer event in Scene7 Publishing System.|
+|SWATCH|X (Flyout, Zoom)|This viewer event is mapped to the PAGE viewer event in Dynamic Media Classic.|
 |ZOOM|**X**  (eCatalog, SpinSet, Zoom)|Not tracked by Adobe Analytics.<br>|
 |PAN|**X**  (eCatalog, SpinSet, Zoom)|Not tracked by Adobe Analytics.<br>|
 |SPIN|**X**  (SpinSet)|Not tracked by Adobe Analytics.<br>|
@@ -85,7 +85,7 @@ The following table describes Dynamic Media Classic variables.
 
 |Dynamic Media Classic variable|Description|
 |--- |:--- |
-|asset|Scene7 Publishing System asset ID or video path file.|
+|asset|Dynamic Media Classic asset ID or video path file.|
 |viewerId|An arbitrary number that is assigned to each different viewer type.|
 |pageLabel|In eCatalogs, the page that a viewer displays.|
 |label|The label value (a string).|
