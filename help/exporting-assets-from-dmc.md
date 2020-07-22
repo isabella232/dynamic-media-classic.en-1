@@ -12,7 +12,7 @@ discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 
 ---
 
-# Exporting assets from Dynamic Media Classic{#exporting-assets-from-scene-publishing-system}
+# Exporting assets from Dynamic Media Classic{#exporting-assets-from-dmc}
 
 You can save assets you edited in Dynamic Media Classic to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
 

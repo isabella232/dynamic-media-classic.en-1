@@ -30,7 +30,7 @@ This Quick Start is designed to get you up and running quickly with Target Stand
 
 **1. Enter your Target Standard/Premium URL in the Application General Settings screen.**
 
-Dynamic Media Classic needs your Target Standard/Premium URL to integrate with Target Standard/Premium. Copy the portion of your Target Standard/Premium URL up to and including *.com*, and enter it in the Dynamic Media Classic Application General Settings screen. See [Integrating Dynamic Media Classic with Target Standard/Premium](integrating-dmc-target-classic.md#integrating-dmc-with-target).
+Dynamic Media Classic needs your Target Standard/Premium URL to integrate with Target Standard/Premium. Copy the portion of your Target Standard/Premium URL up to and including *.com*, and enter it in the Dynamic Media Classic Application General Settings screen. See [Integrating Dynamic Media Classic with Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
 
 **2. Create the offer set**
 
