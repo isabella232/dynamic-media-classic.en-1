@@ -25,6 +25,6 @@ Before you can integrate Dynamic Media Classic with Target Classic, you must ent
    In step 5, you paste the portion of the URL you copied into the Dynamic Media Classic Application General Settings screen.
 
 1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup**.
-1. On the Application General Settings page, in the Target Classic Server Name field, paste the URL you copied in step 3.
+1. On the Application General Settings page, in the **[!UICONTROL Test&Target Server Name]** field, paste the URL you copied in step 3.
 1. Click **Close**.
 
