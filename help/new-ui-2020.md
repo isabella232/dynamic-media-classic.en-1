@@ -34,7 +34,7 @@ After you download, install, and launch the desktop app, you will be presented w
 
 >[!IMPORTANT]
 >
->Only one instance of the desktop app can be installed and active at a time.
+>Only one instance of the desktop app can be installed *and* active at a time on a given computer. However, there is no restriction on the number of installations you can have across computers.
 
 ### **_What if I am using the Dynamic Media Classic APIs to access the product and do not sign in through the web user interface?_**
 
