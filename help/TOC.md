@@ -147,9 +147,9 @@ index: y
     + [Testing the integration by viewing an Adobe Analytics report](testing-integration-viewing-analytics-report.md)
     + [Enabling Adobe Analytics Video Reports](enabling-analytics-video-reports.md)
     + [Publishing Adobe Analytics configuration information](publishing-analytics-configuration-information.md)
-+ Target Standard/Premium integration {#target-classic}
-    + [Quick Start: Target Standard/Premium integration](quick-start-target-integration.md)
-    + [Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md)
++ Adobe Target Standard/Premium integration {#target-classic}
+    + [Quick Start: Adobe Target Standard/Premium integration](quick-start-target-integration.md)
+    + [Integrating Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md)
     + [Creating an offer set](creating-offer-set.md)
     + [Pushing offer sets to Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + User-generated content {#user-generated-content}
