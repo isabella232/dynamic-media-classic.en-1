@@ -12,7 +12,7 @@ discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 
 ---
 
-# Quick Start: Target Standard/Premium integration{#quick-start-target-integration}
+# Quick Start: Adobe Target Standard/Premium integration{#quick-start-target-integration}
 
  Adobe Target Standard/Premium puts control directly in the hands of marketers to quickly and continually run multiple A/B and multivariate tests, measure effectiveness, and increase relevance of online content through segmentation, targeting, and automated personalization.
 
@@ -28,7 +28,7 @@ For greater customization of dynamic Dynamic Media Classic content, use Target S
 
 This Quick Start is designed to get you up and running quickly with Target Standard/Premium HTML offer sets. Follow steps 1 through 3. After each step is a cross-reference to a topic heading where you can find more information.
 
-**1. Enter your Target Standard/Premium URL in the Application General Settings screen.**
+**1. Enter your Adobe Target Standard/Premium URL in the Application General Settings screen.**
 
 Dynamic Media Classic needs your Target Standard/Premium URL to integrate with Target Standard/Premium. Copy the portion of your Target Standard/Premium URL up to and including *.com*, and enter it in the Dynamic Media Classic Application General Settings screen. See [Integrating Dynamic Media Classic with Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
 
@@ -44,6 +44,6 @@ Save the offer set after you create it.
 
 See [Creating an offer set](creating-offer-set.md#creating_an_offer_set).
 
-**3. Push the offer set to Target Standard/Premium**
+**3. Push the offer set to Adobe Target Standard/Premium**
 
 In the Test&Target Offer Set screen, click **Push Offers**, and enter your login credentials in the Test&Target Login dialog box. See [Pushing offer sets to Target Standard/Premium](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
