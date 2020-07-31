@@ -18,14 +18,21 @@ Before you log in to configure Adobe Analytics reports and match Adobe Analytics
 
 When you log in you have the option of entering your Marketing Cloud Org ID to use the latest video analytics implementation. If you choose not to enter your ID, video reporting still works. However, it can cause the data to not integrate correctly with other data for that client from outside Dynamic Media Classic.
 
+>[!NOTE]
+>
+>If your Adobe Analytics account has been migrated to Adobe IMS-based authentication (Identity Management System) for log in, entering direct credentials will not work.
+
 **To log in to Adobe Analytics**
 
-1. Click **Setup** &gt; **Application Setup**.
-1. In the left pane, under Application Setup, click **Adobe Analytics**.
-1. In the Adobe Analytics Configuration screen, click **Adobe Analytics Login**.
-1. In the Login dialog box, enter your company name, Marketing Cloud Org ID (optional), user name, and password. 
-1. Click **Login**.
-1. Choose a report suite, then click **OK**.
+1. Near the upper-right corner of the Dynamic Media Classic page, tap **[!UICONTROL Setup > Application Setup]**.
+1. In the left pane, under **[!UICONTROL Application Setup]**, tap **[!UICONTROL Adobe Analytics]**.
+1. In the Adobe Analytics Configuration page, tap **[!UICONTROL Adobe Analytics Login]**.
+1. In the **[!UICONTROL Adobe Analytics Login]** dialog box, enter your company name, Marketing Cloud Org ID (optional), username, and the *shared secret* key in the **[!UICONTROL Password]** text field.
+
+   You can retrieve the *shared secret* key from the Analytics Admin conosle. See [How to get API credentials for user accounts](https://helpx.adobe.com/analytics/kb/how-to-get-api-credentials-for-user-accounts-.html).
+ 
+1. Click **[!UICONTROL Login]**.
+1. In the **[!UICONTROL Report Suite]** drop-down menu, choose a report suite, then click **[!UICONTROL OK]**.
 
    >[!NOTE]
    >
