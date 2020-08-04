@@ -31,7 +31,7 @@ Change these settings only with the assistance of a Dynamic Media Classic suppor
 
 **Catalog Management** These settings determine how Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
-**Request Attributes** These settings impose limits on images that can be delivered from the server.
+**Request Attributes** These settings impose limits on images that can be delivered from the server. For example, the *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 and **[!UICONTROL Height]** 5000.
 
 **Default Request Attributes** These settings pertain to the default appearance of images.
 
