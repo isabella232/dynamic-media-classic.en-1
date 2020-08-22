@@ -93,7 +93,7 @@ See also [Testing the Secure Testing service](testing-assets-making-them-public.
 
    There are certain actions on the Build menu that only work, or optionally work, with individual videos. This functionality makes it necessary to show all the encoded video derivatives that you can select from, regardless of how you set **Show Encoded Videos**. The Build actions that over-ride the **Show Encoded Videos** setting include **Adaptive Video Sets**, and **eCatalogs**.
 
-   >[Note]
+   >[!NOTE]
    >
    >If you did not use Dynamic Media Classic to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
 
@@ -315,7 +315,7 @@ To choose an encoding preset, in the lower-right corner of the Upload page, clic
 
   **Single Encoding Presets**
 
-    >[NOTE]
+    >[!NOTE]
     >
     >To deliver video to iPads, you can choose a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience.
 
@@ -619,7 +619,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 1. In the Configure Viewer screen, in the Preset Name field, enter or edit the preset name.
 1. Set the remaining options that you want.
 
-   >[NOTE]
+   >[!NOTE]
    >
    >Choose Same As Source to automatically size the Video Viewer to the resolution size of the encoded video itself. If you choose this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you choose Same As Source, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following illustration to help you determine the margin sizes that you want to use.*
 
