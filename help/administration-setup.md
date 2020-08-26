@@ -108,7 +108,7 @@ You can use the following user list filtering techniques:
 
 If you have many users, you can limit the size of the list by selecting the Max List Size menu and choosing a number.
 
-### Linking an IMS user identity to a Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
+<!-- CQDOC-16690 TOPIC REMOVED AS PER JIRA TICKET INSTRUCTIONS ### Linking an IMS user identity to a Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
 
 You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user account so you can use SSO (Single Sign On) to log on and launch Scene7 Publishing System from within Adobe Marketing Cloud.
 
@@ -134,6 +134,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
       https://s7spsN.scene7.com/IpsWeb?ims=1
 
       Replace “N” in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
+ -->
 
 ## Bandwidth & Storage {#bandwidth-storage}
 
