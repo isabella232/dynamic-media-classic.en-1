@@ -1,14 +1,14 @@
 ---
 cloud: experience-cloud
-product: dynamic media classic
+product: Adobe Dynamic Media Classic
 audience: end-user
-user-guide-title: Dynamic Media Classic Help
+user-guide-title: Adobe Dynamic Media Classic Guide
 index: y
 ---
 
-# Dynamic Media Classic Help {#using}
+# Adobe Dynamic Media Classic Guide {#using}
 
-+ [Dynamic Media Classic Documentation Home](home.md)
++ [Adobe Dynamic Media Classic Guide](home.md)
 + [Best Practices Tutorial](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NEW Dynamic Media Classic sign in experience now available](new-ui-2020.md)
 + [Dynamic Media Newsletter by Experience League](dynamic-media-newsletter.md)
