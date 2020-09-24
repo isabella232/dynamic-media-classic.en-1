@@ -75,6 +75,9 @@ The following asset types and functionalities are currently not supported:
 
 You should test the Secure Testing service to make sure it works as expected.
 
+Note: If you do not mention any IP's under Setup > Publish Setup > Image Server > Test Image Service
+if you add an IP only that IP will be able to call the assets and no other IP will be allowed to make the calls. As long there is no IP mentioned under that section all IP's are allowed to make the calls for the assets, and they will show up.
+
 **Prepare your account**
 
 <!-- 
@@ -92,7 +95,14 @@ Last Modified Date:
 1. On the Image Server Publish page, in the Publish Context drop-down list, select **Test Image Serving**.
 1. For the Client Address Filter, click **Add**.
 1. Select the check box to enable (turn on) the address, and then type an IP address and net mask in the respective text fields.
-1. Repeat the previous two steps to add more IP addresses. Otherwise, continue to the next step.
+
+   >[!NOTE]
+   >
+   >If you add a single IP address and net mask, that address can make asset calls. However, any other IP addresses and net masks that you add are not permitted to make asset calls. As such, you may want to consider disabling (turn off) the check box in the step above to turn off the ability to specify an IP address and net mask. Doing so effectively permits *all* IP addresses to make asset calls, and they will all show up. 
+
+1. Do one of the following:
+   * Repeat the previous two steps to add more IP addresses.
+   * Continue to the next step.
 1. At the lower-left of the Image Server Publish page, click **Save**
 1. Upload the desired images to your Dynamic Media Classic account.
 
@@ -105,14 +115,14 @@ Last Modified Date:
 1. Determine the name of your Secure Testing service by clicking **Setup** &gt; **Application Setup** &gt; **General Settings**. 
 1. On the Application General Settings page, under the Servers group, find the name to the right of **Test Publish Context Server Name**.
 
-Contact Technical Support if the server name is missing or URLs to the server do not work.
+Contact Adobe Care if the server name is missing or the URLs to the server do not work.
 
 **Prepare website variations**
 
 You need two variations of a website that links the published and unpublished assets:
 
-* Public version: Link assets using your traditional Dynamic Media Classic URL syntax
-* Staging version: Link assets using the same syntax but with the Secure Testing site name
+* Public version - Link assets using your traditional Dynamic Media Classic URL syntax.
+* Staging version - Link assets using the same syntax but with the Secure Testing site name.
 
 **Run the tests**
 
