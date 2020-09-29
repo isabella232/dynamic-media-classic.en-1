@@ -140,7 +140,6 @@ To download and *silent* install Adobe Dynamic Media Classic desktop app on Wind
 
     Details about command line parameters is available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
-
 1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
