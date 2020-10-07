@@ -37,9 +37,12 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 >[!NOTE]
 >
 >If you are an AEM Dynamic Media - Scene7 mode user and want to use eCatalogs, you will need to edit the `pdfbrochure` value in CRXDE Lite. To do so, in AEM, click **[!UICONTROL Tools > General > CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
-In the lower right pane, in the **[!UICONTROL Properties]** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
-In the upper-left corner of the CRXDE Lite page, click **[!UICONTROL Save All]**.
-You will now be able to author eCatalogs in Dynamic Media Classic.
+>
+>In the lower right pane, in the **[!UICONTROL Properties]** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
+>
+>In the upper-left corner of the CRXDE Lite page, click **[!UICONTROL Save All]**.
+>
+>You will now be able to author eCatalogs in Dynamic Media Classic.
 
 **Quick Start**
 
