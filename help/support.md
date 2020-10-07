@@ -25,7 +25,7 @@ Technical support offerings are designed to meet the needs of any size company. 
 |Social Support|See the FAQ at [https://helpx.adobe.com/marketing-cloud/contact-support.html](https://helpx.adobe.com/marketing-cloud/contact-support.html).|
 |Free live web training and video tutorials|Included.|
 |E-mail support|<ul><li>US/Canada: s7support@adobe.com</li> <li>Japan: s7support_jp@adobe.com</li><li>Europe/Middle East/Africa: s7intsupport@adobe.com</li></ul>|
-|Telephone support|<ul><li>US/Canada:(800) 898-9743, (800)497-033, (408)454-5910 </li> <li>Japan:+81-3-6743-9632 </li><li>UK: +44 (0)20 35641782</li><li>Germany: +49 (0)69 51709005</li><li>France: +33 157324085</li><li>Netherlands: +31 (0)20 2035138 (Weekend Support in English)</li></ul>|
+|Telephone support|<ul><li>US/Canada: (800) 898-9743, (800)497-033, (408)454-5910 </li> <li>Japan: +81-3-6743-9632 </li><li>UK: +44 (0)20 35641782</li><li>Germany: +49 (0)69 51709005</li><li>France: +33 157324085</li><li>Netherlands: +31 (0)20 2035138 (Weekend Support in English)</li></ul>|
 
 When reporting issues to Technical Support, include this information:
 
