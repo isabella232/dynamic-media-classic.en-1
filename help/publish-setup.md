@@ -48,7 +48,7 @@ Change these settings only with the assistance of a Dynamic Media Classic suppor
 For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language you want.
 
 >[!NOTE]
-> To set up Localization Support options, contact Adobe Dynamic Media Classic Technical Support or send an email to s7support@adobe.com requesting setup help.
+> To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
 
 For more information about setting up **Localization Support**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -56,7 +56,7 @@ For more information about setting up **Localization Support**, see [Considerati
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Dynamic Media Classic, such as the Locale Map field, contact Adobe Dynamic Media Classic Technical Support. Or, send an email to s7support@adobe.com requesting setup help.
+>If you want to set up Localization Support options in Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
 
 A common way to use Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a very few part of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
