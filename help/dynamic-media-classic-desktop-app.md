@@ -55,6 +55,7 @@ See also:
     * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
     * [Windows (.EXE) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
 
+
     GA (General Availability) version was 20.20.1 available at the following:
 
     * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.1.dmg)
