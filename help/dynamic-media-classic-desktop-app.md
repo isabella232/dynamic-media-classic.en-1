@@ -28,19 +28,38 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * macOS X 10.10 or newer.
 * Windows 7 or newer.
 
-## Download and install Adobe Dynamic Media Classic desktop app on macOS or Windows {#installation-dmc-app}
+## Fixes in the latest version 20.20.2 {#latest-fixes-desktop-app}
+
+* No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows.
+* No need to sign out of the desktop app to switch between companies.
+* Ctrl+V for paste operation now works on Windows.
+* In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself.
+
+## Download and install the latest Adobe Dynamic Media Classic desktop app on macOS or Windows {#installation-dmc-app}
 
 See also:
 
-* [Download and *silent* install Adobe Dynamic Media Classic desktop app on macOS](#install-silent-mac-dmc-app)
-* [Download and *silent* install Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on macOS](#install-silent-mac-dmc-app)
+* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
 
 1. Uninstall any older Dynamic Media Classic desktop app versions on your system.
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg)
-    * [Windows (.EXE) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe)
+    >[!NOTE]
+    >
+    >User who have already installed the GA version should *uninstall* it from their local Windows system before installing the latest version. Or, users can simply *replace* the installed GA version on their local macOS system with the latest version. New users should directly install the latest version 20.20.2 .
+
+    Latest version is 20.20.2 available at the following:
+
+    * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+    * [Windows (.EXE) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
+
+    GA (General Availability) version was 20.20.1 available at the following:
+
+    * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.1.dmg)
+    * [Windows (.EXE) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.1.exe)
+
 
 1. Do one of the following based on the installer you downloaded.
 
@@ -71,24 +90,24 @@ See also:
 
 1. Post the login UI, you will notice the familiar browser UI experience. You can carry your day to day activity as usual now on the desktop app UI.
 
-## Download and *silent* install Adobe Dynamic Media Classic desktop app on macOS {#install-silent-mac-dmc-app}
+## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on macOS {#install-silent-mac-dmc-app}
 
 See also:
 
-* [Download and install Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
-* [Download and *silent* install Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
+* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
 
-To download and *silent* install Adobe Dynamic Media Classic desktop app on macOS:
+To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on macOS:
 
 1. Uninstall any older Dynamic Media Classic desktop app versions on your system.
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app for macOS.
     
-    * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg)
+    * [macOS (.DMG) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.2.dmg)
 
 1. Mount the downloaded Disk Image (.DMG) to a mountpoint location using the following command:
 
-    `hdiutil attach adobe-dynamic-media-classic-20.20.1.dmg -mountpoint <mount_point_path>`
+    `hdiutil attach adobe-dynamic-media-classic-20.20.2.dmg -mountpoint <mount_point_path>`
 
 1. Copy the .APP file to **[!UICONTROL Applications]** using the following command:
 
@@ -109,34 +128,34 @@ Unmount DMG - hdiutil detach <mount_point_path>`
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
-## Download and *silent* install Adobe Dynamic Media Classic desktop app on Windows {#install-silent-windows-dmc-app}
+## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows {#install-silent-windows-dmc-app}
 
 The command that you use is for a basic MSI silent installlation. However, the Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running Installations in Silent Mode.](https://docs.flexera.com/installshield19helplib/helplibrary/SilentInstall.htm)
 
 See also:
 
-* [Download and install Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
-* [Download and *silent* install Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
+* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
 
-To download and *silent* install Adobe Dynamic Media Classic desktop app on Windows:
+To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on Windows:
 
 1. Uninstall any older Dynamic Media Classic desktop app versions on your system.
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * [Windows (.EXE) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe)
+    * [Windows (.EXE) &ndash; Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.2.exe)
 
 1. Run the installer in record mode using the following command:
 
-    `adobe-dynamic-media-classic-20.20.1.exe /r /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.20.2.exe /r /f1"C:\Setup.iss"`
 
 1. In the GUI installer window, follow the steps to install so that interactions/inputs, like install location, get recorded in `Setup.iss` file.
 
-1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.20.1.exe` to other computer.
+1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.20.2.exe` to other computer.
 
 1. Run the following command for a silent installation:
 
-    `adobe-dynamic-media-classic-20.20.1.exe /s /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.20.2.exe /s /f1"C:\Setup.iss"`
 
     Details about command line parameters is available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
@@ -159,7 +178,7 @@ To download and *silent* install Adobe Dynamic Media Classic desktop app on Wind
 
 Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Length: 2 minutes 36 seconds). 
 
-## Known limitations in Dynamic Media Classic 
+## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2) 
  
 **_Applies to Windows only &ndash; Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
 
