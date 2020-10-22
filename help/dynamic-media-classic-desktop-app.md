@@ -39,8 +39,8 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 See also:
 
-* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on macOS](#install-silent-mac-dmc-app)
-* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
+* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
 
 1. Uninstall any older Dynamic Media Classic desktop app versions on your system.
 
@@ -96,7 +96,7 @@ See also:
 See also:
 
 * [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
-* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
 
 To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on macOS:
 
@@ -136,7 +136,7 @@ The command that you use is for a basic MSI silent installlation. However, the D
 See also:
 
 * [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
-* [Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
 
 To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on Windows:
 
