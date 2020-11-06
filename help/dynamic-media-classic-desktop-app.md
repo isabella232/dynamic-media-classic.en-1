@@ -175,9 +175,26 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
 
-## Video walk-through on using Dynamic Media Classic Desktop App
+## Video walk-through on using Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
 Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Length: 2 minutes 36 seconds). 
+
+## Clearing the image cache and asset cache on your computer using the desktop app
+
+1. In the Dynamic Media Classic desktop app, near the upper-right corner, tap **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+1. On the **[!UICONTROL Personal Setup]** page, under the **[!UICONTROL Desktop]** heading, do any of the following:
+    * Tap **[!UICONTROL Clear Image Cache]** to remove all Adobe Dynamic Media cached image files from your computer. Tap **[!UICONTROL OK]**.
+    * Tap **[!UICONTROL Clear Asset Cache]** to remove all Adobe Dynamic Media cached asset files from your computer. Tap **[!UICONTROL OK]**.
+1. In the lower-right corner of the page, tap **[!UICONTROL Close]**.
+
+### Clearing the image cache and asset cache manually
+
+Besides clearing the image and asset cache using the desktop app, you can also accomplish this task manually by clearing the cache directly from the file system.
+
+1. Based on your operating system, navigate to the following:
+
+    * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
+    * Windows: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
 ## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2) 
  
