@@ -55,7 +55,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To create an offer set with a parameterized template**
 
 1. Select the template or banner.
-1. Click **Build** &gt; **Test&Target Offer Set**.
+1. Click **Build** > **Test&Target Offer Set**.
 
    The Test&Target Offer Set page lists offers in the offer set. The first item on the list is the object. 
 
@@ -150,7 +150,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To delete an Offer Set**
 
 1. In the Grid View, List View, or Details View, select one or more Offer Sets.
-1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
+1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
 
 >[!MORELIKETHIS]
 >

@@ -28,11 +28,11 @@ Click Upload on the Global Navigation bar to upload files from your computer to 
 
 **2. Creating a Swatch Set**
 
-To create a Swatch Set, click Build &gt; Swatch Sets. On the Swatch Set screen, drag images and color swatches onto the screen. See [Creating a Swatch Set](creating-swatch-set.md#creating-a-swatch-set).
+To create a Swatch Set, click Build > Swatch Sets. On the Swatch Set screen, drag images and color swatches onto the screen. See [Creating a Swatch Set](creating-swatch-set.md#creating-a-swatch-set).
 
 **3. Setting up Swatch Set Viewer Presets**
 
-Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom &gt; Image Sets/Color Swatches presets to view your Swatch Sets.
+Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Image Sets/Color Swatches presets to view your Swatch Sets.
 
 See [Creating and editing Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 

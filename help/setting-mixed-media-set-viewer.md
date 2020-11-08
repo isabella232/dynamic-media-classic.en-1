@@ -18,7 +18,7 @@ Mixed Media Set Viewer Presets determine the style, behavior, and look of your m
 
 You can choose to include all or some community features in the Mixed Media Set Viewer. The Embed feature adds a link to the viewer that lets users copy the code required to display the viewer in an external page (such as a blog, web site, or social networking site). The Link feature provides the URL to the viewer, so users can link back to this viewer. The Visit feature provides a link to the web site you specify.
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. On the Viewer Presets page, do one of the following:
 
     * To create a new preset, click **Add**. In the Add Viewer Preset dialog box, choose a platform, choose Mixed Media Set Viewer, then click **Add**.

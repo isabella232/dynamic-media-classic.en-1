@@ -38,7 +38,7 @@ Upload font files with the same techniques you use to upload other files. You ca
 
 You can change the ID name of a font as well as its type information. Editing a font file can be helpful in searches and making fonts easier to identify.
 
-In the Browse Panel, select the font file you want to edit in Detail view and choose File &gt; Edit Info. The Edit Info screen opens. Choose the following options and select the Submit button.
+In the Browse Panel, select the font file you want to edit in Detail view and choose File > Edit Info. The Edit Info screen opens. Choose the following options and select the Submit button.
 
 **Font Name** This name identifies the font when it is published.
 

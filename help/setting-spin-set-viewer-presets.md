@@ -18,7 +18,7 @@ Spin Set Viewer Presets determine the style, behavior, and look of your viewers.
 
 Follow these steps to create a Spin Set Viewer Preset:
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. Do one of the following:
 
     * To create a new preset, click **Add**, then in the Add Viewer Preset dialog box, choose a platform, and click **Spin Set Viewer**.

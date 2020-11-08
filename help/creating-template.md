@@ -14,7 +14,7 @@ discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 
 # Creating a template {#creating-a-template}
 
-To create a template, click Build &gt; Template Basics. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
+To create a template, click Build > Template Basics. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
 
 >[!NOTE]
 >
@@ -78,7 +78,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To delete a Template**
 
 1. In the Grid View, List View, or Details View, select one or more Templates.
-1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
+1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
 
 ## Understanding the Template screen {#understanding-the-template-screen}
 

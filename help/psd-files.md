@@ -44,7 +44,7 @@ To trim based on transparency, specify 0 to crop pixels only if they are totally
 
 **Keep Original Color Space** Retains the original color space of the image.
 
-**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic. See ICC profiles.
+**Custom From > To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic. See ICC profiles.
 
 **Maintain Layers** Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail view and selecting the layer panel. See Viewing and editing layers in a PSD file.
 

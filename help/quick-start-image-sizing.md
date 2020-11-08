@@ -36,7 +36,7 @@ Select the Upload button on the Global Navigation bar to upload files from your 
 
 Like a macro, an Image Preset is a collection of predefined size and formatting commands saved under a name. An Image Preset governs the size and formatting with which images are delivered from Dynamic Media Image Servers. You can set up Image Presets on your own if you have company administrator status. Dynamic Media Classic also comes with default Image Presets, and you can use them to dynamically deliver images.
 
-To create an Image Preset (if you are an administrator), choose Setup &gt; Application Setup. On the Setup screen, display the Application Setup options and choose Image Presets. Then click **Add** or **Edit** to create an Image Preset.
+To create an Image Preset (if you are an administrator), choose Setup > Application Setup. On the Setup screen, display the Application Setup options and choose Image Presets. Then click **Add** or **Edit** to create an Image Preset.
 
 The Image Preset you create is added to the Image Preset menu on the Preview screen. You can use your new Image Preset to display images dynamically on your web sites and applications. See [Setting up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
@@ -44,7 +44,7 @@ The Image Preset you create is added to the Image Preset menu on the Preview scr
 
 The next step is to preview the Image Presets your administrator set up at the different preset sizes.
 
-To explore Image Presets, click **Setup** &gt; **Image Presets**, and then browse to an Image Preset.
+To explore Image Presets, click **Setup** > **Image Presets**, and then browse to an Image Preset.
 
 Experiment with the different Image Presets. Find out what your image looks like when it is delivered dynamically to your web site or application at different sizes.
 

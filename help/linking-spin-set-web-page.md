@@ -27,15 +27,15 @@ Web sites and applications access Dynamic Media Image Server content, including 
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Copy URL** to the right of the viewer you want.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
 
@@ -60,15 +60,15 @@ Using the Embed Code feature lets you review the viewer code for the selected Sp
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Embed Code** to the right of the viewer you want.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**.
 

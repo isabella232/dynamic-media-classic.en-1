@@ -24,7 +24,7 @@ See also [Exporting assets from Dynamic Media Classic](exporting-assets-from-dmc
 
 **To specify export options available to Media Portal users**
 
-1. Click **Setup** &gt; **Image Presets**.
+1. Click **Setup** > **Image Presets**.
 1. In the Image Presets window, select any of the following:
 
    * **Enable User-Defined Conversion**

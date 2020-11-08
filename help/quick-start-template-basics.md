@@ -36,7 +36,7 @@ Select the Upload button on the Global Navigation bar to upload a PSD file or ot
 
 **2. Create a template**
 
-To create a template from a PSD file, select the Create Template option when you upload the file. To create a template from images, choose Build &gt; Template Basics, enter a width and height measurement for the canvas, select either Designer or Developer, and drag images onto the Template screen. You can also select the images before choosing Build &gt; Template Basics. The Template screen offers tools for:
+To create a template from a PSD file, select the Create Template option when you upload the file. To create a template from images, choose Build > Template Basics, enter a width and height measurement for the canvas, select either Designer or Developer, and drag images onto the Template screen. You can also select the images before choosing Build > Template Basics. The Template screen offers tools for:
 
 * Adding image layers. To add a layer, drag an image into the Template screen.
 * Adding text layers. Select the Text tool and drag to draw a box for the text layer; then format the text with tools on the Text screen.

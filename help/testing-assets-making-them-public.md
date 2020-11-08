@@ -91,7 +91,7 @@ Last Modified Date:
  -->
 
 1. Contact Technical Support and request that Secure Testing be enabled on your account.
-1. In Dynamic Media Classic, click **Setup** &gt; **Publish Setup** &gt; **Image Server**.
+1. In Dynamic Media Classic, click **Setup** > **Publish Setup** > **Image Server**.
 1. On the Image Server Publish page, in the Publish Context drop-down list, select **Test Image Serving**.
 1. For the Client Address Filter, click **Add**.
 1. Select the check box to enable (turn on) the address, and then type an IP address and net mask in the respective text fields.
@@ -112,7 +112,7 @@ Last Modified Date:
 
    See [Publishing](publishing-files.md#publishing_files).
 
-1. Determine the name of your Secure Testing service by clicking **Setup** &gt; **Application Setup** &gt; **General Settings**. 
+1. Determine the name of your Secure Testing service by clicking **Setup** > **Application Setup** > **General Settings**. 
 1. On the Application General Settings page, under the Servers group, find the name to the right of **Test Publish Context Server Name**.
 
 Contact Adobe Care if the server name is missing or the URLs to the server do not work.

@@ -40,7 +40,7 @@ See also [Including zoom targets and Image Maps in Image Sets](including-zoom-ta
 
 **3. Setting up Image Set Viewer Presets, as needed**
 
-Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom &gt; Images or Image Sets/Multiple Views presets to view your Image Sets.
+Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Images or Image Sets/Multiple Views presets to view your Image Sets.
 
 You add or edit Viewer Presets from the Application Setup screen.
 

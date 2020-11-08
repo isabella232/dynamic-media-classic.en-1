@@ -23,7 +23,7 @@ Before you can integrate [!DNL Dynamic Media Classic] with [!DNL Target Standard
 
    In step 5, you paste the portion of the URL you copied into the [!DNL Dynamic Media Classic] Application General Settings screen.
 
-1. In [!DNL Dynamic Media Classic], click **Setup** &gt; **Application Setup**.
+1. In [!DNL Dynamic Media Classic], click **Setup** > **Application Setup**.
 1. 5 On the Application General Settings page, in the **[!UICONTROL Test&Target Server Name]** field, paste the URL you copied in step 2.
 1. Click **Close**.
 

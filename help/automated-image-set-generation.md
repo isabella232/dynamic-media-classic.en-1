@@ -28,7 +28,7 @@ You can automate set generation as an independent job that is not dependent of a
 
 **To automate Image Set generation**
 
-1. Click **File** &gt; **Generate Set**.
+1. Click **File** > **Generate Set**.
 1. In the Generate Set dialog box, specify a job name.
 
    By default, the job is given a name that indicates it is a generated job and when the job was generated.

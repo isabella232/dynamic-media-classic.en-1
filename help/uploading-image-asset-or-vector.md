@@ -129,7 +129,7 @@ Comment Type: remark
 Last Modified By: unknown unknown 
 Last Modified Date: 
 
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment&gt; elements under &lt;adobefig&gt;.</p>
+<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
 
  -->
 
@@ -292,7 +292,7 @@ Comment Type: remark
 Last Modified By: unknown unknown 
 Last Modified Date: 
 
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment&gt; elements under &lt;adobefig&gt;.</p>
+<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
 
  -->
 
@@ -332,7 +332,7 @@ return true;
 </body>
 ```
 
-To view the XML response in Internet Explorer, click **View** &gt; **Source**. To view XML response in Firefox, click **View** &gt; **Page Source**. Firefox is recommended for viewing XML responses.
+To view the XML response in Internet Explorer, click **View** > **Source**. To view XML response in Firefox, click **View** > **Page Source**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 

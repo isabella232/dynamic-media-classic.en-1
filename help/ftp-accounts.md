@@ -20,7 +20,7 @@ Remember that you can activate or deactivate existing Media Portal users by way 
 
 See [Activating or deactivating users](administration-setup.md#activating_or_deactivating_users).
 
-1. Click **Setup** &gt; **Media Portal** &gt; **FTP Accounts**.
+1. Click **Setup** > **Media Portal** > **FTP Accounts**.
 1. On the Add FTP Account page, in the FTP Accounts Username drop-list, select a user.
 
    If a user is not listed, you may need to first add them as a Media Portal Admin, a Media Portal Contributor-User, or a Media Portal Contributor by way of Administration Setup. After you add the user with the proper role, their user name is available from the drop-down list.
@@ -36,7 +36,7 @@ See [Activating or deactivating users](administration-setup.md#activating_or_dea
 
 ## Deleting an existing FTP account {#deleting-an-existing-ftp-account}
 
-1. Click **Setup** &gt; **Media Portal** &gt; **FTP Accounts**.
+1. Click **Setup** > **Media Portal** > **FTP Accounts**.
 1. On the Add FTP Account page, in the Existing Accounts table, select the FTP account that you want to remove. 
 1. Click **Delete**.
 

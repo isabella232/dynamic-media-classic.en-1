@@ -23,7 +23,7 @@ You can move assets to different folders in the Browse Panel.
 1. Select the asset or assets in the Browse Panel, and do one of the following:
 
     * Display the folder you want to move the assets to in the Asset Library and drag the assets to the folder.
-    * Choose File &gt; Move, select a folder in the Move Assets window, and select Move.
+    * Choose File > Move, select a folder in the Move Assets window, and select Move.
 
 ## Rename assets {#rename-assets}
 
@@ -32,7 +32,7 @@ To rename an asset:
 1. Select the asset in the Browse Panel, and do one of the following:
 
     * Select the name, type in a new name, and press Enter or click away from the name.
-    * Choose File &gt; Rename. The name of the asset is highlighted. Enter a new name and press Enter.
+    * Choose File > Rename. The name of the asset is highlighted. Enter a new name and press Enter.
 
 Be sure that you do not to enter the name of an existing Dynamic Media Classic asset.
 
@@ -48,7 +48,7 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 
 1. Do any of the following:
 
-    * To delete one or more assets, select the assets in the Browse Panel, and press Delete or choose File &gt; Delete.
+    * To delete one or more assets, select the assets in the Browse Panel, and press Delete or choose File > Delete.
     * To delete a folder, select the folder in the Asset Library, and click **Remove Folder**.
 
       Deleting a folder deletes the folder, all the assets in the folder, as well as all assets in its subfolders.
@@ -65,7 +65,7 @@ Create the list of Dynamic Media Classic IDs and save it as a text (.txt) file. 
 
 After you create the list, follow these steps to use it to delete assets:
 
-1. Choose File &gt; Delete Asset List.
+1. Choose File > Delete Asset List.
 1. In the Delete Asset list dialog box, browse or type the path to the text file with the list of assets you want to delete.
 1. Click the Delete button.
 

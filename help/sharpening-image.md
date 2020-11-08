@@ -103,7 +103,7 @@ You could mix all three sharpening effects to achieve your final result. However
 
 Image Presets can be changed and updated at any time. You will see the results of a change to an Image Preset after you publish and after the cache for the URL clears.
 
-If you use one preset for every image in a size category, any Company Administrator can update the definition of that Image Preset, republish, and affect every image using that format, without changing any web code. As a best practice, use one Image Preset per unique size on your site. To add an image preset, go to Setup &gt; Application Settings &gt; Image Presets. Then, Add or Edit an existing preset. The only required field is the name of the preset itself. However, you should include some level of sharpening in every preset.
+If you use one preset for every image in a size category, any Company Administrator can update the definition of that Image Preset, republish, and affect every image using that format, without changing any web code. As a best practice, use one Image Preset per unique size on your site. To add an image preset, go to Setup > Application Settings > Image Presets. Then, Add or Edit an existing preset. The only required field is the name of the preset itself. However, you should include some level of sharpening in every preset.
 
 **JPG Quality**
 
@@ -119,13 +119,13 @@ The JPG Quality options control the JPG compression level:
 
 If you do not use an Image Preset or pass specific Image Server sharpening protocols along the URL string, then your image is not sharpened when it is downsampled. However, you may set default sharpening values if this occurs and then any image will always have some sharpening.
 
-To set your company’s default sharpening options, go to Setup &gt; Application Setup &gt; Publish Setup &gt; Image Server. If you set the Default Resampling Mode to Sharp2, it will always sharpen the image when downsampling.
+To set your company’s default sharpening options, go to Setup > Application Setup > Publish Setup > Image Server. If you set the Default Resampling Mode to Sharp2, it will always sharpen the image when downsampling.
 
 **Adding sharpening to viewer presets**
 
 Unless you add sharpening image modifiers to the preset, the small initial load image can look soft because it is downsampled to fit into the viewer window without being sharpened.
 
-In Dynamic Media Classic, Viewer Presets (like Image Presets) allow you to centralize many options into one location, including choice of skin and viewer options (such as including a Print button or controlling the speed of the zoom animation). Viewer Presets are found in the same section as Image Presets, under Setup &gt; Application Settings &gt; Viewer Presets.
+In Dynamic Media Classic, Viewer Presets (like Image Presets) allow you to centralize many options into one location, including choice of skin and viewer options (such as including a Print button or controlling the speed of the zoom animation). Viewer Presets are found in the same section as Image Presets, under Setup > Application Settings > Viewer Presets.
 
 The Modifiers option is found under the Core Settings section of all eCatalog, Spin, and Custom Zoom Viewer Presets. By adding the URL sharpening commands to the Modifiers box, you add sharpening every time that viewer is called with that viewer preset.
 

@@ -96,7 +96,7 @@ See [Creating a custom upload or publish job time interval](checking-job-files.m
 
 ### Creating a custom upload or publish job time interval {#creating-a-custom-upload-or-publish-job-time-interval}
 
-To create a custom time interval for an upload (via FTP) or a publish job, choose Repeat &gt; Custom on the Upload or Publish page. Then enter numbers and wildcards in the Rule box to describe a time interval for the upload or publish jobs to recur.
+To create a custom time interval for an upload (via FTP) or a publish job, choose Repeat > Custom on the Upload or Publish page. Then enter numbers and wildcards in the Rule box to describe a time interval for the upload or publish jobs to recur.
 
 The syntax for describing custom upload and publish time intervals in the Rule box is:
 

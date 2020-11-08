@@ -34,9 +34,9 @@ This Quick Start is designed to get you up and running quickly with Adobe Analyt
 
 >[!NOTE]
 >
->Before you can configure Adobe Analytics reports and match Adobe Analytics report variables to Dynamic Media Classic events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Marketing Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, click **Admin Tools** &gt; **User Management** &gt; **Edit Groups**.
+>Before you can configure Adobe Analytics reports and match Adobe Analytics report variables to Dynamic Media Classic events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Marketing Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, click **Admin Tools** > **User Management** > **Edit Groups**.
 
-After you have verified that you are a member of the Web Service Access group, in Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Adobe Analytics**. On the Adobe Analytics Configuration page, click **Adobe Analytics Login**.
+After you have verified that you are a member of the Web Service Access group, in Dynamic Media Classic, click **Setup** > **Application Setup** > **Adobe Analytics**. On the Adobe Analytics Configuration page, click **Adobe Analytics Login**.
 
 See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 

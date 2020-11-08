@@ -34,7 +34,7 @@ Dynamic Media Classic needs your Target Standard/Premium URL to integrate with T
 
 **2. Create the offer set**
 
-Use a parameterized template or images to create an offer set. You create HTML offer sets on the Test&Target Offer Set screen. To open this screen, select your template or images, and click **Build** &gt; **Test&Target Offer Set**.
+Use a parameterized template or images to create an offer set. You create HTML offer sets on the Test&Target Offer Set screen. To open this screen, select your template or images, and click **Build** > **Test&Target Offer Set**.
 
 To create an offer with a template, click **Add & Preview**. On the Add & Preview screen, change parameter values.
 

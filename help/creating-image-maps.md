@@ -54,7 +54,7 @@ When you create Image Maps you can do any of the following:
    See [to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
 1. To display rollover text when users move the pointer over your Image Map, enter the text in the Image Map list. In the Image Map list, select the Show menu and choose Rollover Text. Then enter the text you want users to see onscreen. You can write the text in a word processor and copy it into the Rollover text field. 
-1. If you want another action effect to occur when users move the mouse over an Image Map, define the action. In the Show drop-down list, click Other Actions. Enter the attributes of the action. (Click Show &gt; Both to create rollover text and an action for an Image Map.)
+1. If you want another action effect to occur when users move the mouse over an Image Map, define the action. In the Show drop-down list, click Other Actions. Enter the attributes of the action. (Click Show > Both to create rollover text and an action for an Image Map.)
 
    See [Defining other actions for Image Maps](creating-image-maps.md#defining_other_actions_for_image_maps).
 
@@ -194,7 +194,7 @@ For more information, see InDesign Help or Acrobat Help.
 
 ### To create Image Maps in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
-1. In InDesign, click Window &gt; Interactive &gt; Hyperlinks to open the Hyperlinks panel.
+1. In InDesign, click Window > Interactive > Hyperlinks to open the Hyperlinks panel.
 1. Select the text, frame, or graphic that you want to make into an Image Map.
 1. In the Hyperlinks panel, click New Hyperlink from the panel menu. 
 1. In the New Hyperlink dialog box, choose URL from the Link To menu.
@@ -210,7 +210,7 @@ For more information, see InDesign Help or Acrobat Help.
 
 ### To create Image Maps in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 
-1. In Acrobat, choose Tools &gt; Advanced Editing &gt; Link Tool.
+1. In Acrobat, choose Tools > Advanced Editing > Link Tool.
 1. Drag to create the Image Map. The Create Link box opens.
 1. Select Custom Link, and click Next.
 

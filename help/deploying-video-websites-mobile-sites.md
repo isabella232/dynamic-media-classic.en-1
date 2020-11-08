@@ -58,15 +58,15 @@ See also [Embedding the video viewer on a web page](deploying-video-websites-mob
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Click **Grid View** or **List View**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, click **Copy URL** to the right of the viewer you want. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
 
@@ -85,15 +85,15 @@ See also [Linking a video URL to a mobile site or a website](deploying-video-web
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
     * Click **Grid View** or **List View**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, click **Embed Code** to the right of the viewer you want. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the video thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the video thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
 
@@ -134,7 +134,7 @@ If you use a third-party video player or a custom built video player instead of 
 
 **To deploy video using a third-party video player**
 
-1. In Dynamic Media Classic, on the Global Navigation bar, click **Setup** &gt; **Application Setup** &gt; **General Settings**.
+1. In Dynamic Media Classic, on the Global Navigation bar, click **Setup** > **Application Setup** > **General Settings**.
 1. Depending on the type of URL you want to use, do one of the following tasks:
 * To generate a direct HLS streaming video URL (multi-bitrate)
 

@@ -27,7 +27,7 @@ See [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_
     * Above the Assets window, on the right side of the toolbar, click **List View**. In the Asset window, hover on an asset, and then click **Preview**.
     * Above the Assets window, on the right side of the toolbar, click **Grid View**. In the Asset window, in an asset thumbnail window, click **Preview**.
     * Above the Assets window, on the right side of the toolbar, click **Detail View**. On the same toolbar, click **Preview**.
-    * In the Asset window, select an asset. In the toolbar, click **File** &gt; **Preview**.
+    * In the Asset window, select an asset. In the toolbar, click **File** > **Preview**.
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
 1. Click the Preview link to preview the asset in the selected viewer.
@@ -56,7 +56,7 @@ See [Viewer Presets](application-setup.md#viewer_presets).
 
 **To add or edit a video viewer preset**
 
-1. Near the upper-right corner of Dynamic Media Classic, click **Setup** &gt; **Viewer Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **Setup** > **Viewer Presets**.
 
    To see only presets for Video Viewers, select Video Viewer from the open the Viewers drop-down list in the toolbar directly above the table.
 
