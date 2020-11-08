@@ -40,7 +40,7 @@ Follow these steps to restore assets from the Trash folder to the folders from w
 
 1. Click the Trash icon to open the Trash folder.
 1. Select the asset or assets you want to restore.
-1. Choose File &gt; Restore From Trash.
+1. Choose File > Restore From Trash.
 
 ## Permanently deleting assets in the Trash folder {#permanently-deleting-assets-in-the-trash-folder}
 

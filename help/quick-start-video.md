@@ -92,7 +92,7 @@ See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_e
 
 Dynamic Media Classic offers numerous predefined video encoding presets. These predefined presets reflect the most common video encoding settings used today and are optimized for playback on target screens.
 
-However, if further customization is needed, administrators can create Video Presets to customize the size and playback experience of Videos to end users. Administrators can add and manage Video Presets from the Video Presets page available under Setup &gt; Application Setup > Video Presets > Single Encoding Presets. The Video Presets page offers options for adding, editing, deleting, and activating Video Presets.
+However, if further customization is needed, administrators can create Video Presets to customize the size and playback experience of Videos to end users. Administrators can add and manage Video Presets from the Video Presets page available under Setup > Application Setup > Video Presets > Single Encoding Presets. The Video Presets page offers options for adding, editing, deleting, and activating Video Presets.
 
 See [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
@@ -106,7 +106,7 @@ You can play the video on the Preview screen. You can also choose different Vide
 
 **Optional**
 
-Viewer Preset customization - Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Dynamic Media Classic, click Setup &gt; Viewer Presets. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
+Viewer Preset customization - Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Dynamic Media Classic, click Setup > Viewer Presets. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
 
 See [Working with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 

@@ -45,10 +45,10 @@ See [Serving static (non-image) contents](https://docs.adobe.com/content/help/en
    See [Uploading files](uploading-files.md#uploading_files).
 
 1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file that you want to associate with the caption file that you uploaded.
-1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, click **Preview** &gt; **Viewer List**.
+1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, **Universal_HTML5_MixedMedia_dark**, or **Universal_HTML5_MixedMedia_light**, then do one of the following:
 
-    * For a pop-up video viewer experience, click **Copy URL** to the far right of the name.
+    * For a pop-up video viewer experience, click **[!UICONTROL Copy URL]** to the far right of the name.
 
       Append the copied URL of the video with the following syntax to associate it with the copied URL to your caption file:
 
@@ -56,9 +56,9 @@ See [Serving static (non-image) contents](https://docs.adobe.com/content/help/en
 
       Note the `,1` at the end of the caption URL path. Immediately following the .vtt filename extension in the path, you have the option to enable or disable the closed caption button on the video player bar by setting to `1` or `0`, respectively.
     
-    * For an embedded video viewer experience, click **Embed Code** to the far right of the name.
+    * For an embedded video viewer experience, click **[!UICONTROL Embed Code]** to the far right of the name.
 
-      In the Embed Code dialog box, click **Copy to Clipboard**.
+      In the Embed Code dialog box, click **[!UICONTROL Copy to Clipboard]**.
 
       For the HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, or `Universal_HTML5_MixedMedia_light` viewers, append the copied embed code with the following:
 

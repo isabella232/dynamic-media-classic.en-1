@@ -48,7 +48,7 @@ Dynamic Media Classic offers Zoom Viewer Preset options that enable you to selec
 
 You can preview images in a Zoom Viewer to see what the zooming experience is when images are zoomed.
 
-To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse Panel and click the Preview button. The Preview screen opens. Choose Presets &gt; Zoom, and then select a preset with the Zoom menus.
+To explore different Zoom Viewer Presets and how they present the zooming experience, select an image in the Browse Panel and click the Preview button. The Preview screen opens. Choose Presets > Zoom, and then select a preset with the Zoom menus.
 
 Zoom buttons appear. You can see what the zoom images look like on your web site. Select the Zoom buttons (and zoom targets) to test the settings of the Zoom Viewer Preset you chose. See [Previewing images with different Zoom Viewers](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 

@@ -21,7 +21,7 @@ You can use the Application Setup pages to enter general settings, create image 
 
 ## General Settings {#general-settings}
 
-To open the Application General Settings page, on the Global Navigation bar, click **[!UICONTROL Setup &gt; Application Setup &gt; General Settings]**.
+To open the Application General Settings page, on the Global Navigation bar, click **[!UICONTROL Setup > Application Setup > General Settings]**.
 
 ### Servers
 
@@ -151,13 +151,13 @@ The Image Presets screen is for creating and editing Image Presets. Image Preset
 
 Administrators can create presets for exporting assets. Users can choose a preset when they export images, which also reformats images to the specifications that the administrator specifies.
 
-To open the Image Preset screen, on the Global Navigation bar, click **Setup** &gt; **Image Presets**.
+To open the Image Preset screen, on the Global Navigation bar, click **Setup** > **Image Presets**.
 
 See [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
 
 ### Creating and editing Image Presets {#creating-and-editing-image-presets}
 
-1. Click **Setup** &gt; **Image Presets**.
+1. Click **Setup** > **Image Presets**.
 1. Create a new preset or start from an existing one:
     * **Creating an Image Preset** - Click **Add**.
     * **Creating an Image Preset from an existing preset** - Select the Image Preset that is most like the one you want to create, then click Edit.
@@ -260,7 +260,7 @@ See also [ICC profiles](icc-profiles.md#icc_profiles).
 
 ### Editing, removing, or deactivating an image preset {#editing-removing-or-deactivating-an-image-preset}
 
-1. Click **Setup** &gt; **Image Presets**.
+1. Click **Setup** > **Image Presets**.
 1. In the Image Presets screen, select a preset in the table, and then do one of the following:
 
     * Click **Edit** and then specify new options in the Edit Preset dialog box.
@@ -277,7 +277,7 @@ See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_e
 
 **To activate or deactivate adaptive video presets**
 
-1. Near the upper-right corner of Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets** &gt; **Adaptive Video Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **Setup** > **Application Setup** > **Video Presets** > **Adaptive Video Presets**.
 1. On the Adaptive Video Presets page, deselect the check box next to a preset name to remove the preset from the eVideo Options list in the Upload Job Options dialog box.
 1. Click **Close**.
 
@@ -559,7 +559,7 @@ The following table identifies the mobile viewer gestures that are supported on 
 
 ### About the Viewer Preset screen {#about-the-viewer-preset-screen}
 
-Create and manage Viewer Presets on the Viewer Presets screen. To open this screen, click **Setup** &gt; **Viewer Presets**.
+Create and manage Viewer Presets on the Viewer Presets screen. To open this screen, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
 The Viewer Presets screen offers tools for doing these tasks:
 
@@ -580,7 +580,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 **Filtering the Viewer Preset list** Use these tools to filter the list:
 
 * Open the **Active/Inactive** drop-down list and choose an option to show active presets, inactive presets, or all presets.
-* Open the **Viewer** drop-down list and choose an option to see only viewers of a certain kind. Choose **All Viewers** to see all viewers.
+* Open the **Viewer** drop-down list and choose an option to see only viewers of a certain kind. Choose **[!UICONTROL All Viewers]** to see all viewers.
 
 **Sorting presets** Click a column heading (Active, Type, Preset, or Platform) to sort the list on a column. Click a column heading a second time to sort the list in descending (or ascending) order.
 
@@ -600,7 +600,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
 
 **To add and edit Viewer presets**
 
-1. Near the upper-right corner of Dynamic Media Classic, click **Setup** &gt; **Viewer Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **Setup** > **Viewer Presets**.
 
    You can filter on the list of presets. For example, to see only presets for Video Viewers, select Video Viewer from the Viewers drop-down menu on the toolbar directly above the table.
 
@@ -647,7 +647,7 @@ Note that all default, out-of-box Viewer preset CSS files in Dynamic Media Class
 https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha
 ```
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. On the Viewer Presets toolbar, in the second drop-down list from the left, select **HTML5**.
 1. In the third drop-down list from the left, select **All Viewers**.
 1. Select the viewer preset that you want to use as the basis for a new HTML5 Viewer Preset.
@@ -677,7 +677,7 @@ Unless you deactivate Viewer Presets on the Viewer Presets screen, the Presets d
 
 **To activate or deactivate Viewer Presets**
 
-1. Choose **Setup** &gt; **Viewer Presets** to open the Viewer Presets screen.
+1. Choose **Setup** > **Viewer Presets** to open the Viewer Presets screen.
 1. Select or deselect Active options to activate or deactivate Viewer Presets.
 
 ### Copying the URL of a Viewer preset {#copying-the-url-of-a-viewer-preset}
@@ -692,15 +692,15 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Copy URL** to the right of the viewer you want.
-   * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Copy URL**.
 
-   * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Copy URL**.
 
-   * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Copy URL**.
 
@@ -716,15 +716,15 @@ Editing of the code is not permitted in the Embed Code dialog box.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, click **Embed Code**.
-   * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Embed Code**.
 
-   * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** &gt; **Viewer List**.
+   * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Embed Code**.
 
-   * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** &gt; **Viewer List**.
+   * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
    In the Viewer List page, under the Actions column of the table, click **Embed Code**.
 
@@ -746,7 +746,7 @@ You can use Default Viewers to configure the default viewer that is associated w
 **To configure default viewers**
 
 1. In the Setup drop-down list, click **Application Setup**.
-1. In the Setup window, in the left pane, expand **Application Setup** &gt; **Viewers**
+1. In the Setup window, in the left pane, expand **Application Setup** > **Viewers**
 1. Click **Default Viewers**.
 1. In the Default Viewers window, in the drop-down list for each asset type, select the viewer that you want to associate with the asset’s preview.
 1. In the lower-right corner of the Default Viewers window, click **Save Settings**.
@@ -760,7 +760,7 @@ Dynamic Media Classic comes with pre-defined Metadata Views, and administrators 
 
 ### Creating a Metadata View {#creating-a-metadata-view}
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Views**.
+1. Click **Setup** > **Application Setup** > **Metadata** > **Metadata Views**.
 1. Click **Add**.
 1. In the Preset Name text field, enter a name for the view.
 1. (Optional) Check **Make Default** to make this view the one that users see when they open the Metadata panel in Detail View.
@@ -772,7 +772,7 @@ Dynamic Media Classic comes with pre-defined Metadata Views, and administrators 
 
 ### Managing Metadata Views {#managing-metadata-views}
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Views**. 
+1. Click **Setup** > **Application Setup** > **Metadata** > **Metadata Views**. 
 1. Do any of the following:
 
    * To preview a view, select it. The fields in the view appear in the Preview panel.
@@ -788,7 +788,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 ### Creating or editing a Metadata Preset {#creating-or-editing-a-metadata-preset}
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Presets** .
+1. Click **Setup** > **Application Setup** > **Metadata** > **Metadata Presets** .
 1. In the Metadata Presets screen, do one of the following:
 
    * To create a preset, click **Add**. In the Metadata Template Name text field, type a name for the preset, and then click **Metadata Views** and choose a view from the drop-down list (see [Metadata Views](application-setup.md#metadata_views)).
@@ -801,7 +801,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 ### Managing Metadata Presets {#managing-metadata-presets}
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **Metadata Presets**. 
+1. Click **Setup** > **Application Setup** > **Metadata** > **Metadata Presets**. 
 1. Do any of the following:
 
    * To preview a preset, select the preset you want to preview. The preset information (categories and fields) appears in the Preview screen.
@@ -811,7 +811,7 @@ Create a Metadata Preset for each set of metadata values you want users to be ab
 
 A Media Portal Administrator or a Company Administrator can create custom, user-defined metadata fields. Custom fields can help you organize assets in Dynamic Media Classic. You can mark the fields as Active, as necessary. When activated, the names of these custom metadata fields appear in the Metadata panel in Detail view. Users can enter information in user-defined metadata fields to describe assets. Users can also make a user-defined metadata field a criterion in searches.
 
-One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an “activation” field, based on the type *Date*. Then, using the **Metadata** panel in **Detail** view or **File** &gt; **Edit Info**, you can specify when the asset is activated. Dynamic Media Classic checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as “Not Published”.
+One effective use of user-defined metadata fields is to delay the activation time of an asset for a specific launch or sale. You define an “activation” field, based on the type *Date*. Then, using the **Metadata** panel in **Detail** view or **File** > **Edit Info**, you can specify when the asset is activated. Dynamic Media Classic checks the publish status of an asset, and the publish history. If it is not within the activation time, the publish status shows as “Not Published”.
 
 >[!NOTE]
 >
@@ -819,11 +819,11 @@ One effective use of user-defined metadata fields is to delay the activation tim
 
 >[!NOTE]
 >
->To search for assets using custom, user-defined fields, click **Setup** &gt; **Personal Setup**, and then select **Include UDFs in Search**. See [Personal Setup](personal-setup.md#personal_setup).
+>To search for assets using custom, user-defined fields, click **Setup** > **Personal Setup**, and then select **Include UDFs in Search**. See [Personal Setup](personal-setup.md#personal_setup).
 
 ### Creating a user-defined metadata field {#creating-a-user-defined-metadata-field}
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **User-Defined Fields**. 
+1. Click **Setup** > **Application Setup** > **Metadata** > **User-Defined Fields**. 
 1. Click **Add**
 1. In the Custom Field dialog box, set the options you want.
 
@@ -863,7 +863,7 @@ The User-Defined Fields screen offers commands for managing custom, user-defined
 
 Only a Media Portal Administrator or a Company Administrator can manage user-defined fields.
 
-To open this screen, click **Setup** &gt; **Application Setup** &gt; **Metadata** &gt; **User-Defined Fields**.
+To open this screen, click **Setup** > **Application Setup** > **Metadata** > **User-Defined Fields**.
 
 **Editing a field** Select the field, and then click **Edit**.
 
@@ -877,7 +877,7 @@ As you upload files to the Dynamic Media Classic, the system optimizes them for 
 
 Dynamic Media Classic searches through your files and optimizes only those images that were not fully optimized before.
 
-1. Choose **Setup** &gt; **Application Setup**, and then select O**ptimize Files**.
+1. Choose **Setup** > **Application Setup**, and then select O**ptimize Files**.
 1. Enter information for the optimization job and click **Submit**.
 
    If you are working with more than one company, optimize files belonging to different companies separately.
@@ -896,7 +896,7 @@ The company administrator creates a default naming convention that is used in an
 
 While setting up a default naming convention is not required to use batch set preset functionality, best practice recommends that you use the default naming convention to define as many elements of your naming convention that you want grouped in a set in order to streamline batch set creation.
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Batch Set Presets** &gt; **Default Naming**.
+1. Click **Setup** > **Application Setup** > **Batch Set Presets** > **Default Naming**.
 1. Select **View Form** or **View Code** to specify how you want to view and enter information about each element.
 
    You can select the View Code check box to view the regular expression value building alongside your form selections. You are able to enter or alter these values to help define the elements of the naming convention, if the form view limits you for any reason. If your values are unable to be parsed in the form view, the form fields will become inactive.
@@ -925,7 +925,7 @@ See also [Creating a batch set preset for the auto generation of a 2D Spin Set](
 
 **To create a batch set preset**
 
-1. Click **Setup** &gt; **Application Setup** &gt; **Batch Set Presets** &gt; **Batch Set Preset**. **View Form**, as set in the upper-right corner of the Details page, is the default view.
+1. Click **Setup** > **Application Setup** > **Batch Set Presets** > **Batch Set Preset**. **View Form**, as set in the upper-right corner of the Details page, is the default view.
 1. In the Preset List panel, click **Add** to activate the definition fields in the Details panel on the right hand side of the screen.
 1. In the Details panel, in the Preset Name field, type a name for the preset.
 1. In the Batch Set Type drop-down menu, select a preset type.
@@ -934,7 +934,7 @@ See also [Creating a batch set preset for the auto generation of a 2D Spin Set](
 
 1. Do one of the following:
 
-    * If you are using a default naming convention that you previously set up under Application Setup &gt; Batch Set Presets &gt; Default Naming, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Default**.
+    * If you are using a default naming convention that you previously set up under Application Setup > Batch Set Presets > Default Naming, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Default**.
     * To define a naming convention as you set up the preset, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Custom**.
 
 1. For Sequence order, define the order for the images after the set is grouped together in Dynamic Media Classic. By default, your assets are ordered alphanumerically. However, you can use a comma-separated list of regular expressions to define the order. 
@@ -974,7 +974,7 @@ When the Spin Set is uploaded and published, you would activate the name of the 
 
 **To create a batch set preset for the auto generation of a 2D Spin Set**
 
-1. Choose **Setup** &gt; **Application Setup** &gt; **Batch Set Presets** &gt; **Batch Set Preset**. **View Form**, as set in the upper-right corner of the Details page, is the default view.
+1. Choose **Setup** > **Application Setup** > **Batch Set Presets** > **Batch Set Preset**. **View Form**, as set in the upper-right corner of the Details page, is the default view.
 1. In the Preset List panel, click **Add** to activate the definition fields in the Details panel on the right hand side of the screen.
 1. In the Details panel, in the Preset Name field, type a name for the preset.
 1. In the Batch Set Type drop-down menu, select **Asset Set**.

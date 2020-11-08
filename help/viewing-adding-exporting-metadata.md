@@ -49,7 +49,7 @@ Administrators can create Metadata Views. These views also appear on the Metadat
 
 >[!NOTE]
 >
->To edit the metadata of several assets at once, select the assets and choose File &gt; Edit Info. Edits you make to metadata in the Edit Info window apply to all the assets you selected.
+>To edit the metadata of several assets at once, select the assets and choose File > Edit Info. Edits you make to metadata in the Edit Info window apply to all the assets you selected.
 
 ## Add or edit keywords {#add-or-edit-keywords}
 
@@ -81,7 +81,7 @@ Rather than manually enter metadata one asset at a time, you can import metadata
 You can find more information about standardized properties at: https://www.adobe.com/devnet/xmp.html
 
 1. In the Browse Panel, select the images to which you want to add metadata from the tab-delimited or XML file.
-1. Click **File** &gt; **Import Metadata**.
+1. Click **File** > **Import Metadata**.
 1. In the **Upload Metadata** dialog box, click **Browse**.
 1. In the **Select files to upload** dialog box, select the tab-delimited or XML file with the metadata.
 1. Enter a job name.
@@ -91,8 +91,8 @@ You can find more information about standardized properties at: https://www.adob
 
 Keep the following in mind when identifying different metadata types to import:
 
-* User Defined Fields are identified by their name as created in Setup &gt; Application Setup &gt; Metadata &gt; User-Defined fields. Use the Generate file functionality to get a list of all defined UDFs in the correct import format.
-* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in Setup &gt; Application Setup &gt; Metadata &gt; Metadata Schema editor. The technical names can be found in documentation of related XMP schema. Note that XMP properties names do not appear in the Generate file feature.
+* User Defined Fields are identified by their name as created in Setup > Application Setup > Metadata > User-Defined fields. Use the Generate file functionality to get a list of all defined UDFs in the correct import format.
+* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in Setup > Application Setup > Metadata > Metadata Schema editor. The technical names can be found in documentation of related XMP schema. Note that XMP properties names do not appear in the Generate file feature.
 * Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Note that Metadata Schema properties names do not appear in the Generate file feature.
 
 For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix "dc" and “subject” is the technical XMP name. The prefix and technical XMP name are combined into the "dc:subject" full property name. In the XML metadata import format, "dc.subject" must be the property name. In the tab-delimited import format it must be the column-header.
@@ -148,7 +148,7 @@ The job log for the Metadata job will show which IDs were successfully renamed a
 Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Dynamic Media Classic. Follow these steps to create a template for use in recording and importing metadata to Dynamic Media Classic:
 
 1. Select image assets with metadata fields you want for your template.
-1. Choose File &gt; Import Metadata.
+1. Choose File > Import Metadata.
 1. Select Image for the Asset Properties Type.
 1. From the Generate File menu, select Tab Delimited Template, Asset's XML Metadata, or XML DTD.
 1. Click Generate.
@@ -156,7 +156,7 @@ Dynamic Media Classic offers a command for creating a template for recording met
 
 ## Working with Metadata Schemas {#working-with-metadata-schemas}
 
-A company administrator can view a list of all available schemas. Open Application Setup -&gt; Metadata -&gt; Metadata Schema.
+A company administrator can view a list of all available schemas. Open Application Setup -> Metadata -> Metadata Schema.
 
 Initially, the list of global standard schemas like XMP are hidden. They can be shown using the checkbox at the bottom of the list.
 

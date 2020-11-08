@@ -58,7 +58,7 @@ Choose a Color Profile option:
 
 **Keep Original Color Space** Retains the original color space.
 
-**Custom From &gt; To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
+**Custom From > To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 

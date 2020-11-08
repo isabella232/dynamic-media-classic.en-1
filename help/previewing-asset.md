@@ -49,9 +49,9 @@ For a given viewer platform, the Viewer List window lets you visually see what d
 1. In the Asset Library panel on the left side, navigate to the Asset folders that contains the asset you want to preview.
 1. Do any one of the following:
 
-    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, select a single asset, and then below the thumbnail image, click Preview &gt; Viewer List.
-    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select a single asset, and then to the right of the thumbnail image, click Preview &gt; Viewer List.
-    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview &gt; Viewer List.
+    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, select a single asset, and then below the thumbnail image, click Preview > Viewer List.
+    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select a single asset, and then to the right of the thumbnail image, click Preview > Viewer List.
+    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview > Viewer List.
 
 1. (Optional) In the Viewer List window, click the column heading **Name** or **Platform type** to sort the column by ascending or descending order.
 1. In the Viewer List window, under the Actions column of the table, click Preview to see how the asset appears for a selected viewer and platform type.
@@ -88,9 +88,9 @@ See [Creating and enabling Image Presets](creating-enabling-image-presets.md#cre
 1. In the Asset Library panel on the left side, navigate to the Asset folders that contains the image asset you want to preview.
 1. Do any one of the following:
 
-    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, select a single image asset, and then below the thumbnail image, click Preview &gt; Image Preset List.
-    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select a single image asset, and then to the right of the thumbnail image, click Preview &gt; Image Preset List.
-    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview &gt; Image Preset List.
+    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, select a single image asset, and then below the thumbnail image, click Preview > Image Preset List.
+    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select a single image asset, and then to the right of the thumbnail image, click Preview > Image Preset List.
+    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview > Image Preset List.
 
 1. In the Image Preset List window, in the table, select the name of a preset type whose image asset you want to preview inline in the right pane.
 1. (Optional) In the Image Preset List window, in the URL Encoding for Copy URL Generation drop-down list at the bottom, select the URL encoding that you want applied to the image asset’s URL when it is copied.

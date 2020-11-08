@@ -26,7 +26,7 @@ You can create your own Image Presets if you are a company administrator. You ca
 
 **To create an Image Preset**
 
-1. Click **Setup** &gt; **Image Presets**.
+1. Click **Setup** > **Image Presets**.
 
    You can browse to an Image Preset name on this screen to preview an existing Image Preset. When you select an Image Preset name, the sample image in the Preview window changes size and appearance.
 

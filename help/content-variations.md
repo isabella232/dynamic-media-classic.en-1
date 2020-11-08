@@ -22,7 +22,7 @@ Universal URLs are used to display the the template variation that appears on th
 
 You can use any image preset URL from the list. Image preset URLs are like universal URLs. There can be more than one image preset URL.
 
-1. Click Build &gt; Template Sets.
+1. Click Build > Template Sets.
 
    The builder opens.
 

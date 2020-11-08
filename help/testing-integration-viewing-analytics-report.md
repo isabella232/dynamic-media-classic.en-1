@@ -22,9 +22,9 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 
    For example, if you want to measure the most popular alternative views in an Image Set, then preview an Image Set and click on the different thumbnails images.
 
-1. Inside Adobe Analytics, go to Custom Traffic &gt; Custom Traffic 1-10 &gt; [Name of prop], selecting your traffic prop name from the menu choices.
+1. Inside Adobe Analytics, go to Custom Traffic > Custom Traffic 1-10 > [Name of prop], selecting your traffic prop name from the menu choices.
 
-   For example, to access the LoadAsset prop in our sample account, the proper menu choice would be Custom Traffic &gt; Custom Traffic 1-10 &gt; LoadAsset. If you have more than ten custom props, then you may see additional menu choices as well.
+   For example, to access the LoadAsset prop in our sample account, the proper menu choice would be Custom Traffic > Custom Traffic 1-10 > LoadAsset. If you have more than ten custom props, then you may see additional menu choices as well.
 
 1. View the chart produced by Adobe Analytics. Note that this is typically just the data for a single metric. If you also want to know with which asset this data is associated (for example, which video is being watched to only 50%, or which image in a set is most popular), be sure to capture the asset data of this event as well.
 

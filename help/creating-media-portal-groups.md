@@ -28,7 +28,7 @@ If you don’t specifically grant a group permission to an asset or folder, that
 
 ## Adding a group {#adding-a-group}
 
-1. Click **Setup** &gt; **Media Portal Setup** &gt; **Groups**.
+1. Click **Setup** > **Media Portal Setup** > **Groups**.
 1. Click **Add**. 
 1. In the Add Group dialog box, enter a name for the group in the Group Name box, and then click **Add Group**.
 1. If you want, you can select the boxes next to the names of users to add users to the new group.
@@ -44,7 +44,7 @@ If you don’t specifically grant a group permission to an asset or folder, that
 
 ## Establishing asset access permissions for a group {#establishing-asset-access-permissions-for-a-group}
 
-1. Click **Setup** &gt; **Media Portal Setup** &gt; **Groups**.
+1. Click **Setup** > **Media Portal Setup** > **Groups**.
 1. On the Groups list page, do one of the following:
 
     * To add a group and specify permissions, click **Add**. In the Add Group dialog box, enter a name for the group, click **Add Group**, and add users to the group.
@@ -76,7 +76,7 @@ Choose Image Preset access permissions for a group if you want to specify which 
 
 See also [Specifying export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-1. Click **Setup** &gt; **Media Portal Setup** &gt; **Groups**.
+1. Click **Setup** > **Media Portal Setup** > **Groups**.
 1. On the Groups list page, do one of the following:
 
     * To add a group and specify which Image Presets are available to it, click **Add**. In the Add Group dialog box, enter a name for the group, click **Add Group**, and add users to the group.
@@ -88,7 +88,7 @@ See also [Specifying export options available to Media Portal users](specifying-
 
 ## Edit and delete groups {#edit-and-delete-groups}
 
-1. Click **Setup** &gt; **Media Portal Setup** &gt; **Groups**.
+1. Click **Setup** > **Media Portal Setup** > **Groups**.
 1. On the Group List page, select a group and edit or delete it.
 
    **Editing a group** Click Edit, and then choose options in the Edit Group dialog box.

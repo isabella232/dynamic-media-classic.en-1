@@ -20,7 +20,7 @@ If you use any of the predefined Dynamic Media Classic HTML5 viewer presets, be 
 
 ## Set up Adobe Analytics tracking from Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
-For all HTML5 viewers, add the following JavaScript to the HTML container, usually in the &lt;head&gt; element:
+For all HTML5 viewers, add the following JavaScript to the HTML container, usually in the &lt;head> element:
 
 ```as3
 <!-- ***** Site Catalyst Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Dynamic Media Classic Company ID>&preset=companypreset-1"></script>

@@ -116,7 +116,7 @@ Make sure that all users in your company understand these file naming rules:
 * As a best practice, make sure that asset IDs do not contain blank spaces (for example, black jacket.tif and blue jacket.jpg). Dynamic Media Classic ASCII-encodes blank spaces in asset names when it uses asset names to construct URL strings. These ASCII codes are hard to read, which can make reading URLs more difficult.
 * Language-specific characters are permitted in filenames. However, the following characters are not permitted in filenames:
 
-  \ ; / ? : @ & = + $ , &#42; " &lt; &gt; | ' { } %
+  \ ; / ? : @ & = + $ , &#42; " &lt; > | ' { } %
 
   If a filename contains one or more of the above characters, the characters are removed from the filename on upload.
 
@@ -250,7 +250,7 @@ See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-meta
 
     * **Keep Original Color Space** &mdash; Retains the original colors without any color conversion at the point of ingestion into Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image are done using the default color profiles as configured in the Publish settings. These color profiles may not align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
 
-    * **Custom From &gt; To** &mdash; Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should select this option only when all the images that you are submitting contain incorrect or missing color profile data.
+    * **Custom From > To** &mdash; Opens menus so you can choose a Convert From and Convert To color space. This advanced option overrides any color information that is embedded in the source file. You should select this option only when all the images that you are submitting contain incorrect or missing color profile data.
 
 * **IMAGE EDITING OPTIONS** &mdash; You can preserve the clipping <> masks in images, and choose a color profile.
 See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).

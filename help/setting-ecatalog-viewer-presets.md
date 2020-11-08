@@ -21,7 +21,7 @@ eCatalog Viewer Presets offer many settings for going from page to page, zooming
 
 Follow these steps to create a eCatalog Viewer Preset (you must be an administrator):
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. In the Viewer Presets screen, create an eCatalog Viewer Preset by starting anew or by starting from an existing eCatalog Viewer Preset:
 
    * **Creating an eCatalog Viewer Preset**

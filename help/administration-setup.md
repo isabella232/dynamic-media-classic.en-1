@@ -17,7 +17,7 @@ discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 
 The Administration Setup screens are for administering Dynamic Media Classic users. Use these screens to enable users to work in Dynamic Media Classic and to communicate by e-mail with users.
 
-1. To access Administration Setup options, click **Setup** &gt; **Personal Setup** &gt; **Administration Setup**.
+1. To access Administration Setup options, click **Setup** > **Personal Setup** > **Administration Setup**.
 
 ## User Administration {#user-administration}
 
@@ -37,7 +37,7 @@ After you add a user, Dynamic Media Classic sends the user a Welcome e-mail mess
 
 ### Adding a user or administrator {#adding-a-user-or-administrator}
 
-1. Click Setup &gt; Application Setup &gt; Administration Setup &gt;User Administration.
+1. Click Setup > Application Setup > Administration Setup >User Administration.
 1. Click Add.
 1. Enter the name and email address of the user or administrator that you want to add, then click Next.
 
@@ -61,13 +61,13 @@ After you add a user, Dynamic Media Classic sends the user a Welcome e-mail mess
 
    If the user does not receive the welcome email, have them go the Dynamic Media Classic sign in page (https://s7sps1.scene7.com), and click Forgot My Password. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
 
-   When adding new Media Portal users, you can also go to Setup &gt; Application Setup &gt; User Administration, then click Upload User List and select a .csv file containing no more than 500 users.
+   When adding new Media Portal users, you can also go to Setup > Application Setup > User Administration, then click Upload User List and select a .csv file containing no more than 500 users.
 
 ### Deleting a user {#deleting-a-user}
 
 You can delete users from Dynamic Media Classic by making them invalid. Invalid users are removed from the system and all accounts.
 
-1. Click **Setup** &gt; **Application Setup** &gt; A**dministration Setup** &gt; **User Administration**.
+1. Click **Setup** > **Application Setup** > A**dministration Setup** > **User Administration**.
 1. Select a user from the list, and then click **Edit**.
 1. Deselect Valid.
 1. Click **Save**.
@@ -76,14 +76,14 @@ You can delete users from Dynamic Media Classic by making them invalid. Invalid 
 
 Users who have been deactivated no longer have permission to enter the account listed at the top of the Select Accounts To Access menu.
 
-1. Click **Setup** &gt; **Application Setup** &gt; A**dministration Setup** &gt; **User Administration**.
+1. Click **Setup** > **Application Setup** > A**dministration Setup** > **User Administration**.
 1. In the user list, select or deselect the Active option next to the name of the user.
 
 ### Editing user information {#editing-user-information}
 
 The user information that you can edit depends on your role as an administrator and the assigned role of the user whose information you want to edit. Options that are dimmed (unavailable) are not editable.
 
-1. Go to **Setup** &gt; **Application Setup **&gt; A**dministration Setup** &gt; **User Administration**.
+1. Go to **Setup** > **Application Setup **> A**dministration Setup** > **User Administration**.
 1. Select the user and click **Edit**.
 1. Select the entry in the table that shows the company you are trying to modify permissions or access for, then click the Manage Company link.
 1. Select the user role.
@@ -128,7 +128,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
    Do one of the following:
 
-    * To launch Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, click **Solutions** &gt; **Experience Manager**. Under the Dynamic Media Classic card, click **Launch**.
+    * To launch Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, click **Solutions** > **Experience Manager**. Under the Dynamic Media Classic card, click **Launch**.
     * To log on to Scene7 Publishing System directly using your IMS credentials, use the following website:
 
       https://s7spsN.scene7.com/IpsWeb?ims=1
@@ -140,7 +140,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
 Dynamic Media Classic Administrators can generate bandwidth, storage, and other types of reports for the companies they administer. These reports are available on the Bandwidth & Storage screen.
 
-To open this screen, click Setup &gt; Personal Setup. Expand Administration Setup, and then click Bandwidth & Storage.
+To open this screen, click Setup > Personal Setup. Expand Administration Setup, and then click Bandwidth & Storage.
 
 ### Types of reports {#types-of-reports}
 
@@ -178,7 +178,7 @@ The Image Content report provides information about requests for the following i
 
 To generate a bandwidth, storage, image content, domain, video streaming, or video content report:
 
-1. Choose Setup &gt; Personal Setup.
+1. Choose Setup > Personal Setup.
 1. Expand Administration Setup, and then click Bandwidth & Storage.
 1. Click a tab: Bandwidth, Storage, Image Content, Domain, Video Streaming, or Video Content.
 
@@ -214,7 +214,7 @@ After you generate a report, you can export its data for use in spreadsheets and
 
 Dynamic Media Classic Administrators can generate Image Error reports. An Image Error report provides a list of the 20 most frequent image errors, for the past 24 hours, for the company you are currently logged in to. Follow these steps to generate an Image Error report:
 
-1. Click Setup &gt; Personal Setup.
+1. Click Setup > Personal Setup.
 1. Expand Administration Setup, and then click Image Errors.
 1. (Optional) Do any of the following:
 

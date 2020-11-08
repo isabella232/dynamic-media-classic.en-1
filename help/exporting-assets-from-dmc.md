@@ -22,7 +22,7 @@ Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
 **To export assets from Dynamic Media Classic**
 
-1. Select the assets you want to export, and then click **File** &gt; **Export**. 
+1. Select the assets you want to export, and then click **File** > **Export**. 
 1. In the Export Selected Assets window, click **Image Options**, and then specify any of the following options (administrators determine which options are available to their users):
 
    * **Presets**

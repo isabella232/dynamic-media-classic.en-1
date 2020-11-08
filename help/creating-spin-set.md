@@ -103,5 +103,5 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 **To delete a Spin Set**
 
 1. In the Grid View, List View, or Details View, select one or more Spin Sets.
-1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
+1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
 

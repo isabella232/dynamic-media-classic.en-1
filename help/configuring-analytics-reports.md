@@ -48,7 +48,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
    After you click Save, the viewer event, its Adobe Analytics variable, and its Dynamic Media Classic variable, are listed in the Adobe Analytics Configuration screen. 
 
 1. In the lower right corner, click **Close**.
-1. Click **Publish** &gt; **Submit Publish** to run an Image Serving publish.
+1. Click **Publish** > **Submit Publish** to run an Image Serving publish.
 
    Publishing is necessary so that the information contained in the viewers is available on Dynamic Media Classic servers.
 

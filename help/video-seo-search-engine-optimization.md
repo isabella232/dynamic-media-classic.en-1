@@ -40,7 +40,7 @@ Dynamic Media Classic creates reports about Video Sitemaps and mRSS feeds after 
 
 ## Choosing video SEO settings {#choosing-video-seo-settings}
 
-Choose Video SEO settings for Video Sitemaps and mRSS feeds on the Video Search Engine Optimization Settings screen. To open this screen, choose Setup &gt; Application Setup &gt; Video SEO &gt; Settings.
+Choose Video SEO settings for Video Sitemaps and mRSS feeds on the Video Search Engine Optimization Settings screen. To open this screen, choose Setup > Application Setup > Video SEO > Settings.
 
 In the General Setting area, choose whether to generate Video Sitemaps, mRSS feeds, or both. In the Generation Settings area, map metadata fields to input fields.
 
@@ -100,6 +100,6 @@ Copy one of these URLs into the search engine’s webmaster tools to submit your
 
 ## Viewing Video SEO reports {#viewing-video-seo-reports}
 
-View Video SEO reports on the Video Search Engine Optimization Report screen. To open this screen, click Setup &gt; Application Setup &gt; Video SEO &gt; Reports.
+View Video SEO reports on the Video Search Engine Optimization Report screen. To open this screen, click Setup > Application Setup > Video SEO > Reports.
 
 If errors occurred when a report was generated, they are listed on the Report screen.

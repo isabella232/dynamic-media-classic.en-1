@@ -22,7 +22,7 @@ Dynamic Media Classic comes with default Viewer Presets. Administrators can crea
 
 You can create and customize Viewer Presets to suit your needs.
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. Do one of the following:
 
     * To create a new preset, click **Add**. In the Add Viewer Preset dialog box, choose a platform, choose Swatch Set Viewer, then click **Add**.
@@ -48,7 +48,7 @@ You can use Preview to see how an asset appears on particular viewer type platfo
     * Above the Assets window, on the right side of the toolbar, click **List View**. In the Asset window, hover on an asset, and then click **Preview**.
     * Above the Assets window, on the right side of the toolbar, click **Grid View**. In the Asset window, in an asset thumbnail window, click **Preview**.
     * Above the Assets window, on the right side of the toolbar, click **Detail View**. On the same toolbar, click **Preview**.
-    * In the Asset window, select an asset. On the toolbar, click **File** &gt; **Preview**.
+    * In the Asset window, select an asset. On the toolbar, click **File** > **Preview**.
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
 1. Click a viewer link to preview the asset in the selected viewer.

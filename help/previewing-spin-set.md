@@ -26,9 +26,9 @@ See [Previewing an asset](previewing-asset.md#previewing_an_asset).
 1. In the Asset Library panel on the left side, navigate the Asset folders that contain the Spin Set that you want to preview with a viewer.
 1. Do one of the following:
 
-    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, below the thumbnail image, click Preview &gt; Viewer List.
-    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select an asset, and then to the right of the thumbnail image, click Preview &gt; Viewer List.
-    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview &gt; Viewer List.
+    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, below the thumbnail image, click Preview > Viewer List.
+    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select an asset, and then to the right of the thumbnail image, click Preview > Viewer List.
+    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview > Viewer List.
 
 1. In the Viewer List window, in the table, click a viewer link to preview the asset in the selected viewer.
 1. Close the displayed viewer to return to the Viewer List screen.

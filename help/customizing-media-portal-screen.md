@@ -16,7 +16,7 @@ discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
 
 The Media Portal style settings allow you to brand the Media Portal screen with your company logo and colors. Use the style settings to put your company stamp on Media Portal.
 
-To access the style settings, choose **Setup** &gt; **Media Portal Setup** &gt; **Style Settings**. Be sure you click **Save** to save your settings after you make them. You can click **Restore** to bring back the default settings. As you make your choices, the Preview panel shows you what your choices look like.
+To access the style settings, choose **Setup** > **Media Portal Setup** > **Style Settings**. Be sure you click **Save** to save your settings after you make them. You can click **Restore** to bring back the default settings. As you make your choices, the Preview panel shows you what your choices look like.
 
 **Logo** Click Browse and choose a graphic in the Select Logo Image window.
 

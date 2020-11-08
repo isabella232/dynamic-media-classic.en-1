@@ -30,7 +30,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To create a Mixed Media Set**
 
-1. Click **Build** &gt; **Mixed Media Sets**.
+1. Click **Build** > **Mixed Media Sets**.
 1. Drag the videos, Image Sets, Spin Sets, and swatches from the Asset Library to the Mixed Media Set screen.
 
    >[!NOTE]
@@ -83,5 +83,5 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To delete a Mixed Media Set**
 
 1. In the Grid View, List View, or Details View, select one or more Mixed Media Sets.
-1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
+1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
 

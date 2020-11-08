@@ -67,18 +67,18 @@ See [WebVTT: The Web Video Text Tracks format](https://dev.w3.org/html5/webvtt/)
    See [Uploading files](uploading-files.md#uploading_files).
 
 1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file that you want to associate with the chapter file that you uploaded.
-1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, click **Preview** &gt; **Viewer List**.
+1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, and then do one of the following:
 
-    * For a pop-up video viewer experience, click **Copy URL** to the far right of the name.
+    * For a pop-up video viewer experience, click **[!UICONTROL Copy URL]** to the far right of the name.
 
       Append the copied URL of the video with the following syntax to associate it with the copied URL to your caption file:
 
       `&navigation=*<full Copy URL path to the chapter navigation file .vtt>*`
     
-    * For an embedded video viewer experience, click **Embed Code** to the far right of the name.
+    * For an embedded video viewer experience, click **[!UICONTROL Embed Code]** to the far right of the name.
 
-      In the Embed Code dialog box, click **Copy to Clipboard**.
+      In the Embed Code dialog box, click **[!UICONTROL Copy to Clipboard]**.
 
       For the HTML5 `Universal_HTML5_Video` viewer, append the copied embed code with the following:
 

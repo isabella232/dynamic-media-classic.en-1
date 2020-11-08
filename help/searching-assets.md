@@ -143,7 +143,7 @@ Follow these instructions on the Filters tab to save, repeat, and delete filter 
 
 The metadata server is a public API that you can use to search for assets by metadata via http requests.
 
-To configure the metadata server, click Setup &gt; Application Setup &gt; Publish Setup &gt;Metadata Server.
+To configure the metadata server, click Setup > Application Setup > Publish Setup >Metadata Server.
 
 The Metadata Server Publish screen opens. This screen lets you set the following options:
 

@@ -38,15 +38,15 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Help** Choose a Help option:
 
-**Help &gt; Help&#xA;On This Topic** Opens the Help system to a page with information about the task you are currently doing.
+**Help > Help&#xA;On This Topic** Opens the Help system to a page with information about the task you are currently doing.
 
-**Help &gt; Video Tutorial** Accesses videos on specific topics to demonstrate how to get started with each rich media publishing workflow.
+**Help > Video Tutorial** Accesses videos on specific topics to demonstrate how to get started with each rich media publishing workflow.
 
-**Help &gt; Help Contents** Opens the Help system to the Introduction page. You can click through the Table of Contents to find and view different topics.
+**Help > Help Contents** Opens the Help system to the Introduction page. You can click through the Table of Contents to find and view different topics.
 
-**Help &gt; About** Tells you which version of Dynamic Media Classic you are running.
+**Help > About** Tells you which version of Dynamic Media Classic you are running.
 
-**Help &gt; Support** Tells you how to get technical support from Dynamic Media Classic.
+**Help > Support** Tells you how to get technical support from Dynamic Media Classic.
 
 **Sign Out** Exits Dynamic Media Classic.
 

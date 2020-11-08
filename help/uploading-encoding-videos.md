@@ -75,7 +75,7 @@ Do one of the following:
 If you want to re-encode a video file that you previously uploaded
 
 1.  In Dynamic Media Classic, in the Browse panel, navigate to the video and select it.
-1. Click **File** &gt; **Reprocess**.
+1. Click **File** > **Reprocess**.
 1. In the Reprocess Assets dialog box, expand EVideo Options.
 1. Do one of the following:
    * Best practice is to use the following method.
@@ -291,7 +291,7 @@ You can also filter based on a playback device option to narrow the list to Vide
 
 **To filter the list of video encoding presets**
 
-1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets** &gt; **Adaptive Video Presets** or **Single Encoding Presets**.
+1. In Dynamic Media Classic, click **Setup** > **Application Setup** > **Video Presets** > **Adaptive Video Presets** or **Single Encoding Presets**.
 
    The pages for Adaptive Video Presets and Single Encoding Presets include a table that lists the Active status, Preset name, intended Playback Device, video dimensions, and Target data rate of each video preset. 
 
@@ -306,7 +306,7 @@ Activated Video Presets show up in the Upload Job Options dialog box. This is th
 
 **To activate or deactivate video encoding presets**
 
-1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
+1. In Dynamic Media Classic, click **Setup** > **Application Setup** > **Video Presets**.
 1. Do one of the following:
 
     * Click **Adaptive Video Presets**.
@@ -333,7 +333,7 @@ Dynamic Media Classic has set maximum limits on the target data rate, resolution
 
 **To add or edit a video encoding preset**
 
-1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
+1. In Dynamic Media Classic, click **Setup** > **Application Setup** > **Video Presets**.
 1. Click **Single Encoding Presets** to open the Video Presets page.
 1. In the Video Presets page, do any one of the following:
 
@@ -368,7 +368,7 @@ Administrators can delete custom Video Presets. Video presets that come with Dyn
 
 **To delete a video encoding preset**
 
-1. In Dynamic Media Classic, click **Setup** &gt; **Application Setup** &gt; **Video Presets**.
+1. In Dynamic Media Classic, click **Setup** > **Application Setup** > **Video Presets**.
 1. Click **Single Encoding Presets** to open the Video Presets page.
 1. In the Video Presets page, select a Video Preset in the table that you no longer want or need.
 1. On the Video Presets toolbar, click **Delete**.

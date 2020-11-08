@@ -85,7 +85,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To delete an eCatalog**
 
 1. In the Grid View, List View, or Details View, select one or more eCatalogs.
-1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
+1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
 
 ## Customizing the table of contents (TOC) {#customizing-the-table-of-contents-toc}
 
@@ -107,11 +107,11 @@ Importing page names is recommended if you are dealing with an eCatalog with man
 
 The TOC label is stored in an image’s User Data field; format this data as a list of `name=<value>` ` pairs separated by two question marks “??” `. For example, to set one label for a TOC field named tocEN ``, set the User Data of the image to:
 
-tocEN=&lt;EN_page_label&gt;
+tocEN=&lt;EN_page_label>
 
 To set separate labels for TOC fields named tocEN and tocFR:
 
-tocEN=&lt;EN_page_label&gt;??tocFR=&lt;FR_page_label&gt;
+tocEN=&lt;EN_page_label>??tocFR=&lt;FR_page_label>
 
 To import the User Data field in a tab-delimited file, include the field userdata:
 

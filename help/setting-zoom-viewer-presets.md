@@ -47,7 +47,7 @@ Provides guided or unguided zoom with images, Image Sets with multiple views, or
 
 Follow these steps to create or edit a Zoom Viewer Preset:
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. Do one of the following:
 
    * **Creating a preset**

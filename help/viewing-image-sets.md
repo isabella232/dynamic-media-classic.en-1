@@ -22,7 +22,7 @@ Dynamic Media Classic comes with default Viewer Presets. Administrators can crea
 
 You can create and customize Viewer Presets to suit your needs.
 
-1. Click **Setup** &gt; **Viewer Presets**.
+1. Click **Setup** > **Viewer Presets**.
 1. Create or edit a Viewer preset on the Viewer Presets screen by doing one of the following:
 
    **Creating** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose Zoom Viewer:Custom, and click Add. You can also create a Zoom Viewer Preset by starting from an existing one. Display the name of the preset, select it, and then select the Edit button. On the Configure Viewer screen, enter a new name for the preset.
@@ -48,7 +48,7 @@ You can use Preview to see how an asset appears on particular viewer type platfo
     * Above the Assets window, on the right side of the toolbar, click **List View**. In the Asset window, hover on an asset, then click **Preview**.
     * Above the Assets window, on the right side of the toolbar, click **Grid View**. In the Asset window, in an asset thumbnail window, click **Preview**.
     * Above the Assets window, on the right side of the toolbar, click **Detail View**. On the same toolbar, click **Preview**.
-    * In the Asset window, select an asset. On the toolbar, click **File** &gt; **Preview**.
+    * In the Asset window, select an asset. On the toolbar, click **File** > **Preview**.
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
 1. Click a viewer link to preview the asset in the selected viewer.

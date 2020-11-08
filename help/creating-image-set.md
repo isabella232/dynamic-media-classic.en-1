@@ -74,5 +74,5 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To delete an Image Set**
 
 1. In the Grid View, List View, or Details View, select one or more Image Sets.
-1. On the Global Navigation Bar, click **File** &gt; **Delete** &gt; **Delete**.
+1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
 
