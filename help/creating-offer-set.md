@@ -89,11 +89,9 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. Assemble images or videos for the offer set. Start in the Test&Target Offer Set screen or in the Grid View or List View and use one of the following methods:
 
-   * **Test&Target Offer Set screen**
-   Click **[!UICONTROL Build > Test&Target Offer Set]**. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
+   * **Test&Target Offer Set screen** Click **[!UICONTROL Build > Test&Target Offer Set]**. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
 
-   * **Grid or List view**
-   Select the images or videos, and then click **[!UICONTROL Build > Test&Target Offer Set]**.
+   * **Grid or List view** Select the images or videos, and then click **[!UICONTROL Build > Test&Target Offer Set]**.
 
 1. Optionally, select an image or video and click **Preview**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the offer set.
 
