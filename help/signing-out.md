@@ -1,8 +1,6 @@
 ---
-title: Signing in and out
-seo-title: Signing in and out
-description: null
-seo-description: Learn about signing in and out in Dynamic Media Classic
+title: Signing in to and out of Adobe Dynamic Media Classic
+description: Learn about signing in to and out of Adobe Dynamic Media Classic and connecting to a production environment server in North America (NA), or Europe, Middle East, Africa (EMEA), or Asia-Pacific (APAC).
 uuid: eaf51ab7-d17a-4b7b-b6a4-1ec78bfee36b
 contentOwner: admin
 content-type: reference
@@ -14,13 +12,13 @@ discoiquuid: ad418881-ff31-43b1-bbb6-ab2fbcf89bea
 
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
-# Signing in to Dynamic Media Classic {#sign-in}
+# Signing in to Adobe Dynamic Media Classic {#sign-in}
 
-How you sign in to Dynamic Media Classic and sign out is based on whether you are using the desktop application or the web browser.
+How you sign in to Dynamic Media Classic and sign out is based on whether you are using the [desktop application](#sign-in-dmc-app) or the [web browser](#sign-out).
 
 Regardless of how you sign in, make sure that you have the following before using Dynamic Media Classic:
 
-* **Login name**
+* **User name**
 You use your e-mail address as your login name.
 
 * **Password**
