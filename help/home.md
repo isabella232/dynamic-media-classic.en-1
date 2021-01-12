@@ -13,7 +13,7 @@ Welcome to the Dynamic Media Classic Help. Here you can access all available res
 
 ## New Dynamic Media Classic log in experience available June 30, 2020
 
-On June 30, 2020, Dynamic Media classic users will gain access to a new log in experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
+On June 30, 2020, Dynamic Media classic users will gain access to a new sign in experience that no longer relies on Adobe Flash technology in the browser. Read the following Frequently Asked Questions to learn more.
 
 See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 

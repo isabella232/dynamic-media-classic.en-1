@@ -111,7 +111,7 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 
    **[!UICONTROL Send Email]** Deselect this option if you don’t want to inform new users by e-mail that you have signed them up.
 
-   **[!UICONTROL Default Password]** Enter a temporary password for new users, or leave the field empty to have Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they log in.
+   **[!UICONTROL Default Password]** Enter a temporary password for new users, or leave the field empty to have Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
 
    **[!UICONTROL Replacement URL]** Enter a URL different from the default if your users access Dynamic Media Classic through a different URL.
 
