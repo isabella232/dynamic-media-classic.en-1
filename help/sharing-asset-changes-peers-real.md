@@ -23,9 +23,9 @@ With multiple copies of Dynamic Media Classic running on one or more computers i
 * Upload one or more assets (both desktop and FTP)
 * Create, delete, or rename a folder
 
-After a change is made in the originating client, all peer clients logged into the same company are updated with the change. Changes are made to peers without notification, unless the peer is editing a changing asset in any of the image editors or builders.
+After a change is made in the originating client, all peer clients signed into the same company are updated with the change. Changes are made to peers without notification, unless the peer is editing a changing asset in any of the image editors or builders.
 
-When you log in, Flash Player prompts you to allow or deny peer updates. You can "remember" the choice so you are only prompted once. To clear your choice, delete the appropriate site from the Peer Assisted Networking panel in Global Settings.
+When you sign in, you are prompted to allow or deny peer updates. You can "remember" the choice so you are only prompted once. To clear your choice, delete the appropriate site from the Peer Assisted Networking panel in Global Settings.
 
 If you are editing an asset that is changed by a peer, you are prompted to ingest the change into the builder or editor. If you choose Yes, then the builder or editor discards any changes made to the asset and imports the updated asset. If you choose No, the asset is unchanged in the builder or editor and any changes you’ve made persist in that session.
 

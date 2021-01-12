@@ -55,9 +55,9 @@ After you add a user, Dynamic Media Classic sends the user a Welcome e-mail mess
 
    After saving, a prompt asks if you want to add a user to another company. Click Add if you want to add the user to a company.
 
-   All new users are given a randomly generated password; users are required to change passwords the first time they log in to Dynamic Media Classic.
+   All new users are given a randomly generated password; users are required to change passwords the first time they sign in to the Dynamic Media Classic desktop application.
 
-   New users are sent a Welcome e-mail after you add them. The e-mail provides a temporary password and explains how to log on to the Scene 7 Publishing System.
+   New users are sent a Welcome e-mail after you add them. The e-mail provides a temporary password and explains how to sign in to Dynamic Media Classic.
 
    If the user does not receive the welcome email, have them go the Dynamic Media Classic sign in page (https://s7sps1.scene7.com), and click Forgot My Password. The password is reset and a new email is sent. If the user does not receive the email and it is not in their Junk folder, contact Technical Support.
 
