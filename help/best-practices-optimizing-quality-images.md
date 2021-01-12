@@ -26,7 +26,7 @@ See also [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/u
 * If no format command is supplied in the URL, Dynamic Media Image Serving defaults to JPG for delivery.
 * JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except in some cases, such as when images contain a empty background. Typically though, PNG file sizes are larger than JPG files.
 * JPG uses lossy compression, meaning that picture elements (pixels) are dropped during compression. PNG on the other hand uses lossless compression.
-* JPG often compresses photographic images with better fidelity than synthetic images with sharp edges and contrast. 
+* JPG often compresses photographic images with better fidelity than synthetic images with sharp edges and contrast.
 * If your images contain transparency, use PNG because JPG does not support transparency.
 
 As a best practice for image format, start with the most common setting `&fmt=JPG`.
@@ -55,16 +55,16 @@ There are two image sharpening methods that you can use:
 * Simple sharpening ( `&op_sharpen`) - Similar to the sharpen filter used in Photoshop, simple sharpening applies basic sharpening to the final view of the image following dynamic resizing. However, this method is not user-configurable. The best practice is to not use `&op_sharpen` unless required.
 * Unsharp masking ( `&op_USM`) - Unsharp masking is an industry standard sharpening filter. The best practice is to sharpen images with unsharp masking following the guidelines below. Unsharp masking lets you control the following three parameters:
 
-    * `&op_sharpen=amount,radius,threshold`
+  * `&op_sharpen=amount,radius,threshold`
 
-        * `amount` (0-5, strength of the effect.)
-        * `radius` (0-250, width of the "sharpening lines" drawn around the sharpened object, as measured in pixels.)
+    * `amount` (0-5, strength of the effect.)
+    * `radius` (0-250, width of the "sharpening lines" drawn around the sharpened object, as measured in pixels.)
 
-          Keep in mind that the parameters `radius` and `amount` work against each other. Reducing `radius` can be compensated by increasing `amount`. `Radius` allows finer control as a lower value sharpens only the edge pixels, whereas a higher value sharpens a wider band of pixels. 
-        
-        * `threshold` (0-255, sensitivity of effect.)
+      Keep in mind that the parameters `radius` and `amount` work against each other. Reducing `radius` can be compensated by increasing `amount`. `Radius` allows finer control as a lower value sharpens only the edge pixels, whereas a higher value sharpens a wider band of pixels.
 
-          This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise", while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
+    * `threshold` (0-255, sensitivity of effect.)
+
+      This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise", while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
 
       For more information about how you set these three parameters, including best practices to use with the filter, see the following resources:
 
@@ -93,8 +93,8 @@ Leave the monochrome parameter setting at 0.
 * As a best practice, to stay in the middle, set the `qlt=` value to 85 to stay in the middle.
 * Using the chroma flag in `qlt=`
 
-    * The `qlt=` parameter has a second setting that lets you turn on RGB chromaticity downsampling using the normal value `,0` (default), or turn it off using the value `,1`. 
-    * To keep it simple, start with RGB chromaticity downsampling turned off ( `,1`). This setting usually results in better image quality, especially for synthetic images with lots of sharp edges and contrast.
+  * The `qlt=` parameter has a second setting that lets you turn on RGB chromaticity downsampling using the normal value `,0` (default), or turn it off using the value `,1`. 
+  * To keep it simple, start with RGB chromaticity downsampling turned off ( `,1`). This setting usually results in better image quality, especially for synthetic images with lots of sharp edges and contrast.
 
 As a best practice for JPG compression use `&qlt=85,0`.
 
@@ -121,7 +121,6 @@ If sharpening results are still not satisfactory, increase the radius in decimal
 
 As you experiment, you may also find the following general suggestions helpful to optimize your workflow:
 
-* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Dynamic Media Classic's image adjustment functionality which provides real-time previews for adjustment operations. 
-* As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs. 
+* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Dynamic Media Classic's image adjustment functionality which provides real-time previews for adjustment operations.
+* As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
 * Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying sharpening images on ingestion. For advanced use cases where this may be an option to further tune and optimize rendering results, Adobe Professional Services can help you with customized insight and best practices.
-
