@@ -94,6 +94,11 @@ Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscrip
 
 To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Dynamic Media upgrade portal](http://exploreadobe.com/dynamic-media-upgrade/).
 
+>[!MORELIKETHIS]
+>
+>* [Signing in to and out of Dynamic Media Classic desktop application](/help/signing-out.md)
+>* [Downloading and installing the Dynamic Media Classic desktop application](/help/dynamic-media-classic-desktop-app.md)
+
 
 <!-- SAVE - OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->
 

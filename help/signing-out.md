@@ -1,30 +1,23 @@
 ---
 title: Signing in to and out of Adobe Dynamic Media Classic
 description: Learn about signing in to and out of Adobe Dynamic Media Classic and connecting to a production environment server in North America (NA), or Europe, Middle East, Africa (EMEA), or Asia-Pacific (APAC).
-uuid: eaf51ab7-d17a-4b7b-b6a4-1ec78bfee36b
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: ad418881-ff31-43b1-bbb6-ab2fbcf89bea
-
 ---
 
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
-# Signing in to Adobe Dynamic Media Classic {#sign-in}
+# Signing in to Adobe Dynamic Media Classic {#dmc-sign-in}
 
-How you sign in to Dynamic Media Classic and sign out is based on whether you are using the [desktop application](#sign-in-dmc-app) or the [web browser](#sign-out).
-
-Regardless of how you sign in, make sure that you have the following before using Dynamic Media Classic:
+Make sure that you have the following before using the Dynamic Media Classic desktop application:
 
 * **User name**
 You use your e-mail address as your login name.
 
 * **Password**
 You obtain your temporary password in a “Welcome” e-mail from Dynamic Media Classic or from your Dynamic Media Classic administrator. The first time you sign in, you are prompted to change this temporary password.
-
-## Signing in to Dynamic Media Classic by way of the desktop app {#sign-in-dmc-app}
 
 1. Open Adobe Dynamic Media Classic desktop application.
 
@@ -43,35 +36,9 @@ Use the following mapping to select the production environment you want to use.
 
 1. Tap **[!UICONTROL Sign In]**.
 
-### Signing out from Dynamic Media by way of the desktop app {#sign-out-dmc-app} 
+## Signing out from Adobe Dynamic Media Classic {#dmc-sign-out} 
 
 1. In the upper-right corner of the Dynamic Media Classic desktop application, tap **[!UICONTROL Sign Out]**, then tap **[!UICONTROL Sign Out]** again.
-
-## Signing in to Dynamic Media Classic by way of your web browser {#signing-in-and-out}
-
-In addition to your user name and password, make sure that you also have the following before using Dynamic Media Classic from your web browser:
-
-* **Setup**
-You must have been set up to use Dynamic Media Classic by your administrator.
-
-* **URL**
-You must have the URL location for accessing Dynamic Media Classic. You get this URL by way of the *Welcome* e-mail or from your Dynamic Media Classic administrator.
-
-Because Dynamic Media Classic is web-based, going to a different web site exits the system. For example, if you click the Back button in your browser window, you exit Dynamic Media Classic.
-
-1. Start your web browser.
-1. Go to the Dynamic Media Classic sign-in URL (from the Welcome e-mail). Alternatively, you can sign in from the Dynamic Media Classic web site ( [www.adobe.com/products/scene7.html](https://www.adobe.com/products/scene7.html)) by selecting the Client Login button.
-1. In the **[!UICONTROL User Name]** text field, enter your e-mail address.
-1. In the **[!UICONTROL Password]** text field, enter your password.
-1. Optionally, you can make your computer remember your e-mail address by selecting the **[!UICONTROL Remember My User Name]** option.
-1. Tap **[!UICONTROL Sign In]**.
-
-### Signing out from Dynamic Media by way of your web browser {#sign-out}
-
-1. Do either one of the following:
-
-    * On the right side of the Global Navigation bar, tap **[!UICONTROL Sign Out]**.
-    * Exit your browser.
 
 >[!MORELIKETHIS]
 >
