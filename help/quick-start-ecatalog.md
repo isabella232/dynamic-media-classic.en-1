@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: eCatalogs"
-seo-title: "Quick Start: eCatalogs"
-description: null
-seo-description: An introduction and Quick Start to eCatalogs to help you get up and running quickly with eCatalog techniques.
+description: An introduction and Quick Start to eCatalogs to help you get up and running quickly with eCatalog techniques.
 uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
 contentOwner: admin
 content-type: reference

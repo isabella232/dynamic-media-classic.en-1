@@ -1,8 +1,6 @@
 ---
 title: Pushing offer sets to Adobe Target Standard/Premium
-seo-title: Pushing offer sets to Adobe Target Standard/Premium
-description: null
-seo-description: Learn how to push offer sets to Adobe Target Standard/Premium.
+description: Learn how to push offer sets to Adobe Target Standard/Premium.
 uuid: 8c895a7c-21b4-4d85-8b0b-a3d2a420bf2e
 contentOwner: admin
 content-type: reference

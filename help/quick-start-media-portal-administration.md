@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Media Portal"
-seo-title: "Quick Start: Media Portal"
-description: null
-seo-description: An introduction and Quick Start to Media Portal to help you get up and running quickly with Media Portal  techniques and administration.
+description: An introduction and Quick Start to Media Portal to help you get up and running quickly with Media Portal  techniques and administration.
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: admin
 content-type: reference

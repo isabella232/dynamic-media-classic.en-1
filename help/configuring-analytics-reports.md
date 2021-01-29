@@ -1,8 +1,6 @@
 ---
 title: Configuring Adobe Analytics reports
-seo-title: Configuring Adobe Analytics reports
-description: null
-seo-description: Learn how to configure Adobe Analytics reports.
+description: Learn how to configure Adobe Analytics reports.
 uuid: bf210f68-dcb0-4e86-be04-0a8b2117ef2a
 contentOwner: admin
 content-type: reference

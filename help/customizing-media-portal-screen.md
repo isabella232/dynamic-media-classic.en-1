@@ -1,8 +1,6 @@
 ---
 title: Customizing the Media Portal screen
-seo-title: Customizing the Media Portal screen
-description: null
-seo-description: Learn how to customize the Media Portal screen.
+description: Learn how to customize the Media Portal screen.
 uuid: bd1a65a6-723b-49d0-8eac-849da00e0e1a
 contentOwner: admin
 content-type: reference

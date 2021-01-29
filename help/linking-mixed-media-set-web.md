@@ -1,8 +1,6 @@
 ---
 title: Linking a Mixed Media Set to a web page
-seo-title: Linking a Mixed Media Set to a web page
-description: null
-seo-description: Learn how to link a Mixed Media Set to a web page.
+description: Learn how to link a Mixed Media Set to a web page.
 uuid: 120326a2-77e9-4d6f-9b02-0a00fa9cbab1
 contentOwner: admin
 content-type: reference

@@ -1,8 +1,6 @@
 ---
 title: Organizing your work with Projects
-seo-title: Organizing your work with Projects
-description: null
-seo-description: Learn how to organize your work with Projects.
+description: Learn how to organize your work with Projects.
 uuid: bd2b1792-e2d9-4a15-90c1-8ef2cf632867
 contentOwner: admin
 content-type: reference

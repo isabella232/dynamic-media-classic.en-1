@@ -1,8 +1,6 @@
 ---
 title: Creating a Spin Set
-seo-title: Creating a Spin Set
-description: null
-seo-description: Learn how to create a Spin Set.
+description: Learn how to create a Spin Set.
 uuid: 697bd78f-5e39-46bf-aa6d-ad8ab99fe40e
 contentOwner: admin
 content-type: reference

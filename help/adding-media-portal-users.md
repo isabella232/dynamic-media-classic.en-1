@@ -1,8 +1,6 @@
 ---
 title: Adding and managing Media Portal users
-seo-title: Adding and managing Media Portal users
-description: null
-seo-description: Learn how to add and manage Media Portal users
+description: Learn how to add and manage Media Portal users
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: admin
 content-type: reference

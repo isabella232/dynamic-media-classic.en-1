@@ -1,8 +1,6 @@
 ---
 title: Previewing a Spin Set
-seo-title: Previewing a Spin Set
-description: null
-seo-description: Learn how to preview a Spin Set.
+description: Learn how to preview a Spin Set.
 uuid: 5b9d4c37-a4ec-40c5-8f14-da875d71226e
 contentOwner: admin
 content-type: reference

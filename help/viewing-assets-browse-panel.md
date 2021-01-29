@@ -1,8 +1,6 @@
 ---
 title: Viewing assets in the Browse panel
-seo-title: Viewing assets in the Browse panel
-description: null
-seo-description: Learn how to use the Browse panel to view assets.
+description: Learn how to use the Browse panel to view assets.
 uuid: 677b1838-0bbe-4922-92a5-6e7d9030edb9
 contentOwner: admin
 content-type: reference

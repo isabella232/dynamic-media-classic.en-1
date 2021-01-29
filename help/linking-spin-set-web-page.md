@@ -1,8 +1,6 @@
 ---
 title: Linking a Spin Set to a web page
-seo-title: Linking a Spin Set to a web page
-description: null
-seo-description: Learn how to link a Spin Set to a web page.
+description: Learn how to link a Spin Set to a web page.
 uuid: d3c5773e-60c4-4e8b-9c48-e1e3eb8028d0
 contentOwner: admin
 content-type: reference

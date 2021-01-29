@@ -1,8 +1,6 @@
 ---
 title: Creating an eCatalog
-seo-title: Creating an eCatalog
-description: null
-seo-description: Learn how to create an eCatalog.
+description: Learn how to create an eCatalog.
 uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: admin
 content-type: reference

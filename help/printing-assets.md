@@ -1,8 +1,6 @@
 ---
 title: Printing assets
-seo-title: Printing assets
-description: null
-seo-description: Learn how to print assets.
+description: Learn how to print assets.
 uuid: 6cd5ba38-ec80-461f-b095-6cd4d7ea7814
 contentOwner: admin
 content-type: reference

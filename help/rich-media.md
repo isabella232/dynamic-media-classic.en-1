@@ -1,8 +1,6 @@
 ---
 title: Rich media
-seo-title: Rich media
-description: null
-seo-description: Learn about the variety of tools you can use in Dynamic Media Classic to create rich media.
+description: Learn about the variety of tools you can use in Dynamic Media Classic to create rich media.
 uuid: b64981a3-c3c2-4010-9b65-f9982ea0a664
 contentOwner: admin
 content-type: reference

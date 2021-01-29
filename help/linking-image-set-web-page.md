@@ -1,8 +1,6 @@
 ---
 title: Linking an Image Set to a web page
-seo-title: Linking an Image Set to a web page
-description: null
-seo-description: Learn how to link an Image Set to a web page.
+description: Learn how to link an Image Set to a web page.
 uuid: 8153a228-b2ec-4bc2-8996-266113a83df5
 contentOwner: admin
 content-type: reference

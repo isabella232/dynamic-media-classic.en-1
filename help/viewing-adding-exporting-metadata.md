@@ -1,8 +1,6 @@
 ---
 title: Viewing, adding, and exporting metadata
-seo-title: Viewing, adding, and exporting metadata
-description: null
-seo-description: Learn how to view, add, and export metadata.
+description: Learn how to view, add, and export metadata.
 uuid: a5254c51-9e04-45ae-8236-3eab2925e5fc
 contentOwner: admin
 content-type: reference

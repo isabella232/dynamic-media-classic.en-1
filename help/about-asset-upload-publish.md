@@ -1,9 +1,6 @@
 ---
 title: About uploading and publishing assets
-seo-title: About uploading and publishing assets
-description: null
-seo-description: An introduction to uploading and publishing of assets in Dynamic Media Classic.
-uuid: 01a9c2d7-16bf-4fb2-9001-cb07a6233692
+description: An introduction to uploading and publishing of assets in Dynamic Media Classic.
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets

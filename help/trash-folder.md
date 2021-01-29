@@ -1,8 +1,6 @@
 ---
 title: Managing the Trash folder
-seo-title: Managing the Trash folder
-description: null
-seo-description: Learn how to manage the Trash folder.
+description: Learn how to manage the Trash folder.
 uuid: 3992a5b8-1919-4924-b07d-7fb25565effd
 contentOwner: admin
 content-type: reference

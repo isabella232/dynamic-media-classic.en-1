@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Image Sizing"
-seo-title: "Quick Start: Image Sizing"
-description: null
-seo-description: An introduction and Quick Start to Image Sizing to help you get up and running quickly with Image Sizing techniques.
+description: An introduction and Quick Start to Image Sizing to help you get up and running quickly with Image Sizing techniques.
 uuid: 6c4ad4b7-549d-4daa-b6b9-5997a8427af8
 contentOwner: admin
 content-type: reference

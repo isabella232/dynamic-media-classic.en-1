@@ -1,8 +1,6 @@
 ---
 title: Fonts
-seo-title: Fonts
-description: null
-seo-description: Learn how to use fonts in Dynamic Media Classic.
+description: Learn how to use fonts in Dynamic Media Classic.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
 contentOwner: admin
 content-type: reference

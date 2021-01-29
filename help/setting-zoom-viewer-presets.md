@@ -1,8 +1,6 @@
 ---
 title: Setting up Zoom Viewer Presets
-seo-title: Setting up Zoom Viewer Presets
-description: null
-seo-description: Learn how to set up Zoom Viewer Presets.
+description: Learn how to set up Zoom Viewer Presets.
 uuid: 202d80cb-8282-45d4-89e8-942c8677aa93
 contentOwner: admin
 content-type: reference

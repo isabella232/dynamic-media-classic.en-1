@@ -1,8 +1,6 @@
 ---
 title: Developer resources
-seo-title: Developer resources
-description: null
-seo-description: Learn about what developer resources are available for Dynamic Media.
+description: Learn about what developer resources are available for Dynamic Media.
 uuid: 97702f33-fb9c-4ba7-9c42-757dec7e6645
 contentOwner: admin
 content-type: reference

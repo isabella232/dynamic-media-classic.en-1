@@ -1,8 +1,6 @@
 ---
 title: Managing FTP accounts
-seo-title: Managing FTP accounts
-description: null
-seo-description: Learn how to manage FTP accounts.
+description: Learn how to manage FTP accounts.
 uuid: c9410f44-14bf-4f55-a199-f0f0de459219
 contentOwner: admin
 content-type: reference

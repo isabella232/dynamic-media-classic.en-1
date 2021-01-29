@@ -1,8 +1,6 @@
 ---
 title: Video SEO (Search Engine Optimization)
-seo-title: Video SEO (Search Engine Optimization)
-description: null
-seo-description: Learn how to configure video SEO settings.
+description: Learn how to configure video SEO settings.
 uuid: bac2c6a9-8466-4b8f-b835-6cb0b4168513
 contentOwner: admin
 content-type: reference

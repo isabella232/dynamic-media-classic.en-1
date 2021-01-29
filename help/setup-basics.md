@@ -1,8 +1,6 @@
 ---
 title: Setup basics
-seo-title: Setup basics
-description: null
-seo-description: Learn how to use the Setup screen to enter your personal settings. If you are an administrator, set up your company settings.
+description: Learn how to use the Setup screen to enter your personal settings. If you are an administrator, set up your company settings.
 uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
 contentOwner: admin
 content-type: reference

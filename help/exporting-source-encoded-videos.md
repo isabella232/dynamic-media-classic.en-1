@@ -1,8 +1,6 @@
 ---
 title: Exporting source and encoded videos
-seo-title: Exporting source and encoded videos
-description: null
-seo-description: Learn how to export source and encoded videos.
+description: Learn how to export source and encoded videos.
 uuid: 17511bdf-27b7-41e1-bf39-a5e39f55f5d8
 contentOwner: admin
 content-type: reference

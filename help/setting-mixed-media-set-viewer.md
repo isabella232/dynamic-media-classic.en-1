@@ -1,8 +1,6 @@
 ---
 title: Setting up a Mixed Media Set Viewer Preset
-seo-title: Setting up a Mixed Media Set Viewer Preset
-description: null
-seo-description: Learn how to set up a Mixed Media Set Viewer Preset.
+description: Learn how to set up a Mixed Media Set Viewer Preset.
 uuid: d5bf1840-e453-445d-bebc-84889b29f3c8
 contentOwner: admin
 content-type: reference

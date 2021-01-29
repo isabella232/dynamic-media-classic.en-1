@@ -1,8 +1,6 @@
 ---
 title: Including zoom targets and Image Maps in Swatch Sets
-seo-title: Including zoom targets and Image Maps in Swatch Sets
-description: null
-seo-description: Learn how to include zoom targets and image maps in Swatch Sets.
+description: Learn how to include zoom targets and image maps in Swatch Sets.
 uuid: e46ebebd-b086-450c-9812-22290a92db8c
 contentOwner: admin
 content-type: reference

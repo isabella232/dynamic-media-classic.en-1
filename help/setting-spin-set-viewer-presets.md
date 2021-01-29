@@ -1,8 +1,6 @@
 ---
 title: Setting up Spin Set Viewer Presets
-seo-title: Setting up Spin Set Viewer Presets
-description: null
-seo-description: Learn how to set up Spin Set Viewer Presets.
+description: Learn how to set up Spin Set Viewer Presets.
 uuid: e095f989-f3df-46ea-be62-812922805dc0
 contentOwner: admin
 content-type: reference

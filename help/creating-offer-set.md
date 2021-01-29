@@ -1,8 +1,6 @@
 ---
 title: Creating an offer set
-seo-title: Creating an offer set
-description: null
-seo-description: Learn how to create an offer set.
+description: Learn how to create an offer set.
 uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: admin
 content-type: reference

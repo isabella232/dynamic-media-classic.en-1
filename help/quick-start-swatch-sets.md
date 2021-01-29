@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Swatch Sets"
-seo-title: "Quick Start: Swatch Sets"
-description: null
-seo-description: An introduction and Quick Start to Swatch Set to help you get up and running quickly.
+description: An introduction and Quick Start to Swatch Set to help you get up and running quickly.
 uuid: 6f8a95e8-e82a-477f-9f21-d2b7b511f8ae
 contentOwner: admin
 content-type: reference

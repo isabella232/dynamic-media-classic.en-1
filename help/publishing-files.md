@@ -1,8 +1,6 @@
 ---
 title: Publishing files
-seo-title: Publishing files
-description: null
-seo-description: Learn how to publish files.
+description: Learn how to publish files.
 uuid: cdcf519b-4c1e-430b-b43a-2f20f75071b1
 contentOwner: admin
 content-type: reference

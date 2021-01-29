@@ -1,8 +1,6 @@
 ---
 title: Moving, renaming, and deleting assets
-seo-title: Moving, renaming, and deleting assets
-description: null
-seo-description: Learn about how to move, rename, and delete assets.
+description: Learn about how to move, rename, and delete assets.
 uuid: deff6521-0ad0-4db9-b4e0-e3211ff97740
 contentOwner: admin
 content-type: reference

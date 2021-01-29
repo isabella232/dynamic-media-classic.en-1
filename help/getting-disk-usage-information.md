@@ -1,8 +1,6 @@
 ---
 title: Getting disk usage information
-seo-title: Getting disk usage information
-description: null
-seo-description: Learn how to get disk usage information.
+description: Learn how to get disk usage information.
 uuid: 01361693-53d0-4072-b7c3-f284631d28cf
 contentOwner: admin
 content-type: reference

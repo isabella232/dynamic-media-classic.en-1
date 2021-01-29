@@ -1,8 +1,6 @@
 ---
 title: Managing content variations
-seo-title: Managing content variations
-description: null
-seo-description: Learn how to manage content variations.
+description: Learn how to manage content variations.
 uuid: 1e40a526-02f8-41d9-886f-6d094546bc13
 contentOwner: admin
 content-type: reference

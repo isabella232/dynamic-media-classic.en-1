@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Video"
-seo-title: "Quick Start: Video"
-description: null
-seo-description: An introduction and Quick Start to Video to help you get up and running quickly.
+description: An introduction and Quick Start to Video to help you get up and running quickly.
 uuid: bf0ecf87-a1f2-4e83-8041-df5192dd26a1
 contentOwner: admin
 content-type: reference

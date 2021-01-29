@@ -1,8 +1,6 @@
 ---
 title: Linking an eCatalog to a web page
-seo-title: Linking an eCatalog to a web page
-description: null
-seo-description: Learn how to link an eCatalog to a web page.
+description: Learn how to link an eCatalog to a web page.
 uuid: 90098a90-180b-477a-8533-24a52a93200b
 contentOwner: admin
 content-type: reference

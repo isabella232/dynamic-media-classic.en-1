@@ -1,8 +1,6 @@
 ---
 title: Preparing Image Set assets for upload
-seo-title: Preparing Image Set assets for upload
-description: null
-seo-description: Learn how to prepare Image Set assets for upload.
+description: Learn how to prepare Image Set assets for upload.
 uuid: ea90643f-f52f-43cd-8a74-ebffc78ab717
 contentOwner: admin
 content-type: reference

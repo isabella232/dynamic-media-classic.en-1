@@ -1,8 +1,6 @@
 ---
 title: Uploading template files
-seo-title: Uploading template files
-description: null
-seo-description: Learn how to upload template files.
+description: Learn how to upload template files.
 uuid: e19979b5-3f41-49c5-99aa-107ede3be98c
 contentOwner: admin
 content-type: reference

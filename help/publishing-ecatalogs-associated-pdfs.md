@@ -1,8 +1,6 @@
 ---
 title: Publishing eCatalogs and associated PDFs
-seo-title: Publishing eCatalogs and associated PDFs
-description: null
-seo-description: Learn how to publish eCatalogs and associated PDFs.
+description: Learn how to publish eCatalogs and associated PDFs.
 uuid: 6f2f2c79-921a-4096-8f80-24e69c8983fa
 contentOwner: admin
 content-type: reference

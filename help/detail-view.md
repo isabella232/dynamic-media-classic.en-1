@@ -1,8 +1,6 @@
 ---
 title: Working in Detail view
-seo-title: Working in Detail view
-description: null
-seo-description: Learn how to work in Detail view.
+description: Learn how to work in Detail view.
 uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: admin
 content-type: reference

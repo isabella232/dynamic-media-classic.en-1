@@ -1,8 +1,6 @@
 ---
 title: Specifying export options availableto Media Portal users
-seo-title: Specifying export options availableto Media Portal users
-description: null
-seo-description: Learn how to specify export options that are available to Media Portal users.
+description: Learn how to specify export options that are available to Media Portal users.
 uuid: 5258b8a4-0704-43cd-97d1-c9af2e4e298b
 contentOwner: admin
 content-type: reference

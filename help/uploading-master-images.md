@@ -1,8 +1,6 @@
 ---
 title: Uploading master images
-seo-title: Uploading master images
-description: null
-seo-description: Learn how to upload master images.
+description: Learn how to upload master images.
 uuid: 50bcf2e2-852b-48f1-a7c7-5063a87ce9c1
 contentOwner: admin
 content-type: reference

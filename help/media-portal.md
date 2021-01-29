@@ -1,8 +1,6 @@
 ---
 title: Media Portal
-seo-title: Media Portal
-description: null
-seo-description: Learn about Media Portal.
+description: Learn about Media Portal.
 uuid: df34c360-c91a-48d4-886b-2f9178d220fb
 contentOwner: admin
 content-type: reference

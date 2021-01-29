@@ -1,8 +1,6 @@
 ---
-title: "Best practice: Using the HTML5 Video viewer"
-seo-title: "Best practice: Using the HTML5 Video viewer"
-description: null
-seo-description: Learn about best practices for using the HTML5 video viewer.
+title: Best practice for using the HTML5 Video viewer
+description: Learn about best practices for using the HTML5 video viewer.
 uuid: 3c8924dc-7bea-4c25-b77b-005f57b71b64
 contentOwner: admin
 content-type: reference
@@ -12,7 +10,7 @@ discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 
 ---
 
-# Best practice: Using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}
+# Best practices for using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}
 
 The Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create all of the video player’s functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.
 

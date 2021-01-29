@@ -1,8 +1,6 @@
 ---
 title: Creating a template
-seo-title: Creating a template
-description: null
-seo-description: Learn how to create a template in Dynamic Media Classic.
+description: Learn how to create a template in Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: admin
 content-type: reference

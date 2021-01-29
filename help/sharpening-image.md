@@ -1,8 +1,6 @@
 ---
 title: Sharpening an image
-seo-title: Sharpening an image
-description: null
-seo-description: Learn how to sharpen an image.
+description: Learn how to sharpen an image.
 uuid: d86af74a-89c5-4f2b-96ba-f2e7da600bca
 contentOwner: admin
 content-type: reference

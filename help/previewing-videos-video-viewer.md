@@ -1,8 +1,6 @@
 ---
 title: Previewing videos in a video viewer
-seo-title: Previewing videos in a video viewer
-description: null
-seo-description: Learn how to preview videos in a Video viewer.
+description: Learn how to preview videos in a Video viewer.
 uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
 contentOwner: admin
 content-type: reference

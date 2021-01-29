@@ -1,8 +1,6 @@
 ---
 title: Instrumenting a viewer using the Adobe Analytics Instrumentation Kit
-seo-title: Instrumenting a viewer using the Adobe Analytics Instrumentation Kit
-description: null
-seo-description: Learn how to instrument a viewer using the Adobe Analytics Instrumentation Kit.
+description: Learn how to instrument a viewer using the Adobe Analytics Instrumentation Kit.
 uuid: cf9a4002-966d-4641-9cd0-2ee8b5454f60
 contentOwner: admin
 content-type: reference

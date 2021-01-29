@@ -1,8 +1,6 @@
 ---
 title: Best practices for optimizing the quality of your images
-seo-title: Best practices for optimizing the quality of your images
-description: null
-seo-description: Learn best practices for optimizing the quality of your images.
+description: Learn best practices for optimizing the quality of your images.
 uuid: 102e83fe-ee2a-443b-ba92-6ad5cc3daef0
 contentOwner: admin
 content-type: reference

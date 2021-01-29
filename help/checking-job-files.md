@@ -1,8 +1,6 @@
 ---
 title: Checking job files
-seo-title: Checking job files
-description: null
-seo-description: Learn how to check job files.
+description: Learn how to check job files.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference

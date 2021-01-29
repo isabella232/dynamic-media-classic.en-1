@@ -1,8 +1,6 @@
 ---
 title: Adding chapter markers to video
-seo-title: Adding chapter markers to video
-description: null
-seo-description: Learn how to add chapter markers to a video.
+description: Learn how to add chapter markers to a video.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference

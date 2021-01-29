@@ -1,8 +1,6 @@
 ---
 title: Creating and enabling Image Presets
-seo-title: Creating and enabling Image Presets
-description: null
-seo-description: Learn how to create and enable image presets.
+description: Learn how to create and enable image presets.
 uuid: 62cfc6fa-da91-4c42-a3ed-10956384d633
 contentOwner: admin
 content-type: reference

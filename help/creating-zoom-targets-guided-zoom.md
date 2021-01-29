@@ -1,8 +1,6 @@
 ---
 title: Creating zoom targets for Guided Zoom
-seo-title: Creating zoom targets for Guided Zoom
-description: null
-seo-description: Learn how to create zoom targets for Guided Zoom.
+description: Learn how to create zoom targets for Guided Zoom.
 uuid: 501ea37b-adc5-4290-87eb-52a3501e5d26
 contentOwner: admin
 content-type: reference

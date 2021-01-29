@@ -1,8 +1,6 @@
 ---
 title: Viewing Image Sets
-seo-title: Viewing Image Sets
-description: null
-seo-description: Learn how to view Image Sets.
+description: Learn how to view Image Sets.
 uuid: bb5b0fee-abc0-4236-ac43-09edb9bb3651
 contentOwner: admin
 content-type: reference

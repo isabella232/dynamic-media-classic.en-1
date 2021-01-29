@@ -1,8 +1,6 @@
 ---
 title: Previewing image assets with different Zoom viewers
-seo-title: Previewing image assets with different Zoom viewers
-description: null
-seo-description: Learn how to preview image assets with different Zoom viewers.
+description: Learn how to preview image assets with different Zoom viewers.
 uuid: 244c0faa-2a33-416f-8987-bdc0c85f5c2e
 contentOwner: admin
 content-type: reference

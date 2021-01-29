@@ -1,8 +1,6 @@
 ---
 title: Publishing a Spin Set
-seo-title: Publishing a Spin Set
-description: null
-seo-description: Learn how to publish a Spin Set.
+description: Learn how to publish a Spin Set.
 uuid: 3b21ee5c-e494-48d0-8ccf-cb7670d11f5b
 contentOwner: admin
 content-type: reference

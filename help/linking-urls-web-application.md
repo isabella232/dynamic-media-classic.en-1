@@ -1,8 +1,6 @@
 ---
 title: Linking URLs to your web application
-seo-title: Linking URLs to your web application
-description: null
-seo-description: Learn how to link URLs to your web application.
+description: Learn how to link URLs to your web application.
 uuid: 1179bdd3-9b39-47f9-945d-1c1ca186bf96
 contentOwner: admin
 content-type: reference

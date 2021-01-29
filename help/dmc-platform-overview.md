@@ -1,8 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic platform overview
-seo-title: Adobe Dynamic Media Classic platform overview
-description: null
-seo-description: An overview of the Dynamic Media Classic platform and workflow process.
+description: An overview of the Dynamic Media Classic platform and workflow process.
 uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: admin
 content-type: reference

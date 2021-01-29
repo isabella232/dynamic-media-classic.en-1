@@ -1,8 +1,6 @@
 ---
 title: Administration Setup
-seo-title: Administration Setup
-description: null
-seo-description: Learn how to setup the administration area of Dynamic Media Classic.
+description: Learn how to setup the administration area of Dynamic Media Classic.
 uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: admin
 content-type: reference

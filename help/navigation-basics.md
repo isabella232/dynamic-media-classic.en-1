@@ -1,8 +1,6 @@
 ---
 title: Navigation basics
-seo-title: Navigation basics
-description: null
-seo-description: Learn about navigating the user interface of Dynamic Media Classic.
+description: Learn about navigating the user interface of Dynamic Media Classic.
 uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
 contentOwner: admin
 content-type: reference

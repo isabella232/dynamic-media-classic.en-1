@@ -1,8 +1,6 @@
 ---
 title: Working with asset folders
-seo-title: Working with asset folders
-description: null
-seo-description: Learn how to work with asset folders.
+description: Learn how to work with asset folders.
 uuid: 3bd83701-e2c2-4e39-b225-c2d27ad836c2
 contentOwner: admin
 content-type: reference

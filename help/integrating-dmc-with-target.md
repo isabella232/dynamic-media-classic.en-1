@@ -1,8 +1,6 @@
 ---
 title: Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium
-seo-title: Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium
-description: null
-seo-description: Learn how to integrate Adobe Dynamic Media Classic with Adobe Target Standard/Premium.
+description: Learn how to integrate Adobe Dynamic Media Classic with Adobe Target Standard/Premium.
 uuid: d1c07a52-b058-4ae3-a31d-44c43dc27f65
 contentOwner: admin
 content-type: reference

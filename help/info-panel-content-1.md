@@ -1,8 +1,6 @@
 ---
 title: Managing Info Panel content in Image Sets
-seo-title: Managing info panel content in Image Sets
-description: null
-seo-description: Learn how to manage Info Panel content in Image Sets.
+description: Learn how to manage Info Panel content in Image Sets.
 uuid: ed7b4344-f180-41fc-a95a-62a9767dc056
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic

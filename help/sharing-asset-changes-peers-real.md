@@ -1,8 +1,6 @@
 ---
 title: Sharing asset changes with peers in real time
-seo-title: Sharing asset changes with peers in real time
-description: null
-seo-description: Learn how to share asset changes with peers in real time.
+description: Learn how to share asset changes with peers in real time.
 uuid: 13fa4f6e-66bf-4682-96a9-0e7040706f53
 contentOwner: admin
 content-type: reference

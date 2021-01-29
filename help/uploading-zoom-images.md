@@ -1,8 +1,6 @@
 ---
 title: Uploading Zoom images
-seo-title: Uploading Zoom images
-description: null
-seo-description: Learn how to upload Zoom images.
+description: Learn how to upload Zoom images.
 uuid: 5814ec28-3a06-4b92-b70e-0aa5b83e7b0e
 contentOwner: admin
 content-type: reference

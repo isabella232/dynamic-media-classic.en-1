@@ -1,8 +1,6 @@
 ---
 title: Creating an Image Set
-seo-title: Creating an Image Set
-description: null
-seo-description: Learn how to create an Image Set.
+description: Learn how to create an Image Set.
 uuid: 689fdc14-4f51-4c94-8515-cd8551e101d8
 contentOwner: admin
 content-type: reference

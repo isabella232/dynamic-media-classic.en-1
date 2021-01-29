@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Image Sets"
-seo-title: "Quick Start: Image Sets"
-description: null
-seo-description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques.
+description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques.
 uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: admin
 content-type: reference
