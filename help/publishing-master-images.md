@@ -1,8 +1,6 @@
 ---
 title: Publishing master images
-seo-title: Publishing master images
-description: null
-seo-description: Learn how to publish master images.
+description: Learn how to publish master images.
 uuid: b56ba79a-f89a-45f1-a8bb-c73a22eab8d4
 contentOwner: admin
 content-type: reference

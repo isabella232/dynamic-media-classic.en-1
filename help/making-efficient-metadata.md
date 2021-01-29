@@ -1,8 +1,6 @@
 ---
 title: Making more efficient use of metadata
-seo-title: Making more efficient use of metadata
-description: null
-seo-description: Learn how to make more efficient use of metadata.
+description: Learn how to make more efficient use of metadata.
 uuid: 6690b815-ca5f-491f-94eb-3d4657fbb8ed
 contentOwner: admin
 content-type: reference

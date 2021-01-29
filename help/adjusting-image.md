@@ -1,8 +1,6 @@
 ---
 title: Adjusting an image
-seo-title: Adjusting an image
-description: null
-seo-description: Learn how to adjust an image
+description: Learn how to adjust an image
 uuid: c052acd3-e8c1-4134-ad21-b9c41578097f
 contentOwner: admin
 content-type: reference

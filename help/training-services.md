@@ -1,8 +1,6 @@
 ---
 title: Adobe Training Services
-seo-title: Adobe Training Services
-description: null
-seo-description: Learn more about Adobe Training Services.
+description: Learn more about Adobe Training Services.
 uuid: c405f60c-d0a8-4c88-8530-b093875500cd
 contentOwner: admin
 content-type: reference

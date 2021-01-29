@@ -1,8 +1,6 @@
 ---
 title: About User-generated content
-seo-title: About User-generated content
-description: null
-seo-description: An introduction to user-generated content.
+description: An introduction to user-generated content.
 uuid: ba867a6a-84a4-4968-9a77-712f3ce5dad5
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic

@@ -1,8 +1,6 @@
 ---
 title: Setting up Image Presets
-seo-title: Setting up Image Presets
-description: null
-seo-description: Learn how to set up Image Presets.
+description: Learn how to set up Image Presets.
 uuid: 90530948-dee9-41bd-b39e-684140446abc
 contentOwner: admin
 content-type: reference

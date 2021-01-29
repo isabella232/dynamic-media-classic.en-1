@@ -1,8 +1,6 @@
 ---
 title: System requirements
-seo-title: System requirements
-description: null
-seo-description: Learn about the system requirements for the best experience using Media Portal. 
+description: Learn about the system requirements for the best experience using Media Portal. 
 uuid: e870b198-19ae-4647-8833-2764358de53d
 contentOwner: admin
 content-type: reference

@@ -1,8 +1,6 @@
 ---
 title: Creating a Swatch Set
-seo-title: Creating a Swatch Set
-description: null
-seo-description: Learn how to create a swatch set.
+description: Learn how to create a swatch set.
 uuid: 250b3525-310d-4481-b0bc-f9057e823e0b
 contentOwner: admin
 content-type: reference

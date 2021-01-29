@@ -1,8 +1,6 @@
 ---
 title: Deploying video to your websites and mobile sites
-seo-title: Deploying video to your websites and mobile sites
-description: null
-seo-description: Learn how to deploy video to your websites and mobile sites.
+description: Learn how to deploy video to your websites and mobile sites.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: admin
 content-type: reference

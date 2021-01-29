@@ -1,8 +1,6 @@
 ---
 title: Setting up eCatalog Viewer Presets
-seo-title: Setting up eCatalog Viewer Presets
-description: null
-seo-description: Learn how to set up eCatalog Viewer Presets.
+description: Learn how to set up eCatalog Viewer Presets.
 uuid: aca66bc5-8491-4d81-9a06-1d3531860a14
 contentOwner: admin
 content-type: reference

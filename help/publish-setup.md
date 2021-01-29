@@ -1,8 +1,6 @@
 ---
 title: Publish Setup
-seo-title: Publish Setup
-description: null
-seo-description: The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
+description: The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
 uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference

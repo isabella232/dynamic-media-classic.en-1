@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Target Standard/Premium integration"
-seo-title: "Quick Start: Target Standard/Premium integration"
-description: null
-seo-description: An introduction and Quick Start to Adobe Target Standard/Premium to help you get up and running quickly with Target Standard/Premium integration techniques.
+description: An introduction and Quick Start to Adobe Target Standard/Premium to help you get up and running quickly with Target Standard/Premium integration techniques.
 uuid: d8f79fbf-8be1-44fa-8058-3508060fcd70
 contentOwner: admin
 content-type: reference

@@ -1,8 +1,6 @@
 ---
 title: Previewing eCatalogs in the eCatalog Viewer
-seo-title: Previewing eCatalogs in the eCatalog Viewer
-description: null
-seo-description: Learn how to preview eCatalogs in the eCatalog viewer.
+description: Learn how to preview eCatalogs in the eCatalog viewer.
 uuid: fdaf2129-e558-4f27-b30f-564126b6b3f2
 contentOwner: admin
 content-type: reference

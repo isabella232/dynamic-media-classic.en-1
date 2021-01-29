@@ -1,8 +1,6 @@
 ---
 title: Working with vignette, window covering, and cabinet files
-seo-title: Working with vignette, window covering, and cabinet files
-description: null
-seo-description: Learn how to work with vignette, window covering, and cabinet files.
+description: Learn how to work with vignette, window covering, and cabinet files.
 uuid: a738791c-4be0-4286-abbd-fae7a0e4bb73
 contentOwner: admin
 content-type: reference

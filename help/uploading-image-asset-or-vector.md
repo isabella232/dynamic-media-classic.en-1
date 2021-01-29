@@ -1,8 +1,6 @@
 ---
 title: Uploading an image asset or a vector asset
-seo-title: Uploading an image asset or a vector asset
-description: null
-seo-description: Learn how to upload an image asset or a vector asset.
+description: Learn how to upload an image asset or a vector asset.
 uuid: d0e4a754-8a49-4b0f-b202-e9003bdb8f20
 contentOwner: admin
 content-type: reference

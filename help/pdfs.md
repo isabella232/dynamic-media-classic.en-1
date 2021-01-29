@@ -1,8 +1,6 @@
 ---
 title: Working with PDFs
-seo-title: Working with PDFs
-description: null
-seo-description: Learn how to work with PDFs in Dynamic Media Classic.
+description: Learn how to work with PDFs in Dynamic Media Classic.
 uuid: 26d70d28-9393-49b1-9051-d70456deca67
 contentOwner: admin
 content-type: reference

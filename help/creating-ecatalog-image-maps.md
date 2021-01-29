@@ -1,8 +1,6 @@
 ---
 title: Creating eCatalog Image Maps
-seo-title: Creating eCatalog Image Maps
-description: null
-seo-description: Learn how to create eCatalog image maps.
+description: Learn how to create eCatalog image maps.
 uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
 contentOwner: admin
 content-type: reference

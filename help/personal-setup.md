@@ -1,8 +1,6 @@
 ---
 title: Personal Setup
-seo-title: Personal Setup
-description: null
-seo-description: All users can change settings on the Personal Setup screen of Dynamic Media Classic.
+description: All users can change settings on the Personal Setup screen of Dynamic Media Classic.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: admin
 content-type: reference

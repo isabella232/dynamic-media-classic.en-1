@@ -1,8 +1,6 @@
 ---
 title: Disabling Adobe Analytics tracking
-seo-title: Disabling Adobe Analytics tracking
-description: null
-seo-description: Learn how to disable Adobe Analytics tracking.
+description: Learn how to disable Adobe Analytics tracking.
 uuid: 6998bb18-1809-4fc7-a1b6-d75c24798620
 contentOwner: admin
 content-type: reference

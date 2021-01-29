@@ -1,8 +1,6 @@
 ---
 title: Uploading the PDF files
-seo-title: Uploading the PDF files
-description: null
-seo-description: Learn how to upload the PDF files associated with an eCatalog.
+description: Learn how to upload the PDF files associated with an eCatalog.
 uuid: 9e178bb2-ac09-427a-b61a-aad4e87a5837
 contentOwner: admin
 content-type: reference

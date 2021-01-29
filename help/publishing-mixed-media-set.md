@@ -1,8 +1,6 @@
 ---
 title: Publishing a Mixed Media Set
-seo-title: Publishing a Mixed Media Set
-description: null
-seo-description: Learn how to publish a Mixed Media Set.
+description: Learn how to publish a Mixed Media Set.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
 contentOwner: admin
 content-type: reference

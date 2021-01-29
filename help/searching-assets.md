@@ -1,8 +1,6 @@
 ---
 title: Searching assets
-seo-title: Searching assets
-description: null
-seo-description: Learn how to search assets.
+description: Learn how to search assets.
 uuid: 058209bc-bac4-4d5c-8261-e242a543beaf
 contentOwner: admin
 content-type: reference

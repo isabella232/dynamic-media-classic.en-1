@@ -1,8 +1,6 @@
 ---
 title: Uploading files
-seo-title: Uploading files
-description: null
-seo-description: Learn how to upload files.
+description: Learn how to upload files.
 uuid: b3025f84-4f28-4276-bc9c-f0c0c2a26e12
 contentOwner: admin
 content-type: reference

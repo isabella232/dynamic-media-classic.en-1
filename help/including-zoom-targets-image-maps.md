@@ -1,8 +1,6 @@
 ---
 title: Including zoom targets and Image Maps in Image Sets
-seo-title: Including zoom targets and Image Maps in Image Sets
-description: null
-seo-description: Learn how to include zoom targets and image maps in Image Sets.
+description: Learn how to include zoom targets and image maps in Image Sets.
 uuid: 1f5a00fe-3cc2-4668-a051-59e0bee50b35
 contentOwner: admin
 content-type: reference

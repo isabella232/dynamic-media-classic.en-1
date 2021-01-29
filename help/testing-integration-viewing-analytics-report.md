@@ -1,8 +1,6 @@
 ---
 title: Testing the integration by viewing an Adobe Analytics report
-seo-title: Testing the integration by viewing an Adobe Analytics report
-description: null
-seo-description: Learning how to test the integration by viewing an Adobe Analytics report.
+description: Learning how to test the integration by viewing an Adobe Analytics report.
 uuid: 937375e0-6dea-4baa-a2b0-4f3e461c9ee2
 contentOwner: admin
 content-type: reference

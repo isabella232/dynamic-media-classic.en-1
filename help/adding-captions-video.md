@@ -1,8 +1,6 @@
 ---
 title: Adding captions to video
-seo-title: Adding captions to video
-description: null
-seo-description: Learn how to add captions to video
+description: Learn how to add captions to video
 uuid: 4cc64469-4369-44a9-83db-63bad51aba8a
 contentOwner: admin
 content-type: reference

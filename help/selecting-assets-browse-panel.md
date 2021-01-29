@@ -1,8 +1,6 @@
 ---
 title: Selecting assets in the Browse panel
-seo-title: Selecting assets in the Browse panel
-description: null
-seo-description: Learn how to select assets in the Browse panel.
+description: Learn how to select assets in the Browse panel.
 uuid: 0790e6d0-b898-42b1-977f-8316e6b19573
 contentOwner: admin
 content-type: reference

@@ -1,8 +1,6 @@
 ---
 title: Linking a Swatch Set to a web page
-seo-title: Linking a Swatch Set to a web page
-description: null
-seo-description: Learn how to link a Swatch Set to a web page.
+description: Learn how to link a Swatch Set to a web page.
 uuid: 1f623bf2-3bb0-481f-b063-79e4ce125424
 contentOwner: admin
 content-type: reference

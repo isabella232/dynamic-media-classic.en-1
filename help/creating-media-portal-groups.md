@@ -1,8 +1,6 @@
 ---
 title: Creating and managing Media Portal groups
-seo-title: Creating and managing Media Portal groups
-description: null
-seo-description: Learn how to create and manage Media Portal groups.
+description: Learn how to create and manage Media Portal groups.
 uuid: 23f360e1-ddcb-491b-ab9f-428f3ac9c316
 contentOwner: admin
 content-type: reference

@@ -1,8 +1,6 @@
 ---
 title: Enabling Adobe Analytics Video Reports
-seo-title: Enabling Adobe Analytics Video Reports
-description: null
-seo-description: Learn how to enable Adobe Analytics video reports.
+description: Learn how to enable Adobe Analytics video reports.
 uuid: 078594b2-7d53-4714-8128-ff3b5c3a5e36
 contentOwner: admin
 content-type: reference

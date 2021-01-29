@@ -1,8 +1,6 @@
 ---
 title: Automated Image Set generation
-seo-title: Automated Image Set generation
-description: null
-seo-description: Learn how to automate the generation of image sets. 
+description: Learn how to automate the generation of image sets. 
 uuid: bd4b3252-3e77-4230-9684-cd6d28b8eecb
 contentOwner: admin
 content-type: reference

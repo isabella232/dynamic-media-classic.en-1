@@ -1,8 +1,6 @@
 ---
 title: Preparing Swatch Set assets for upload
-seo-title: Preparing Swatch Set assets for upload
-description: null
-seo-description: Learn how to prepare Swatch Set assets for upload.
+description: Learn how to prepare Swatch Set assets for upload.
 uuid: ed78da8c-d708-418b-97ce-3c37d9df9c90
 contentOwner: admin
 content-type: reference

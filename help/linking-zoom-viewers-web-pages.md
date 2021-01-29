@@ -1,8 +1,6 @@
 ---
 title: Linking Zoom viewers to your web pages
-seo-title: Linking Zoom viewers to your web pages
-description: null
-seo-description: Learn how to link Zoom viewers to your web pages.
+description: Learn how to link Zoom viewers to your web pages.
 uuid: cd350ea4-267e-4a8a-aed8-7553df86b438
 contentOwner: admin
 content-type: reference

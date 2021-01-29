@@ -1,8 +1,6 @@
 ---
 title: Publishing zoom images
-seo-title: Publishing zoom images
-description: null
-seo-description: Learn how to publish Zoom images.
+description: Learn how to publish Zoom images.
 uuid: d7e7a474-8af5-46a7-94df-063396f67554
 contentOwner: admin
 content-type: reference

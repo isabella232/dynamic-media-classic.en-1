@@ -1,8 +1,6 @@
 ---
 title: Testing assets before making them public
-seo-title: Testing assets before making them public
-description: null
-seo-description: Learn how to test assets before making them public.
+description: Learn how to test assets before making them public.
 uuid: 5e8f3bec-6cf1-408e-8ea1-aebde0012a70
 contentOwner: admin
 content-type: reference

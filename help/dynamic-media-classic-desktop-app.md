@@ -1,8 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic desktop app - Now available
-seo-title: Adobe Dynamic Media Classic desktop app - Now available
-description: null
-seo-description: Learn more about Dynamic Media Classic desktop app.
+description: Learn more about Dynamic Media Classic desktop app.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -34,7 +32,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * Viewer presets get duplicated with each incorrect password attempt.
 * Desktop application becoming unresponsive due to a large amount of assets in the root folder. (Fixed on Windows; working as desired on macOS.)
 
-## Fixes in the previous version (20.20.2) {#latest-fixes-desktop-app}
+## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
 
 * No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows.
 * No need to sign out of the desktop app to switch between companies.

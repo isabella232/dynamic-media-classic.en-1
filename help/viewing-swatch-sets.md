@@ -1,8 +1,6 @@
 ---
 title: Viewing Swatch Sets
-seo-title: Viewing Swatch Sets
-description: null
-seo-description: Learn how to view Swatch Sets.
+description: Learn how to view Swatch Sets.
 uuid: 80df403b-b03f-428f-9784-c3f774567bd0
 contentOwner: admin
 content-type: reference

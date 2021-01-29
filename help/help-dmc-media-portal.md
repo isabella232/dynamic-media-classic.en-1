@@ -1,8 +1,6 @@
 ---
 title: Help for Dynamic Media Classic Media Portal
-seo-title: Help for Dynamic Media Classic Media Portal
-description: null
-seo-description: Learn how to get help for Dynamic Media Classic Media Portal.
+description: Learn how to get help for Dynamic Media Classic Media Portal.
 uuid: d8d2ebe1-0228-43c3-8321-c51ffac7fd58
 contentOwner: admin
 content-type: reference

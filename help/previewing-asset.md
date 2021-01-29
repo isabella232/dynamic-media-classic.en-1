@@ -1,8 +1,6 @@
 ---
 title: Previewing an asset
-seo-title: Previewing an asset
-description: null
-seo-description: Learn how to preview an asset.
+description: Learn how to preview an asset.
 uuid: 4a01be21-e37f-4d79-9220-f4e177e9179a
 contentOwner: admin
 content-type: reference

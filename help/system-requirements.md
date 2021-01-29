@@ -1,8 +1,6 @@
 ---
 title: System requirements
-seo-title: System requirements
-description: null
-seo-description: Learn about the system requirements for the best experience using Dynamic Media Classic. 
+description: Learn about the system requirements for the best experience using Dynamic Media Classic. 
 uuid: 8dfc925b-7350-41af-9207-3b2a743c0998
 contentOwner: admin
 content-type: reference

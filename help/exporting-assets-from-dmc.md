@@ -1,8 +1,6 @@
 ---
 title: Exporting assets from Dynamic Media Classic
-seo-title: Exporting assets from Dynamic Media Classic
-description: null
-seo-description: Learn how to export assets from Dynamic Media Classic.
+description: Learn how to export assets from Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: admin
 content-type: reference

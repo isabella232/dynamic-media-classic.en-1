@@ -1,8 +1,6 @@
 ---
 title: Image editing options at upload
-seo-title: Image editing options at upload
-description: null
-seo-description: Learn about the image editing options that are available at the time of upload.
+description: Learn about the image editing options that are available at the time of upload.
 uuid: 0912ae6f-41c9-41b5-94d1-e266face782e
 contentOwner: admin
 content-type: reference

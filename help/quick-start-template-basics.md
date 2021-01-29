@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Template Basics"
-seo-title: "Quick Start: Template Basics"
-description: null
-seo-description: An introduction and Quick Start to Template Basics to help you get up and running quickly.
+description: An introduction and Quick Start to Template Basics to help you get up and running quickly.
 uuid: 16d78cbb-f762-4263-aea9-5712eb933693
 contentOwner: admin
 content-type: reference

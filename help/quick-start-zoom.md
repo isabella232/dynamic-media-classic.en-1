@@ -1,8 +1,6 @@
 ---
 title: "Quick Start: Zoom"
-seo-title: "Quick Start: Zoom"
-description: null
-seo-description: An introduction and Quick Start to Zoom to help you get up and running quickly.
+description: An introduction and Quick Start to Zoom to help you get up and running quickly.
 uuid: 31eda632-3469-4f90-885b-e90c6a2e5e75
 contentOwner: admin
 content-type: reference

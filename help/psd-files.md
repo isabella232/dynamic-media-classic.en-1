@@ -1,8 +1,6 @@
 ---
 title: Working with PSD files
-seo-title: Working with PSD files
-description: null
-seo-description: Learn how to work with PSD files.
+description: Learn how to work with PSD files.
 uuid: 5836b660-6bca-46e7-ab39-1a31d1e0cff2
 contentOwner: admin
 content-type: reference

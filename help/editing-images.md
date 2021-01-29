@@ -1,8 +1,6 @@
 ---
 title: Editing images
-seo-title: Editing images
-description: null
-seo-description: Learn how to edit images.
+description: Learn how to edit images.
 uuid: 6e453c5b-71ab-47e4-8f3c-43357b846abc
 contentOwner: admin
 content-type: reference

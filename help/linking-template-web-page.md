@@ -1,8 +1,6 @@
 ---
 title: Linking a template to a web page
-seo-title: Linking a template to a web page
-description: null
-seo-description: Learn how to link a template to a web page.
+description: Learn how to link a template to a web page.
 uuid: f111ef06-4afc-454c-86ce-5d640236d40b
 contentOwner: admin
 content-type: reference

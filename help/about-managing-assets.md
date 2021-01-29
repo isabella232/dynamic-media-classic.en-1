@@ -1,14 +1,9 @@
 ---
 title: About managing assets
-seo-title: About managing assets
-description: null
-seo-description: An introduction to managing assets in Dynamic Media Classic
-uuid: 875e3227-d8a9-4e6c-be4e-6f0328eb4ef8
+description: An introduction to managing assets in Dynamic Media Classic
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: b362959d-f997-4877-b470-fffa23bc22a4
-
 ---
 
 # About managing assets{#about-managing-assets}

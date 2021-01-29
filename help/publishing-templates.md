@@ -1,8 +1,6 @@
 ---
 title: Publishing templates
-seo-title: Publishing templates
-description: null
-seo-description: Learn how to publish templates.
+description: Learn how to publish templates.
 uuid: 9b8e5b94-6958-4725-bcbc-5e6a9c4d1b02
 contentOwner: admin
 content-type: reference

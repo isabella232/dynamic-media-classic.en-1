@@ -1,8 +1,6 @@
 ---
-title: "Quick Start: Integrating Dynamic Media Classic and Adobe Analytics "
-seo-title: "Quick Start: Integrating Dynamic Media Classic and Adobe Analytics "
-description: null
-seo-description: An introduction and Quick Start to integrating Dynamic Media Classic and Adobe Analytic to help you get up and running quickly.
+title: "Quick Start: Integrating Dynamic Media Classic and Adobe Analytics"
+description: An introduction and Quick Start to integrating Dynamic Media Classic and Adobe Analytic to help you get up and running quickly.
 uuid: 3f9e2c91-15d4-4b53-8220-9b1ca57c0b1d
 contentOwner: admin
 content-type: reference

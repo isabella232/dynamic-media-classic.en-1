@@ -1,8 +1,6 @@
 ---
 title: Creating template parameters
-seo-title: Creating template parameters
-description: null
-seo-description: Learn how to create template parameters.
+description: Learn how to create template parameters.
 uuid: d17168a8-4776-4761-b022-8258d5997604
 contentOwner: admin
 content-type: reference

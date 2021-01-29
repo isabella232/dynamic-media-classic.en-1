@@ -1,8 +1,6 @@
 ---
 title: Creating Image Maps
-seo-title: Creating Image Maps
-description: null
-seo-description: Learn how to create image maps.
+description: Learn how to create image maps.
 uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
 contentOwner: admin
 content-type: reference

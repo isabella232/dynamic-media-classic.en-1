@@ -1,8 +1,6 @@
 ---
 title: Cropping an image
-seo-title: Cropping an image
-description: null
-seo-description: Learn how to crop an image.
+description: Learn how to crop an image.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: admin
 content-type: reference

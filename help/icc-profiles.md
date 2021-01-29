@@ -1,8 +1,6 @@
 ---
 title: ICC profiles
-seo-title: ICC profiles
-description: null
-seo-description: Learn about ICC profiles.
+description: Learn about ICC profiles.
 uuid: 708ff2ad-9a47-4e3e-b643-5b19648f726b
 contentOwner: admin
 content-type: reference

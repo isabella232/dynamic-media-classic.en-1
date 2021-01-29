@@ -1,8 +1,6 @@
 ---
 title: Log in to Adobe Analytics
-seo-title: Log in to Adobe Analytics
-description: null
-seo-description: Learn how to log in to Adobe Analytics.
+description: Learn how to log in to Adobe Analytics.
 uuid: 5614babe-1097-4228-a3dc-27e5a25366d5
 contentOwner: admin
 content-type: reference

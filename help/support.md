@@ -1,8 +1,6 @@
 ---
 title: Support
-seo-title: Support
-description: null
-seo-description: Learn about technical support options.
+description: Learn about technical support options.
 uuid: b4927dc0-3a58-43da-b967-d00e2582cb15
 contentOwner: admin
 content-type: reference

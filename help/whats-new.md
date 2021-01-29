@@ -1,8 +1,6 @@
 ---
 title: What’s new
-seo-title: What’s new
-description: null
-seo-description: Learn about what is new Dynamic Media Classic by way of the current release notes.
+description: Learn about what is new Dynamic Media Classic by way of the current release notes.
 uuid: 78b88ec0-69fc-481b-af54-4c2d0a31057f
 contentOwner: admin
 content-type: reference

@@ -1,8 +1,6 @@
 ---
 title: Working with PostScript and Illustrator files
-seo-title: Working with PostScript and Illustrator files
-description: null
-seo-description: Learn how to work with PostScript and Illustrator files.
+description: Learn how to work with PostScript and Illustrator files.
 uuid: 36dee172-8bd4-45a9-820b-c2ca319edf20
 contentOwner: admin
 content-type: reference
