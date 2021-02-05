@@ -16,21 +16,22 @@ This new app is now available for Windows and macOS.
 
 >[!IMPORTANT]
 >
->We recommend that you install the new Adobe Dynamic Media Classic desktop app by October 1, 2020. Doing so will ensure you have a smooth transition before Adobe Flash Player is deprecated on December 31, 2020. On that date, you will no longer be able to log on to the browser version of Adobe Dynamic Media Classic user interface, labeled as Dynamic Media Classic in the product.
+>Adobe recommends that you install the new Adobe Dynamic Media Classic desktop app by October 1, 2020. Doing so will ensure you have a smooth transition before Adobe Flash Player is deprecated on December 31, 2020. After that date, you cannot log on to the browser version of Adobe Dynamic Media Classic user interface, labeled as Dynamic Media Classic in the product.
 
 See the FAQ for the [New Dynamic Media Classic sign in experience now available.](/help/new-ui-2020.md)
 
 ## System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements-dmc-app}
 
 Adobe Dynamic Media Classic desktop app is compatible with the following operating systems:
-* macOS X 10.10 or newer.
+
+* macOS 10.10 or newer.
 * Windows 7 or newer.
 
 ## Fixes in the latest version (20.21.1) {#latest-fixes-desktop-app}
 
-* Sign in issues due to timeout resulting in the following message: *This user might be assigned to the group(s) without permission. Please contact your administrator.*
+* Sign in issues due to timeout resulting in the following message: *This user may be assigned to the group or groups without permission. Contact your administrator.*
 * Viewer presets get duplicated with each incorrect password attempt.
-* Desktop application becoming unresponsive due to a large amount of assets in the root folder. (Fixed on Windows; working as desired on macOS.)
+* Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows; working as desired on macOS.)
 
 ## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
 
@@ -78,7 +79,7 @@ See also:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
-1. Use the same credentials as your browser credentials to sign in to Adobe Dynamic Media Classic.
+1. To sign in to the Adobe Dynamic Media Classic desktop app, use the same credentials that you used to log on to Dynamic Media Classic in the browser.
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
@@ -88,7 +89,7 @@ See also:
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
-1. Post the login UI, you will notice the familiar browser UI experience. You can carry your day to day activity as usual now on the desktop app UI.
+1. Following sign in, notice the familiar browser user interface experience. You can continue your day to day Dynamic Media Classic activity as usual on the desktop app.
 
 ## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on macOS {#install-silent-mac-dmc-app}
 
@@ -118,7 +119,7 @@ Unmount DMG - hdiutil detach <mount_point_path>`
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
-1. Use the same credentials as your browser credentials to sign in to Adobe Dynamic Media Classic.
+1. To sign in to the Adobe Dynamic Media Classic desktop app, use the same credentials that you used to log on to Dynamic Media Classic in the browser.
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
@@ -130,7 +131,7 @@ Unmount DMG - hdiutil detach <mount_point_path>`
 
 ## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows {#install-silent-windows-dmc-app}
 
-The command that you use is for a basic MSI silent installlation. However, the Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running Installations in Silent Mode.](https://docs.flexera.com/installshield19helplib/helplibrary/SilentInstall.htm)
+The command that you use is for a basic MSI silent installation. However, the Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running Installations in Silent Mode.](https://docs.flexera.com/installshield19helplib/helplibrary/SilentInstall.htm)
 
 See also:
 
@@ -157,13 +158,13 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     `adobe-dynamic-media-classic-20.21.1.exe /s /f1"C:\Setup.iss"`
 
-    Details about command line parameters is available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
+    Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
-1. Use the same credentials as your browser credentials to sign in to Adobe Dynamic Media Classic.
+1. To sign in to the Adobe Dynamic Media Classic desktop app, use the same credentials that you used to log on to Dynamic Media Classic in the browser.
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
@@ -188,7 +189,7 @@ Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://
 
 ### Clearing the image cache and asset cache manually
 
-Besides clearing the image and asset cache using the desktop app, you can also accomplish this task manually by clearing the cache directly from the file system.
+Besides clearing the image and asset cache using the desktop app, you can manually clear the cache directly from the file system.
 
 1. Based on your operating system, navigate to the following:
 
@@ -201,7 +202,7 @@ Besides clearing the image and asset cache using the desktop app, you can also a
 
 **_Applies to Windows and macOS &ndash; How do I switch between companies?_**<br>To switch between companies, do the following:
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
-* When the pop-up appears, tap **[!UICONTROL OK]** to sign out and close the app.
+* When the pop-up window appears, tap **[!UICONTROL OK]** to sign out and close the app.
 
     ![Restart the app to use the new company](/help/assets/dmclassic-new-company1.png)
 * Restart Dynamic Media Classic, then sign in as usual to work with the new company.
@@ -210,7 +211,7 @@ Besides clearing the image and asset cache using the desktop app, you can also a
 
 **_I am unable to see Media Cart panel on the landing page of Dynamic Media Classic._**<br>In Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section, make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
  
-**_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser UI, a re-login to the UI was required to see the correct publish state of assets. In the desktop app, we have introduced a **[!UICONTROL Refresh]** icon on the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No re-login required as with the browser UI.
+**_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser user interface, a relogin to the UI was required to see the correct publish state of assets. In the desktop app, Adobe has introduced a **[!UICONTROL Refresh]** icon in the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No relogin required as with the browser UI.
 
 ![Refresh icon](/help/assets/refresh-icon1.png)
 *Refresh icon*
