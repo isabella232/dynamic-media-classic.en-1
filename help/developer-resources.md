@@ -35,13 +35,13 @@ Reference Guides to Image Serving and Image Rendering, and Viewers describe the 
 
 |Document|Web address|
 |--- |--- |
-|API Reference Guide| [https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/home.html](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/home.html)|
+|API Reference Guide| [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/home.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/home.html?lang=en)|
 
 **Viewers**
 
 |Document|Web address|
 |--- |--- |
-|Viewers Reference Guide and Release Notes|[https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html)|
+|Viewers Reference Guide and Release Notes|[https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html?lang=en](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html?lang=en)|
 |Viewer Library Examples|[https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)|
 
 

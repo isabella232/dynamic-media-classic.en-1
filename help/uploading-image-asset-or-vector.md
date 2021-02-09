@@ -1,12 +1,9 @@
 ---
 title: Uploading an image asset or a vector asset
 description: Learn how to upload an image asset or a vector asset.
-uuid: d0e4a754-8a49-4b0f-b202-e9003bdb8f20
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: de21dca9-99fe-4183-b647-debfe112fda4
-
 ---
 
 # Uploading an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}

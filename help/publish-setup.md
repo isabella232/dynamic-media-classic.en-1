@@ -1,12 +1,9 @@
 ---
 title: Publish Setup
 description: The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
-uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: cba59093-28b6-4490-b838-d942b72ad1ec
-
 ---
 
 # Publish Setup {#publish-setup}
@@ -15,7 +12,7 @@ The Publish Setup screen settings determine how assets are delivered by default 
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette screens to establish default settings for delivering assets from servers.
 
-To open the Publish Setup screens, click Setup > Application Setup > Publish Setup.
+To open the Publish Setup screens, click **Setup** > **Application Setup** > **Publish Setup**.
 
 >[!NOTE]
 >

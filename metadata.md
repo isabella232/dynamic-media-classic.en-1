@@ -3,12 +3,12 @@ cloud: experience-cloud
 solution: Dynamic Media Classic
 type: Documentation
 solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
+solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html#guides
 solution-image:
 getting-started-title: Getting Started
-getting-started-url: https://docs.adobe.com/content/help/en/dynamic-media-classic/using/getting-started/dmc-platform-overview.html
+getting-started-url: https://experienceleague.adobe.com/docs/dynamic-media-classic/using/getting-started/dmc-platform-overview.html#workflow-process
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/dynamic-media-classic/using/intro/training-videos.html
+tutorials-url: https://experienceleague.adobe.com/docs/dynamic-media-classic/using/intro/training-videos.html#intro
 git-repo: https://github.com/AdobeDocs/dynamic-media-classic.en
 ---
 

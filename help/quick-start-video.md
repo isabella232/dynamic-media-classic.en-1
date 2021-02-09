@@ -1,13 +1,10 @@
 ---
 title: "Quick Start: Video"
-description: An introduction and Quick Start to Video to help you get up and running quickly.
-uuid: bf0ecf87-a1f2-4e83-8041-df5192dd26a1
+description: An introduction and Quick Start to Adobe Dynamic Media Classic Video to help you get up and running quickly.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-discoiquuid: 6cef541b-e9df-48eb-9a16-ca3e1f07238e
-
 ---
 
 # Quick Start: Video{#quick-start-video}
@@ -47,7 +44,7 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
   Adaptive video streaming is supported on a variety of iOS platforms.
 
-  See the latest support in the [Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+  See the latest support in the [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
   Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find Blackberry devices that support this video format at the following website:
 
@@ -59,8 +56,8 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
 * Play back the video using Dynamic Media Classic Viewer Presets, including the following:
 
-    * Single video viewers.
-    * Mixed Media viewers that combine both video and image content.
+  * Single video viewers.
+  * Mixed Media viewers that combine both video and image content.
 
 * Configure video players to meet your branding needs.
 * Integrate video to your website, mobile site, or mobile application with a simple URL or embed code.

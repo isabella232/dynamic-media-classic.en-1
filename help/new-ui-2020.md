@@ -1,11 +1,9 @@
 ---
 title: Adobe Dynamic Media Classic Desktop app
-seo-title: Adobe Dynamic Media Classic Desktop app
 description: Dynamic Media Classic users can now experience a complete refresh of the user interface. The experience delivers an updated sign in with links to valuable resources, plus this update no longer relies on Adobe Flash technology in the browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-
 ---
 
 # Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}
@@ -84,11 +82,11 @@ Contact Adobe Support with any issues you have while using the app.
 
 Dynamic Media Classic is a powerful, feature-rich solution designed to enhance your rich media strategies. To ensure you take advantage of all the capabilities, be sure you explore these practical resources:
 
-* [Dynamic Media Best Practices Tutorial](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
+* [Dynamic Media Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 * [Dynamic Media Blog Posts](https://theblog.adobe.com/tag/dynamic-media/)
-* [Dynamic Media Newsletter Archives](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/dynamic-media-newsletter.html)
+* [Dynamic Media Newsletter Archives](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/dynamic-media-newsletter.html)
 
-Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html), and the complementary audit program.
+Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic), and the complementary audit program.
 
 ### **_I'm interested in learning more about upgrading to Dynamic Media with AEM Assets. Where can I find more information?_**
 

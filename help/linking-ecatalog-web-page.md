@@ -41,7 +41,7 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
 
 The most common way to deploy an eCatalog is to place a link in the form of an eCatalog thumbnail cover page on your web page. Work with your IT team to make sure that the eCatalog launches in a clean, centered pop-up window. Ask your IT team to keep the toolbar and address bar in the browser from showing.
 
-For additional details and code samples, see [Embedding HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html).
+For additional details and code samples, see [Embedding HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copying the embed code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 

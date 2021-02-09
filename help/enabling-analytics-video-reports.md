@@ -1,26 +1,27 @@
 ---
 title: Enabling Adobe Analytics Video Reports
 description: Learn how to enable Adobe Analytics video reports.
-uuid: 078594b2-7d53-4714-8128-ff3b5c3a5e36
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: 18644a53-92da-40ab-b961-318d8332c54d
-
 ---
 
 # Enabling Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}
 
 Using Adobe Analytics heartbeat-based video reporting, you no longer need to enable the four video viewer events (Play, Pause, Stop, Milestone) when you configure Adobe Analytics in Dynamic Media Classic. Video Heartbeat works with out-of-the-box Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports.
 
+* For an introduction to streaming media and ‘heartbeat measurement’ see [About Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media).
+
 * The integration of Adobe Analytics video reports with Dynamic Media Classic supports solution variables, but not custom variables.
 
-  See [Configure Analytics Video Reporting](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/video_analytics_config.html) for more information about solution variables and custom variables.
+  See [Audio and Video parameters](https://experienceleague.adobe.com/docs/media-analytics/using/metrics-and-metadata/audio-video-parameters.html#metrics-and-metadata) for more information about solution variables and custom variables.
 
 * Out-of-the-box segments of one minute increments is supported. However, custom segment reporting, such as customer-defined milestones based on time increments, % milestone, or offset milestones, is not supported.
 
-For more information about Video Heartbeat requirements and setup, see [Measuring Video in Adobe Analytics using Video Heartbeat](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/).
+  For more information about streaming media requirements and setup, see [Measuring Steaming Media in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html).
+
+* For information about custom and solution variables see [Media reports enablement](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-reports-enable.html?lang=en#media-reports).
 
 >[!NOTE]
 >

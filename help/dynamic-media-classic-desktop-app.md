@@ -177,7 +177,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 ## Video walk-through on using Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Length: 2 minutes 36 seconds). 
+Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Length: 2 minutes 36 seconds). 
 
 ## Clearing the image cache and asset cache on your computer using the desktop app
 
