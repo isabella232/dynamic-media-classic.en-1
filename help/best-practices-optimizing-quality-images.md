@@ -1,13 +1,10 @@
 ---
 title: Best practices for optimizing the quality of your images
 description: Learn best practices for optimizing the quality of your images.
-uuid: 102e83fe-ee2a-443b-ba92-6ad5cc3daef0
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 8164466e-2520-482a-88ec-6191fdc77ea3
-
 ---
 
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
@@ -16,7 +13,7 @@ Optimizing image quality can be a time consuming process as many factors contrib
 
 Dynamic Media Classic includes more than 100 image serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
 
-See also [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
+See also [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
 ## Best practices for image format (&fmt=) {#best-practices-for-image-format-fmt}
 
@@ -44,7 +41,7 @@ Image sharpening is the most complex aspect of controlling images on your websit
 
 Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
-See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html).
+<!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
 With Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. In most cases, however, you should sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
 
@@ -64,11 +61,7 @@ There are two image sharpening methods that you can use:
 
       This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise", while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
 
-      For more information about how you set these three parameters, including best practices to use with the filter, see the following resources:
-
-      Dynamic Media Classic Help topic on [Sharpening an image](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
-
-      Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
+      For more information about how you set these three parameters, including best practices to use with the filter, see [Sharpening images in Adobe Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
     * Dynamic Media Classic also lets you control a fourth parameter: monochrome ( `0,1`). This parameter determines if unsharp masking is applied to each color component separately using the value `0` or to the image brightness/intensity using the value `1`.
 

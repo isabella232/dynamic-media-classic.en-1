@@ -1,13 +1,10 @@
 ---
 title: Support
 description: Learn about technical support options.
-uuid: b4927dc0-3a58-43da-b967-d00e2582cb15
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
-discoiquuid: 05e443b2-ac15-4d87-859a-271699593304
-
 ---
 
 # Support {#support}

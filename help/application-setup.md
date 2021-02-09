@@ -1,14 +1,10 @@
 ---
 title: Application Setup
-seo-title: Application Setup
-description: Learn how to setup the application area of Dynamic Media Classic.
-seo-description: Learn how to setup the application area of Dynamic Media Classic.
-uuid: 3e2f1d30-8f33-4a9d-bbe4-e8c3dbc968f8
+description: Learn how to setup the Application area of Dynamic Media Classic.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
-discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
 ---
 
 # Application Setup{#application-setup}
@@ -109,13 +105,13 @@ See also [Testing the Secure Testing service](testing-assets-making-them-public.
 
 * **Overwrite Images** &ndash; Dynamic Media Classic does not allow two files to have the same name. Each item's Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
 
-   * **Overwrite in current folder, same base image name/extension** &ndash; This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
+  * **Overwrite in current folder, same base image name/extension** &ndash; This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
-   * **Overwrite in current folder, same base asset name regardless of extension** &ndash; Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
+  * **Overwrite in current folder, same base asset name regardless of extension** &ndash; Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
 
-   * **Overwrite in any folder, same base asset name/extension** &ndash; Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
+  * **Overwrite in any folder, same base asset name/extension** &ndash; Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
 
-   * **Overwrite in any folder, same base asset name regardless of extension** &ndash; This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
+  * **Overwrite in any folder, same base asset name regardless of extension** &ndash; This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
 * **Retain Publish** &ndash; Specifies whether a replacement image uploaded to Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
 
@@ -153,7 +149,7 @@ Administrators can create presets for exporting assets. Users can choose a prese
 
 To open the Image Preset screen, on the Global Navigation bar, click **Setup** > **Image Presets**.
 
-See [Smart imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
+See [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
 ### Creating and editing Image Presets {#creating-and-editing-image-presets}
 
@@ -319,9 +315,9 @@ To choose an encoding preset, in the lower-right corner of the Upload page, clic
     >
     >To deliver video to iPads, you can choose a Mobile encoding preset or a Tablet encoding preset. Tablet presets are designed especially for the iPad, typically with higher resolution and quality to take advantage of the larger screen size and bandwidth connection. Delivering video files encoded with a Tablet preset requires you to include device-detection code on your mobile site or application. This code switches between an iPhone or iPad video experience, depending on the playback device. Choosing a Mobile preset for delivering video files to the iPad is a more simplified workflow. The reason is because you can use the same video file for both iPhones and iPads. However, the quality is standardized to the lower resolution iPhone experience.
 
-    * Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name or Size to sort presets by name or resolution size.
-    * Choose an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
-    * You can select Adaptive Video Encoding and one or more encoding preset per video. For example, you can encode a file for both desktop and mobile in one upload job.
+  * Under the Encoding Presets group, in the Sort Encoding Presets drop-down list, select Name or Size to sort presets by name or resolution size.
+  * Choose an encoding preset based on the resolution size and bandwidth with which you plan to play the video.
+  * You can select Adaptive Video Encoding and one or more encoding preset per video. For example, you can encode a file for both desktop and mobile in one upload job.
 
 After you click **Start Upload**, the original master video file is uploaded and encoded files are generated from the master file.
 
@@ -433,13 +429,13 @@ For information about encoding options parameters, see [About the encoding prese
 
 >[!NOTE]
 >
->**Flash Viewers End-of-Life Notice** - Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform. For more information about this important change, see the following FAQ website: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
+>**Flash Viewers End-of-Life Notice** - Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
 
 A *Viewer Preset* is a collection of settings that determine how users view rich-media assets on their computer screens and mobile devices. As an administrator, you can create Viewer Presets. Settings are available for an array of viewer configuration options. For example, you can change the viewer display size, zoom behavior, color schemes, borders, and fonts.
 
 As a best practice, use Dynamic Media Classic HTML5 Video viewers. The presets used in HTML5 Video viewers are robust video players. By combining into a single player the ability to design the playback components using HTML5 and CSS, have embedded playback, and use adaptive and progressive streaming depending on the browser’s capability, you extend the reach of your rich media content to desktop, tablet, and mobile users, and ensure a streamlined video experience.
 
-See [About HTML5 Viewers](hhttps://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html) in the Adobe Viewers Reference Guide.
+See [About HTML5 Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in the Adobe Viewers Reference Guide.
 
 See [Dynamic Media Classic Viewer Preset compatibility matrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -483,15 +479,13 @@ For example, if your main image size is 350 by 350 pixels, with a Zoom Factor of
 
 **Flash Viewers End-of-Life Notice**: Effective January 31, 2017, Adobe Dynamic Media Classic officially ended support for the Flash viewer platform.
 
-For more information about this important change, see the following FAQ website: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
-
 The following table identifies the currently available Dynamic Media Classic Viewer Presets. The table also specifies the viewer’s compatibility with desktop and mobile devices, and the technology that is used for each given viewer.
 
 See also [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 For information about supported web browser and operating system versions for Viewers, you can review the Viewers Release Notes.
 
-See [Adobe Viewers Reference Release Notes](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+See [Adobe Viewers Reference Release Notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
 ||Viewer Technology|Desktop|Apple iPhone|Apple iPad|Android Smartphone|Android Tablet|
 |--- |--- |--- |--- |--- |--- |--- |
@@ -623,7 +617,7 @@ See [Exporting an HTML5 Viewer preset](application-setup.md#exporting_an_html5_v
    >
    >Choose Same As Source to automatically size the Video Viewer to the resolution size of the encoded video itself. If you choose this option, you cannot enter the Stage Width and Stage Height. Instead, these options come from the video itself. If you choose Same As Source, set the Margin Size option to reflect the skin dimensions outside the video playback area. This margin size is the pixel height and width of the video controls. You can use the following illustration to help you determine the margin sizes that you want to use.*
 
-    ![](assets/vs_video_viewer_configure_margin.png)
+   ![Margin configuration of Video viewer](assets/vs_video_viewer_configure_margin.png)
 
 1. Do one of the following:
 

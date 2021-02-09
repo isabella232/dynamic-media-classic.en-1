@@ -1,13 +1,10 @@
 ---
 title: Linking Zoom viewers to your web pages
 description: Learn how to link Zoom viewers to your web pages.
-uuid: cd350ea4-267e-4a8a-aed8-7553df86b438
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
-
 ---
 
 # Linking Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}
@@ -27,11 +24,11 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
     * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
+
     * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
+
     * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
@@ -40,7 +37,7 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
 
 Typically, visitors to a web site zoom images by first selecting a Zoom icon (often the icon shows the image of a magnifying glass). Selecting this icon launches a dynamic web page (ASP or JSP) that displays the image in a pop-up window. The pop-up window is where visitors actually zoom the image.
 
-For additional details and code samples, see [Embedding HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html).
+For additional details and code samples, see [Embedding HTML5 Basic Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copying the embed copy of a Zoom viewer {#copying-the-embed-copy-of-a-zoom-viewer}
 
@@ -55,11 +52,11 @@ Using the Embed Code feature lets you review the viewer code for the selected Zo
     * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
+
     * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
+
     * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
 
       In the Viewer List page, under the Actions column of the table, click **Embed Code**.
@@ -68,5 +65,4 @@ Using the Embed Code feature lets you review the viewer code for the selected Zo
 
    Editing the code is not permitted in the Embed Code dialog box.
 
-1. Click Close.
-
+1. Click **Close**.

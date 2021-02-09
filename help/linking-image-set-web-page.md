@@ -41,7 +41,7 @@ After you publish an Image Set, you can copy its URL or its embed code for use i
 
 The most common way to deploy Image Sets is to place a link (via a navigation icon) on your web page. When clicked, the link launches a dynamic page (JSP) that displays the Image Set in a pop-up zoom window. The zoom link opens a pop-up window that contains the actual zoom feature.
 
-For additional details and code samples, see [Embedding HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html).
+For additional details and code samples, see [Embedding HTML5 Zoom Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copying the embed code of an Image Set viewer {#copying-the-embed-code-of-an-image-set-viewer}
 

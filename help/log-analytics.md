@@ -27,7 +27,7 @@ When you log in you have the option of entering your Marketing Cloud Org ID to u
 1. In the Adobe Analytics Configuration page, tap **[!UICONTROL Adobe Analytics Login]**.
 1. In the **[!UICONTROL Adobe Analytics Login]** dialog box, enter your company name, Marketing Cloud Org ID (optional), username, and the *shared secret* key in the **[!UICONTROL Password]** text field.
 
-   You can retrieve the *shared secret* key from the Analytics Admin conosle. See [How to get API credentials for user accounts](https://helpx.adobe.com/analytics/kb/how-to-get-api-credentials-for-user-accounts-.html).
+   You can retrieve the *shared secret* key from the Analytics Admin conosle. See [How to get API credentials for user accounts](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md).
  
 1. Click **[!UICONTROL Login]**.
 1. In the **[!UICONTROL Report Suite]** drop-down menu, choose a report suite, then click **[!UICONTROL OK]**.
