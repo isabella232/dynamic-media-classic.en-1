@@ -32,6 +32,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * Sign in issues due to timeout resulting in the following message: *This user may be assigned to the group or groups without permission. Contact your administrator.*
 * Viewer presets get duplicated with each incorrect password attempt.
 * Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows; working as desired on macOS.)
+* jlkjlkj
 
 ## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
 
@@ -75,7 +76,7 @@ See also:
 
     * **For Windows** &ndash; Run the installer binary and follow the on-screen instructions to install the desktop app.
 
-1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
+1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
@@ -115,7 +116,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
     `rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
 Unmount DMG - hdiutil detach <mount_point_path>`
 
-1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
+1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
@@ -160,7 +161,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
-1. When you open the application, the new Adobe Dynamic Media Classic Sign In page is displayed:
+1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
@@ -183,11 +184,11 @@ Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://
 
 1. In the Dynamic Media Classic desktop app, near the upper-right corner, tap **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
 1. On the **[!UICONTROL Personal Setup]** page, under the **[!UICONTROL Desktop]** heading, do any of the following:
-    * Tap **[!UICONTROL Clear Image Cache]** to remove all Adobe Dynamic Media cached image files from your computer. Tap **[!UICONTROL OK]**.
-    * Tap **[!UICONTROL Clear Asset Cache]** to remove all Adobe Dynamic Media cached asset files from your computer. Tap **[!UICONTROL OK]**.
+    * To remove all Adobe Dynamic Media cached image files from your computer, tap **[!UICONTROL Clear Image Cache]**, then tap **[!UICONTROL OK]**.
+    * To remove all Adobe Dynamic Media cached asset files from your computer, tap **[!UICONTROL Clear Asset Cache]**, then tap **[!UICONTROL OK]**.
 1. In the lower-right corner of the page, tap **[!UICONTROL Close]**.
 
-### Clearing the image cache and asset cache manually
+### Clearing the image cache and asset cache manually {#clear-cache}
 
 Besides clearing the image and asset cache using the desktop app, you can manually clear the cache directly from the file system.
 
@@ -195,6 +196,10 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
     * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
     * Windows: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
+
+## Known limitation in Dynamic Media Classic 2021.1
+
+* The **[!UICONTROL Server]** drop-down list is empty after updating to Dynamic Media Classic desktop app 20.21.1 &ndash; Scenario: You install and sign in to Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then update to Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, [manually clear the cache](#clear-cache). 
 
 ## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2) 
  
@@ -204,7 +209,8 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up window appears, tap **[!UICONTROL OK]** to sign out and close the app.
 
-    ![Restart the app to use the new company](/help/assets/dmclassic-new-company1.png)
+    ![To use the new company, restart the app](/help/assets/dmclassic-new-company1.png)
+
 * Restart Dynamic Media Classic, then sign in as usual to work with the new company.
 
 ## Tips and Tricks 
