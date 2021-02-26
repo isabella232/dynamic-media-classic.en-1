@@ -180,7 +180,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Length: 2 minutes 36 seconds). 
 
-## Clearing the image cache and asset cache on your computer using the desktop app
+## Clearing the image cache and asset cache on your computer using the desktop app {#clear-cache}
 
 1. In the Dynamic Media Classic desktop app, near the upper-right corner, tap **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
 1. On the **[!UICONTROL Personal Setup]** page, under the **[!UICONTROL Desktop]** heading, do any of the following:
@@ -188,7 +188,7 @@ Watch a [video walk-through on using Dynamic Media Classic Desktop App](https://
     * To remove all Adobe Dynamic Media cached asset files from your computer, tap **[!UICONTROL Clear Asset Cache]**, then tap **[!UICONTROL OK]**.
 1. In the lower-right corner of the page, tap **[!UICONTROL Close]**.
 
-### Clearing the image cache and asset cache manually {#clear-cache}
+### Clearing the image cache and asset cache manually
 
 Besides clearing the image and asset cache using the desktop app, you can manually clear the cache directly from the file system.
 
