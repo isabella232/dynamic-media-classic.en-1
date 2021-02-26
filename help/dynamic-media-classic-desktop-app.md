@@ -197,7 +197,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
     * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
     * Windows: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
-## Known limitation in Dynamic Media Classic 2021.1
+## Known limitation in Dynamic Media Classic 20.21.1
 
 * The **[!UICONTROL Server]** drop-down list is empty after updating to Dynamic Media Classic desktop app 20.21.1 &ndash; Scenario: You install and sign in to Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then you update to Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, you must [manually clear the cache](#clear-cache) (see steps above). 
 
