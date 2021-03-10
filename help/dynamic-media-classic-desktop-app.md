@@ -32,7 +32,6 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * Sign in issues due to timeout resulting in the following message: *This user may be assigned to the group or groups without permission. Contact your administrator.*
 * Viewer presets get duplicated with each incorrect password attempt.
 * Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows; working as desired on macOS.)
-* jlkjlkj
 
 ## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
 
