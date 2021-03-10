@@ -38,7 +38,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows.
 * No need to sign out of the desktop app to switch between companies.
 * Ctrl+V for paste operation now works on Windows.
-* In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself. -->
+* In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself.
 
 ## Download and install the latest Adobe Dynamic Media Classic desktop app on macOS or Windows {#installation-dmc-app}
 
