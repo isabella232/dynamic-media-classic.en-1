@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
-
-feature: "Dynamic Media Classic,Viewers,eCatalog"
+feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
 ---
 

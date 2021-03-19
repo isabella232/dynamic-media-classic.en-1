@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 8c94bafc-94cc-496f-a394-a945cd7b02cf
-
-feature: "Dynamic Media Classic,Asset Management"
+feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
 ---
 

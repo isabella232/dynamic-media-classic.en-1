@@ -4,9 +4,8 @@ seo-title: Adobe Dynamic Media Classic
 description: Dynamic Media Classic overview
 seo-description: Dynamic Media Classic overview
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-
 feature: Dynamic Media Classic
-role: "Administrator,Business Practitioner"
+role: Administrator,Business Practitioner
 ---
 
 # Dynamic Media Classic Help {#scene7-overview}

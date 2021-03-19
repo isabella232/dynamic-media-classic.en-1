@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
-
-feature: "Dynamic Media Classic,Viewers"
+feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
 ---
 

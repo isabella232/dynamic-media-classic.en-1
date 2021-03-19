@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
-
-feature: "Dynamic Media Classic,Asset Management"
+feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
 ---
 

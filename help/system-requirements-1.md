@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
-
-feature: "Dynamic Media Classic,Collaboration,Asset Management"
+feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator
 ---
 

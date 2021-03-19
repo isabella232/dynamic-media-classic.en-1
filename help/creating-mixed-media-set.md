@@ -6,8 +6,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
-
-feature: "Dynamic Media Classic,Viewers,Mix Media Sets"
+feature: Dynamic Media Classic,Viewers,Mix Media Sets
 role: Business Practitioner
 ---
 

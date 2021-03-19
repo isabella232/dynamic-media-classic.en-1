@@ -6,8 +6,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
-
-feature: "Dynamic Media Classic,Viewers,Viewer Presets,eCatalog"
+feature: Dynamic Media Classic,Viewers,Viewer Presets,eCatalog
 role: Business Practitioner
 ---
 

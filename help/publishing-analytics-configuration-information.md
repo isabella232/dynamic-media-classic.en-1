@@ -7,9 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: deeb9fed-ef27-4d58-af98-f381de33c431
-
 feature: Dynamic Media Classic
-role: "Data Engineer,Administrator,Business Practitioner"
+role: Data Engineer,Administrator,Business Practitioner
 ---
 
 # Publishing Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}

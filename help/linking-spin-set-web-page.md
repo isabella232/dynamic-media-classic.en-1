@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
-
-feature: "Dynamic Media Classic,Viewers,Spin Sets"
+feature: Dynamic Media Classic,Viewers,Spin Sets
 role: Business Practitioner
 ---
 

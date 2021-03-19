@@ -7,7 +7,6 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
-
 feature: Dynamic Media Classic
 role: Business Practitioner
 ---

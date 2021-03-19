@@ -7,9 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 86f72d31-19aa-4077-a746-2badb53b02ec
-
 feature: Dynamic Media Classic
-role: "Administrator,Business Practitioner"
+role: Administrator,Business Practitioner
 ---
 
 # Rich media{#rich-media}

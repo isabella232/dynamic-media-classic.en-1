@@ -5,7 +5,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
-feature: "Dynamic Media Classic,Viewers"
+feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
 ---
 

@@ -3,7 +3,7 @@ description: The Dynamic Media Newsletter by Experience League is a monthly news
 keywords: dynamic media;newsletter;product updates;tips and tricks;events;customer success;blog;blogs;images;videos;features;capabilities
 title: Dynamic Media Newsletter
 feature: Dynamic Media Classic
-role: "Administrator,Business Practitioner"
+role: Administrator,Business Practitioner
 ---
 
 # ![Dynamic Media Newsletter logo](/help/assets/dynamic-media-newsletter-logo.png)

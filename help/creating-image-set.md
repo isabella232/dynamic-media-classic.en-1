@@ -7,8 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
-
-feature: "Dynamic Media Classic,Viewers,Image Sets"
+feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
 ---
 

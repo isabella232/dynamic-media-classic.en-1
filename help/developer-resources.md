@@ -6,8 +6,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
-
-feature: "Dynamic Media Classic,SDK/API"
+feature: Dynamic Media Classic,SDK/API
 role: Developer
 ---
 
