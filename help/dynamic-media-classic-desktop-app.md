@@ -33,14 +33,13 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * Sign in issues due to timeout resulting in the following message: *This user may be assigned to the group or groups without permission. Contact your administrator.*
 * Viewer presets get duplicated with each incorrect password attempt.
 * Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows; working as desired on macOS.)
-* jlkjlkj
 
 ## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
 
 * No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows.
 * No need to sign out of the desktop app to switch between companies.
 * Ctrl+V for paste operation now works on Windows.
-* In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself. -->
+* In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself.
 
 ## Download and install the latest Adobe Dynamic Media Classic desktop app on macOS or Windows {#installation-dmc-app}
 
