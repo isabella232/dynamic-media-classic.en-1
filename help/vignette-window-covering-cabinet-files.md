@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
-
+feature: Dynamic Media Classic,Asset Management
+role: Business Practitioner
 ---
 
 # Working with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}

@@ -4,7 +4,8 @@ seo-title: Technical documentation and self help for Adobe Dynamic Media Classic
 description: Adobe Dynamic Media Classic technical documentation
 seo-description: Technical documentation, release notes and self-help materials for Adobe Dynamic Media Classic, formerly Scene 7 
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-
+feature: Dynamic Media Classic
+role: Administrator,Business Practitioner
 ---
 
 # Adobe Dynamic Media Classic Guide {#scene7-overview}

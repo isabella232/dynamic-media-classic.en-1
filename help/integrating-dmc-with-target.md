@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 3b4add18-4191-475e-a3a3-0184367a25fc
-
+feature: Dynamic Media Classic
+role: Data Engineer,Administrator,Business Practitioner
 ---
 
 # Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium {#integrating-dmc-with-target}

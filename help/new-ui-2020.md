@@ -4,6 +4,8 @@ description: Dynamic Media Classic users can now experience a complete refresh o
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Administrator,Business Practitioner
 ---
 
 # Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}

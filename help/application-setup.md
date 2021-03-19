@@ -5,6 +5,8 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
+feature: Dynamic Media Classic
+role: Administrator
 ---
 
 # Application Setup{#application-setup}

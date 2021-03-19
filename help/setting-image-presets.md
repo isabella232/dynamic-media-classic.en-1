@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
-
+feature: Dynamic Media Classic,Image Presets
+role: Business Practitioner
 ---
 
 # Setting up Image Presets{#setting-up-image-presets}

@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: d592f0a7-1c27-4463-998a-07351147da1d
-
+feature: Dynamic Media Classic,Collaboration,Asset Management
+role: Administrator,Business Practitioner
 ---
 
 # Managing FTP accounts{#managing-ftp-accounts}

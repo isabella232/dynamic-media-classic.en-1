@@ -4,6 +4,8 @@ description: Web sites that use an XML-based system to manage images and image i
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Business Practitioner
 ---
 
 # XML files {#xml-files}

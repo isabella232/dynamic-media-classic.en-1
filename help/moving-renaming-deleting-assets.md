@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
-
+feature: Dynamic Media Classic,Asset Management
+role: Business Practitioner
 ---
 
 # Moving, renaming, and deleting assets{#moving-renaming-and-deleting-assets}

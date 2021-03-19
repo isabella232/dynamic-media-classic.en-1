@@ -1,9 +1,11 @@
 ---
 title: Publish Setup
-description: The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
+description: Publish Setup settings let you determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Administrator
 ---
 
 # Publish Setup {#publish-setup}

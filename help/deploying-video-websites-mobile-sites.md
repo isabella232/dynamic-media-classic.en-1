@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
-
+feature: Dynamic Media Classic,Viewers,Video
+role: Business Practitioner
 ---
 
 # Deploying video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}

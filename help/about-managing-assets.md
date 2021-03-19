@@ -4,6 +4,8 @@ description: An introduction to managing assets in Dynamic Media Classic
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
+feature: Dynamic Media Classic,Asset Management
+role: Business Practitioner
 ---
 
 # About managing assets{#about-managing-assets}

@@ -8,6 +8,8 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
+feature: Dynamic Media Classic,Viewers,Video
+role: Business Practitioner
 ---
 
 # Uploading and encoding videos{#uploading-and-encoding-videos}

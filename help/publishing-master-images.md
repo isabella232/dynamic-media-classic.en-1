@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
-
+feature: Dynamic Media Classic,Asset Management
+role: Business Practitioner
 ---
 
 # Publishing master images{#publishing-master-images}

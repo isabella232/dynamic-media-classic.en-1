@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
-
+feature: Dynamic Media Classic,Viewers,Video
+role: Business Practitioner
 ---
 
 # Exporting source and encoded videos{#exporting-source-and-encoded-videos}

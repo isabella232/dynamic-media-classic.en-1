@@ -4,6 +4,8 @@ description: Learn how to upload an image asset or a vector asset.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Business Practitioner
 ---
 
 # Uploading an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}

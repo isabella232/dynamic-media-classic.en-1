@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
-
+feature: Dynamic Media Classic,Viewers,Zoom
+role: Business Practitioner
 ---
 
 # Quick Start: Zoom{#quick-start-zoom}

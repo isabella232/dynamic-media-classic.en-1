@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
-
+feature: Dynamic Media Classic,Collaboration,Asset Management
+role: Administrator,Business Practitioner
 ---
 
 # Creating and managing Media Portal groups{#creating-and-managing-media-portal-groups}

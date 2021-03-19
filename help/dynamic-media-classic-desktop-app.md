@@ -1,11 +1,12 @@
 ---
 title: Adobe Dynamic Media Classic desktop app - Now available
-description: Learn more about Dynamic Media Classic desktop app.
+description: Learn more about Dynamic Media Classic desktop application.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
-
+feature: Dynamic Media Classic
+role: Administrator,Business Practitioner
 ---
 
 # Now available: Adobe Dynamic Media Classic desktop app {#dynamic-media-classic-desktop-app}

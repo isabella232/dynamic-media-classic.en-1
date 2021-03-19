@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
-
+feature: Dynamic Media Classic,Viewers
+role: Business Practitioner
 ---
 
 # Preparing Swatch Set assets for upload{#preparing-swatch-set-assets-for-upload}

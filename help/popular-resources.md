@@ -2,6 +2,8 @@
 title: Popular resources
 description: Links to webinars, training videos, best practices information, and developer resources.
 contentOwner: Rick Brough
+feature: Dynamic Media Classic
+role: Administrator,Business Practitioner
 ---
 
 # Popular resources{#popular-resources}

@@ -7,7 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
-
+feature: Dynamic Media Classic
+role: Administrator
 ---
 
 # Video SEO (Search Engine Optimization){#video-seo-search-engine-optimization}

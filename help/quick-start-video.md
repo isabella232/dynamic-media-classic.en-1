@@ -5,6 +5,8 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
+feature: Dynamic Media Classic,Viewers,Video
+role: Business Practitioner
 ---
 
 # Quick Start: Video{#quick-start-video}
