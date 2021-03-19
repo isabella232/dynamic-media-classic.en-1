@@ -1,10 +1,12 @@
 ---
 title: Publishing files
-description: You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Dynamic Media Classic and add them to your website or application.
+description: "Learn how to publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Dynamic Media Classic and add them to your website or application."
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
+feature: "Dynamic Media Classic,Asset Management"
+role: Business Practitioner
 ---
 
 # Publishing files{#publishing-files}

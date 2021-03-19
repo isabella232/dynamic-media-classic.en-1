@@ -1,11 +1,13 @@
 ---
 title: About uploading and publishing assets
-description: An introduction to uploading and publishing of assets in Dynamic Media Classic.
+description: Learn how to upload and publish of assets in Dynamic Media Classic.
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
 
+feature: "Dynamic Media Classic,Asset Management"
+role: Business Practitioner
 ---
 
 # About uploading and publishing assets{#about-uploading-and-publishing-assets}

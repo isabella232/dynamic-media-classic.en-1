@@ -7,6 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 
+feature: Dynamic Media Classic
+role: Administrator
 ---
 
 <!-- UPDATE TOPIC AFTER DECEMBER 31, 2020!!!! -->

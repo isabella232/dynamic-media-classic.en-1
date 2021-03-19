@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 
+feature: Dynamic Media Classic
+role: Business Practitioner
 ---
 
 # Publishing templates{#publishing-templates}

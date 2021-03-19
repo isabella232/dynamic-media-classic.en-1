@@ -7,6 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 
+feature: "Dynamic Media Classic,Viewers,eCatalog"
+role: Business Practitioner
 ---
 
 # Uploading the PDF files{#uploading-the-pdf-files}

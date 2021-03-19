@@ -7,6 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482
 
+feature: Dynamic Media Classic
+role: "Administrator,Business Practitioner"
 ---
 
 # Getting disk usage information {#getting-disk-usage-information}

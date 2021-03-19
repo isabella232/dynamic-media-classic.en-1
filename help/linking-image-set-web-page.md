@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
 
+feature: "Dynamic Media Classic,Viewers,Image Sets"
+role: Business Practitioner
 ---
 
 # Linking an Image Set to a web page{#linking-an-image-set-to-a-web-page}

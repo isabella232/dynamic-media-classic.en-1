@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: b33dacc4-509d-4878-a769-76642bfaeb4e
 
+feature: "Dynamic Media Classic,Viewers,Mix Media Sets"
+role: Business Practitioner
 ---
 
 # Linking a Mixed Media Set to a web page{#linking-a-mixed-media-set-to-a-web-page}

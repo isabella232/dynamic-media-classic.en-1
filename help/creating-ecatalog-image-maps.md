@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 
+feature: "Dynamic Media Classic,Viewers,eCatalog"
+role: Business Practitioner
 ---
 
 # Creating eCatalog Image Maps{#creating-ecatalog-image-maps}

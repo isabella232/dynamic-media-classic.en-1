@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 
+feature: "Dynamic Media Classic,Viewers,Mix Media Sets"
+role: Business Practitioner
 ---
 
 # Quick Start: Mixed Media Sets{#quick-start-mixed-media-sets}

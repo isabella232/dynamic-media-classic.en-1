@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 
+feature: Dynamic Media Classic
+role: "Administrator,Business Practitioner"
 ---
 
 # Adobe Dynamic Media Classic platform overview{#adobe-scene-platform-overview}

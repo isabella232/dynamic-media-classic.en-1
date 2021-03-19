@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 
+feature: "Dynamic Media Classic,Asset Management,Search"
+role: Business Practitioner
 ---
 
 # Searching assets{#searching-assets}

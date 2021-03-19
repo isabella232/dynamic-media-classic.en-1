@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 
+feature: Dynamic Media Classic
+role: "Administrator,Business Practitioner"
 ---
 
 # Navigation basics{#navigation-basics}

@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 
+feature: "Dynamic Media Classic,Asset Management"
+role: Business Practitioner
 ---
 
 # Working with PDFs{#working-with-pdfs}

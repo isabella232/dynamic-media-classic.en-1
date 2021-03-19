@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 
+feature: Dynamic Media Classic
+role: "Administrator,Business Practitioner"
 ---
 
 # Personal Setup {#personal-setup}

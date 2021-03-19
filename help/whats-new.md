@@ -1,10 +1,12 @@
 ---
-title: What’s new
+title: What's new
 description: Learn about what is new Dynamic Media Classic by way of the current release notes.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
+feature: Dynamic Media Classic
+role: "Administrator,Business Practitioner"
 ---
 
 # What’s new {#what-s-new}

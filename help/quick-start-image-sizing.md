@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 
+feature: "Dynamic Media Classic,Asset Management"
+role: Business Practitioner
 ---
 
 # Quick Start: Image Sizing{#quick-start-image-sizing}

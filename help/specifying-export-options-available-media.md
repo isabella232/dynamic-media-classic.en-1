@@ -7,6 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 
+feature: "Dynamic Media Classic,Collaboration,Asset Management"
+role: "Administrator,Business Practitioner"
 ---
 
 # Specifying export options available to Media Portal users {#specifying-export-options-available-to-media-portal-users}

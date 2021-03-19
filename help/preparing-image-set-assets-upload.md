@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: c341f5ea-aa7b-4749-975d-68a45c6fa77c
 
+feature: "Dynamic Media Classic,Viewers,Image Sets"
+role: Business Practitioner
 ---
 
 # Preparing Image Set assets for upload{#preparing-image-set-assets-for-upload}

@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 38efb70d-e17e-4cef-8af1-be748f66f3ea
 
+feature: "Dynamic Media Classic,Viewers,Spin Sets"
+role: Business Practitioner
 ---
 
 # Publishing a Spin Set{#publishing-a-spin-set}

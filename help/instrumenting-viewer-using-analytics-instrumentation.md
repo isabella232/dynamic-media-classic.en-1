@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: a2824244-1755-42de-a167-42af117cf038
 
+feature: Dynamic Media Classic
+role: "Data Engineer,Administrator,Business Practitioner"
 ---
 
 # Instrumenting a viewer using the Adobe Analytics Instrumentation Kit{#instrumenting-a-viewer-using-the-adobe-analytics-instrumentation-kit}

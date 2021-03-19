@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: bdd0742e-902c-48f7-93e6-6e50d2a7628b
 
+feature: "Dynamic Media Classic,Asset Management"
+role: "Administrator,Business Practitioner"
 ---
 
 # Media Portal{#media-portal}

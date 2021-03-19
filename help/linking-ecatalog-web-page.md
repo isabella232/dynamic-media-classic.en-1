@@ -8,6 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 
+feature: "Dynamic Media Classic,Viewers,eCatalog"
+role: Business Practitioner
 ---
 
 # Linking an eCatalog to a web page{#linking-an-ecatalog-to-a-web-page}

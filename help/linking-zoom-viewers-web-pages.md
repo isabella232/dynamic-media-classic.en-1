@@ -5,6 +5,8 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
+feature: "Dynamic Media Classic,Viewers,Zoom"
+role: Business Practitioner
 ---
 
 # Linking Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}

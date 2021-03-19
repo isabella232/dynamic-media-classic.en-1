@@ -6,6 +6,8 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 
+feature: "Dynamic Media Classic,Viewers,Video"
+role: Business Practitioner
 ---
 
 # Adding captions to video{#adding-captions-to-video}
