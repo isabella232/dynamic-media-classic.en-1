@@ -13,11 +13,17 @@ role: Business Practitioner
 
 # Best practices for using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}
 
-The Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create all of the video player’s functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.
+The Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create the video player’s entire functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.
 
 On the playback side of the viewer, it automatically detects the browser’s video capability. It then serves the video using HLS (adaptive video streaming). Or, if that delivery method is not present then HTML5 progressive is used instead.
 
-By combining into a single player the ability to design the playback components using HTML5 and CSS, have embedded playback, and use adaptive and progressive streaming depending on the browser’s capability, you extend the reach of your rich media content to both desktop and mobile users and ensure a streamlined video experience.
+By combining into a single player the following abilities:
+
+* Playback components designed using HTML5 and CSS
+* Embedded playback
+* Use of adaptive and progressive streaming based on the browser’s capability
+
+You extend the reach of your rich media content to desktop and mobile users. You also ensure a streamlined video experience.
 
 See also [About HTML5 Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in the Adobe Viewers Reference Guide.
 
@@ -31,15 +37,15 @@ The following table describes the device, browser, and playback method of videos
 
 |Device|Browser|Video playback mode|
 |--- |--- |--- |
-|Deskop|Internet Explorer 9 and 10|Progressive download.|
+|Desktop|Internet Explorer 9 and 10|Progressive download.|
 |Desktop|Internet Explorer 11+|HLS video streaming.|
 |Desktop|Firefox 23-44|Progressive download.|
 |Desktop|Firefox 45 or later|HLS video streaming.|
 |Desktop|Chrome|HLS video streaming.|
 |Desktop|Safari (Mac)|HLS video streaming.|
-|Mobile|Chrome (Android 6 or earlier)|Progressive download.|
-|Mobile|Chrome (Android 7 or later)|HLS video streaming.|
-|Mobile|Android (Default browser)|Progressive download.|
+|Mobile|Chrome (Android™ 6 or earlier)|Progressive download.|
+|Mobile|Chrome (Android™ 7 or later)|HLS video streaming.|
+|Mobile|Android™ (Default browser)|Progressive download.|
 |Mobile|Safari (iOS)|HLS video streaming.|
 |Mobile|Chrome (iOS)|HLS video streaming.|
-|Mobile|Blackberry|HLS video streaming.|
+|Mobile|BlackBerry®|HLS video streaming.|
