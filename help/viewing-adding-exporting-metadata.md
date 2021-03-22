@@ -23,7 +23,7 @@ For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp
 
 ## View metadata {#view-metadata}
 
-To view an asset’s metadata, open the asset in Detail view, and click the Metadata panel. Then choose an option on the Metadata View menu to select a set of metadata fields. Dynamic Media Classic offers these Metadata Views:
+To view an asset’s metadata, open the asset in Detail view, and tap the Metadata panel. To select a set of metadata fields, choose an option on the Metadata View menu. Dynamic Media Classic offers these Metadata Views:
 
 * **Compact View**
 A basic list of values.
@@ -52,7 +52,7 @@ Administrators can create Metadata Views. These views also appear on the Metadat
 
 ## Add or edit keywords {#add-or-edit-keywords}
 
-In addition to metadata, you can use keywords to assist in searching and managing your assets.
+In addition to metadata, you can use keywords to help with searching and managing your assets.
 
 If you’ve added keywords to other files during this session, or if you’ve removed keywords from your list, they appear in the Keyword Suggestions table.
 
@@ -90,21 +90,21 @@ You can find more information about standardized properties at: https://www.adob
 
 Keep the following in mind when identifying different metadata types to import:
 
-* User Defined Fields are identified by their name as created in Setup > Application Setup > Metadata > User-Defined fields. Use the Generate file functionality to get a list of all defined UDFs in the correct import format.
-* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in Setup > Application Setup > Metadata > Metadata Schema editor. The technical names can be found in documentation of related XMP schema. Note that XMP properties names do not appear in the Generate file feature.
-* Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Note that Metadata Schema properties names do not appear in the Generate file feature.
+* User-Defined Fields are identified by their name as created in Setup > Application Setup > Metadata > User-Defined fields. Use the Generate file functionality to get a list of all defined UDFs in the correct import format.
+* XMP Metadata properties must have the related XMP-prefix before the (property-) name. A colon separates the prefix and name. The XMP prefix can be found in Setup > Application Setup > Metadata > Metadata Schema editor. The technical names can be found in documentation of related XMP schema. XMP properties names do not appear in the Generate file feature.
+* Metadata Schema properties must have the related prefix before the (property-) name. A colon separates the prefix and name. The prefix and the property names are defined in the Metadata Schema editor. Metadata Schema properties names do not appear in the Generate file feature.
 
-For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix "dc" and “subject” is the technical XMP name. The prefix and technical XMP name are combined into the "dc:subject" full property name. In the XML metadata import format, "dc.subject" must be the property name. In the tab-delimited import format it must be the column-header.
+For example: The XMP property for keywords is the XMP schema "Dublin Core" with the prefix "dc" and “subject” is the technical XMP name. The prefix and technical XMP name are combined into the "dc:subject" full property name. In the XML metadata import format, "dc.subject" must be the property name. In the tab-delimited import format, it must be the column-header.
 
 **Import Keywords**
 
-Keywords can be imported as comma separated list. If a comma appears in any of the individual values, it needs to be escaped by a backslash (\). A literal backslash is the usual double-backslash (\\).
+Keywords can be imported as comma-separated list. If a comma appears in any of the individual values, it must be escaped by a backslash (\). A literal backslash is the usual double-backslash (\\).
 
 For example, a metadata import file containing the value "Hello\, World!,back\\slash,foo" for "dc:subject" sets three XMP keywords on the asset: "Hello, World!," "back\slash," and "foo."
 
 **Import XMP and Metadata Schema metadata XMP files**
 
-The XML import accepts only valid XML. When importing XMP or Metadata Schema fields the namespace prefix is added and behaves here like a XMP-namespace. This namespace must be declare e.g. in the top-level tag.
+The XML import accepts only valid XML. When importing XMP or Metadata Schema fields, the namespace prefix is added and behaves here like a XMP-namespace. This namespace must be declared. For example, in the top-level tag.
 
 For example:
 
@@ -124,7 +124,7 @@ You can import metadata for multiple files by entering the metadata in a tab-del
 
 Make sure the data in the tab-delimited or XML file is in the correct format. In the first row, enter the ID field followed by the names of metadata fields to be modified. In each subsequent row, enter an asset ID name followed by metadata values. Fields that are not included in the tab-delimited or XML file are not modified.
 
-Click the Upload button on the Global Navigation Bar, and on the Jobs screen, select the Via FTP tab to import the metadata. Then click Job Options. In the Upload Job Options dialog box, Choose Process metadata files.
+Click the Upload button on the Global Navigation Bar. To import the metadata, on the Jobs screen, select the **[!UICONTROL Via FTP]** tab, then click **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, choose Process metadata files.
 
 ## Batch rename IDs using metadata {#batch-rename-ids-using-metadata}
 
@@ -139,12 +139,11 @@ For example:
 |testjacket_1|Jacket_test_1|
 |testjacket_blue|Jacket_test_2|
 
-
-The job log for the Metadata job will show which IDs were successfully renamed and which ones were not.
+The job log for the Metadata job shows which IDs were successfully renamed and which ones were not.
 
 ## Create a template for entering metadata to upload {#create-a-template-for-entering-metadata-to-upload}
 
-Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Dynamic Media Classic. Follow these steps to create a template for use in recording and importing metadata to Dynamic Media Classic:
+Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Dynamic Media Classic. To create a template for use in recording and importing metadata to Dynamic Media Classic, follow these steps:
 
 1. Select image assets with metadata fields you want for your template.
 1. Choose File > Import Metadata.
@@ -157,21 +156,21 @@ Dynamic Media Classic offers a command for creating a template for recording met
 
 A company administrator can view a list of all available schemas. Open Application Setup -> Metadata -> Metadata Schema.
 
-Initially, the list of global standard schemas like XMP are hidden. They can be shown using the checkbox at the bottom of the list.
+Initially, the list of global standard schemas like XMP is hidden. They can be shown using the checkbox at the bottom of the list.
 
-The company administrator can create a new custom schema, or edit an existing custom schema.
+The company administrator can create a custom schema, or edit an existing custom schema.
 
 You can use the Metadata Schema Editor to perform the following actions:
 
 |Action|Description|
 |--- |--- |
-|Add|Adds a new property to the schema. A modal dialog collects the information: ID, Label, Structure and Data Type.|
-|Add Choice Value|Adds a new selectable choice to a property with structure Open Choice or Closed Choice. All choice values have the same type. You must select the property itself to enable the button.|
+|Add|Adds a property to the schema. A modal dialog collects the information: ID, Label, Structure, and Data Type.|
+|Add Choice Value|Adds a new selectable choice to a property with structure Open Choice or Closed Choice. All choice values have the same type. Select the property itself to enable the button.|
 |Edit|Edit the Label of a property or choice value. You can only change the Label, ID, and type information is immutable.|
-|Move Up / Move Down|The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag & drop is not supported at this time.|
-|Delete|Deletes a property or choice value from the schema. This does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View.If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server.|
+|Move Up / Move Down|The order in the schema is reflected in the UI. To change the order, select a property or choice value and move it with the buttons. Drag & drop is not supported currently.|
+|Delete|Deletes a property or choice value from the schema. It does not delete values from the XMP block or the Database. The property is no longer available for Metadata Views and is removed from the Asset Detail View. If the property was published to the Metadata Server, perform a force publish to remove the data from the public-facing Metadata Server.|
 
-The system automatically generates a custom schema for User-defined fields with the prefix "s7udf". These are the existing User-defined Fields and are edited in their own Setup section.
+The system automatically generates a custom schema for User-defined fields with the prefix "s7udf". It is existing User-defined Fields and they are edited in their own Setup section.
 
 >[!NOTE]
 >
@@ -185,7 +184,7 @@ The Metadata Schema Editor offers a graphical way to add or edit a custom compan
 
 * Prefix
 
-  Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and our database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
+  Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
 
 * Namespace
 
@@ -203,7 +202,7 @@ Properties describe the metadata that can be stored with this schema in the XMP 
 
 |Property|Description|
 |--- |--- |
-|ID|Technical identifier for this property. The ID is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and our database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
+|ID|Technical identifier for this property. The ID is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
 |Label|UI-Name for this property.|
 |Structure|Determines the type of the property together with Data Type. Structure can be one of:<ul><li>Simple Type: single value of data type</li><li>Sequence: a list of values of the same data type</li><li>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</li><li>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</li></ul>|
 |Data Type|Select from these available types: <ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date</li></ul>|

@@ -15,9 +15,9 @@ role: Administrator
 
 SEO is the process of improving the volume of traffic to a Web site from search engines. While search engines excel at gathering information about text-based content, they cannot adequately acquire information about video unless this information is provided to them.
 
-Using Dynamic Media Classic Video SEO, you can leverage video metadata to provide search engines with descriptions of your videos. Dynamic Media Classic provides the ability to create Video Sitemaps and mRSS feeds. These are standard XML files for submitting video information to search engines:
+Using Dynamic Media Classic Video SEO, you can apply video metadata to provide search engines with descriptions of your videos. Dynamic Media Classic gives you the ability to create Video Sitemaps and mRSS feeds. These standard XML files are used for submitting video information to search engines:
 
-**Video Sitemap** Informs Google exactly where and what the video content is on a site. Consequently, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see https://www.google.com/support/webmasters/bin/answer.py?answer=80471.
+**Video Sitemap** Informs Google exactly where and what the video content is on a site. So, videos are fully searchable on Google. For example, a Video Sitemap can specify the running time and categories of videos. For information about video Sitemaps, see https://www.google.com/support/webmasters/bin/answer.py?answer=80471.
 
 **mRSS (Media Really Simple Syndication) feed** Used by content publishers to feed media files into Yahoo! Video Search. For information about mRSS feeds, see https://www.rssboard.org/media-rss.
 
@@ -55,7 +55,7 @@ On the Generation Mode drop-down list, choose a report mode:
 
 **Both** Create both types of XML files.
 
-**Off** Choose this option to stop generating Video Sitemaps and a Media RSS (mRSS) feeds.
+**Off** To stop generating Video Sitemaps and Media RSS (mRSS) feeds, choose this option.
 
 On the Automatic/Manual Mode drop-down list, choose whether to generate automatically or manually:
 
@@ -67,7 +67,7 @@ On the Automatic/Manual Mode drop-down list, choose whether to generate automati
 
 **Mark for Publish** Marks for publish the XML file that is generated.
 
-**Allow Partial Generation** Search engines may reject an XML file if it doesn’t contain complete metadata information for all videos. This option generates the XML file even if metadata isn’t available for some videos. A warning is registered on the Report screen. Choose this option if you intend to export the XML file and process the missing information manually.
+**Allow Partial Generation** Search engines can reject an XML file if it does not contain complete metadata information for all videos. This option generates the XML file even if metadata isn’t available for some videos. A warning is registered on the Report screen. Choose this option if you intend to export the XML file and process the missing information manually.
 
 ### Choosing Generation Settings {#choosing-generation-settings}
 
@@ -86,7 +86,7 @@ The Generation Settings area lists input fields for the Video Sitemap and/or mRS
 
 >[!NOTE]
 >
->You must publish the Video Sitemap or mRSS feed before you can submit it to search engines. Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of the company. Mark these XML files for publish, if necessary, and click Publish.
+>Publish the Video Sitemap or mRSS feed before you can submit it to search engines. Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of the company. Mark these XML files for publish, if necessary, and click Publish.
 
 ## Submitting Video Sitemap and mRSS-Feed files to search engines {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
 

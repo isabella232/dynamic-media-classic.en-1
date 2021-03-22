@@ -30,7 +30,7 @@ You can create and customize Viewer Presets to suit your needs.
 
 1. Choose options in the Configure Viewer screen.
 
-   To see a description of an option, click the Info Tip icon adjacent to the option.
+   To see a description of an option, click the Info Tip icon next to the option.
 
    The preview screen displays the viewer as you update and change settings.
 
@@ -50,11 +50,11 @@ You can use Preview to see how an asset appears on particular viewer type platfo
     * In the Asset window, select an asset. On the toolbar, click **File** > **Preview**.
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
-1. Click a viewer link to preview the asset in the selected viewer.
+1. To preview the asset in the selected viewer, click a viewer link.
 
    When you click a given viewer link, its associated URL is automatically copied to the clipboard.
 
-1. Close the displayed viewer to return to the Preview screen.
+1. To return to the Preview screen, close the displayed viewer.
 1. Click **Close** to return to the Assets screen.
 
 >[!MORELIKETHIS]

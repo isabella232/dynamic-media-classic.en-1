@@ -12,15 +12,15 @@ role: Business Practitioner
 
 # Uploading the PDF files{#uploading-the-pdf-files}
 
-Typically, Adobe PDF files are the source for an eCatalog; these files contain all image information as well as fonts and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, select the Upload button on the Global Navigation bar to begin uploading the PDFs.
+Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, select the Upload button on the Global Navigation bar to begin uploading the PDFs.
 
 ## Preparing your PDF files {#preparing-your-pdf-files}
 
 Prepare your PDF files before uploading them to Dynamic Media Classic:
 
-* Place all the files in the same folder on your computer or network to make uploading the files easier.
+* To make uploading the files easier, place all the files in the same folder on your computer or network.
 * Name the files in alphanumeric order by page. Ordering the pages will make it easier to place the pages in the proper order after the files are uploaded.
-* Examine the PDF pages to see whether they contain crop marks, registration targets, or color bars. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Dynamic Media Classic provides options for cropping marks when you upload PDF files.
+* To see whether PDF pages contain crop marks, registration targets, or color bars, examine the pages. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Dynamic Media Classic provides options for cropping marks when you upload PDF files.
 * If you want viewers to search your eCatalog by keyword, find out whether your PDF files are “flattened.” You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you can’t select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
 * Because they are meant to be printed, PDF files usually contain CMYK images. By default, Dynamic Media Classic can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
 
@@ -33,7 +33,7 @@ For detailed information about the different upload methods, see [Uploading your
 Select the files you want to upload, and then select these *best practice* PDF Options:
 
 * **Crop**
-Select the Crop menu and choose Manual if the pages contain crop marks, registration marks, or other marks. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are usually set to a half-inch margin. Assuming that you choose 150 as the pixel-per-inch resolution (the recommended setting), entering 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes crops a half inch from the margins (at 150 ppi, half of one inch equals 75 pixels).
+Select the Crop menu and choose Manual if the pages contain crop marks, registration marks, or other marks. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half-inch margin. Assume that you choose 150 (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
 
 * **Processing**
 Select the Processing menu and choose Rasterize. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.

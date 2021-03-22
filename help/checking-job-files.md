@@ -19,23 +19,23 @@ When you upload assets, a spinning icon appears next to the Jobs menu, indicatin
 
 >[!NOTE]
 >
->A list of your recently published jobs is also available on the Recent Activity page. Click Recent on the Global Navigation bar to open this page.
+>A list of your recently published jobs is also available on the Recent Activity page. Click **[!UICONTROL Recent]** on the Global Navigation bar to open this page.
 
 ## About the Jobs page {#about-the-jobs-page}
 
-Select the Jobs button on the Global Navigation bar to open the Jobs page. By default, jobs are listed starting with the most recent.
+Select **[!UICONTROL Jobs]** on the Global Navigation bar to open the Jobs page. By default, jobs are listed starting with the most recent.
 
 Jobs are listed in these categories on the History tab of the Jobs page:
 
 **Job Type** An icon indicates the job type: Upload and Publish are the most common job types.
 
-**Job Name** The name of the job. The name includes the user-entered portion of the name and the date-and-time stamp.
+**Job Name** The name of the job. The name includes the user-entered portion of the name and the date-and-time.
 
 **Started** When the job started.
 
 **Total** The number of files transferred.
 
-**W (warnings)** The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, .DS_store files (Macintosh) and Thumbs.db files (Windows) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+**W (warnings)** The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows®) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
 **E (errors)** Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 
@@ -43,7 +43,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 **Status** Shows the status of the job.
 
-**Destination** For upload jobs, the company name and folder to which the files were uploaded. This category doesn’t apply to publish jobs.
+**Destination** For upload jobs, the company name, and folder to which the files were uploaded. This category doesn’t apply to publish jobs.
 
 **Submitted By** Lists who uploaded the assets.
 
@@ -55,7 +55,7 @@ Use these techniques to sort jobs or change your view of the History tab of the 
 
 **Sorting** Select a column name to sort the list by a particular column. You can select the switch beside the column name to sort in descending or ascending order.
 
-**Date Range** Select the Date Range menu and choose an option to narrow the list of jobs to the current date, the previous week, or the previous month. Choose Custom Date Range to enter a specific date range.
+**Date Range** Select the Date Range menu and choose an option to narrow the list of jobs to the current date, the previous week, or the previous month. Choose Custom Date Range, then enter a specific date range.
 
 **Job Type** Select the Job Type menu and choose Publish or Upload to narrow the list to publish jobs or upload jobs. Choose All to see both types of jobs.
 
@@ -109,27 +109,27 @@ This table shows the time increments, their allowed values, and the wildcards th
 
 |Time increments|Values allowed|Comments|Wildcards supported|
 |--- |--- |--- |--- |
-|Seconds|0-59||, - * /|
-|Minutes|0-59||, - * /|
-|Hours|0-23|Note the use of a 24-hour clock.|, - * /|
-|Day of the month|1-31|You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.|, - * / ? L C|
-|Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case sensitive.|, - * /|
-|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.|, - * / ? L C #|
-|Year (optional)|Empty or 1970-2099||, - * /|
+|Seconds|0-59||`, - * /`|
+|Minutes|0-59||`, - * /`|
+|Hours|0-23|Note the use of a 24-hour clock.|`, - * /`|
+|Day of the month|1-31|You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a `?` wildcard character.|`, - * / ? L C`|
+|Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case-sensitive.|`, - * /`|
+|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.|`, - * / ? L C #`|
+|Year (optional)|Empty or 1970-2099||`, - * /`|
 
 
 This table describes the wildcard characters that are allowed in the Rule box and how to use them:
 
 |Wildcard character|Name|What it describes|
 |--- |--- |--- |
-|*|Asterisk|All values (for example, “every minute”).|
-|?|Question mark|No specific value (for example, “any minute within the specified hour”).|
-|,|Comma|Additional values (for example, “Monday and Wednesday”).|
-|-|Hyphen|Range of values (for example, “Monday through Friday”).|
-|/|Forward slash|Increments (for example, “every 15 minutes”).|
-|L|Capital L|Last “day of the month” or “day of the week” (available for these fields only). For example, if the month is January, an L value for the “day of the month” field schedules the job for January 31.For the “day of the week” field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, 6L) to specify the last Friday of the month.Do not specify L with the comma or hyphen wildcards.|
-|#|Number sign|“Nth” weekday of the month (available for the “day of the week” field only).For example, 6#3 in the “day of the week” field specifies the third Friday of the month. The 6 denotes “Friday” (the sixth day of the week) and the 3 denotes the third occurrence in the month.|
-|C|# Capital C|First calendar “day of the month” or “day of the week” (available for these fields only). For example, specifying a value of 1C for “day of the month” schedules the first day in the calendar that occurs on or after the fifth.For the “day of the week” field, specifying 1C schedules the first day in the calendar that occurs on or after Sunday|
+|`*`|Asterisk|All values (for example, “every minute”).|
+|`?`|Question mark|No specific value (for example, “any minute within the specified hour”).|
+|`,`|Comma|Other values (for example, “Monday and Wednesday”).|
+|`-`|Hyphen|Range of values (for example, “Monday through Friday”).|
+|`/`|Forward slash|Increments (for example, “every 15 minutes”).|
+|`L`|Capital L|Last “day of the month” or “day of the week” (available for these fields only). For example, if the month is January, an L value for the “day of the month” field schedules the job for January 31. For the “day of the week” field, you can enter this character alone to schedule the job on Saturday. You can use it with a number (for example, `6L`) to specify the last Friday of the month. Do not specify `L` with the comma or hyphen wildcards.|
+|`#`|Number sign|“Nth” weekday of the month (available for the “day of the week” field only). For example, `6#3` in the “day of the week” field specifies the third Friday of the month. The `6` denotes “Friday” (the sixth day of the week) and the `3` denotes the third occurrence in the month.|
+|`C`|# Capital C|First calendar “day of the month” or “day of the week” (available for these fields only). For example, specifying a value of `1C` for “day of the month” schedules the first day in the calendar that occurs on or after the fifth. For the “day of the week” field, specifying `1C` schedules the first day in the calendar that occurs on or after Sunday|
 
 This list gives examples of describing time intervals in the Rule box:
 
@@ -146,6 +146,6 @@ This list gives examples of describing time intervals in the Rule box:
 
 ## Using an upload or publish job as a trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-When you upload assets via FTP or run a publish job, you can schedule a subsequent job to begin as soon as the upload is complete. (If other jobs are scheduled to begin at that time, the job you schedule here is queued behind them.) The new job sends a notification to the address you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
+When you upload assets via FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
 
 To make one upload or publish job trigger another job, select Advanced on the Upload or Publish page. Then enter the URL in the HTTP Notification text field.
