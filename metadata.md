@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution: Dynamic Media Classic
 type: Documentation
 feature-set: Experience Manager Assets
