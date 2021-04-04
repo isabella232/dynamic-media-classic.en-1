@@ -4,8 +4,8 @@ description: Links to webinars, training videos, best practices information, and
 contentOwner: Rick Brough
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: f67a0645-a37d-4791-a0da-69d844fea40e
 ---
-
 # Popular resources{#popular-resources}
 
 ## Dynamic Media Classic Technical Documentation

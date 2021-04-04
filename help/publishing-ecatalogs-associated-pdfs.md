@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 00b70162-2394-433d-a46c-1d90667030af
 ---
-
 # Publishing eCatalogs and associated PDFs{#publishing-ecatalogs-and-associated-pdfs}
 
 Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can be made available to your web site or application. As part of the publishing process, Dynamic Media Classic activates the URL string. You can place this URL string in your HTML web page code.

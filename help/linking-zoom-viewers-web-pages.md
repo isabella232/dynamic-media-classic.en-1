@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 feature: Dynamic Media Classic,Viewers,Zoom
 role: Business Practitioner
+exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
 ---
-
 # Linking Zoom viewers to your web pages{#linking-zoom-viewers-to-your-web-pages}
 
 Your web sites and applications access Dynamic Media Image Server content, including master images and associated zoom targets, and Zoom Viewer Presets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place these URL strings or the embedded code in your web pages and applications, you copy them from Dynamic Media Classic.

@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 ---
-
 # Uploading the PDF files{#uploading-the-pdf-files}
 
 Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, select the Upload button on the Global Navigation bar to begin uploading the PDFs.
@@ -69,4 +69,3 @@ See [ICC profiles](icc-profiles.md#icc_profiles).
 >[!NOTE]
 >
 >For details on all PDF options, see [PDF upload options](pdfs.md#pdf_upload_options).
-

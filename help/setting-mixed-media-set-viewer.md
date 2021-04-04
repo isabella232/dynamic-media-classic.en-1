@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
 feature: Dynamic Media Classic,Viewers,Mix Media Sets
 role: Business Practitioner
+exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 ---
-
 # Setting up a Mixed Media Set Viewer Preset{#setting-up-a-mixed-media-set-viewer-preset}
 
 Mixed Media Set Viewer Presets determine the style, behavior, and look of your main viewer. When configuring a preset, you specify which other viewers you want to appear inside the Mixed Media Viewer. For example, if you’ve included an Image Set in your Mixed Media Set, specify an Image Set Viewer Preset for the Mixed Media Set Viewer.

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: d592f0a7-1c27-4463-998a-07351147da1d
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator,Business Practitioner
+exl-id: 95c7d403-7206-4158-b8ad-6091b24b5077
 ---
-
 # Managing FTP accounts{#managing-ftp-accounts}
 
 Only Media Portal Administrators can administer and manage FTP accounts. In addition, only users with the role of *Media Portal Contributor-User *or *Media Portal Contributor* can upload digital assets.
@@ -38,4 +38,3 @@ See [Activating or deactivating users](administration-setup.md#activating_or_dea
 1. Click **Setup** > **Media Portal** > **FTP Accounts**.
 1. On the Add FTP Account page, in the Existing Accounts table, select the FTP account that you want to remove. 
 1. Click **Delete**.
-

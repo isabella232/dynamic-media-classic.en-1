@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
 feature: Dynamic Media Classic,Viewers,Zoom
 role: Business Practitioner
+exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
 ---
-
 # Creating zoom targets for Guided Zoom{#creating-zoom-targets-for-guided-zoom}
 
 Zoom targets guide your viewers to certain parts of an image. As well as free-form zooming, viewers can click a zoom target thumbnail and zoom to the part of the image you want them to focus on. Zoom targets are an opportunity for you to highlight the attractive or interesting parts of an image.
@@ -91,4 +91,3 @@ You can copy zoom targets from one image to another. Copy targets when two image
 1. Open the image with zoom targets you want to copy in the Zoom Target Editor screen. 
 1. Click **[!UICONTROL Copy Targets To]**.
 1. In the Select Images dialog box, select an image and click **[!UICONTROL Select]**.
-

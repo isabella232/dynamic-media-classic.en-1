@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 92022dce-6534-4d93-befe-9dd2818c7b41
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 580cb169-0e26-412d-8dff-74dc63da25d8
 ---
-
 # Previewing eCatalogs in the eCatalog Viewer{#previewing-ecatalogs-in-the-ecatalog-viewer}
 
 You can use Preview to display your eCatalog using different eCatalog Viewer Presets. You can experiment with the different controls to turn pages, write sticky notes, and browse.

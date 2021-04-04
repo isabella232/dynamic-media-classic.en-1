@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 ---
-
 # Managing the Trash folder{#managing-the-trash-folder}
 
 Items that you delete from Dynamic Media Classic are moved to the Trash folder. They remain for seven days in this folder until they are restored or permanently deleted. You can examine deleted items by selecting the Trash icon located at the bottom of the Asset Library and viewing items in the Trash folder.

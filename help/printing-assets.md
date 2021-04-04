@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: e4a2a5b8-a074-4f0e-a607-0c47acbb81b4
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 23d6727b-0b48-4dac-be9f-f284d8d10de1
 ---
-
 # Printing assets{#printing-assets}
 
 Follow these steps to print an asset:
@@ -18,4 +18,3 @@ Follow these steps to print an asset:
 1. In the Browse Panel, select the asset or assets you want to print.
 1. Choose File > Print or press Ctrl+P (Windows) or Command+P (Macintosh).
 1. In the Print dialog box, choose how many copies to print and then select the Print button.
-

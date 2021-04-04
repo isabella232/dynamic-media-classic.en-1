@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
 ---
-
 # Creating Image Maps{#creating-image-maps}
 
 An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet, that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To call attention to Image Maps, an outline appears around an Image Map when the user moves the pointer over it.
@@ -221,4 +221,3 @@ For more information, see InDesign Help or Acrobat Help.
 1. Repeat steps 1 through 7 for all the Image Maps you want to create.
 1. Save the file.
 1. Upload the PDF to Dynamic Media Classic and select Extract Links from the PDF Options.
-

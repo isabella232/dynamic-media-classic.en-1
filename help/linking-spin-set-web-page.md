@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: Business Practitioner
+exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 ---
-
 # Linking a Spin Set to a web page{#linking-a-spin-set-to-a-web-page}
 
 Web sites and applications access Dynamic Media Image Server content, including Spin Sets, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embed code for your Spin Set in your web pages and applications, you copy it from Dynamic Media Classic.
@@ -76,4 +76,3 @@ Using the Embed Code feature lets you review the viewer code for the selected Sp
    Editing the code is not permitted in the Embed Code dialog box.
 
 1. Click Close.
-

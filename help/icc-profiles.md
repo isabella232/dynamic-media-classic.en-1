@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 44f1b4c4-6d7f-4e0f-84ce-11d26745e0f0
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: 989f2761-f5d0-4ece-b2a6-f7b4577aa8a2
 ---
-
 # ICC profiles{#icc-profiles}
 
 An ICC (International Color Consortium) profile is a file that describes how to correctly convert image files from one color space to another. ICC profiles help you to get the correct colors for your images. For example, to correctly display images designed for printing on a computer monitor, you can choose an ICC profile. This profile converts the image to a different color space and makes sure that the colors display correctly online.

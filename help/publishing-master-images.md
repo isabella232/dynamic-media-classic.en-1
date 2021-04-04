@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: b0010107-248c-4ebc-955c-7514462f351d
 ---
-
 # Publishing master images{#publishing-master-images}
 
 Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What’s more, during the publishing process, Dynamic Media Classic activates the URL strings you need for your web site and application.

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: d263f041-5a0d-4c4f-9266-aeff51a5a7e2
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: 118806ea-c8a7-4aaf-9ae3-739c6b04ea77
 ---
-
 # Creating template parameters{#creating-template-parameters}
 
 Parameters enable you to use templates with maximum flexibility; they allow you to dynamically customize a template image. You can decide which text and image layers to include in the template, and in each layer, which parameters to display. For example, to call attention to a product that is on sale, you can create an On Sale text layer. Later, you can remove this layer but still retain the rest of the template image by removing the On Sale parameter.

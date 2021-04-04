@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ef0c292f-3240-4c62-8f32-25de8e4922ad
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: e51fc81e-e5be-4f07-80ad-3aa87d8bc87e
 ---
-
 # Including zoom targets and Image Maps in Image Sets{#including-zoom-targets-and-image-maps-in-image-sets}
 
 If you define zoom targets and Image Maps for the images in your Image Set, these targets and maps appear in the Image Set Viewer. Users, for example, can click an Image Map in the Image Set Viewer and open a new page on your web site with information about an item. Users can click a target thumbnail image in the Image Set Viewer and zoom automatically to part of an image.

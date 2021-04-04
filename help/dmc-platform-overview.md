@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 ---
-
 # Adobe Dynamic Media Classic platform overview{#adobe-scene-platform-overview}
 
 Dynamic Media Classic is an integrated, rich media management, publishing, and serving environment. Rich media can be delivered to all marketing and selling channels, including the web, print material, e-mail campaigns, web portals, desktops, and devices.

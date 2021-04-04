@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: efa2c56e-4543-47fa-a4e8-b94021102d01
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
 ---
-
 # Editing images{#editing-images}
 
 Dynamic Media Classic offers many tools for creating rich-media effects. These tools are available by clicking the rollover Edit button and in the Browse Panel in Detail view. You can do the following image-editing tasks in Dynamic Media Classic:

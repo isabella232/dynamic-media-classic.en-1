@@ -7,8 +7,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 47dcbb26-b90f-40d7-964e-f08fe98fcdbb
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 98b12031-f88b-47ea-a95b-31d71eaf22c2
 ---
-
 # About uploading and publishing assets{#about-uploading-and-publishing-assets}
 
 Your work in Dynamic Media Classic falls in three basic areas:

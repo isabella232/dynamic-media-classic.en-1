@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
 ---
-
 # Log in to Adobe Analytics{#log-in-to-adobe-analytics}
 
 Before you log in to configure Adobe Analytics reports and match Adobe Analytics report variables to Dynamic Media Classic events, verify that you are added as a member of the Web Service Access group in Adobe Analytics. Members in this group can access all reports in the specified report suites by way of the Marketing Cloud’s Web Services API regardless of the permissions set in the interface. To add a member to the group, in Adobe Analytics, click **Admin Tools** > **User Management** > **Edit Groups**.

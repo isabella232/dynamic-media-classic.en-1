@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
 feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
+exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
 ---
-
 # Viewing Swatch Sets{#viewing-swatch-sets}
 
 You can view your Swatch Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Swatch Sets.

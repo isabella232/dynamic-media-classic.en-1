@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
 ---
-
 # Moving, renaming, and deleting assets{#moving-renaming-and-deleting-assets}
 
 You can move, rename, and delete assets from the Browse Panel. As well, you can delete many assets simultaneously with a text file.

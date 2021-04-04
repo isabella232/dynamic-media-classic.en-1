@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 1a9b525e-6120-44c7-b11a-e56bfb7cd017
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: e2c22d93-061e-4e57-9999-120592dbd56a
 ---
-
 # Automated Image Set generation{#automated-image-set-generation}
 
 <!-- 
@@ -35,4 +35,3 @@ You can automate set generation as an independent job that is not dependent of a
 1. Select the preset that you want to apply.
 1. Click **Destination Folder** and specify the folder that you want to use.
 1. Click **Submit**.
-

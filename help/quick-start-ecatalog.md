@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 ---
-
 # Quick Start: eCatalogs{#quick-start-ecatalogs}
 
 An eCatalog is a digital, web version of print material—a catalog, brochure, flyer, product manual, or advertising circular, for example. An eCatalog is displayed in an eCatalog Viewer on a web site. This viewer simulates the experience of reading printed material. Depending on the settings you choose for your eCatalog, the viewer can let you do the following:

@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: a8fa2414-af01-4a58-bb33-dfd12c1056cc
 ---
-
 # Quick Start: Integrating Dynamic Media Classic and Adobe Analytics {#quick-start-integrating-dmc-analytics}
 
 Adobe Analytics is the industry-leading product that provides marketers with one place where they can measure, analyze, and optimize integrated data from all online initiatives across multiple marketing channels.

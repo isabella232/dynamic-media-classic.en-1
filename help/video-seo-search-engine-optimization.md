@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 feature: Dynamic Media Classic
 role: Administrator
+exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
 ---
-
 # Video SEO (Search Engine Optimization){#video-seo-search-engine-optimization}
 
 SEO is the process of improving the volume of traffic to a Web site from search engines. While search engines excel at gathering information about text-based content, they cannot adequately acquire information about video unless this information is provided to them.

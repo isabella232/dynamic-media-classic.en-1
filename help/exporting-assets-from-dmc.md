@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 ---
-
 # Exporting assets from Dynamic Media Classic{#exporting-assets-from-dmc}
 
 You can save assets you edited in Dynamic Media Classic to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
@@ -81,4 +81,3 @@ The following behavior results when a large selection of various asset types are
 
 * All asset types which cannot be exported are removed from the list before job submittal 
 * If a conversion is requested, all types which can be converted are, and all others are exported as original
-

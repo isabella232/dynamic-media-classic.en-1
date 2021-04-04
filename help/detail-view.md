@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 ---
-
 # Working in Detail view{#working-in-detail-view}
 
 You can work with and learn about an asset by opening it in Detail view. In Detail view, you see the asset size, attributes, derivatives, and metadata. You also see whether and when the asset was published and obtain the URL of published assets. Depending on the asset type, you can preview it at different sizes, zoom in on it, and perform sharpening, cropping, and other formatting operations.

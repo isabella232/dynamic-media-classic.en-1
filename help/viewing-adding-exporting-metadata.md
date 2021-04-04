@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 feature: Dynamic Media Classic,Asset Management,Metadata
 role: Business Practitioner
+exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
 ---
-
 # Viewing, adding, and exporting metadata{#viewing-adding-and-exporting-metadata}
 
 You can store information specific to the files you work with in Dynamic Media Classic; this information is called *metadata*. You can use metadata in Dynamic Media Classic for organizing, searching, filtering, and sorting your assets.

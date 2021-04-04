@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 ---
-
 # Quick Start: Image Sets{#quick-start-image-sets}
 
 Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by clicking a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.

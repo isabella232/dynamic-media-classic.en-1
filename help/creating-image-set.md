@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
 ---
-
 # Creating an Image Set{#creating-an-image-set}
 
 To create a multiple-view Image Set, you need images that show an item from different points of view or show different aspects of the same item. The goal is to present viewers with images of an item so they get a solid idea of what an item looks like or does.
@@ -74,4 +74,3 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. In the Grid View, List View, or Details View, select one or more Image Sets.
 1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
-

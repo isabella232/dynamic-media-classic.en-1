@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: df4e5218-2a66-413c-b247-b2a16d884041
 ---
-
 # Linking an Image Set to a web page{#linking-an-image-set-to-a-web-page}
 
 After you publish an Image Set, you can copy its URL or its embed code for use in your web site or application. Then you can deploy the URL or paste the embed code as necessary so users can view the Image Set on your web site or application.

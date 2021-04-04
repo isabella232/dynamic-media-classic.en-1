@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 discoiquuid: deeb9fed-ef27-4d58-af98-f381de33c431
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 02782dc0-601f-453a-98d1-1fdd7267df3b
 ---
-
 # Publishing Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}
 
 Publish your Dynamic Media Classic viewers so that information about configuring Adobe Analytics reports is sent to Dynamic Media Classic servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Dynamic Media Classic servers. From the servers, it can be relayed to Adobe Analytics after users perform activity on the viewers.
@@ -27,4 +27,3 @@ See [Configuring Adobe Analytics reports](configuring-analytics-reports.md#confi
 
 1. On the Global Navigation bar, click **Publish**.
 1. In the Publish dialog box, click **Start Publish**.
-

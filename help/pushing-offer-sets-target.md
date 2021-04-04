@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 39a05654-4f66-4f1e-aec5-ebe6d174353f
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 778fd54b-a9e5-40c5-aff1-a156a5c15923
 ---
-
 # Pushing offer sets to Adobe Target Standard/Premium {#pushing-offer-sets-to-target}
 
 After you create or edit an offer set, push it to Target Standard/Premium by following these steps:

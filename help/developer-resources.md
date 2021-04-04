@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
 feature: Dynamic Media Classic,SDK/API
 role: Developer
+exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
 ---
-
 # Developer resources{#developer-resources}
 
 Dynamic Media Classic provides documentation for the latest major version of each Dynamic Media Classic software module. Module documents are available for Image Authoring, Dynamic Media Classic, Image Server and Image Rendering, and Viewers.

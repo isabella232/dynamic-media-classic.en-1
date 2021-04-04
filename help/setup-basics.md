@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
 ---
-
 # Setup basics{#setup-basics}
 
 Use the Dynamic Media Classic Setup screen to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup screen, click the Setup button on the Global Navigation bar.

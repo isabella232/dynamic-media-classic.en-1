@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
 ---
-
 # Publishing templates{#publishing-templates}
 
 Publishing your template places it on Dynamic Media Image Servers, where it is available to your web site and application. During the publishing process, Dynamic Media Classic activates the URLs you need for your web site and application.

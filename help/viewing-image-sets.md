@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 027aa3e0-f085-48ae-aff9-7b805bbdf8ab
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: c8d742a4-a1a1-4b5f-bcfd-6a1972edf9bc
 ---
-
 # Viewing Image Sets{#viewing-image-sets}
 
 You can view your Image Sets in the Preview window, using your available presets. You use a Zoom Viewer: Custom Viewer Preset for Image Sets.

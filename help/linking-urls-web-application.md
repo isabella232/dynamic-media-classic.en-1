@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 ---
-
 # Linking URLs to your web application{#linking-urls-to-your-web-application}
 
 Your web sites and applications access Dynamic Media Image Server content via URL strings. After you publish an image, Dynamic Media Classic activates a URL string that references the Image Preset on Dynamic Media Image Servers. You can paste these URLs into a web browser for testing.

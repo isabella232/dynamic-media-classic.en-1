@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator,Business Practitioner
+exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
 ---
-
 # Creating and managing Media Portal groups{#creating-and-managing-media-portal-groups}
 
 *Groups* are designed to help you administer Media Portal users. To access an asset, a user must be a member of at least one group that has permission to access that asset. When you add a user, you assign the user to one or more groups. In so doing, you grant the user access to folders to which the group has been assigned. You can also choose which Image Presets are available to a group.
@@ -93,4 +93,3 @@ See also [Specifying export options available to Media Portal users](specifying-
    **Editing a group** Click Edit, and then choose options in the Edit Group dialog box.
 
    **Deleting a group** Click Delete.
-

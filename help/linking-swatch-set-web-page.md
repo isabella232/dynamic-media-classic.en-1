@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
+exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
 ---
-
 # Linking a Swatch Set to a web page{#linking-a-swatch-set-to-a-web-page}
 
 After you publish a Swatch Set, you can use its URL or embed code in your web site or application. Then you can deploy the URL or embed code as necessary so users can view the Swatch Set on your web site or application.

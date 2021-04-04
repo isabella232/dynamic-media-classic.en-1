@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 8d1e0c37-a648-4c7b-8f68-4b2ab71dfa11
 ---
-
 # Working with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}
 
 Users of the Dynamic Media Classic Image Authoring tool can *use* vignettes (VNT files), window coverings (VNW files), and cabinets (VNC files). These files cannot be created or edited in Dynamic Media Classic.

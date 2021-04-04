@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
+exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
 ---
-
 # Preparing Swatch Set assets for upload{#preparing-swatch-set-assets-for-upload}
 
 Before uploading the images you need, make sure that the images are the right size and format. Also assemble the swatch files you need.

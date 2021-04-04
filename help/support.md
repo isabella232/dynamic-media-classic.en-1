@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 708f32f1-fdbb-4a32-a1b7-836c99b458be
 ---
-
 # Support {#support}
 
 Technical support offerings are designed to meet the needs of any size company. The following table describes Dynamic Media Classic Customer Care offerings:
@@ -32,4 +32,3 @@ When reporting issues to Technical Support, include this information:
 * Issue description and the steps necessary to reproduce the problem.
 * Error message, if any.
 * Browser type and version, if applicable.
-

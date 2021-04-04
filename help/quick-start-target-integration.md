@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
 discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 4745ace5-7825-468e-8a82-bfbbcf1b0440
 ---
-
 # Quick Start: Adobe Target Standard/Premium integration{#quick-start-target-integration}
 
  Adobe Target Standard/Premium puts control directly in the hands of marketers to quickly and continually run multiple A/B and multivariate tests, measure effectiveness, and increase relevance of online content through segmentation, targeting, and automated personalization.

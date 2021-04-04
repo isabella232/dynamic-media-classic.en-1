@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 ---
-
 # Adjusting an image{#adjusting-an-image}
 
 Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the color balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
@@ -60,4 +60,3 @@ When you have adjusted an image, you may want to save it as additional view of t
 1. In the **Folder Name** list box, select the folder where you want to save the aliased image.
 1. In the **File Name** field, type the name you want to use for the alias.
 1. Click **Save**.
-

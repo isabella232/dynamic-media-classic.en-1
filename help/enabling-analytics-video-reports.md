@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 9d017742-1ed2-411d-a8a6-438102bf1557
 ---
-
 # Enabling Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}
 
 Using Adobe Analytics heartbeat-based video reporting, you no longer must enable the four video viewer events (Play, Pause, Stop, Milestone) when you configure Adobe Analytics in Dynamic Media Classic. Video Heartbeat works with out-of-the-box Dynamic Media Classic HTML5 Video and MixedMedia viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports.
@@ -28,4 +28,3 @@ Using Adobe Analytics heartbeat-based video reporting, you no longer must enable
 >[!NOTE]
 >
 >If your licensed solution of Adobe Analytics does not include Video Heartbeat, you must continue using the steps described in this chapter to assign Adobe Analytics variables to Dynamic Media Classic viewer events and variables.
-

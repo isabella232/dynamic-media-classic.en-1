@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 feature: Dynamic Media Classic,Viewers,Video
 role: Business Practitioner
+exl-id: ce49e4ce-8dc0-41e1-865a-249f23757553
 ---
-
 # Best practices for using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}
 
 The Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create the video player’s entire functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 ---
-
 # Creating a template {#creating-a-template}
 
 To create a template, click Build > Template Basics. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
@@ -334,4 +334,3 @@ The Layers list offers a Mask button that specifies how the mask or alpha channe
 * The background of the layer is opaque.
 * The layer content is inverted and the background of the layer is filled with solid black. 
 * The background of the layer is filled with solid black.
-

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
 ---
-
 # Working with asset folders{#working-with-asset-folders}
 
 File assets in the Dynamic Media Classic are kept in folders. These folders are listed in alphabetical order in the Asset Library Panel. Before you upload files from your computer or network to Dynamic Media Classic, you are asked to name a folder for storing the files. Create these folders before uploading any files.

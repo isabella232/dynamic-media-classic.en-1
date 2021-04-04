@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: Business Practitioner
+exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
 ---
-
 # Managing Info Panel content in Image Sets{#managing-info-panel-content-in-image-sets}
 
 In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.  
@@ -67,4 +67,3 @@ When formatting source content, keep in mind the following guidelines:
    You can select multiple times for updating. Each update time appears in the Update Times text box. To remove a scheduled time, select it, and then click **Delete**.
 
 1. (Optional) Click **Run Update** to immediately update the content.
-

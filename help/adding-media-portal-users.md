@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator,Business Practitioner
+exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
 ---
-
 # Adding and managing Media Portal users{#adding-and-managing-media-portal-users}
 
 As an administrator, you can add and manage users, decide whether they can change passwords, edit user information, and upload user lists. These tasks are accomplished on the User Administration screen. To access this screen, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.

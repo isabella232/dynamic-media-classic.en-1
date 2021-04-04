@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator,Business Practitioner
+exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
 ---
-
 # Specifying export options available to Media Portal users {#specifying-export-options-available-to-media-portal-users}
 
 If the administrator gives them permission, Media Portal users can reformat images as they export them. For example, they can change the size, file format, and image quality. Automatically reformatting images as they are exported saves time by not having to reformat images separately. Moreover, administrators can create a preset —a pre-established selection of image format settings. You can use a preset when exporting images to reformat them to the specifications of your company.

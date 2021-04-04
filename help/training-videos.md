@@ -3,8 +3,8 @@ title: Dynamic Media Classic Training Videos
 description: Dynamic Media Classic training videos on getting started, dynamic imaging, video, media portal, templates, and image authoring and rendering.
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
 ---
-
 # Adobe Dynamic Media Classic Training Videos {#training-videos}
 
 Dynamic Media Classic training videos on getting started, dynamic imaging, video, media portal, templates, and image authoring and rendering.
@@ -294,7 +294,3 @@ Return to [Image Authoring and Rendering](#image-authoring-rendering-training)
 * [Rendering URL modifiers](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/640_904_rendering_url_modifiers_ia_09rendering-AVS)
 
 * [Introduction to rendering](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/642_IA009-Intro-Rendering_ia_09rendering-AVS)\
-
-
-
-

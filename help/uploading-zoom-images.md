@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
 feature: Dynamic Media Classic,Viewers,Zoom
 role: Business Practitioner
+exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
 ---
-
 # Uploading Zoom images{#uploading-zoom-images}
 
 Zoom images must have a high pixel count. A high number of pixels is needed so that viewers can clearly see image details when they zoom images. Make sure that the images you use are the appropriate size before uploading them to Dynamic Media Classic.

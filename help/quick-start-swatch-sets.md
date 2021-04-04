@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
+exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
 ---
-
 # Quick Start: Swatch Sets{#quick-start-swatch-sets}
 
 Dynamic Media Classic Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by clicking a thumbnail.

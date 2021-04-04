@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
 feature: Dynamic Media Classic,Viewers,Zoom
 role: Business Practitioner
+exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 ---
-
 # Quick Start: Zoom{#quick-start-zoom}
 
  Zoom lets you interactively view high-resolution details in images. For example, you can see the colors, options, angles, and details of an image in a dynamic, fully configurable, integrated viewer. This viewer can be embedded on a web page or appear in a pop-up window. You can inspect images at close range and pan images at high resolutions to examine them closely. Zooming gives your clients an engaging, informative, and interactive viewing experience.

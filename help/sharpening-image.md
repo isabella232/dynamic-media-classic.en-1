@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 ---
-
 # Sharpening an image {#sharpening-an-image}
 
 Sharpening is an image-manipulation technique for making the outlines of a digital image look more distinct. Sharpening increases the contrast between edge pixels and emphasizes the transition between dark and light areas. Sharpening increases local contrast and brings out fine detail. There is no strict formula for correctly sharpening all images. Too little sharpening can make for a soft image, but over-sharpening adds halos, artifacts, and noise.

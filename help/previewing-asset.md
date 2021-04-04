@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 feature: Dynamic Media Classic,Asset Management,Viewers
 role: Business Practitioner
+exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
 ---
-
 # Previewing an asset{#previewing-an-asset}
 
 You can use Preview to see how a digital asset will look when viewed by a customer. The Preview uses the default viewer that is assigned to the asset. Default viewers are configured in Application Setup.
@@ -98,4 +98,3 @@ See [Creating and enabling Image Presets](creating-enabling-image-presets.md#cre
    When you click Copy URL, its associated URL is automatically copied to the clipboard.
 
 1. In the lower-right corner of the Image Preset List window, click Close to return to the Assets screen.
-

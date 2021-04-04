@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator
+exl-id: aa268ff7-c474-409a-af3e-3fd8ae1e6241
 ---
-
 # Media Portal system requirements {#system-requirements}
 
 For the best experience using Dynamic Media Classic Media Portal, make sure that your system meets the following system requirements and recommendations:
@@ -22,4 +22,3 @@ For the best experience using Dynamic Media Classic Media Portal, make sure that
 * JAVA-enabled browser.
 * Windows-supported browsers: Internet Explorer 9 or higher; Firefox 23.0 or higher.
 * Macintosh-supported browsers: Safari 6.0 or higher, Firefox™ 23 or higher.
-

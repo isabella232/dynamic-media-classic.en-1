@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 3b4add18-4191-475e-a3a3-0184367a25fc
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: c6f217fb-89cb-4c8d-aa7f-309fc42f7d46
 ---
-
 # Integrating Adobe Dynamic Media Classic with Adobe Target Standard/Premium {#integrating-dmc-with-target}
 
 Before you can integrate [!DNL Dynamic Media Classic] with [!DNL Target Standard/Premium], you must enter your Target URL in the [!DNL Dynamic Media Classic] Application General Settings screen. Follow these steps to obtain your Target URL and enter it in the Application General Settings screen:
@@ -25,4 +25,3 @@ Before you can integrate [!DNL Dynamic Media Classic] with [!DNL Target Standard
 1. In [!DNL Dynamic Media Classic], click **Setup** > **Application Setup**.
 1. 5 On the Application General Settings page, in the **[!UICONTROL Test&Target Server Name]** field, paste the URL you copied in step 2.
 1. Click **Close**.
-

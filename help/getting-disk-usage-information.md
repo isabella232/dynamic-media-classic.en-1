@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 337a4681-ac9a-40d9-82e8-1999bbed980c
 ---
-
 # Getting disk usage information {#getting-disk-usage-information}
 
 You can use the `disk_info` parameter to retrieve information about a company’s disk space usage, as shown in the following example:
@@ -48,4 +48,3 @@ The following sample code gets disk information for 000Company:
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=disk_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b9602
 ```
-

@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
 ---
-
 # Uploading files{#uploading-files}
 
 Before you upload assets files to Dynamic Media Classic, make sure that the asset files are named correctly, and that your folder structure is set up and organized the way you want. You can upload files from a Dynamic Media Classic-provided FTP site or directly from your computer or network. Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Dynamic Media Classic desktop application, you can upload files and folders by dragging them directly from your desktop. (See [Application General Settings](application-setup.md#general_settings).)

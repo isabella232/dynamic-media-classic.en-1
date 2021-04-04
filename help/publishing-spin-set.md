@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 38efb70d-e17e-4cef-8af1-be748f66f3ea
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: Business Practitioner
+exl-id: b085f7ea-4623-402e-97f5-ed8ad5f368c7
 ---
-
 # Publishing a Spin Set{#publishing-a-spin-set}
 
 Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your web site or application. What’s more, during the publishing process, Dynamic Media Classic activates the Spin Set URL strings you need for your web site or application.

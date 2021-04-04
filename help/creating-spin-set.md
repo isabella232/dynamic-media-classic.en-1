@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: Business Practitioner
+exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 ---
-
 # Creating a Spin Set{#creating-a-spin-set}
 
 To create an effective Spin Set, make sure that you shoot the images correctly. You can create a Spin Set in Dynamic Media Classic by selecting the Build button and choosing Spin Sets. Edit Spin Sets in the Spin Sets screen.
@@ -103,4 +103,3 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
 1. In the Grid View, List View, or Details View, select one or more Spin Sets.
 1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
-

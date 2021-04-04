@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
 feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
+exl-id: 426b6e6b-daed-4ca6-b095-99bb06604b07
 ---
-
 # Creating a Swatch Set{#creating-a-swatch-set}
 
 A Swatch Set gives users the opportunity to view an item in a different color, pattern, or finish. To create a Swatch Set with color swatches, you need one image for each different color, pattern, or finish you want to present to users. You also need one color, pattern, or finish swatch for each color, pattern, or finish.
@@ -79,4 +79,3 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. In the Grid View, List View, or Details View, select one or more Swatch Sets.
 1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
-

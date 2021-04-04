@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
 feature: Dynamic Media Classic,Viewers,Zoom
 role: Business Practitioner
+exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
 ---
-
 # Setting up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}
 
 Zoom Viewer Presets determine the style, behavior, and look of your Zoom viewers. Dynamic Media Classic offers many options for customizing and skinning Viewers. Dynamic Media Classic comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create new company Zoom Viewer Presets or edit a default preset and save it with a new name.

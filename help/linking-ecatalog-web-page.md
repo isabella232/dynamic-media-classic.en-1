@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
 ---
-
 # Linking an eCatalog to a web page{#linking-an-ecatalog-to-a-web-page}
 
 Your web sites and applications access Dynamic Media Image Server content, including eCatalogs, by way of URL strings or embedded code. These URL strings are activated during the publishing process. To place the URL string or embedded code for your eCatalog in your web pages and applications, you copy it from Dynamic Media Classic.
@@ -72,4 +72,3 @@ Using the Embed Code feature lets you review the viewer code for the selected eC
    Editing the code is not permitted in the Embed Code dialog box.
 
 1. Click Close.
-

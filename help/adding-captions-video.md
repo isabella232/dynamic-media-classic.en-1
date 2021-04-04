@@ -6,8 +6,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic,Viewers,Video
 role: Business Practitioner
+exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 ---
-
 # Adding captions to video{#adding-captions-to-video}
 
 You can extend the reach of your videos to global markets by adding captioning to single videos or to Adaptive Video Sets. By adding captioning you avoid the need to dub the audio, or the need to use native speakers to rerecord the audio for each different language. The video is played in the language that it was recorded. Foreign language subtitles appear so that people of different languages can still understand the audio portion.
@@ -63,4 +63,3 @@ See [Serving static (non-image) contents](https://experienceleague.adobe.com/doc
       `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1”`
 
       Note the `,1` at the end of the URL path. Immediately following the .VTT filename extension in the URL path, you can optionally enable or disable the caption button on the video player bar by setting to `1` or `0`, respectively.
-

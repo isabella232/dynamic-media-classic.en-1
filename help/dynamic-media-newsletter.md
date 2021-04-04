@@ -4,8 +4,8 @@ keywords: dynamic media;newsletter;product updates;tips and tricks;events;custom
 title: Dynamic Media Newsletter
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 ---
-
 # ![Dynamic Media Newsletter logo](/help/assets/dynamic-media-newsletter-logo.png)
 
 The monthly Dynamic Media Newsletter by Experience League is designed to help you get up to speed with Dynamic Media and Dynamic Media Classic so that you can start realizing value right away.

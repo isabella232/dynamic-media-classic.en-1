@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: d845bcb2-f914-4727-8df2-049dc172f266
 ---
-
 # Deleting an uploaded asset{#deleting-an-uploaded-asset}
 
 You can use the `delete` parameter in this format to delete an asset:

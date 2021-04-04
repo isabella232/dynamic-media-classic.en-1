@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
 feature: Dynamic Media Classic,Viewers,Mix Media Sets
 role: Business Practitioner
+exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 ---
-
 # Publishing a Mixed Media Set{#publishing-a-mixed-media-set}
 
 Create a publish job to publish an Mixed Media Set that you have marked for publish to Dynamic Media Classic Video Server and Image Server. Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
@@ -52,4 +52,3 @@ Last Modified Date:
    See [Advanced publish options](publishing-files.md#advanced_publish_options) for additional options you can set.
 
 1. Click **Submit Publish**.
-

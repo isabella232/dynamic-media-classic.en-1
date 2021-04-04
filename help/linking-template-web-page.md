@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 989dba07-448a-45b1-b157-af50abb5359a
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: 6305c287-360f-48c2-b456-58be0791c7af
 ---
-
 # Linking a template to a web page{#linking-a-template-to-a-web-page}
 
 Your web sites and applications access Dynamic Media Image Server content via URL strings. After you publish a template, Dynamic Media Classic activates a URL string that references the template on Dynamic Media Image Servers. You can paste this URL in a web browser for testing.

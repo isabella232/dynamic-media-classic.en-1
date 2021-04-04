@@ -6,8 +6,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Administrator
+exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
 ---
-
 # Publish Setup {#publish-setup}
 
 The Publish Setup screen settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications. If no setting is specified, the Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup screen. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server screen.

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 ---
-
 # Working with PSD files{#working-with-psd-files}
 
 PSD (Photoshop Document files) are most often used in Dynamic Media Classic to create templates. When you upload a PSD file, you can create a Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
@@ -83,4 +83,3 @@ If you selected the Maintain Layers option when you uploaded your PSD, Dynamic M
 1. Click Save or Save As.
 1. To view or edit a different layer, click an arrow at the bottom of the layer preview.
 1. To exit the layer Detail view, click the Grid view icon.
-

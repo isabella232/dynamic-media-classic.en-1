@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
 ---
-
 # Creating eCatalog Image Maps{#creating-ecatalog-image-maps}
 
 An Image Map is a region on an eCatalog page that you can roll over with your mouse or click to trigger actions of various kinds. When you move the pointer over an Image Map, you see, for example, a rollover-text description of an item. When you click an Image Map, another action is initiated. For example, you can open a web page so that viewers can learn more about an item or purchase it or you can launch a video to see an item in use.
@@ -144,4 +144,4 @@ Follow these steps to copy all the Image Maps in one eCatalog to another eCatalo
 1. On the Order Pages tab, click Copy Maps.
 1. In the Select Asset dialog box, select the eCatalog where you want to copy the Image Maps, and then click Select.
 
-Dynamic Media Classic displays a warning message if the target eCatalog (the eCatalog to which you copy Image Maps) has a different number of pages or images that are a different size. You can click Continue to copy the Image Maps in spite of the warning. 
+Dynamic Media Classic displays a warning message if the target eCatalog (the eCatalog to which you copy Image Maps) has a different number of pages or images that are a different size. You can click Continue to copy the Image Maps in spite of the warning.

@@ -8,8 +8,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
 feature: Dynamic Media Classic,Viewers,Mix Media Sets
 role: Business Practitioner
+exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
 ---
-
 # Creating a Mixed Media Set{#creating-a-mixed-media-set}
 
 Create a Mixed Media Set when you want to combine multiple types of viewers in one presentation. Make sure your files, Image Sets, Swatch Sets, and Spin Sets are ready to publish before you add them to the Mixed Media Set.
@@ -83,4 +83,3 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 1. In the Grid View, List View, or Details View, select one or more Mixed Media Sets.
 1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
-

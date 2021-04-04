@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 ---
-
 # Now available: Adobe Dynamic Media Classic desktop app {#dynamic-media-classic-desktop-app}
 
 Dynamic Media Classic users now have access to a new desktop app experience that no longer relies on Adobe Flash technology in the browser. 
@@ -222,4 +222,4 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 ![Refresh icon](/help/assets/refresh-icon1.png)
 *Refresh icon*
  
-**_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**. 
+**_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.

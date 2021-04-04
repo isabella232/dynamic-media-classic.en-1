@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: a019f973-7647-466f-8af3-5312e9225e89
 ---
-
 # Personal Setup {#personal-setup}
 
 All users can change settings on the Personal Setup screen. To open the Personal Setup screen, click Setup > Personal Setup.

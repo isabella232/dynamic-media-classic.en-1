@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
 ---
-
 # Cropping an image{#cropping-an-image}
 
 You can crop images in the Dynamic Media Classic. The system retains information about images that were cropped so you can restore them to their original state. You can also crop an image and save the cropped version under a new name.

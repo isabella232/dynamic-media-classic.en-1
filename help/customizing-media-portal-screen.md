@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator,Business Practitioner
+exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
 ---
-
 # Customizing the Media Portal screen{#customizing-the-media-portal-screen}
 
 The Media Portal style settings allow you to brand the Media Portal screen with your company logo and colors. Use the style settings to put your company stamp on Media Portal.

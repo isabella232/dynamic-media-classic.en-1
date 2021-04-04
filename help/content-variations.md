@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: aa129b0e-fc73-4fc2-a894-4560b3f46c4f
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 ---
-
 # Managing content variations{#managing-content-variations}
 
 Use template sets to manage the way asset variations are published.
@@ -38,4 +38,3 @@ You can move a template in the template order (for example, to the top of the li
 >[!NOTE]
 >
 >You might need to clear the cache to see the changes. The change only appears on the website after the change has made its way through the cache cycle.
-

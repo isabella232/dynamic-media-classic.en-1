@@ -6,8 +6,8 @@ seo-description: Dynamic Media Classic overview
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 ---
-
 # Dynamic Media Classic Help {#scene7-overview}
 
 Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens. Adobe Dynamic Media Classic solutions include the following:
@@ -34,4 +34,3 @@ Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publis
 * [Quick Start: Template basics](/help/quick-start-template-basics.md)
 * [Quick Start: Video](/help/quick-start-video.md)
 * [Quick Start: Zoom](/help/quick-start-zoom.md)
-

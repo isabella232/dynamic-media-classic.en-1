@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 ---
-
 # Testing assets before making them public {#testing-assets-before-making-them-public}
 
 Secure Testing helps you define a secure test environment and build a robust B2B solution, based upon a configurable set of IP address and ranges. This functionality lets you match your Dynamic Media Classic deployments with the architecture of your content management and commerce platform.
@@ -138,4 +138,3 @@ Perform the following tests:
    Access your network from outside (such as, from your home computer or over a 3G connection), then verify that the public version of the site shows all published assets but none of the unpublished content.
 
    Confirm that the staging version does not show any asset because you are accessing the Secure Testing service from an unapproved IP address.
-

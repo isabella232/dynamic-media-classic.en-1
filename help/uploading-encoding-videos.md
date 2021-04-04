@@ -10,8 +10,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
 role: Business Practitioner
+exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
 ---
-
 # Uploading and encoding videos{#uploading-and-encoding-videos}
 
 To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to Dynamic Media Classic. Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:

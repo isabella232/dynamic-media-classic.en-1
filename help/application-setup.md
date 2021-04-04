@@ -7,8 +7,8 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 feature: Dynamic Media Classic
 role: Administrator
+exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 ---
-
 # Application Setup{#application-setup}
 
 You can use the Application Setup pages to enter general settings, create image presets, video encoding presets, viewer presets, or to define default viewers, and metadata. You can also setup batch set presets to automate the generation of 2D spin sets (for example), publishing settings, and video SEO settings.

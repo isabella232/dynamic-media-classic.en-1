@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 8c94bafc-94cc-496f-a394-a945cd7b02cf
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: 410ba80c-7f01-4cd0-9ab3-db9658757ba7
 ---
-
 # Uploading master images{#uploading-master-images}
 
 Before uploading images to Dynamic Media Classic, make sure they are the highest-quality size and format. Dynamic Media Classic recommends uploading high-quality images with a sufficient pixel count (from 1500 to 2000 pixels in the long dimension). This sizing allows for any dynamic imaging that is required.

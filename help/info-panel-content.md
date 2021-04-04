@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 ---
-
 # Managing Info Panel content in eCatalogs{#managing-info-panel-content-in-ecatalogs}
 
 In addition to using Image Map text for your rollovers in eCatalogs, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.
@@ -94,4 +94,3 @@ Using the Map Pages screen, you can easily and quickly view Info Panel text for 
 1. At the top of the table on the right side of the screen, choose Info Panel from the Show menu.
 
    The rollover-key text appears next to each Image Map that contains Info Panel text.
-

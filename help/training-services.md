@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 2bccf91d-ec27-4cdf-a322-55804b6ba0d3
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: e2840200-246e-4c68-b10f-a66461f2a118
 ---
-
 # Adobe Training Services{#adobe-training-services}
 
 Dynamic Media Classic offers training in the form of video tutorials, instructor-led workshops and web sessions, and demos.

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Administrator,Business Practitioner
+exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
 ---
-
 # Quick Start: Media Portal{#quick-start-media-portal}
 
 Media Portal lets companies easily acquire, control, and distribute approved creative assets to external partners and channels, and internal business users. This browser-based, "self-serve" environment provides Media Portal users with administrator-controlled "views" into Dynamic Media Classic assets for easy access to, browse, search, preview, and export assets in corporate-approved formats.

@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 feature: Dynamic Media Classic,Asset Management
 role: Business Practitioner
+exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
 ---
-
 # Quick Start: Image Sizing{#quick-start-image-sizing}
 
 Image Sizing refers to the ability of Dynamic Media Classic to create multiple derivative images based on a single high-resolution image. Rather than manually creating several images—for example, a thumbnail and enlarged-view image—for your web site or application, you provide a single master image. Dynamic Media Classic generates all modified images just as you request them. Being able to deliver images dynamically from a single master image has many advantages:

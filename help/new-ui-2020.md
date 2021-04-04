@@ -6,8 +6,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 ---
-
 # Adobe Dynamic Media Classic Desktop app - Now available {#new-ui-2020}
 
 See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-desktop-app.md) to review system requirements, download and install the new app, and then sign in to it.
@@ -101,4 +101,3 @@ To learn more about the benefits of upgrading to the next generation of rich med
 
 
 <!-- SAVE - OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->
-

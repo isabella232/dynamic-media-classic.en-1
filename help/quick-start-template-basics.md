@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: dd0fbb39-3f6a-496b-a9b6-63b11dcb823a
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
 ---
-
 # Quick Start: Template Basics{#quick-start-template-basics}
 
 Template Basics are dynamically created and addressable layered image files like layered files in image-editing applications such as Adobe Photoshop. Unlike a static file containing layers, such as a PSD file, a template can include parameters. Through parameters, the different aspects of the image can be addressed and customized.

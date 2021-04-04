@@ -9,8 +9,8 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 discoiquuid: 3f1f5575-9fe5-436c-b009-99f3bff0b21f
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: fa5b3971-1c7d-4371-8d69-c399cec0390d
 ---
-
 # Disabling Adobe Analytics tracking{#disabling-adobe-analytics-tracking}
 
 **To disable Adobe Analytics tracking**
@@ -19,4 +19,3 @@ role: Data Engineer,Administrator,Business Practitioner
 1. Save and publish.
 
 This turns off the support through Dynamic Media Classic and through URLs obtained from the **CopyURL** feature. If you implement custom tracking, disable the Adobe Analytics tracking as set up in the Configuration page to prevent conflicts with the custom implementation.
-
