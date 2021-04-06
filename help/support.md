@@ -7,6 +7,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 708f32f1-fdbb-4a32-a1b7-836c99b458be
 ---
 # Support {#support}
 
