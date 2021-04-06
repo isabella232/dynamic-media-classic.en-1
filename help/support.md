@@ -16,7 +16,7 @@ Technical support offerings are designed to meet the needs of any size company. 
 |--- |--- |
 |Case limit|Unlimited.|
 |Check the Adobe System Status|[Dynamic Media Classic System Status](https://status.adobe.com/products/1175).|
-|Can't find an answer?|[To get help from Support, open a ticket](https://experienceleague.adobe.com/?support-solution=General#support).
+|Can't find an answer?|[To get help from Support, open a ticket](https://experienceleague.adobe.com/?support-solution=General#support).|
 |Community Forum|[Experience Manager community forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).|
 |SLA (Service Level Agreements)|[Support Services / Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html).|
 |Supported users|Up to ten users per organization can be designated as Supported Users, who can open cases with Customer Care.|
