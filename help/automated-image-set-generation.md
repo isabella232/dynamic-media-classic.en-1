@@ -27,11 +27,11 @@ You can automate set generation as an independent job that is not dependent of a
 
 **To automate Image Set generation**
 
-1. Click **File** > **Generate Set**.
+1. Click **[!UICONTROL File]** > **[!UICONTROL Generate Set]**.
 1. In the Generate Set dialog box, specify a job name.
 
    By default, the job is given a name that indicates it is a generated job and when the job was generated.
 
 1. Select the preset that you want to apply.
-1. Click **Destination Folder** and specify the folder that you want to use.
-1. Click **Submit**.
+1. Click **[!UICONTROL Destination Folder]** and specify the folder that you want to use.
+1. Click **[!UICONTROL Submit]**.

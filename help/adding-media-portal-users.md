@@ -33,7 +33,7 @@ Media Portal users, contributors, and contributor-users are sent a Welcome e-mai
 
 ## Adding a Media Portal user {#adding-a-media-portal-user}
 
-1. Click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administation]**.
+1. Click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. On the User Administration page, click **Add**.
 1. In the Add User dialog box, in the User Info panel, enter the First Name, Last Name, and Email address of the user, and then click **[!UICONTROL Next]**.
 1. In the Company/Role panel, in the Companies drop-down list, select a company or companies for the user.
@@ -76,8 +76,8 @@ The following sample spreadsheet demonstrates how to lay out a CSV file:
 
 |First Name|Last Name|Email|Password|User Role|Groups|
 |--- |--- |--- |--- |--- |--- |
-|Peter|Peterson|`petep@company.com`|welcome|MediaPortalAdmin|PortalCo/IT,PortalCo/Admin|
-|Kevin|Marks|`kevinm@myco.com`|welcome|MediaPortalUser|PortalCo/MktgGroup, PortalCo/test|
+|Prairie|Kat|`prairiek@company.com`|welcome|MediaPortalAdmin|PortalCo/IT,PortalCo/Admin|
+|Rick|Brough|`rickb@myco.com`|welcome|MediaPortalUser|PortalCo/MktgGroup, PortalCo/test|
 
 
 ### Uploading the CSV file {#uploading-the-csv-file}
@@ -98,7 +98,7 @@ You can display the names and e-mail addresses of Media Portal users in a pop-up
 
 1. Click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In the **[!UICONTROL By User Role]** drop-down list, choose the name of a Media Portal user role, and click **[!UICONTROL Refresh]** to display the names of one class of Media Portal user.
-1. Click **[!UICONTROL Popup List]** to open the pop-up window. You can copy and paste this list.
+1. Click **[!UICONTROL Popup List]** to open the pop-up window. Copy and paste this list.
 
 ## Setting up the Welcome e-mail message for Media Portal users {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
@@ -108,24 +108,24 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 1. In the User Administration Setup screen, click **[!UICONTROL Email Settings]**.
 1. In the Email Settings dialog box, specify any of the following settings:
 
-   **[!UICONTROL Send Email]** Deselect this option if you don’t want to inform new users by e-mail that you have signed them up.
+   * **[!UICONTROL Send Email]** - Deselect this option if you don’t want to inform new users by e-mail that you have signed them up.
 
-   **[!UICONTROL Default Password]** Enter a temporary password for new users, or leave the field empty to have Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
+   * **[!UICONTROL Default Password]** - Enter a temporary password for new users, or leave the field empty to have Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
 
-   **[!UICONTROL Replacement URL]** Enter a URL different from the default if your users access Dynamic Media Classic through a different URL.
+   * **[!UICONTROL Replacement URL]** - Enter a URL different from the default if your users access Dynamic Media Classic through a different URL.
 
 ## Other user management tasks {#other-user-management-tasks}
 
 Starting on the User Administration Setup screen, you can also do these tasks:
 
-**[!UICONTROL Filter and sort the user list]** Filter the list of Media Portal users to locate users. See Filter and sort the user list.
+* **[!UICONTROL Filter and sort the user list]** - Filter the list of Media Portal users to locate users.
 
-**[!UICONTROL Delete users]** Delete a user from the list. See Delete a user.
+* **[!UICONTROL Delete users]** - Remove a user from the list.
 
-**[!UICONTROL Activate and deactivate users]** Suspend a user from accessing folders. See Activate and deactivate users.
+* **[!UICONTROL Activate and deactivate users]** - Suspend a user from accessing folders.
 
-**[!UICONTROL Edit user information]** Enter up-to-date information about a user. See Edit user information.
+* **[!UICONTROL Edit user information]** - Enter up-to-date information about a user.
 
-**[!UICONTROL Create user-defined fields]** Create custom, user-defined metadata fields to help organize assets in the Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
+* **[!UICONTROL Create user-defined fields]** - Create custom, user-defined metadata fields to help organize assets in the Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
 
 See [User-Defined Fields](application-setup.md#user_defined_fields).

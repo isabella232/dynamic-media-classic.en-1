@@ -21,7 +21,7 @@ See also [Smart imaging](https://experienceleague.adobe.com/docs/experience-mana
 
 * JPG or PNG are the best choices to deliver images in good quality and with manageable size and weight.
 * If no format command is supplied in the URL, Dynamic Media Image Serving defaults to JPG for delivery.
-* JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except in some cases, such as when images contain a empty background. Typically though, PNG file sizes are larger than JPG files.
+* JPG compresses at a ratio of 10:1 and usually produces smaller image file sizes. PNG compresses at a ratio of about 2:1, except sometimes when images contain an empty background. Typically though, PNG file sizes are larger than JPG files.
 * JPG uses lossy compression, meaning that picture elements (pixels) are dropped during compression. PNG on the other hand uses lossless compression.
 * JPG often compresses photographic images with better fidelity than synthetic images with sharp edges and contrast.
 * If your images contain transparency, use PNG because JPG does not support transparency.
@@ -45,7 +45,7 @@ Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
-With Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. In most cases, however, you should sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
+With Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. Usually, however, you sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
 
 There are two image sharpening methods that you can use:
 
@@ -93,7 +93,7 @@ As a best practice for JPG compression use `&qlt=85,0`.
 
 ## Best practices for JPEG sizing (&jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
 
-`jpegSize` is a useful parameter if you want to guarantee that an image does not exceed a certain size for delivery to devices that have limited memory.
+The parameter `jpegSize` is useful if you want to guarantee that an image does not exceed a certain size for delivery to devices that have limited memory.
 
 * This parameter is set in kilobytes ( `jpegSize=<size_in_kilobytes>`). It defines the maximum allowed size for image delivery.
 * `&jpegSize=` interacts with the JPG compression parameter `&qlt=`. If the JPG response with the specified JPG compression parameter ( `&qlt=`) does not exceed the `jpegSize` value, the image is returned with `&qlt=` as defined. Otherwise, `&qlt=` is gradually decreased until the image fits in the maximum allowed size, or until the system determines it cannot fit and returns an error.
@@ -112,8 +112,8 @@ If the image requires further optimization, gradually fine-tune sharpening (unsh
 
 If sharpening results are still not satisfactory, increase the radius in decimal increments. For every decimal increment, restart the amount at 1.75 and gradually increase it to 4. Repeat this process until you achieve the desired result. While the values above are an approach that creative studios have validated, remember that you can start with other values and follow other strategies. Whether the results are satisfactory to you or not is a subjective matter, therefore structured experimentation is key.
 
-As you experiment, you may also find the following general suggestions helpful to optimize your workflow:
+As you experiment, the following general suggestions are helpful to optimize your workflow:
 
-* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Dynamic Media Classic's image adjustment functionality which provides real-time previews for adjustment operations.
-* As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path makes a call to these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
-* Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying sharpening images on ingestion. For advanced use cases where this may be an option to further tune and optimize rendering results, Adobe Professional Services can help you with customized insight and best practices.
+* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Dynamic Media Classic's image adjustment functionality. The latter provides real-time previews for adjustment operations.
+* As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path calls these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
+* Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying image sharpening on ingestion. For advanced use cases where further tuning and optimizing of rendered results is an option, Adobe Professional Services can help you with customized insight and best practices.

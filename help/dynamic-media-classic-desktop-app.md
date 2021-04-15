@@ -54,18 +54,18 @@ See also:
 
     * The latest version (20.21.1) is available at the following:
 
-        * [macOS (.DMG) &ndash; Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
-        * [Windows (.EXE) &ndash; Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
+        * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
+        * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
 
     * The previous version (20.20.2) is available at the following:
 
-        * [macOS (.DMG) &ndash; Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
-        * [Windows (.EXE) &ndash; Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
+        * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+        * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
 
 
 1. Do one of the following based on the installer you downloaded.
 
-    * **For macOS** &ndash; In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
+    * **For macOS** - In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
 
         ![Drag and drop install on macOS](/help/assets/dragondrop-install1.png)
 
@@ -74,7 +74,7 @@ See also:
 
         ![Open downloaded app](/help/assets/open-dmclassicapp1.png)
 
-    * **For Windows** &ndash; Run the installer binary and follow the on-screen instructions to install the desktop app.
+    * **For Windows** - Run the installer binary and follow the on-screen instructions to install the desktop app.
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
 
@@ -105,7 +105,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app for macOS.
 
-    * [macOS (.DMG) &ndash; Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
+    * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
 
 1. Mount the downloaded Disk Image (.DMG) to a mountpoint location using the following command:
 
@@ -145,7 +145,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * [Windows (.EXE) &ndash; Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
+    * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
 
 1. Run the installer in record mode using the following command:
 
@@ -199,13 +199,13 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 ## Known limitation in Dynamic Media Classic 20.21.1
 
-* The **[!UICONTROL Server]** drop-down list is empty after updating to Dynamic Media Classic desktop app 20.21.1 &ndash; Scenario: You install and sign in to Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then you update to Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, you must [manually clear the cache](#clear-cache) (see steps above). 
+* The **[!UICONTROL Server]** drop-down list is empty after updating to Dynamic Media Classic desktop app 20.21.1 - Scenario: You install and sign in to Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then you update to Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, you must [manually clear the cache](#clear-cache) (see steps above). 
 
 ## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2) 
  
-**_Applies to Windows only &ndash; Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
+**_Applies to Windows only - Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
 
-**_Applies to Windows and macOS &ndash; How do I switch between companies?_**<br>To switch between companies, do the following:
+**_Applies to Windows and macOS - How do I switch between companies?_**<br>To switch between companies, do the following:
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up window appears, tap **[!UICONTROL OK]** to sign out and close the app.
 

@@ -29,34 +29,34 @@ See also [Creating an alias for an image](adjusting-image.md#creating_an_alias_f
 
 1. When you have finished adjusting the image, do one of the following:
 
-    * Click **Save**.
-    * To replace the original of the image, click **Save As**.
+    * Click **[!UICONTROL Save]**.
+    * To replace the original of the image, click **[!UICONTROL Save As]**.
 
-      In the drop-down list, select **Replace original**, and then click **Save**.
-    
-    * To save the image as a new master image, click **Save As**.
+      In the drop-down list, select **[!UICONTROL Replace original]**, and then click **[!UICONTROL Save]**.
 
-      In the drop-down list, select **Save as new master**.
+    * To save the image as a new master image, click **[!UICONTROL Save As]**.
 
-      In the **Folder Name** list box, select the folder where you want the new master image saved.
+      In the drop-down list, select **[!UICONTROL Save as new master]**.
 
-      Click **Save**.
-    
-    * To save the image as additional view of the master image. you can create an alias for it. Click **Save As**.
+      In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new master image saved.
 
-      In the **Save As** dialog box, in the drop-down list, click **Save as additional view of master**.
+      Click **[!UICONTROL Save]**.
 
-      In the **Folder Name** list box, select the folder where you want the new master image saved.
+    * To save the image as another view of the master image. you can create an alias for it. Click **[!UICONTROL Save As]**.
 
-      Click **Save**.
+      In the **[!UICONTROL Save As]** dialog box, in the drop-down list, click **[!UICONTROL Save as another view of master]**.
+
+      In the **[!UICONTROL Folder Name]** list box, select the folder where you want the new master image saved.
+
+      Click **[!UICONTROL Save]**.
 
 ## Creating an alias for an image {#creating-an-alias-for-an-image}
 
-When you have adjusted an image, you may want to save it as additional view of the master image. To do so, you can create an alias for the image by using the **Save as additional view of master** feature.
+When you have adjusted an image, you can save it as another view of the master image. To do so, you can create an alias for the image by using the **[!UICONTROL Save as additional view of master]** feature.
 
-1. In the Grid View or List View, in the **Edit** drop-down list next to an image for which you want to create an alias, click **Adjust**.
-1. In the lower-right corner of the page, click **Save As**.
-1. In the **Save As** dialog box, in the drop-down list, click **Save as addition view of master**.
-1. In the **Folder Name** list box, select the folder where you want to save the aliased image.
-1. In the **File Name** field, type the name you want to use for the alias.
-1. Click **Save**.
+1. In the Grid View or List View, in the **[!UICONTROL Edit]** drop-down list next to an image for which you want to create an alias, click **[!UICONTROL Adjust]**.
+1. In the lower-right corner of the page, click **[!UICONTROL Save As]**.
+1. In the **[!UICONTROL Save As]** dialog box, in the drop-down list, click **[!UICONTROL Save as additional view of master]**.
+1. In the **[!UICONTROL Folder Name]** list box, select the folder where you want to save the aliased image.
+1. In the **[!UICONTROL File Name]** field, type the name you want to use for the alias.
+1. Click **[!UICONTROL Save]**.
