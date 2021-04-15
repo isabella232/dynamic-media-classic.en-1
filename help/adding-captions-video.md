@@ -18,11 +18,13 @@ Captioning also allows for greater accessibility by using closed captioning for 
 >
 >The video player that is used must support the display of captions.
 
-See [Adding or editing a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) to configure the Caption Effect and to edit the Caption Menu itself, including the menu’s text for any of the following viewers:
+To configure the Caption Effect and to edit the Caption Menu itself, including the menu’s text for any of the following viewers:
 
-* `Universal_HTML5_Video` viewer.
-* `Universal_HTML5_MixedMedia_dark` viewer.
-* `Universal_HTML5_MixedMedia_light` viewer.
+* `Universal_HTML5_Video` viewer
+* `Universal_HTML5_MixedMedia_dark` viewer
+* `Universal_HTML5_MixedMedia_light` viewer
+
+see [Adding or editing a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 See also [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
@@ -36,7 +38,7 @@ See [Serving static (non-image) contents](https://experienceleague.adobe.com/doc
 
     |Viewer type|Captioning file|
     |--- |--- |
-    |HTML5|If you are using an HTML5 video viewer, ensure that the caption file you create follows the WebVTT (Web Video Text Tracks) standard. The captioning filename extension is .vtt. You can learn more information about the WebVTT captioning standard.<br><br>[See WebVTT](https://dev.w3.org/html5/webvtt/): The Web Video Text Tracks format. <br><br>There are both free and paid for tools and services that you can use to author caption files outside Dynamic Media Classic. For example, to create a simple video caption file with no styling, you can use the following free online caption authoring and editing tool: <br><br>[WebVTT Caption Maker](https://testdrive-archive.azurewebsites.net/Graphics/CaptionMaker/Default.html) <br><br>For best results, use the tool in Internet Explorer 9 or above, Google Chrome, or Safari. <br><br>In the tool, in the <b>Enter URL of video file</b> field, paste the URL of your video file and then click <b>Load</b>. <br><br>For example, if you are using a Dynamic Media Classic URL for your video file, double-click an individual video asset (not an Adaptive Video Set or a Master Video) to open it in Detail View. In the right panel of the Detail View, expand URLs and Embed Code. Then under the Mobile group, to the right of Mobile (Progressive), click Copy URL. This process gives you the URL to the video file itself which you can then paste into the <b>Enter URL of video file</b> field. Internet Explorer, Chrome, or Safari can then natively play back the video. Now follow the onscreen instructions from the site to author and save your WebVTT file. When you have finished, copy the caption file contents and paste it into a plain text editor and save it with a .VTT filename extension. <br><br><b>Note:</b> For global support of video captions in languages other than English, the WebVTT standard requires that you create separate .vtt files and calls for each language you want to support. <br><br>Generally, you want to name the caption VTT file the same name as the video file, and append it with captions. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.|
+    |HTML5|If you are using an HTML5 video viewer, ensure that the caption file you create follows the WebVTT (Web Video Text Tracks) standard. The captioning filename extension is .vtt. You can learn more information about the WebVTT captioning standard.<br><br>[See WebVTT](https://w3c.github.io/webvtt/): The Web Video Text Tracks format. <br><br>There are both free and paid for tools and services that you can use to author caption files outside Dynamic Media Classic. For example, to create a simple video caption file with no styling, you can use the following free online caption authoring and editing tool: <br><br>[WebVTT Caption Maker](https://testdrive-archive.azurewebsites.net/Graphics/CaptionMaker/Default.html) <br><br>For best results, use the tool in Internet Explorer 9 or above, Google Chrome, or Safari. <br><br>In the tool, in the <b>Enter URL of video file</b> field, paste the URL of your video file and then click <b>Load</b>. <br><br>For example, if you are using a Dynamic Media Classic URL for your video file, double-click an individual video asset (not an Adaptive Video Set or a Master Video) to open it in Detail View. In the right panel of the Detail View, expand URLs and Embed Code. Then under the Mobile group, to the right of Mobile (Progressive), click Copy URL. This process gives you the URL to the video file itself which you can then paste into the <b>Enter URL of video file</b> field. Internet Explorer, Chrome, or Safari can then natively play back the video. Now follow the onscreen instructions from the site to author and save your WebVTT file. When you have finished, copy the caption file contents and paste it into a plain text editor and save it with a .vtt filename extension. <br><br><b>Note:</b> For global support of video captions in languages other than English, the WebVTT standard requires that you create separate .vtt files and calls for each language you want to support. <br><br>Generally, you want to name the caption VTT file the same name as the video file, and append it with captions. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.|
 
 1. In Dynamic Media Classic, upload your WebVTT, DFXP, or SMPTE XML caption file.
 
@@ -52,7 +54,7 @@ See [Serving static (non-image) contents](https://experienceleague.adobe.com/doc
 
       `&caption=<full Copy URL path to the caption file .vtt>,1`
 
-      Note the `,1` at the end of the caption URL path. Immediately following the .VTT filename extension in the path, you can optionally enable or disable the closed caption button on the video player bar by setting to `1` or `0`, respectively.
+      Note the `,1` at the end of the caption URL path. Immediately following the .vtt filename extension in the path, you can optionally enable or disable the closed caption button on the video player bar by setting to `1` or `0`, respectively.
     
     * For an embedded video viewer experience, click **[!UICONTROL Embed Code]** to the far right of the name.
 
@@ -62,4 +64,4 @@ See [Serving static (non-image) contents](https://experienceleague.adobe.com/doc
 
       `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1”`
 
-      Note the `,1` at the end of the URL path. Immediately following the .VTT filename extension in the URL path, you can optionally enable or disable the caption button on the video player bar by setting to `1` or `0`, respectively.
+      Note the `,1` at the end of the URL path. Immediately following the .vtt filename extension in the URL path, you can optionally enable or disable the caption button on the video player bar by setting to `1` or `0`, respectively.

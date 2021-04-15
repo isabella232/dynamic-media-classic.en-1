@@ -66,7 +66,7 @@ After you add a user, Dynamic Media Classic sends the user a Welcome e-mail mess
 
 You can delete users from Dynamic Media Classic by making them invalid. Invalid users are removed from the system and all accounts.
 
-1. Click **Setup** > **Application Setup** > A**dministration Setup** > **User Administration**.
+1. Click **Setup** > **Application Setup** > **Administration Setup** > **User Administration**.
 1. Select a user from the list, and then click **Edit**.
 1. Deselect Valid.
 1. Click **Save**.
@@ -75,14 +75,14 @@ You can delete users from Dynamic Media Classic by making them invalid. Invalid 
 
 Users who have been deactivated no longer have permission to enter the account listed at the top of the Select Accounts To Access menu.
 
-1. Click **Setup** > **Application Setup** > A**dministration Setup** > **User Administration**.
+1. Click **Setup** > **Application Setup** > **Administration Setup** > **User Administration**.
 1. In the user list, select or deselect the Active option next to the name of the user.
 
 ### Editing user information {#editing-user-information}
 
 The user information that you can edit depends on your role as an administrator and the assigned role of the user whose information you want to edit. Options that are dimmed (unavailable) are not editable.
 
-1. Go to **Setup** > **Application Setup **> A**dministration Setup** > **User Administration**.
+1. Go to **Setup** > **Application Setup** > **Administration Setup** > **User Administration**.
 1. Select the user and click **Edit**.
 1. Select the entry in the table that shows the company you are trying to modify permissions or access for, then click the Manage Company link.
 1. Select the user role.
@@ -95,15 +95,15 @@ You can filter and sort the user list to locate users. All users in all accounts
 
 You can use the following user list filtering techniques:
 
-**Filter by group** Select the By Group menu and choose an option to narrow the list to users in a group.
+* **Filter by group** - Select the By Group menu and choose an option to narrow the list to users in a group.
 
-**Filter by user role** Select the By User Role menu and choose an option to narrow the list to users or administrators of different types.
+* **Filter by user role** - Select the By User Role menu and choose an option to narrow the list to users or administrators of different types.
 
-**Filter by field name** Select the Enable Filter By Field option. Then select the By Field Name menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter you chose. Deselect the Enable Filter By Field option to see the full list.
+* **Filter by field name** - Select the Enable Filter By Field option. Then select the By Field Name menu, choose a column for filtering the list, and select the Filter Character menu and choose a letter. The list is filtered on one of the columns by the letter you chose. Deselect the Enable Filter By Field option to see the full list.
 
-**Filter out invalid users** Deselect the Include Invalid option. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts you administer.
+* **Filter out invalid users** - Deselect the Include Invalid option. The search results display only users who are in the system. Invalid users have been deleted from the system and the accounts you administer.
 
-**Sort by column heading** Click a heading to sort all users by their status, alphabetically by first name, last name, or email, by user role, or by valid/invalid status.
+* **Sort by column heading** - Click a heading to sort all users by their status, alphabetically by first name, last name, or email, by user role, or by valid/invalid status.
 
 If you have many users, you can limit the size of the list by selecting the Max List Size menu and choosing a number.
 
@@ -154,20 +154,19 @@ The following table describes reports that you can generate from the Bandwidth &
 |Video Streaming|Bandwidth usage for streaming video|Track streaming video usage by company over specific date ranges to determine traffic patterns.|
 |Video Content|Playing time of different videos|Determine which are the most viewed and least viewed videos.|
 
-
 The Image Content report provides information about requests for the following image types:
 
-**Image Request** Requests for images.
+* **Image Request** - Requests for images.
 
-**Thumbnail Request** Requests for swatch or alternate images in viewers.
+* **Thumbnail Request** - Requests for swatch or alternate images in viewers.
 
-**Mask Request** Requests to images returning gray-scale masks.
+* **Mask Request** - Requests to images returning gray-scale masks.
 
-**Viewer Tile Request** Image requests loaded by a viewer.
+* **Viewer Tile Request** - Image requests loaded by a viewer.
 
-**Vnt Object Request** Image rendering requests that return an image with specified objects in the requested vignettes.
+* **Vnt Object Request** - Image rendering requests that return an image with specified objects in the requested vignettes.
 
-**Vnt Info Request** Image rendering requests that return information concerning the requested vignettes.
+* **Vnt Info Request** - Image rendering requests that return information concerning the requested vignettes.
 
 >[!NOTE]
 >
@@ -187,27 +186,27 @@ To generate a bandwidth, storage, image content, domain, video streaming, or vid
 
 After you generate a report on the Bandwidth & Storage page, you can choose options for viewing information. You can choose how information is presented, view information in a chart or data grid, and specify a time period for capturing information. In Data view, you can also sort information and rearrange columns.
 
-**Viewing data in a chart or data grid** Click the Chart View option to view data in a chart; click the Data View option to view data in a data grid.
+* **Viewing data in a chart or data grid** - Click the Chart View option to view data in a chart; click the Data View option to view data in a data grid.
 
-**Choosing a report presentation type** On the Report Type menu, choose Summary, Daily, or monthly to organize data in summary form, by day, or by month. Not all reports provide this option.
+* **Choosing a report presentation type** - On the Report Type menu, choose Summary, Daily, or monthly to organize data in summary form, by day, or by month. Not all reports provide this option.
 
-**Specifying a time period** Choose options to define a time period for your report, and then click Update after you define a time period:
+* **Specifying a time period** - Choose options to define a time period for your report, and then click Update after you define a time period:
 
-**Pre-defined time period** On the Pre-defined Report menu, choose an option. For example, choose Last Month to capture data from the previous month.
+* **Pre-defined time period** - On the Pre-defined Report menu, choose an option. For example, choose Last Month to capture data from the previous month.
 
-**Custom time period** On the Pre-defined Report menu, choose Custom. Then choose a date on the Start Month (or Start Date) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
+* **Custom time period** - On the Pre-defined Report menu, choose Custom. Then choose a date on the Start Month (or Start Date) menu and a date on the # of Months (or # or Days) menu. For Domain and Video Content Reports, you can choose a specific start and end date for capturing report information.
 
-**Sorting data (Data view only)** To sort information on a column, click the column’s heading. Click again to sort in descending order.
+* **Sorting data (Data view only)** - To sort information on a column, click the column’s heading. Click again to sort in descending order.
 
-**Rearranging columns (Data view only)** To move a column to a different location on the data grid, drag its heading.
+* **Rearranging columns (Data view only)** - To move a column to a different location on the data grid, drag its heading.
 
 ### Exporting and printing reports {#exporting-and-printing-reports}
 
 After you generate a report, you can export its data for use in spreadsheets and other applications. You can also print reports.
 
-**Exporting report data** In Data view, sort and arrange the data as necessary. Then open the Export menu and choose a format: Tab Delimited, Comma Separated, or HTML Formatted. The data is copied to the Clipboard in the format you chose. You can now paste the data into a spreadsheet or application.
+* **Exporting report data** - In Data view, sort, and arrange the data as necessary. Then open the Export menu and choose a format: Tab Delimited, Comma Separated, or HTML Formatted. The data is copied to the Clipboard in the format you chose. You can now paste the data into a spreadsheet or application.
 
-**Printing a report** Click Print, choose the options you want in the Print dialog box, and then click OK.
+* **Printing a report** - Click **[!UICONTROL Print]**, choose the options you want in the Print dialog box, and then click **[!UICONTROL OK]**.
 
 ## Image Errors {#image-errors}
 
@@ -220,21 +219,21 @@ Dynamic Media Classic Administrators can generate Image Error reports. An Image 
     * Click a heading to sort errors by the heading information. By default, errors are sorted by number of occurrences, highest to lowest.
     * Move the cursor over the Response field for an error to see the specific error message.
     * Move the cursor over the URL field or the Referrer field to see the link to the image or referrer web page.
-    * Click URL Copy URL to copy the link to the actual image. You can paste this link in a browser window to go to the image and investigate the error.
-    * Click Referrer Copy URL to copy the link to the referrer web page.
+    * Click **[!UICONTROL URL Copy URL]** to copy the link to the actual image. You can paste this link in a browser window to go to the image and investigate the error.
+    * Click **[!UICONTROL Referrer Copy URL]** to copy the link to the referrer web page.
 
 Errors displayed are for the company you are currently logged in to. Each error includes the following information:
 
-**Image ID** ID for the offending image.
+* **Image ID** - ID for the offending image.
 
-**Time** The time range of the first time the error was reported to the last time the error was reported, within the last 24 hours.
+* **Time** - The time range of the first time the error was reported to the last time the error was reported, within the last 24 hours.
 
-**Count** The number of errors reported on the image.
+* **Count** - The number of errors reported on the image.
 
-**Response** The specific error message. Errors are either 4xx or 5xx.
+* **Response** - The specific error message. Errors are either 4xx or 5xx.
 
-**URLs** Lists the URL to the image on Scene 7.
+* **URLs** - Lists the URL to the image on Dynamic Media Classic.
 
-**Referrer** Specifies the URL for the web site where the initial request came from. The referrer can be any web site that has a link to the image.
+* **Referrer** - Specifies the URL for the web site where the initial request came from. The referrer can be any web site that has a link to the image.
 
 The URL and Referrer columns have Copy URL associated with them to simplify testing.

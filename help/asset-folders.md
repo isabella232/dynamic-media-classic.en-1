@@ -21,26 +21,22 @@ Be sure to establish a folder structure and organization for storing your files 
 
 The Asset Library displays files in a folder tree. When you select a folder in the Asset Library, its contents appear in the Browse Panel. Use these techniques to locate folders in the folder tree:
 
-* **Displaying subfolders**
-Select the Expand Folder icon to display the subfolders in a folder. This icon is located to the left of folder names.
+* **Displaying subfolders** - Select the Expand Folder icon to display the subfolders in a folder. This icon is located to the left of folder names.
 
-* **Moving a folder**
-You can move a folder by dragging it and dropping it in its new location, or by selecting File >Move Folder.
+* **Moving a folder** - You can move a folder by dragging it and dropping it in its new location, or by selecting File >Move Folder.
 
-* **Hiding folders**
-Select the Collapse Folder icon to collapse subfolders. This icon is located to the left of folder names.
+* **Hiding folders** - Select the Collapse Folder icon to collapse subfolders. This icon is located to the left of folder names.
 
-* **Opening a folder**
-Select a folder to display its contents in the Browse Panel.
+* **Opening a folder** - Select a folder to display its contents in the Browse Panel.
 
 ***Tip**: You can hide or display the Asset Library by clicking the Expand/Collapse control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.*
 
 ## Creating folders {#creating-folders}
 
-Follow these steps to create a folder:
+To create folders, follow these steps:
 
 1. In the Asset Library, select the folder you want to create a folder in.
-1. Select the Add Folder button. This icon is located at the top of the folder list.
+1. Select the **[!UICONTROL Add Folder]** button. This icon is at the top of the folder list.
 1. Enter a descriptive name for your new folder or subfolder by typing it into the field next to the folder icon.
 
    >[!NOTE]
@@ -51,11 +47,9 @@ Follow these steps to create a folder:
 
 Select a folder and use these techniques to delete or rename it:
 
-* **Deleting**
-Select the Remove Folder button . Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
+* **Deleting** - Select the Remove Folder button . Assets in a deleted folder are placed in the Trash folder. You can recover them from there.
 
-* **Renaming**
-Double-click the name and enter a new name.
+* **Renaming** - Double-click the name and enter a new name.
 
 >[!NOTE]
 >

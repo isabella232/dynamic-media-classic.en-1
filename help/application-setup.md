@@ -27,27 +27,27 @@ On account creation, Dynamic Media Classic automatically provides the assigned s
 
 See also [Testing the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-* **Published Server Name** &ndash; This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Dynamic Media Classic support technician.
+* **Published Server Name** - This server is the live CDN server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Dynamic Media Classic support technician.
 
-* **Origin Server Name** &ndash; This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
+* **Origin Server Name** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician.
 
 <!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician. -->
 
-* **Test&amp;Target Server Name** &ndash; Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating [!DNL Dynamic Media Classic] with [!DNL Target Standard/Premium].
+* **Test&amp;Target Server Name** - Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating [!DNL Dynamic Media Classic] with [!DNL Target Standard/Premium].
 
 <!-- **Test Publish Context Server Name** -->
 
-* **iOS Streaming Server Name** &ndash; The URL to your [!DNL Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
+* **iOS Streaming Server Name** - The URL to your [!DNL Dynamic Media Classic] iOS streaming server. This server delivers streaming video to iOS-based devices using HTTP protocol.
 
-* **Progressive Video Server Name** &ndash; The URL to your [!DNL Dynamic Media Classic] progressive video server. This server delivers progressive video using HTTP protocol.
+* **Progressive Video Server Name** - The URL to your [!DNL Dynamic Media Classic] progressive video server. This server delivers progressive video using HTTP protocol.
 
-* **Show URL for unpublished assets** &ndash; Select this option if you want [!DNL Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
+* **Show URL for unpublished assets** - Select this option if you want [!DNL Dynamic Media Classic] to display a URL when previewing any asset, whether it is published or not. If the asset is not published, the URL does not work. However, you can use the URL for planning or organizational purposes.
 
 <!-- **Allow AIR install** Select this option to allow users to download Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
 <!-- AIR users must manually uninstall their existing app and reinstall from the web version of Dynamic Media Classic (in Personal Settings). After this one-time reinstallation, you are prompted to upgrade whenever the server has a newer version of Dynamic Media Classic AIR. Dynamic Media Classic is integrated with the Application Update Framework which streamlines the upgrade process. -->
 
-* **CDN Invalidation Template** &ndash; Specifies the template that is used for invalidating the CDN (Content Delivery Network) cache.
+* **CDN Invalidation Template** - Specifies the template that is used for invalidating the CDN (Content Delivery Network) cache.
 
    For example, suppose you enter an image URL (including image presets or modifiers) referencing `<ID>`, instead of a specific image ID as in the following example:
 
@@ -71,13 +71,13 @@ See also [Testing the Secure Testing service](testing-assets-making-them-public.
 
 ### Browse
 
-* **Show Projects** &ndash; Determines whether Projects are available as a means of organizing your Dynamic Media Classic assets. See Organizing your work with Projects.
+* **Show Projects** - Determines whether Projects are available as a means of organizing your Dynamic Media Classic assets. See Organizing your work with Projects.
 
-* **Show Sample eVideo Content** &ndash; Turn on or off the display of eVideo sample content.
+* **Show Sample eVideo Content** - Turn on or off the display of eVideo sample content.
 
-* **Show Generated Content** &ndash; In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
+* **Show Generated Content** - In folders, shows content generated from an asset. For example, when a PDF file is rasterized as it is uploaded, Dynamic Media Classic creates one image for each page in the original PDF. If Show Generated Content is selected, each image generated when the original PDF was uploaded appears along with the PDF in the folder to which the PDF was uploaded.
 
-* **Show Encoded Videos** &ndash; Deselected (off) by default.
+* **Show Encoded Videos** - Deselected (off) by default.
 
    To quickly search and browse for videos in Dynamic Media Classic without having to navigate through numerous encoded derivatives of the same video, leave this option deselected (default). Only the Master Video thumbnail, which is the source video you uploaded and used to create all the derivatives, and only the “parent” Adaptive Video Set thumbnail, which contains all the “child” derivatives of the encoded video set, are displayed in the user interface.
 
@@ -95,41 +95,41 @@ See also [Testing the Secure Testing service](testing-assets-making-them-public.
    >
    >If you did not use Dynamic Media Classic to upload and encode your video assets, Dynamic Media Classic shows all your individual encoded videos, even is this option is deselected.
 
-* **Show Refresh Subfolders Button** &ndash; Turn on or off the display of the subfolders Refresh button.
+* **Show Refresh Subfolders Button** - Turn on or off the display of the subfolders Refresh button.
 
 ### Dynamic Media Classic FTP Account
 
-* **Server** &ndash; Lists your FTP account server.
+* **Server** - Lists your FTP account server.
 
-* **User Name** &ndash; Lists your FTP account user name.
+* **User Name** - Lists your FTP account user name.
 
 ### Upload to Application
 
-* **Overwrite Images** &ndash; Dynamic Media Classic does not allow two files to have the same name. Each item's Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
+* **Overwrite Images** - Dynamic Media Classic does not allow two files to have the same name. Each item's Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
 
-  * **Overwrite in current folder, same base image name/extension** &ndash; This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
+  * **Overwrite in current folder, same base image name/extension** - This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
-  * **Overwrite in current folder, same base asset name regardless of extension** &ndash; Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
+  * **Overwrite in current folder, same base asset name regardless of extension** - Requires that you upload the replacement image to the same folder as the original, however the filename extension can be different from the original. For example, chair.tif replaces chair.jpg.
 
-  * **Overwrite in any folder, same base asset name/extension** &ndash; Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
+  * **Overwrite in any folder, same base asset name/extension** - Requires that the replacement image has the same filename extension as the original image (for example, chair.jpg must replace chair.jpg, not chair.tif). However, you can upload the replacement image to a different folder than the original. The updated image resides in the new folder; the file can no longer be found in its original location
 
-  * **Overwrite in any folder, same base asset name regardless of extension** &ndash; This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
+  * **Overwrite in any folder, same base asset name regardless of extension** - This option is the most inclusive replacement rule. You can upload a replacement image to a different folder than the original, upload a file with a different filename extension, and replace the original file. If the original file is in a different folder, the replacement image resides in the new folder to which it was uploaded.
 
-* **Retain Publish** &ndash; Specifies whether a replacement image uploaded to Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
+* **Retain Publish** - Specifies whether a replacement image uploaded to Dynamic Media Classic retains the Ready to Publish setting of the image it is replacing, or the setting is specified on upload.
 
-* **Default Color Profiles** &ndash; Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
+* **Default Color Profiles** - Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
-* **Default Upload Options** &ndash; Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see Upload options.
+* **Default Upload Options** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see Upload options.
 
 ### Image Map Editor, to Application
 
-* **Default Image Mapping HREF** &ndash; Defines the default URL used for the image mapping href column. This URL is the default URL you see when you create new Image Maps.
+* **Default Image Mapping HREF** - Defines the default URL used for the image mapping href column. This URL is the default URL you see when you create new Image Maps.
 
-* **Default Image Mapping Template** &ndash; Defines the default Javascript for the image mapping href template. You can set custom code here to be executed whenever you click an image map.
+* **Default Image Mapping Template** - Defines the default Javascript for the image mapping href template. You can set custom code here to be executed whenever you click an image map.
 
 ### Other Settings, to Application
 
-* **Trash Can Clean Up Warnings** &ndash; Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See Managing the Trash folder.
+* **Trash Can Clean Up Warnings** - Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See Managing the Trash folder.
 
 ## Using the Overwrite Images option {#using-the-overwrite-images-option}
 

@@ -15,7 +15,7 @@ exl-id: ce49e4ce-8dc0-41e1-865a-249f23757553
 
 The Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create the video player’s entire functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.
 
-On the playback side of the viewer, it automatically detects the browser’s video capability. It then serves the video using HLS (adaptive video streaming). Or, if that delivery method is not present then HTML5 progressive is used instead.
+On the playback side of the viewer, it automatically detects the browser’s video capability. It then serves the video using HLS (HTTP Live Streaming), also known as adaptive video streaming. Or, if that delivery method is not present then HTML5 progressive is used instead.
 
 By combining into a single player the following abilities:
 
