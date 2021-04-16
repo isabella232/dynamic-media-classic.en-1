@@ -11,9 +11,9 @@ exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 ---
 # Now available: Adobe Dynamic Media Classic desktop app {#dynamic-media-classic-desktop-app}
 
-Dynamic Media Classic users now have access to a new desktop app experience that no longer relies on Adobe Flash technology in the browser. 
+Dynamic Media Classic users now have access to a new desktop app experience that no longer relies on Adobe Flash technology in the browser.
 
-This new app is now available for Windows and macOS.
+This new app is now available for Windows® and macOS.
 
 >[!IMPORTANT]
 >
@@ -26,41 +26,57 @@ See the FAQ for the [New Dynamic Media Classic sign in experience now available.
 Adobe Dynamic Media Classic desktop app is compatible with the following operating systems:
 
 * macOS 10.10 or newer.
-* Windows 7 or newer.
+* Windows® 7 or newer.
+
+>[!NOTE]
+>
+>Upgrade notification within the Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
+
+## Fixes in the minor release (20.21.2) {#minor-release}
+
+* Known limitation in 20.21.1 of Server dropdown being empty.
+* In **[!UICONTROL Upload Job Options]**, Layer naming default value under **[!UICONTROL Photoshop Options]**, is now **[!UICONTROL Photoshop and Layer Name]**. Layers in the PSD file are uploaded as separate images.
+  * The earlier default of **[!UICONTROL Layer name]**, named the images after their layer name or layer number in the PSD file. The layer number was used if the layer names in the PSD file were default Photoshop layer names.
+  * The new default of **[!UICONTROL Photoshop and Layer Name]**, names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names.
+  * Given that layer images in Dynamic Media Classic now have unique names, no updates to existing PSD or Templates will happen (which shared layer names in the original PSD files).
+* Broken thumbnails of assets.
 
 ## Fixes in the latest version (20.21.1) {#latest-fixes-desktop-app}
 
 * Sign in issues due to timeout resulting in the following message: *This user may be assigned to the group or groups without permission. Contact your administrator.*
 * Viewer presets get duplicated with each incorrect password attempt.
-* Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows; working as desired on macOS.)
+* Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows®; working as desired on macOS.)
 
 ## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
 
-* No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows.
+* No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows®.
 * No need to sign out of the desktop app to switch between companies.
-* Ctrl+V for paste operation now works on Windows.
+* Ctrl+V for paste operation now works on Windows®.
 * In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself.
 
-## Download and install the latest Adobe Dynamic Media Classic desktop app on macOS or Windows {#installation-dmc-app}
+## Download and install the latest Adobe Dynamic Media Classic desktop app on macOS or Windows® {#installation-dmc-app}
 
 See also:
 
 * [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Mac](#install-silent-mac-dmc-app)
-* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows®](#install-silent-windows-dmc-app)
 
 1. Uninstall any older Dynamic Media Classic desktop app versions on your system.
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * The latest version (20.21.1) is available at the following:
+    * The latest version (20.21.2) is available at the following:
 
-        * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
-        * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
+        * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
+        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
 
-    * The previous version (20.20.2) is available at the following:
+    * The previous version (20.21.1) is available at the following:
 
-        * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
-        * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
+        * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
+        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
+
+<!--         * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+        * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
 
 
 1. Do one of the following based on the installer you downloaded.
@@ -96,8 +112,8 @@ See also:
 
 See also:
 
-* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
-* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows](#install-silent-windows-dmc-app)
+* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows®](#installation-dmc-app)
+* [Download and silent install the latest Adobe Dynamic Media Classic desktop app on Windows®](#install-silent-windows-dmc-app)
 
 To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on macOS:
 
@@ -105,11 +121,11 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app for macOS.
 
-    * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
+    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
 
 1. Mount the downloaded Disk Image (.DMG) to a mountpoint location using the following command:
 
-    `hdiutil attach adobe-dynamic-media-classic-20.21.1.dmg -mountpoint <mount_point_path>`
+    `hdiutil attach adobe-dynamic-media-classic-20.21.2.dmg -mountpoint <mount_point_path>`
 
 1. Copy the .APP file to **[!UICONTROL Applications]** using the following command:
 
@@ -130,36 +146,36 @@ Unmount DMG - hdiutil detach <mount_point_path>`
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
-## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows {#install-silent-windows-dmc-app}
+## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows® {#install-silent-windows-dmc-app}
 
-The command that you use is for a basic MSI silent installation. However, the Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running Installations in Silent Mode.](https://docs.flexera.com/installshield19helplib/helplibrary/SilentInstall.htm)
+The command that you use is for a basic MSI silent installation. However, the Dynamic Media Classic desktop app installer is an InstallScript MSI installer created using InstallShield. When you run the installer in record mode, any user interaction is recorded in a response file. This response file is then used for a silent installation as described in [Running Installations in Silent Mode.](https://docs.revenera.com/installshield19helplib/helplibrary/SilentInstall.htm)
 
 See also:
 
-* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows](#installation-dmc-app)
+* [Download and install the latest Adobe Dynamic Media Classic desktop app on Mac or Windows®](#installation-dmc-app)
 * [Download and silent install the latest Adobe Dynamic Media Classic desktop app on macOS](#install-silent-mac-dmc-app)
 
-To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on Windows:
+To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on Windows®:
 
 1. Uninstall any older Dynamic Media Classic desktop app versions on your system.
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
+    * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
 
 1. Run the installer in record mode using the following command:
 
-    `adobe-dynamic-media-classic-20.21.1.exe /r /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.21.2.exe /r /f1"C:\Setup.iss"`
 
 1. In the GUI installer window, follow the steps to install so that interactions/inputs, like install location, get recorded in `Setup.iss` file.
 
-1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.21.1.exe` to other computer.
+1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.21.2.exe` to other computer.
 
 1. Run the following command for a silent installation:
 
-    `adobe-dynamic-media-classic-20.21.1.exe /s /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.21.2.exe /s /f1"C:\Setup.iss"`
 
-    Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
+    Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
 
@@ -195,17 +211,18 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 1. Based on your operating system, navigate to the following:
 
     * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
-    * Windows: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
+    * Windows®: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
 ## Known limitation in Dynamic Media Classic 20.21.1
 
-* The **[!UICONTROL Server]** drop-down list is empty after updating to Dynamic Media Classic desktop app 20.21.1 - Scenario: You install and sign in to Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then you update to Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, you must [manually clear the cache](#clear-cache) (see steps above). 
+* The **[!UICONTROL Server]** drop-down list is empty after updating to Dynamic Media Classic desktop app 20.21.1 - Scenario: You install and sign in to Dynamic Media Classic 20.20.1 or 20.20.2, then close the application. Then you update to Dynamic Media Classic 20.21.1. When you attempt to sign in, the **[!UICONTROL Server]** drop-down list in the **[!UICONTROL Sign in to your account]** dialog box is empty. To work around this issue, you must [manually clear the cache](#clear-cache) (see steps above).
 
-## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2) 
- 
-**_Applies to Windows only - Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
+## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2)
 
-**_Applies to Windows and macOS - How do I switch between companies?_**<br>To switch between companies, do the following:
+**_Applies to Windows® only - Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
+
+**_Applies to Windows® and macOS - How do I switch between companies?_**<br>To switch between companies, do the following:
+
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up window appears, tap **[!UICONTROL OK]** to sign out and close the app.
 
@@ -213,13 +230,12 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 * Restart Dynamic Media Classic, then sign in as usual to work with the new company.
 
-## Tips and Tricks 
+## Tips and Tricks
 
 **_I am unable to see Media Cart panel on the landing page of Dynamic Media Classic._**<br>In Dynamic Media Classic, tap **[!UICONTROL Setup > Personal Setup]**. In the Browser section, make sure **[!UICONTROL Show MediaPortal Features]** is selected (checked). Tap **[!UICONTROL Save > Close]**.
- 
+
 **_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser user interface, a relogin to the UI was required to see the correct publish state of assets. In the desktop app, Adobe has introduced a **[!UICONTROL Refresh]** icon in the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No relogin required as with the browser UI.
 
-![Refresh icon](/help/assets/refresh-icon1.png)
-*Refresh icon*
+![Refresh icon*
  
 **_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.

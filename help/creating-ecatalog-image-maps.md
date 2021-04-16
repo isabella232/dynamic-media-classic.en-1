@@ -13,14 +13,14 @@ exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
 ---
 # Creating eCatalog Image Maps{#creating-ecatalog-image-maps}
 
-An Image Map is a region on an eCatalog page that you can roll over with your mouse or click to trigger actions of various kinds. When you move the pointer over an Image Map, you see, for example, a rollover-text description of an item. When you click an Image Map, another action is initiated. For example, you can open a web page so that viewers can learn more about an item or purchase it or you can launch a video to see an item in use.
+An Image Map is a region on an eCatalog page that you can roll over with your mouse or click to trigger actions of various kinds. When you move the pointer over an Image Map, you see for example, a rollover-text description of an item. When you click an Image Map, another action is initiated. For example, you can open a web page so that viewers can learn more about an item or purchase it or you can launch a video to see an item in use.
 
 ## Drawing eCatalog Image Maps {#drawing-ecatalog-image-maps}
 
 For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. This screen consists of the Image Map area where eCatalog pages are displayed and, on the right, the Image Map list. As you create Image Maps, their names are entered on the Image Map List.
 
 1. Click the eCatalog’s rollover Edit button.
-1. Click **Map Pages**.
+1. Click **[!UICONTROL Map Pages]**.
 1. On the left of the Map Pages screen, select the page you want.
 1. In the Image Map area, draw a rectangular or polygonal (many-sided) Image Map:
 
@@ -35,25 +35,25 @@ For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. 
 1. (Optional) In the Image Map list panel, under the Name column, enter a new name for the Image Map. Do not include blank spaces in the name you enter.
 1. You can have viewers open a new web page when they click the Image Map. In the Image Map list panel, enter the URL of the web page in the URL column.
 
-   Click Edit and enter a template to make entering URLs (Href templates) easier.
+   Click **[!UICONTROL Edit]** and enter a template to make entering URLs (Href templates) easier.
 
-   See [Using a template to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
+   See [Using a template to enter JavaScript™ and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
-1. (Optional) In the Show drop-down list, click **Rollover Text**, and then enter the text that you want users to see onscreen when they move their pointers over the Image Map.
-1. (Optional) In the Show drop-down list, click **Other Actions**, and enter an attribute to trigger a blur or focus action when users move their pointers over an Image Map.
+1. (Optional) In the Show drop-down list, click **[!UICONTROL Rollover Text]**, and then enter the text that you want users to see onscreen when they move their pointers over the Image Map.
+1. (Optional) In the Show drop-down list, click **[!UICONTROL Other Actions]**, and enter an attribute to trigger a blur or focus action when users move their pointers over an Image Map.
 
    See [Defining other actions for Image Maps](creating-image-maps.md#defining_other_actions_for_image_maps).
 
-1. Click **Save**.
-1. (Optional) Click **Preview** to view the eCatalog with the default eCatalog Viewer preset.
+1. Click **[!UICONTROL Save]**.
+1. (Optional) Click **[!UICONTROL Preview]** to view the eCatalog with the default eCatalog Viewer preset.
 
-To delete an Image Map, select its name in the Image Map list and click Delete. To temporarily disable an Image Map on a page without deleting the Image Map, deselect the Image Map’s On option in the Image Map List panel.
+To delete an Image Map, select its name in the Image Map list and click **[!UICONTROL Delete]**. To temporarily disable an Image Map on a page without deleting the Image Map, deselect the Image Map’s On option in the Image Map List panel.
 
 ## Embedding rich media in an eCatalog {#embedding-rich-media-in-an-ecatalog}
 
 You can use eCatalog’s Rich Media option to add videos in MP4 format or spin sets to Image Maps that you have added to an eCatalog. When a user clicks the Image Map area in the eCatalog, the associated video or spin set pops up. This functionality is especially helpful if you want customers to see an item in use or see an item from different angles and perspectives.
 
-You can also optionally display tool tip text when customers move their pointers over your Image Map so they know what they are clicking.
+You can also optionally display tooltip text when customers move their pointers over your Image Map so they know what they are clicking.
 
 **To embed rich media in an eCatalog**
 
@@ -63,9 +63,9 @@ You can also optionally display tool tip text when customers move their pointers
 
 1. In the Show drop-down list, select Rich Media.
 1. In the Add Assets panel on the left, navigate to a folder that contains the spin set or video (MP4 format) asset that you want to embed.
-1. Drag the asset onto the Image Map. 
+1. Drag the asset onto the Image Map.
 1. (Optional) In the Image Map list panel, under the Tool Tip column header, enter the text that you want viewers to see onscreen when they move their pointer over the Image Map.
-1. Click Save.
+1. Click **[!UICONTROL Save]**.
 
 ## Editing eCatalog Image Maps {#editing-ecatalog-image-maps}
 
@@ -82,9 +82,9 @@ To resize a rectangular Image Map, select the Pan tool. Then move the pointer ov
     See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
 * **Deleting Image Maps**
-Select the Pan tool, click the Image Map to select it, and then click **Delete**.
+Select the Pan tool, click the Image Map to select it, and then click **[!UICONTROL Delete]**.
 
-    To remove all Image Maps from an eCatalog, click the **Order Pages** tab, and then click **Clear Maps**.
+    To remove all Image Maps from an eCatalog, click the **[!UICONTROL Order Pages]** tab, and then click **[!UICONTROL Clear Maps]**.
 
 * **Handling overlapping Image Maps**
 Drag to change the order of Image Maps on the Image Map list.
@@ -92,13 +92,13 @@ Drag to change the order of Image Maps on the Image Map list.
     See [Handling overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
 
 * **Copying Image Maps to other pages**
-Select the Copy Maps To button (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click the Select button.
+Select the Copy Maps To button (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click the **[!UICONTROL Select]** button.
 
     See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
 
 >[!NOTE]
 >
->As well as copying Image Maps to different pages in an eCatalog, you can copy all the Image Maps in an eCatalog to a different eCatalog. See [Copying Image Maps between eCatalogs](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
+>Besides copying Image Maps to different pages in an eCatalog, you can copy all the Image Maps in an eCatalog to a different eCatalog. See [Copying Image Maps between eCatalogs](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
 
 ## Reviewing and importing Image Map data {#reviewing-and-importing-image-map-data}
 
@@ -108,12 +108,12 @@ To see the Map Summary screen, on the Map Pages tab of the eCatalog screen click
 
 ### Review Image Map data summary {#review-image-map-data-summary}
 
-1. On the Map Pages screen, click Summary.
+1. On the Map Pages screen, click **[!UICONTROL Summary]**.
 
    The Map Summary screen displays how many Image Maps, URLs, rollover text descriptions, and other actions are in your eCatalog. 
 
-1. If there are rollover key errors, click the error in the Rollover_Key Error column to see what needs to change in your spreadsheet to correct the error. You can select and copy the text from this message and paste it into your spreadsheet.
-1. Click Preview to examine a page in the eCatalog Viewer, click the X to close the Summary screen and return to the Map Pages screen, or click Close to return to Browse.
+1. If there are rollover key errors, click the error in the Rollover_Key Error column to see what must change in your spreadsheet to correct the error. You can select and copy the text from this message and paste it into your spreadsheet.
+1. Click **[!UICONTROL Preview]** to examine a page in the eCatalog Viewer, click the X to close the Summary screen and return to the Map Pages screen, or click **[!UICONTROL Close]** to return to **[!UICONTROL Browse]**.
 
 ### Import Image Map data {#import-image-map-data}
 
@@ -125,10 +125,11 @@ Rather than enter Image Map data on each page, you can import the data for your 
 
 Starting on the Map Summary screen, follow these steps to import Image Map data for Image Maps you have created:
 
-1. Click Import Map Data.
-1. In the Import Metadata dialog box, click Browse, and then select the tab-delimited or XML DTD file.
+1. Click **[!UICONTROL Import Map Data]**.
+1. In the Import Metadata dialog box, click **[!UICONTROL Browse]**.
+1. Select the tab-delimited or XML DTD file.
 1. In the Job Name field, type a name for the file (be careful to retain its extension).
-1. Click Upload.
+1. Click **[!UICONTROL Upload]**.
 
 ## Copying Image Maps between eCatalogs {#copying-image-maps-between-ecatalogs}
 
@@ -140,8 +141,8 @@ You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying 
 
 Follow these steps to copy all the Image Maps in one eCatalog to another eCatalog:
 
-1. Select the eCatalog with the Image Maps you want to copy, and click the eCatalog’s rollover Edit button.
-1. On the Order Pages tab, click Copy Maps.
-1. In the Select Asset dialog box, select the eCatalog where you want to copy the Image Maps, and then click Select.
+1. Select the eCatalog with the Image Maps you want to copy, and click the eCatalog’s rollover **[!UICONTROL Edit]** button.
+1. On the Order Pages tab, click **[!UICONTROL Copy Maps]**.
+1. In the Select Asset dialog box, select the eCatalog where you want to copy the Image Maps, and then click **[!UICONTROL Select]**.
 
-Dynamic Media Classic displays a warning message if the target eCatalog (the eCatalog to which you copy Image Maps) has a different number of pages or images that are a different size. You can click Continue to copy the Image Maps in spite of the warning.
+Dynamic Media Classic displays a warning message if the target eCatalog (the eCatalog to which you copy Image Maps) has a different number of pages or images that are a different size. You can click **[!UICONTROL Continue]** to copy the Image Maps despite the warning.
