@@ -236,6 +236,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 **_Publish state (green indicator) of an asset is not reflected correctly._**<br>In the browser user interface, a relogin to the UI was required to see the correct publish state of assets. In the desktop app, Adobe has introduced a **[!UICONTROL Refresh]** icon in the toolbar, to the right of the **[!UICONTROL Select None]** button. Tap the **[!UICONTROL Refresh]** icon to see the latest status of all the assets on the given page. No relogin required as with the browser UI.
 
-![Refresh icon*
+![Refresh icon](/help/assets/refresh-icon1.png)
+*Refresh icon*
  
 **_I don't see batch set presets working in the desktop app._**<br>Tap **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Ensure the relevant **[!UICONTROL Batch Set Preset]** is enabled. Click **[!UICONTROL Save and Submit upload]**.
