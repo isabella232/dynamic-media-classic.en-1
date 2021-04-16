@@ -15,11 +15,11 @@ exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
 
 To tell Adobe Analytics what information you want in Adobe Analytics reports, go to the Adobe Analytics Configuration screen. After you configure reports, this screen lists, for each viewer event you want information about, a corresponding Adobe Analytics variable and Dynamic Media Classic variable. These viewer events-Adobe Analytics variable-Dynamic Media Classic variable combinations determine what information is reported.
 
-As well as associating viewer events with variables, the Adobe Analytics Configuration screen offers tools for activating, editing, and deleting viewer events.
+Besides associating viewer events with variables, the Adobe Analytics Configuration screen offers tools for activating, editing, and deleting viewer events.
 
 >[!NOTE]
 >
->Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Dynamic Media Classic, re-save your Adobe Analytics configuration settings, and then re-publish.
+>Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
 
 See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
@@ -31,7 +31,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 **To assign Adobe Analytics variables to Dynamic Media Classic viewer events and variables**
 
-1. After you log in to Adobe Analytics from within Dynamic Media Classic and select a report suite, on the Adobe Analytics Configuration page, in the far right column of the table, activate a viewer event by clicking **Enable**.
+1. After you log in to Adobe Analytics from within Dynamic Media Classic and select a report suite, on the Adobe Analytics Configuration page, in the right table column, activate a viewer event by clicking **[!UICONTROL Enable]**.
 1. Under the Variables column, display the variable pair chooser by clicking the arrow button for the desired Viewer Event.
 
    See [Viewer events](configuring-analytics-reports.md#viewer_events).
@@ -53,7 +53,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
 ### Viewer events {#viewer-events}
 
-Viewer events describe actions that users perform with Dynamic Media Classic viewers. When a user initiates a certain action, such as clicking on a thumbnail or starting or stopping a video, the viewer “broadcasts” an event to the web page, along with data associated with that event.
+Viewer events describe actions that users perform with Dynamic Media Classic viewers. When a user initiates a certain action, such as clicking a thumbnail or starting or stopping a video, the viewer “broadcasts” an event to the web page, along with data associated with that event.
 
 The following table describes viewer events you can add to the Adobe Analytics Configuration screen.
 
@@ -78,7 +78,7 @@ The following table describes viewer events you can add to the Adobe Analytics C
 
 ### Dynamic Media Classic variables {#scene-variables}
 
-For each viewer event on Adobe Analytics Configuration screen, choose a Adobe Analytics variable and a *Dynamic Media Classic variable*. Dynamic Media Classic variables represent data you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
+For each viewer event on Adobe Analytics Configuration screen, choose an Adobe Analytics variable and a *Dynamic Media Classic variable*. Dynamic Media Classic variables represent data you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
 
 The following table describes Dynamic Media Classic variables.
 
@@ -104,7 +104,7 @@ On the Adobe Analytics Configuration screen, you can activate, edit, and delete 
 Click **[!UICONTROL Enable]** to activate or **[!UICONTROL Disable]** to deactivate a selected viewer event.
 
 * **Editing**
-Select a viewer event and click **[!UICONTROL View/Edit]** Variables grey button. In the Dynamic Media Classic Variable and Adobe Analytics Variable drop-down lists, choose a different variable from each respective list. For more information, see Assigning Adobe Analytics variables to Dynamic Media Classic viewer events and variables.
+Select a viewer event and click **[!UICONTROL View/Edit]** Variables gray button. In the Dynamic Media Classic Variable and Adobe Analytics Variable drop-down lists, choose a different variable from each respective list. For more information, see Assigning Adobe Analytics variables to Dynamic Media Classic viewer events and variables.
 
 * **Deleting**
-Select a viewer event, and click **[!UICONTROL View/Edit]** Variables grey button. Click **[!UICONTROL Delete]**.
+Select a viewer event, and click **[!UICONTROL View/Edit]** Variables gray button. Click **[!UICONTROL Delete]**.
