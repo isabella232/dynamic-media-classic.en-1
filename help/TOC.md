@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-product: Adobe Dynamic Media Classic
+product: adobe dynamic media classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
