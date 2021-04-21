@@ -21,7 +21,7 @@ To create a template, click **[!UICONTROL Build]** > **[!UICONTROL Template Basi
 
 ## Creating the initial template {#creating-the-initial-template}
 
-When you create a template set, the **!UICONTROL Publish after save]** option affects the set and set members in the following ways:
+When you create a template set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
 |**[!UICONTROL Publish after save]** option selected before saving?|State of set after saving|State of set members after saving|
 |--- |--- |--- |

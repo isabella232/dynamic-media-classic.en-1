@@ -675,7 +675,7 @@ The URL is copied to the Clipboard. You can use it as necessary in the HTML code
 
    In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
 
-   * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
    In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
 
