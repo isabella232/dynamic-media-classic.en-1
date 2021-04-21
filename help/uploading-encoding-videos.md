@@ -306,22 +306,24 @@ You can also filter based on a playback device option to narrow the list to Vide
 
 Activated Video Presets show up in the Upload Job Options dialog box. This is the dialog box that appears when a user uploads video files during the upload process. They can choose from a list of all activated encoding presets.
 
-**To activate or deactivate video encoding presets**
+**To activate or deactivate video encoding presets:**
 
-1. In Dynamic Media Classic, click **Setup** > **Application Setup** > **Video Presets**.
+1. In Dynamic Media Classic, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Do one of the following:
 
-    * Click **Adaptive Video Presets**.
-    * Click **Single Encoding Presets**.
+    * Click **[!UICONTROL Adaptive Video Presets]**.
+    * Click **[!UICONTROL Single Encoding Presets]**.
 
 1. Do one of the following:
 
     * To activate a video preset, on the presets page, under the Active column, select the box next to a preset name.
     * To deactivate a video preset, deselect the box next to the video presets that you want to make inactive.
 
-      ***note**: Inactive Video Presets do not appear in the Upload Job Options dialog box. *
+      >[!NOTE]
+      >
+      >Inactive Video Presets do not appear in the Upload Job Options dialog box.
 
-1. In the lower right corner of the page, click **Close**.
+1. In the lower right corner of the page, click **[!UICONTROL Close]**.
 
 ### Adding or editing a video encoding preset {#adding-or-editing-a-video-encoding-preset}
 

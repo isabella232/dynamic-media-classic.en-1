@@ -20,7 +20,7 @@ Media Portal administrators can create Image Presets to control how images are r
 The following restrictions apply when you export image assets:
 
 * The width x height must be less than or equal to 100 MB per image. For example, the image cannot exceed 10K x 10K, or any aspect variation below, such as 8K x 12K.
-* There is a maximum of 1 GB total file size per export job.
+* There is a maximum of 1-GB total file size per export job.
 * You can have a maximum of 500 total assets per export job.
 
 >[!NOTE]

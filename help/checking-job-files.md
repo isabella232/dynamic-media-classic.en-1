@@ -47,7 +47,9 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 **Submitted By** Lists who uploaded the assets.
 
-***Note**: You can cancel in-progress publish and upload jobs by clicking the Cancel button next to the progress bar.*
+>[!NOTE]
+>
+>You can cancel in-progress publish and upload jobs by clicking the Cancel button next to the progress bar.
 
 ## Changing views on the Jobs page {#changing-views-on-the-jobs-page}
 

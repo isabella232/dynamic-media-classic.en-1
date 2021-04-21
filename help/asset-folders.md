@@ -29,7 +29,9 @@ The Asset Library displays files in a folder tree. When you select a folder in t
 
 * **Opening a folder** - Select a folder to display its contents in the Browse Panel.
 
-***Tip**: You can hide or display the Asset Library by clicking the Expand/Collapse control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.*
+>[!TIP]
+>
+>You can hide or display the Asset Library by clicking the **[!UICONTROL Expand]** or **[!UICONTROL Collapse]** control on its left side. Collapse the Asset Library panel when you need more room to work in the Browse Panel.
 
 ## Creating folders {#creating-folders}
 

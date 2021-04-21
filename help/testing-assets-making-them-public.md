@@ -39,7 +39,9 @@ Because the location of the original request must be confirmed, the traffic of t
 
 Unpublished assets are immediately available from the Secure Testing services, without the need to publish. This allows you to run a preview before assets are published to their public facing image server.
 
-***note**: Secure Testing services leverage the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, be aware that any uploaded assets in Dynamic Media Classic immediately become available on Secure Testing services. This functionality is true regardless of whether or not the assets are marked for publish on upload.*
+>[!NOTE]
+>
+>Secure Testing services leverage the Catalog Server that is configured with an internal publish context. Therefore, if your company is configured to publish to Secure Testing, be aware that any uploaded assets in Dynamic Media Classic immediately become available on Secure Testing services. This functionality is true regardless of whether or not the assets are marked for publish on upload.
 
 Secure Testing services currently support the following asset types and functionalities:
 

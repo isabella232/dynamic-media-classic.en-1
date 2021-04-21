@@ -37,7 +37,7 @@ The Global Navigation bar, located along the top of the screen, offers buttons f
 
 **Help** Choose a Help option:
 
-**Help > Help&#xA;On This Topic** Opens the Help system to a page with information about the task you are currently doing.
+**Help > Help On This Topic** Opens the Help system to a page with information about the task you are currently doing.
 
 **Help > Video Tutorial** Accesses videos on specific topics to demonstrate how to get started with each rich media publishing workflow.
 

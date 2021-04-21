@@ -66,7 +66,7 @@ See [ICC profiles](icc-profiles.md#icc_profiles).
 1. To automatically crop white-space pixels from a PDF file as you upload it, select the Crop menu and choose Trim. 
 1. Specify the following options:
 
-   **Trim Away&#xA;Based On** Choose whether to crop based on color or transparency:
+   **Trim Away Based On** Choose whether to crop based on color or transparency:
 
    **Color** Choose the Color option. Then select the Corner menu and choose the corner of the PDF with the color that best represents the white-space color you want to crop.
 
