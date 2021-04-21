@@ -55,7 +55,7 @@ Dynamic Media Classic recommends choosing Detect Automatically. Usually, PDFs cr
 * **Color Profile**
 Choose a Color Profile option:
 
-* **Convert&#xA;To SRGB**
+* **Convert To SRGB**
 Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on web pages.
 
 * **Keep Original Color Space**

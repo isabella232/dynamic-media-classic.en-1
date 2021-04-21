@@ -26,43 +26,43 @@ When you create a set, the **Publish after save** option affects the set and set
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
-**To create an Image Set**
+**To create an Image Set:**
 
 1. Do one of the following:
 
-   **Select the&#xA;images first** In the Browse Panel, select the images you want for your Image Set, click Build > Image Sets.
+   * **Select the images first** - In the Browse Panel, select the images you want for your Image Set, click **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
 
-   **Start from the Image Set screen** Click Build > Image Sets. The Image Set screen opens. Select a folder in the Asset Library and drag the images you want for your Image Set onto the Image Set screen.
+   * **Start from the Image Set screen** - Click **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. The Image Set screen opens. Select a folder in the Asset Library and drag the images you want for your Image Set onto the Image Set screen.
 
 1. To change the order of images, drag the images to new locations.
-1. Near the lower-right corner of the page, ensure that **Publish after save** is selected (default).
-1. Click **Save**, select a folder for storing your Image Set, enter a name for the set, and then click **Save**.
-1. To see your Image Set in the Image Set Viewer, click **Preview** on the Image Set screen. You can click swatch thumbnails in the Image Set Viewer to see how they behave.
+1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. Click **[!UICONTROL Save]**, select a folder for storing your Image Set, enter a name for the set, and then click **[!UICONTROL Save]**.
+1. To see your Image Set in the Image Set Viewer, click **[!UICONTROL Preview]** on the Image Set screen. You can click swatch thumbnails in the Image Set Viewer to see how they behave.
 
 ## Editing an Image Set {#editing-an-image-set}
 
-Depending on whether you edit a published or an unpublished set, the **Publish after save** option affects the set and set members in the following ways:
+Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|Set already published?|“Publish after save” option selected before saving your edit?|State of set after saving|State of set members after saving|
+|Set already published?|**[!UICONTROL Publish after save]** option selected before saving your edit?|State of set after saving|State of set members after saving|
 |--- |--- |--- |--- |
 |Yes|Yes|Published|Published|
-|Yes|No|Published|Existing set members retain their published state.Any new set members that you added during your edit retain their published or unpublished state.|
+|Yes|No|Published|Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state.|
 |No|Yes|Published|Published|
 |No|No|Unpublished|Existing set members and any new set members that you added during your edit retain their published or unpublished state.|
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
-**To edit an Image Set**
+**To edit an Image Set:**
 
-1. In the Grid view, browse to an ImageSet, and then below the image, click **Edit**.
+1. In the Grid view, browse to an ImageSet, and then below the image, click **[!UICONTROL Edit]**.
 1. Do any of the following:
 
-    * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Image Set’s **Views** page.
-    * To remove an image, select it, and then click **Delete** on the toolbar.
+    * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Image Set’s **[!UICONTROL Views]** page.
+    * To remove an image, select it, and then click **[!UICONTROL Delete]** on the toolbar.
     * To reorder images, drag an image to a new position.
 
-1. When you are finished editing the set, near the lower-right corner of the page, ensure that **Publish after save** is selected (default).
-1. Click **Save**, select a storage folder for your set, enter a name for the set, and then click **Save**.
+1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
+1. Click **[!UICONTROL Save]**, select a storage folder for your set, enter a name for the set, and then click **[!UICONTROL Save]**.
 
 ## Deleting an Image Set {#deleting-an-image-set}
 
@@ -70,7 +70,7 @@ When you delete a set, the set itself is moved to the Trash. However, the member
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
-**To delete an Image Set**
+**To delete an Image Set:**
 
 1. In the Grid View, List View, or Details View, select one or more Image Sets.
-1. On the Global Navigation Bar, click **File** > **Delete** > **Delete**.
+1. On the Global Navigation Bar, click **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.

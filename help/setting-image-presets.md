@@ -23,7 +23,7 @@ Images that are reduced in size when they are delivered dynamically from a serve
 
 You can create your own Image Presets if you are a company administrator. You can create new Image Presets or start with a default Image Preset that Dynamic Media Classic provides, edit it, and save it with a new name.
 
-**To create an Image Preset**
+**To create an Image Preset:**
 
 1. Click **Setup** > **Image Presets**.
 
@@ -31,7 +31,7 @@ You can create your own Image Presets if you are a company administrator. You ca
 
 1. Do one of the following:
 
-   * **Creating an&#xA;Image Preset**
+   * **Creating an Image Preset**
    Click Add.
 
    * **Editing an Image Preset**

@@ -102,15 +102,17 @@ Follow these steps to locate assets by filtering with their metadata values:
 
 1. Clicking the Field button on a panel, follow these instructions to display the filtering menu and construct the filter operation:
 
-   **Choosing&#xA;a metadata field** Select the name of the field on the filtering menu.
+   * **Choosing a metadata field** - Select the name of the field on the filtering menu.
 
-   ***note**: Only the names of metadata fields in the default Metadata View appear on the filtering menu.*
+      >[!NOTE]
+      >
+      >Only the names of metadata fields in the default Metadata View appear on the filtering menu.
 
-   See [Metadata Views](application-setup.md#metadata_views).
+      See [Metadata Views](application-setup.md#metadata_views).
 
-   **Adding a metadata field** Choose Add a Panel. After the panel appears on the Filters pane, click its Field button and choose the name of a metadata field on the filtering menu.
+   * **Adding a metadata field** - Choose Add a Panel. After the panel appears on the Filters pane, click its Field button and choose the name of a metadata field on the filtering menu.
 
-   **Removing a metadata field** Choose Remove This Panel on the filtering menu.
+   * **Removing a metadata field** - Choose **[!UICONTROL Remove This Panel]** on the filtering menu.
 
    When you choose a metadata field, its panel lists:
 
@@ -118,7 +120,7 @@ Follow these steps to locate assets by filtering with their metadata values:
     * For each metadata value, the number of assets given the value.
 
 1. Repeat Step 2 as many times as necessary to list all metadata fields for the filter operation on panels.
-1. In each panel, select a metadata value to filter on. You can’t select more than one metadata value in each panel.
+1. In each panel, select a metadata value to filter on. You cannot select more than one metadata value in each panel.
 
    Assets that match all the values you selected appear in the Browse panel.
 
@@ -132,11 +134,11 @@ Follow these steps to locate assets by filtering with their metadata values:
 
 Follow these instructions on the Filters tab to save, repeat, and delete filter operations:
 
-**Saving a filter operation** Click the Select Preset button, choose Save Current As New Presets, and enter a name in the Save dialog box.
+* **Saving a filter operation** - Click **[!UICONTROL Select Preset]**, choose **[!UICONTROL Save Current As New Presets]**, and enter a name in the Save dialog box.
 
-**Repeating a filter operation** Click the Select Preset button and choose the name of a filter operation on the menu. The menu lists filter operations that you saved.
+* **Repeating a filter operation** - Click **[!UICONTROL Select Preset]** and choose the name of a filter operation on the menu. The menu lists filter operations that you saved.
 
-**Deleting a filter operation from the Select Preset&#xA;menu** Run the filter operation. Then click the Select Preset button and choose Delete Preset on the menu.
+* **Deleting a filter operation from the Select Preset menu** - Run the filter operation. Then, click **[!UICONTROL Select Preset]** and choose Delete Preset on the menu.
 
 ## Using the metadata server {#using-the-metadata-server}
 
@@ -146,15 +148,15 @@ To configure the metadata server, click Setup > Application Setup > Publish Setu
 
 The Metadata Server Publish screen opens. This screen lets you set the following options:
 
-**Instant Publish** Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
+* **Instant Publish** - Automatically pushes any metadata changes when they are made, including new assets, keyword changes, and so on.
 
-**XMP Packet** Publishes the XMP Packet. This packet is not used for searching, but provides the most up-to-date XMP/
+* **XMP Packet** - Publishes the XMP Packet. This packet is not used for searching, but provides the most up-to-date XMP/
 
-**Keywords** Publishes your keywords to the metadata server for use in searches.
+* **Keywords** - Publishes your keywords to the metadata server for use in searches.
 
-**Metadata Server Publish Fields** Select the fields to include in the metadata. This enables you to determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
+* **Metadata Server Publish Fields** - Select the fields to include in the metadata. This enables you to determine how much information about your assets is available to the public. These fields are also displayed in Metadata Views, but can only be changed in the metadata server.
 
-Click **Publish Now** to start the job. A confirmation appears, telling you the job has started.
+Click **[!UICONTROL Publish Now]** to start the job. A confirmation appears, telling you the job has started.
 
 >[!MORELIKETHIS]
 >

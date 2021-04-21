@@ -13,18 +13,18 @@ exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
 ---
 # Creating Image Maps{#creating-image-maps}
 
-An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet, that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. To call attention to Image Maps, an outline appears around an Image Map when the user moves the pointer over it.
+An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet, that displays a rollover panel with text. When the user clicks an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. An outline appears around an Image Map when the user moves the pointer over it.
 
-Besides the ability to create an image map in Dynamic Media Classic, or you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
+Besides the ability to create image maps in Dynamic Media Classic, you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
 
-When you create Image Maps you can do any of the following:
+When you create Image Maps, you can do any of the following:
 
 * Enter rollover text. 
-* Enter JavaScript and URLs for launching web pages.
+* Enter JavaScript™ and URLs for launching web pages.
 * Create URL templates for Image Maps.
 * Copy Image Maps to other images, or eCatalog pages, or SpinSets.
 * Export Image Maps to CSV or to XML.
-* Import image metadata from a tab delimited file or from an XML file.
+* Import image metadata from a tab-delimited file or from an XML file.
 * Define other actions as determined by the World Wide Web Consortium.
 * Preview Image Maps.
 
@@ -50,7 +50,7 @@ When you create Image Maps you can do any of the following:
 
 1. If you want users to open a new web page when they click the Image Map, enter the URL in the Image Map list.
 
-   See [to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
+   See [to enter JavaScript™ and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
 1. To display rollover text when users move the pointer over your Image Map, enter the text in the Image Map list. In the Image Map list, select the Show menu and choose Rollover Text. Then enter the text you want users to see onscreen. You can write the text in a word processor and copy it into the Rollover text field. 
 1. If you want another action effect to occur when users move the mouse over an Image Map, define the action. In the Show drop-down list, click Other Actions. Enter the attributes of the action. (Click Show > Both to create rollover text and an action for an Image Map.)
@@ -59,25 +59,27 @@ When you create Image Maps you can do any of the following:
 
 1. (Optional) Do any of the following:
 
-    * Click Preview to preview Image Maps.
-    * To delete an Image Map or polygon vertex, select a shape on the image, and then click Delete. Or, for an eCatalog, on the Order Pages tab, click Clear Maps to remove Image Maps from all pages.
+    * To preview Image Maps, click **[!UICONTROL Preview]**.
+    * To delete an Image Map or polygon vertex, select a shape on the image, and then click **[!UICONTROL Delete]**. Or, for an eCatalog, on the Order Pages tab, click **[!UICONTROL Clear Maps]** to remove Image Maps from all pages.
     * To temporarily remove an Image Map from an image, an image in a SpinSet, or an eCatalog page, without deleting it, deselect the appropriate On option in the Image Map list.
 
-1. Click Save.
+1. Click **[!UICONTROL Save]**.
 
 ### Adjusting the position, shape, and size of Image Maps {#adjusting-the-position-shape-and-size-of-image-maps}
 
-To change the position, shape, and size of an Image Map, select the Image Map button. Then, select the Pan tool and follow these instructions:
+To change the position, shape, and size of an Image Map, select the Image Map button. Then, select the **[!UICONTROL Pan]** tool and follow these instructions:
 
-**Changing position** Move the pointer near to but not over the border of the Image Map. When you see the four-headed arrow icon, drag the map to a new location.
+**Changing position** - Move the pointer near to but not over the border of the Image Map. When you see the four-headed arrow icon, drag the map to a new location.
 
-**Changing the size and shape** How you change the shape and size of an Image Map depends on whether you are working with a rectangular or polygonal Image Map:
+**Changing the size and shape** - How you change the shape and size of an Image Map depends on whether you are working with a rectangular or polygonal Image Map:
 
-***Tip**: You can drag the Size slider at the bottom of the screen to change views and get a better look at your Image Map.*
+>[!TIP]
+>
+>You can drag the Size slider at the bottom of the screen to change views and get a better look at your Image Map.
 
-**Rectangular Image Map** Move the pointer over a side or corner of the Image Map. When you see the double-headed arrow icon, start dragging. Hold down the Shift key as you drag to change size but maintain the aspect ratio (the shape).
+**Rectangular Image Map** - Move the pointer over a side or corner of the Image Map. When you see the double-headed arrow icon, start dragging. Hold down the Shift key as you drag to change size but maintain the aspect ratio (the shape).
 
-**Polygonal Image Map** Drag a square selection handle. To create a selection handle, click the border of the Image Map and start dragging.
+**Polygonal Image Map** - Drag a square selection handle. To create a selection handle, click the border of the Image Map and start dragging.
 
 ### Handling overlapping Image Maps {#handling-overlapping-image-maps}
 
@@ -100,9 +102,9 @@ Rather than enter Image Map data on each page, you can import the data for your 
 
 ### Copying Image Maps {#copying-image-maps}
 
-You can copy Image Maps from an image or an eCatalog page to another. Use Copy Image Map to get a head start creating them. You can also copy Image Maps to re-create them in images or pages that share the same layout or mapping structure.
+You can copy Image Maps from an image or an eCatalog page to another. Use **[!UICONTROL Copy Image Map]** to get a head start creating them. You can also copy Image Maps to re-create them in images or pages that share the same layout or mapping structure.
 
-For example, copying Image Maps in an eCatalog is a convenient way to copy all image maps between foreign language versions of the same eCatalog. For best results, copying is most successful if you copy between eCatalogs with the same number of pages and same images. If the eCatalog to which you copy already contains Image Maps, be aware that those Image Maps are deleted when the copy is made.
+For example, copying Image Maps in an eCatalog is a convenient way to copy all image maps between foreign language versions of the same eCatalog. For best results, copying is most successful if you copy between eCatalogs with the same number of pages and same images. If the eCatalog to which you copy already contains Image Maps, those Image Maps are deleted when the copy is made.
 
 **To copy Image Maps**
 
@@ -115,13 +117,13 @@ For example, copying Image Maps in an eCatalog is a convenient way to copy all i
 
 1. Click Select.
 
-## Using a template to enter JavaScript and URLs {#using-a-template-to-enter-javascript-and-urls}
+## Using a template to enter JavaScript™ and URLs {#using-a-template-to-enter-javascript-and-urls}
 
-You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL Template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Dynamic Media Classic JavaScript handler called `loadProduct` that opens the image in a new window.
+You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL Template can also contain JavaScript™ commands, pathnames, and parameters. By default, the URL template contains a proprietary Dynamic Media Classic JavaScript™ handler called `loadProduct` that opens the image in a new window.
 
 >[!NOTE]
 >
->Be aware that when you add the Javascript code into the HREF attribute of your image map, the code is run on the client's computer. Therefore, make sure that the Javascript code is secure.
+>When you add the JavaScript™ code into the HREF attribute of your image map, the code is run on the client's computer. Therefore, make sure that the JavaScript™ code is secure.
 
 ### About URL templates {#about-url-templates}
 
@@ -131,13 +133,13 @@ The URL template works by substituting the contents of the URL column in the Ima
 Javascript:loadProduct(‘$$’);void(0);
 ```
 
-You place all of the values that do not change between Image Maps in the URL template. Add only the values that do change in the URL column in the Image Map list. For example:
+You place all values that do not change between Image Maps in the URL template. Add only the values that do change in the URL column in the Image Map list. For example:
 
 * URL template: j `avascript:loadProduct(‘https://www.examplesitehere.com/$$’);void(0);`
 * URL value: `product.htm`
 * Actual URL generated: `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
 
-By default, the URL template includes a proprietary Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Dynamic Media Classic handlers:
+By default, the URL template includes a proprietary Dynamic Media Classic JavaScript™ handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript™ code to replace this JavaScript™ handler or use one of the following Dynamic Media Classic handlers:
 
 * `loadProductCW`
 
@@ -147,41 +149,43 @@ By default, the URL template includes a proprietary Dynamic Media Classic JavaSc
 
   Displays the URL target specified in the URL column in the parent window (the page that opened the current one). The current window remains open, but the parent window changes to display the URL target.
 
-  ***note**: The handler `loadProductPW` does not support DHTML and HTML5 viewers.*
+  >[!NOTE]
+  >
+  >The handler `loadProductPW` does not support DHTML and HTML5 viewers.
 
 ### Creating a URL template {#creating-a-url-template}
 
 To create a URL template:
 
 1. On the Map Editor screen (images or SpinSets) or the Map Pages tab of the eCatalog screen (eCatalogs), select Edit next to the URL Template option. The Edit Map Template dialog box opens.
-1. Enter the JavaScript code and the complete URL (with the variable portion replaced by dollar signs [$$]). You can paste the code by right-clicking and choosing Paste.
+1. Enter the JavaScript™ code and the complete URL (with the variable portion replaced by dollar signs [$$]). You can paste the code by right-clicking and choosing Paste.
 1. Select the Save button.
 
 ### Handling URL templates {#handling-url-templates}
 
 The Map Editor page (images and SpinSets) and the Map Pages tab of the eCatalog screen (eCatalogs) offer these commands for handling URL templates:
 
-**URL Template option** Select the URL Template option to apply your URL template to all the Image Maps on an image or eCatalog page.
+* **URL Template option** Select the URL Template option to apply your URL template to all the Image Maps on an image or eCatalog page.
 
-**Template option** Deselect a Template option in the URL Image Map list if you do not want an individual Image Map to use the URL template.
+* **Template option** Deselect a Template option in the URL Image Map list if you do not want an individual Image Map to use the URL template.
 
 ## Defining other actions for Image Maps {#defining-other-actions-for-image-maps}
 
 You can select the Show menu and choose Other Actions to trigger actions other than rollover text and web page launches. When the user moves the pointer over an Image Map, you can initiate an action. These actions are attributes defined for client-side Image Maps by World Wide Web Consortium HTML specifications. They include:
 
-**accesskey** Triggers an action when the user presses a designated key on the keyboard.
+* **accesskey** - Triggers an action when the user presses a designated key on the keyboard.
 
-**onfocus** Triggers an event when the Image Map receives focus—by the cursor, by tabbing, or by pressing an access key. For example, you can launch a web page when the Image Map receives focus and close it when your Image Map loses focus.
+* **onfocus** - Triggers an event when the Image Map receives focus—by the cursor, by tabbing, or by pressing an access key. For example, you can launch a web page when the Image Map receives focus and close it when your Image Map loses focus.
 
-**onblur** Triggers an event when the Image Map loses focus, either by the cursor or by tabbing.
+* **onblur** - Triggers an event when the Image Map loses focus, either by the cursor or by tabbing.
 
-**To define other actions for Image Maps**
+**To define other actions for Image Maps:**
 
 1. On the Map Editor screen (images and SpinSets) or Map Pages tab of the eCatalog screen (eCatalogs), select the Show menu and choose Other Actions.
 1. Using the syntax specified by the World Wide Web Consortium HTML specifications, add the supported attributes in the Other Actions column of the Image Map list.
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
-Select the Show menu and choose Both if you want an Image Map to have rollover text as well as an action.
+Select the **[!UICONTROL Show]** menu and choose **[!UICONTROL Both]** if you want an Image Map to have rollover text and an action.
 
 ## Creating Image Maps in Adobe Acrobat or Adobe InDesign {#creating-image-maps-in-adobe-acrobat-or-adobe-indesign}
 
@@ -189,19 +193,19 @@ You can create Image Maps while designing your eCatalog in Adobe Acrobat or Adob
 
 In Acrobat or InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Dynamic Media Classic automatically converts the links to Image Maps.
 
-For more information, see InDesign Help or Acrobat Help.
+For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
 ### To create Image Maps in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
-1. In InDesign, click Window > Interactive > Hyperlinks to open the Hyperlinks panel.
+1. In InDesign, click **[!UICONTROL Windows®]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]** to open the Hyperlinks panel.
 1. Select the text, frame, or graphic that you want to make into an Image Map.
-1. In the Hyperlinks panel, click New Hyperlink from the panel menu. 
-1. In the New Hyperlink dialog box, choose URL from the Link To menu.
-1. Type or paste the product ID in the URL box, and click OK. (Dynamic Media Classic completes the URL using the Image Map URL template.)
+1. In the Hyperlinks panel, click **[!UICONTROL New Hyperlink]** from the panel menu. 
+1. In the New Hyperlink dialog box, choose **[!UICONTROL URL]** from the Link To menu.
+1. Type or paste the product ID in the URL box, and click **[!UICONTROL OK]**. (Dynamic Media Classic completes the URL using the Image Map URL template.)
 
    >[!NOTE]
    >
-   >You do not need to set appearance options in InDesign. You can specify appearance in Dynamic Media Classic.
+   >You do not need to set appearance options in Adobe InDesign. You can specify appearance in Dynamic Media Classic.
 
 1. Repeat steps 2 through 5 for all the Image Maps you want to create.
 1. Export the file as a PDF.
@@ -209,15 +213,17 @@ For more information, see InDesign Help or Acrobat Help.
 
 ### To create Image Maps in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 
-1. In Acrobat, choose Tools > Advanced Editing > Link Tool.
+1. In Acrobat, click **[!UICONTROL Tools]** > **[!UICONTROL Advanced Editing]** > **[!UICONTROL Link Tool]**.
 1. Drag to create the Image Map. The Create Link box opens.
-1. Select Custom Link, and click Next.
+1. Select **[!UICONTROL Custom Link]**, and click **[!UICONTROL Next]**.
 
-   ***note**: You do not need to set appearance options in Acrobat. You can specify appearance in Dynamic Media Classic.*
+>[!NOTE]
+>
+>You do not need to set appearance options in Adobe Acrobat. You can specify appearance in Dynamic Media Classic.
 
-1. In the Link Properties box, click Actions.
-1. Select Open A Web Link from the Select Action menu, and then click Add.
-1. Type the product ID for the Image Map in the Edit URL box, and click OK. (Dynamic Media Classic completes the URL using the image map URL template.)
+1. In the Link Properties box, click **[!UICONTROL Actions]**.
+1. Select **[!UICONTROL Open A Web Link]** from the Select Action menu, and then click **[!UICONTROL Add]**.
+1. Type the product ID for the Image Map in the Edit URL box, and click **[!UICONTROL OK]**. (Dynamic Media Classic completes the URL using the image map URL template.)
 1. Repeat steps 1 through 7 for all the Image Maps you want to create.
 1. Save the file.
 1. Upload the PDF to Dynamic Media Classic and select Extract Links from the PDF Options.

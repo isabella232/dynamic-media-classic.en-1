@@ -33,35 +33,35 @@ Drag the slider to specify a tolerance from 0 through 1:
 
 To trim based on color, specify 0 to crop pixels only if they exactly match the color you selected in the corner of the PSD. Numbers closer to 1 allow for more color difference.
 
-To trim based on transparency, specify 0 to crop pixels only if they are totally transparent; numbers closer to 1 allow for more transparency.
+To trim based on transparency, specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
-**Manual** Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, a half-inch is cropped from each side of the image.
+* **Manual** - Enter the number of pixels to crop from any side or each side of the image. How much of the image is cropped depends on the ppi (pixels per inch) setting in the image file. For example, if the image displays 150 ppi and you enter 75 in the Top, Right, Bottom, and Left text boxes, a half-inch is cropped from each side of the image.
 
-**Color Profile** (Located under Color Profile Options.) Choose an option:
+* **Color Profile** - (Located under Color Profile Options.) Choose an option:
 
-**Convert To sRGB (default)** Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
+* **Convert To sRGB (default)** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages.
 
-**Keep Original Color Space** Retains the original color space of the image.
+* **Keep Original Color Space** - Retains the original color space of the image.
 
-**Custom From > To** Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic. See ICC profiles.
+* **Custom From > To** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic. See ICC profiles.
 
-**Maintain Layers** Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail view and selecting the layer panel. See Viewing and editing layers in a PSD file.
+* **Maintain Layers** - Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail view and selecting the layer panel. See Viewing and editing layers in a PSD file.
 
-**Create Template** Creates a template from the layers in the PSD file.
+* **Create Template** - Creates a template from the layers in the PSD file.
 
-**Extract Text** Extracts the text so that users can search for text in a Viewer.
+* **Extract Text** - Extracts the text so that users can search for text in a Viewer.
 
-**Extend Layers To Background Size** Extends the size of ripped image layers to the size of the background layer.
+* **Extend Layers To Background Size** - Extends the size of ripped image layers to the size of the background layer.
 
-**Layer Naming** Layers in the PSD file are uploaded as separate images. Choose an option to name these images in Dynamic Media Classic:
+* **Layer Naming** - Layers in the PSD file are uploaded as separate images. To name these images in Dynamic Media Classic, choose from the following options:
 
-**Layer Name** Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file, not their default layer names.
+* **Layer Name** - Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file, not their default layer names.
 
-**Photoshop and Layer Number** Names the images after their layer numbers in the PSD file, ignoring original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called Spring Ad.psd is named Spring Ad_2 even if it had a non-default name in Photoshop.
+* **Photoshop and Layer Number** - Names the images after their layer numbers in the PSD file, ignoring original layer names. Images are named with the Photoshop filename and an appended layer number. For example, the second layer of a file called Spring Ad.psd is named Spring Ad_2 even if it had a non-default name in Photoshop.
 
-**Photoshop and Layer Name** Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named Price Tag in a PSD file named SpringAd is named Spring Ad_Price Tag. A layer with the default name Layer 2 is called Spring Ad_2.
+* **Photoshop and Layer Name** - Names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names. For example, a layer named Price Tag in a PSD file named SpringAd is named Spring Ad_Price Tag. A layer with the default name Layer 2 is called Spring Ad_2.
 
-**Anchor** Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images to best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
+* **Anchor** - Specify how images are anchored in templates that are generated from the layered composition produced from the PSD file. By default, the anchor is the center. A center anchor allows replacement images to best fill the same space, no matter the aspect ratio of the replacement image. Images with a different aspect that replace this image, when referencing the template and using parameter substitution, effectively occupy the same space. Change to a different setting if your application requires the replacement images to fill the allocated space in the template.
 
 ## Viewing and editing layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
@@ -69,17 +69,19 @@ If you selected the Maintain Layers option when you uploaded your PSD, Dynamic M
 
 1. Double-click the full PSD file in the Browse Panel to open it in Detail view.
 
-   ***note**: Make sure that you open the full asset and not one of the PSD layers.*
+    >[!NOTE]
+    >
+    >Make sure that you open the full asset and not one of the PSD layers.
 
-1. Click Layers to open the Layers panel. All the layers appear as separate images in the Layers panel.
+1. Click **[!UICONTROL Layers]**. All the layers appear as separate images in the Layers panel.
 1. Double-click a layer to open it and do any of the following:
 
-    * Click the Image Map icon to create an image map on the layer. (See [Creating Image Maps](creating-image-maps.md#creating_image_maps).)
-    * Click the Zoom Targets icon to create zoom targets on the layer. (See [Creating zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
-    * Click the Crop icon to crop the layer. (See [Cropping an image](cropping-image.md#cropping_an_image).)
-    * Click Sharpen to sharpen the layer. (See [Sharpening an image](sharpening-image.md#sharpening_an_image).)
-    * Click the Adjust to adjust the layer. (See [Adjusting an image](adjusting-image.md#adjusting_an_image).)
+    * To create an image map on the layer, click **[!UICONTROL Image Map]** icon. (See [Creating Image Maps](creating-image-maps.md#creating_image_maps).)
+    * To create zoom targets on the layer, click **[!UICONTROL Zoom Targets]** icon. (See [Creating zoom targets for Guided Zoom](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+    * To crop the layer, click **[!UICONTROL Crop]** icon. (See [Cropping an image](cropping-image.md#cropping_an_image).)
+    * To sharpen the layer, click **[!UICONTROL Sharpen]**. (See [Sharpening an image](sharpening-image.md#sharpening_an_image).)
+    * To adjust the layer, click **[!UICONTROL Adjust]**. (See [Adjusting an image](adjusting-image.md#adjusting_an_image).)
 
-1. Click Save or Save As.
+1. Click **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
 1. To view or edit a different layer, click an arrow at the bottom of the layer preview.
 1. To exit the layer Detail view, click the Grid view icon.

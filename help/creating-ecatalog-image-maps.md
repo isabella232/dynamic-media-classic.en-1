@@ -87,7 +87,7 @@ Starting on the Map Pages tab of the eCatalog screen, use these techniques to ed
 
 * **Copying Image Maps to other pages** - Select the **[!UICONTROL Copy Maps To]** button (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click the **[!UICONTROL Select]** button.
 
-See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
+    See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
 
 >[!NOTE]
 >
