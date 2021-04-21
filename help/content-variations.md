@@ -15,21 +15,18 @@ exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 
 Use template sets to manage the way asset variations are published.
 
-Create a template set to manage variations of a template. You can control which variation is used without changing the code on your site. This helps content managers rotate content without requiring IT to change a URL in the Web code.
+Create a template set to manage variations of a template. You can control which variation is used without changing the code on your site. This method helps content managers rotate content without requiring IT to change a URL in the Web code.
 
-Universal URLs are used to display the the template variation that appears on the page, based on the order they are listed in the set. The template at the top of the template set list is always published.
+Universal URLs are used to display the template variation that appears on the page, based on the order they are listed in the set. The template at the top of the template set list is always published.
 
 You can use any image preset URL from the list. Image preset URLs are like universal URLs. There can be more than one image preset URL.
 
-1. Click Build > Template Sets.
+1. Click **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**. The builder opens.
+1. Select a template, then click **[!UICONTROL Add/Preview]**.
+1. Modify the template properties and click **[!UICONTROL Save As]** to create another version.
+1. Type a name and click **[!UICONTROL Save]**.
 
-   The builder opens.
-
-1. Select a template, then click Add/Preview.
-1. Modify the template properties and click Save As to create a new version.
-1. Type a name and click Save.
-
-   You must publish both the asset and the template.
+   Both the asset and the template must be published.
 
 1. Go to the Detail page to get a copy URL from the URLs section.
 
@@ -37,4 +34,4 @@ You can move a template in the template order (for example, to the top of the li
 
 >[!NOTE]
 >
->You might need to clear the cache to see the changes. The change only appears on the website after the change has made its way through the cache cycle.
+>If necessary, clear the cache to see the changes. The change only appears on the website after the change has made its way through the cache cycle.

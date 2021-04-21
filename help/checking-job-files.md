@@ -116,7 +116,7 @@ This table shows the time increments, their allowed values, and the wildcards th
 |Hours|0-23|Note the use of a 24-hour clock.|`, - * /`|
 |Day of the month|1-31|You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a `?` wildcard character.|`, - * / ? L C`|
 |Month|1-12 or Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Sep, Oct, Nov, Dec|Values are case-sensitive.|`, - * /`|
-|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a ? wildcard character.|`, - * / ? L C #`|
+|Day of the week|Mon, Tue, Wed, Thu, Fri, Sat, Sun|Values are case-sensitive. You cannot specify a numeric value for both “day of the month” and “day of the week.” One of these fields must use a `?` wildcard character.|`, - * / ? L C #`|
 |Year (optional)|Empty or 1970-2099||`, - * /`|
 
 

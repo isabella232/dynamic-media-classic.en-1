@@ -35,15 +35,15 @@ For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. 
 
    To make entering URLs (Href templates) easier, click **[!UICONTROL Edit]** and enter a template.
 
-   See [Using a template to enter JavaScript™ and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
+See [Using a template to enter JavaScript™ and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
 1. (Optional) In the Show drop-down list, click **[!UICONTROL Rollover Text]**, and then enter the text that you want users to see onscreen when they move their pointers over the Image Map.
 1. (Optional) In the Show drop-down list, click **[!UICONTROL Other Actions]**, and enter an attribute to trigger a blur or focus action when users move their pointers over an Image Map.
 
    See [Defining other actions for Image Maps](creating-image-maps.md#defining_other_actions_for_image_maps).
 
-1. Click **Save**.
-1. (Optional) Click **Preview** to view the eCatalog with the default eCatalog Viewer preset.
+1. Click **[!UICONTROL Save]**.
+1. (Optional) Click **[!UICONTROL Preview]** to view the eCatalog with the default eCatalog Viewer preset.
 
 To delete an Image Map, select its name in the Image Map list and click **[!UICONTROL Delete]**. To temporarily disable an Image Map on a page without deleting the Image Map, deselect the Image Map’s On option in the Image Map List panel.
 
@@ -85,7 +85,7 @@ Starting on the Map Pages tab of the eCatalog screen, use these techniques to ed
 
     See [Handling overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
 
-* **Copying Image Maps to other pages** - Select the **[!UICONTROL Copy Maps To]** button (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click the **[!UICONTROL Select]** button.
+* **Copying Image Maps to other pages** - Click **[!UICONTROL Copy Maps To]** (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and click **[!UICONTROL Select]**.
 
     See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
 
