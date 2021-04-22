@@ -39,11 +39,11 @@ To closely examine, preview, or work on an asset, you can display it in Detail v
 
     * Double-click the asset.
     * Select the asset, then click **[!UICONTROL Detail View]**.
-    * Select the asset, then click **[!UICONTROL File > Details]**.
+    * Select the asset, then click **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
 >[!NOTE]
 >
->You can page from asset to asset in the same folder in Detail view by selecting the Previous Asset or Next Asset button. These buttons are located in the upper-right corner in Detail view.
+>You can page from asset to asset in the same folder in Detail view by selecting the Previous Asset or Next Asset button. These buttons are in the upper-right corner in Detail view.
 
 ## Getting information in Detail view {#getting-information-in-detail-view}
 
@@ -55,45 +55,40 @@ You can obtain an asset URL in Detail view; however, the URL is not active until
 
 Detail view offers tools for working with the asset you opened. Which tools are available depends on the type of asset you are working with, but Detail view always offers these functions:
 
-* **items for publish**
-Click the **[!UICONTROL Publish]** icon to the left of the name, or click **[!UICONTROL File > Publish]** or **[!UICONTROL File > Unpublish]**.
+* **items for publish** - Click the **[!UICONTROL Publish]** icon to the left of the name, or click **[!UICONTROL File > Publish]** or **[!UICONTROL File > Unpublish]**.
 
-* **Renaming the asset**
-Select the name and enter a new name.
+* **Renaming the asset** - Select the name and enter a new name.
 
-* **Editing and adding metadata**
-Select the Metadata panel and make changes as desired. See [Viewing, adding, and exporting metadata](/help/viewing-adding-exporting-metadata.md).
+* **Editing and adding metadata** - Select the Metadata panel and change as desired. See [Viewing, adding, and exporting metadata](/help/viewing-adding-exporting-metadata.md).
 
-* **Editing and adding keywords**
-Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/viewing-adding-exporting-metadata.md).
+* **Editing and adding keywords** - Select Keywords and add or remove them as desired. See [Add or edit keywords](/help/viewing-adding-exporting-metadata.md).
 
-* **Deleting the asset**
-Click **[!UICONTROL File > Delete]**.
+* **Deleting the asset** - Click **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
 For discrete files—images, Image Sets, and fonts, for example—you can view the publishing and editing history, and check job details, in Detail view.  
   
-This table shows which additional options are available with different types of assets in Detail view.
+This table shows which other options are available with different types of assets in Detail view.
 
 |Asset type|Edit/adjust|Preview|
 |--- |--- |--- |
-|Images|Add Image Maps Add zoom targets Crop Sharpen Create adjusted views|Yes; Zoom and Image Presets.|
-|Cabinet and window covering images|No|Thumbnail.|
-|eCatalogs|Edit|Yes. Info Panel also available.|
-|Fonts|Edit font information|No.|
-|FXG files|Edit|Yes.|
-|ICC profiles|Edit profile information|No.|
-|Illustrator Files|No (unless converted to FXG)|No.|
-|Image Sets|Edit|Yes.|
-|InDesign files|No (unless converted to FXG)|No.|
-|PDF files|No|No.|
-|PSD files|Yes for individual layers|Yes for individual layers.|
-|Spin sets|Edit|Yes.|
-|SVG files|No|No.|
-|Templates|Edit|Yes.|
-|Videos|No|Yes.|
-|Vignettes and rendered vignettes|No|Image is shown. You can view the contents and structure of the renderable elements of the vignette in XML format.|
-|XML files|No|Contents are shown.|
-|ZIP files|No|Contents are not shown.|
+|Images|Add Image Maps<br>Add zoom targets<br>Crop<br>Sharpen<br>Create adjusted views|Yes; Zoom and Image Presets|
+|Cabinet and window covering images|No|Thumbnail|
+|eCatalogs|Edit|Yes<br>Info Panel is also available|
+|Fonts|Edit font information|No|
+|FXG files|Edit|Yes|
+|ICC profiles|Edit profile information|No|
+|Illustrator Files|No (unless converted to FXG)|No|
+|Image Sets|Edit|Yes|
+|InDesign files|No (unless converted to FXG)|No|
+|PDF files|No|No|
+|PSD files|Yes for individual layers|Yes for individual layers|
+|Spin sets|Edit|Yes|
+|SVG files|No|No|
+|Templates|Edit|Yes|
+|Videos|No|Yes|
+|Vignettes and rendered vignettes|No|Image is shown<br>You can view the contents and structure of the renderable elements of the vignette in XML format|
+|XML files|No|Contents are shown|
+|ZIP files|No|Contents are not shown|
 
 >[!MORELIKETHIS]
 >
