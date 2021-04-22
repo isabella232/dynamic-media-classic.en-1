@@ -13,7 +13,7 @@ exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
 ---
 # Fonts{#fonts}
 
-In some cases, Dynamic Media Classic requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
+Sometimes, Dynamic Media Classic requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
 
 Dynamic Media Classic supports these font types:
 
@@ -35,28 +35,28 @@ Upload font files with the same techniques you use to upload other files. You ca
 
 ## Editing font file information {#editing-font-file-information}
 
-You can change the ID name of a font as well as its type information. Editing a font file can be helpful in searches and making fonts easier to identify.
+You can change the ID name of a font and its type information. Editing a font file can be helpful in searches and making fonts easier to identify.
 
 In the Browse Panel, select the font file you want to edit in Detail view and choose File > Edit Info. The Edit Info screen opens. Choose the following options and select the Submit button.
 
-**Font Name** This name identifies the font when it is published.
+* **Font Name** - This name identifies the font when it is published.
 
-**PostScript Name** This name is the full PostScript name for the font. It usually indicates the weight or style.
+* **PostScript Name** - This name is the full PostScript name for the font. It usually indicates the weight or style.
 
-**RTF Name** This name appears on a pop-up menu in the RTF editor where template text layers are created.
+* **RTF Name** - This name appears on a pop-up menu in the RTF editor where template text layers are created.
 
-**Font Family Name** This name lists the font name without the style, weight, or font-type indicator.
+* **Font Family Name** - This name lists the font name without the style, weight, or font-type indicator.
 
-**Font Style** The options are Plain, Bold, Italic, and Bold-Italic.
+* **Font Style** - The options are Plain, Bold, Italic, and Bold-Italic.
 
-**Font Type** The options are TrueType and Adobe Type 1. If you call these fonts by another name, you can enter it.
+* **Font Type** - The options are TrueType and Adobe Type 1. If you call these fonts by another name, you can enter it.
 
-**Font Type Abbreviation** The options are as follows:
+* **Font Type Abbreviation** - The options are as follows:
 
-**TTF** TrueType font files used for PDF/PostScript rendering and image serving.
+  * **TTF** TrueType font files used for PDF/PostScript rendering and image serving.
 
-**AFM** Adobe PostScript font files that contain Adobe Font Metrics information and are used for image serving.
+  * **AFM** Adobe PostScript font files that contain Adobe Font Metrics information and are used for image serving.
 
-**PFM** Adobe PostScript font files that contain binary font metric information.
+  * **PFM** Adobe PostScript font files that contain binary font metric information.
 
-**PFB** Adobe PostScript font files that contain binary font outline information and are used for PDF/PostScript rendering and image serving.
+  * **PFB** Adobe PostScript font files that contain binary font outline information and are used for PDF/PostScript rendering and image serving.

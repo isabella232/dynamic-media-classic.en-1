@@ -15,42 +15,34 @@ exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 
 You can save assets you edited in Dynamic Media Classic to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
 
-The compressed Zip file has a maximum file size of 1 GB for the export job. Also, be aware that you are allowed a maximum of 500 total assets per export job.
+The compressed Zip file has a maximum file size of 1 GB for the export job. Also, you are allowed a maximum of 500 total assets per export job.
 
 Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
-**To export assets from Dynamic Media Classic**
+**To export assets from Dynamic Media Classic:**
 
-1. Select the assets you want to export, and then click **File** > **Export**. 
+1. Select the assets you want to export, and then click **[!UICONTROL File]** > **[!UICONTROL Export]**. 
 1. In the Export Selected Assets window, click **Image Options**, and then specify any of the following options (administrators determine which options are available to their users):
 
-   * **Presets**
-   Optionally, choose an Image Preset to format the asset when you export it. If you choose an Image Preset, the other formatting options are not available, as the asset adopts the formats defined by the Image Preset.
+   * **Presets** - Optionally, choose an Image Preset to format the asset when you export it. If you choose an Image Preset, the other formatting options are not available, as the asset adopts the formats defined by the Image Preset.
 
-   * **Conversion**
-   Convert the asset file or the original image.
+   * **Conversion** - Convert the asset file or the original image.
 
-   * **Size**
-   You can select a standard size. Or, you can click Other from the Size drop-down list, choose the desired unit of measure, and then specify the width and height.
+   * **Size** - You can select a standard size. Or, you can click **[!UICONTROL Other]** from the **[!UICONTROL Size]** drop-down list, choose the desired unit of measure, and then specify the width and height.
 
         See also [Specifying export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-   * **Format**
-   Choose an image format.
+   * **Format** - Choose an image format.
 
-   * **Color**
-   Choose RGB, CMYK, or Gray.
+   * **Color** - Choose RGB, CMYK, or Gray.
 
-   * **Resolution**
-   Choose 72, 150, or 300 ppi.
+   * **Resolution** - Choose 72 ppi, 150 ppi, or 300 ppi.
 
-   * **Job Name**
-   You can assign a job name to the export.
+   * **Job Name** - You can assign a job name to the export.
 
-   * **Send Email To**
-   Optionally, enter an e-mail address to send the assets by e-mail. The e-mail message lists the URL where the recipient can go to download the assets.
+   * **Send Email To** - Optionally, enter an e-mail address to send the assets by e-mail. The e-mail message lists the URL where the recipient can go to download the assets.
 
-1. Click **Export**.
+1. Click **[!UICONTROL Export]**.
 
 Three basic export actions are supported:
 
@@ -58,7 +50,7 @@ Three basic export actions are supported:
 * Convert Using Preset (use an image preset to format the asset)
 * Convert Without Preset (use the export dialog to specify image modifiers)
 
-The following asset types cannot be exported. All others should generate an export.
+The following asset types cannot be exported. All others generate an export.
 
 * Image Sets
 * Render Sets
@@ -74,8 +66,8 @@ You can use conversion to export the following asset types:
 * Images
 * Templates
 * Adjusted Images
-* PDF (will generate converted pages)
-* Postscript
+* PDF (generates converted pages)
+* PostScript®
 
 The following behavior results when a large selection of various asset types are fed into the exporter:
 
