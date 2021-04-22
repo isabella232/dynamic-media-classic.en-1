@@ -13,7 +13,7 @@ exl-id: fab1f618-5370-4049-b6e0-69264afa933c
 ---
 # Exporting source and encoded videos{#exporting-source-and-encoded-videos}
 
-In the Browse panel, source videos are labeled “Master Video.” Encoded videos are labeled “Video.” You can export source videos as well as master videos. To export video files, select them in the Browse panel and choose File > Export.
+In the Browse panel, source videos are labeled “Master Video.” Encoded videos are labeled “Video.” You can export source videos and master videos. To export video files, select them in the Browse panel and click **[!UICONTROL File]** > **[!UICONTROL Export]**.
 
 See [Exporting assets from Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 

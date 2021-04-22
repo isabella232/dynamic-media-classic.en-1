@@ -15,4 +15,7 @@ exl-id: 2c7c0838-0c48-450e-94ff-521bae19425f
 
 The following Help document is also available from Dynamic Media Classic:
 
-**Using Dynamic Media Classic Media Portal** Adobe Dynamic Media Classic Media Portal is a browser-based environment providing portal users easy access to upload, browse, search, preview, and export assets in corporate-approved formats. See [www.adobe.com/go/learn_sc7_mediaportalusing_en](https://www.adobe.com/go/learn_sc7_mediaportalusing_en).
+**Using Dynamic Media Classic Media Portal** - Adobe Dynamic Media Classic Media Portal is a browser-based environment providing portal users easy access to upload, browse, search, preview, and export assets in corporate-approved formats. See [www.adobe.com/go/learn_sc7_mediaportalusing_en](https://www.adobe.com/go/learn_sc7_mediaportalusing_en).
+
+<!-- Is this topic still needed? -rb 04/22/21
+ -->
