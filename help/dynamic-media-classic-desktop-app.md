@@ -38,7 +38,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * In **[!UICONTROL Upload Job Options]**, Layer naming default value under **[!UICONTROL Photoshop Options]**, is now **[!UICONTROL Photoshop and Layer Name]**. Layers in the PSD file are uploaded as separate images.
   * The earlier default of **[!UICONTROL Layer name]**, named the images after their layer name or layer number in the PSD file. The layer number was used if the layer names in the PSD file were default Photoshop layer names.
   * The new default of **[!UICONTROL Photoshop and Layer Name]**, names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names.
-  * Given that layer images in Dynamic Media Classic now have unique names, no updates to existing PSD or Templates will happen (which shared layer names in the original PSD files).
+  * Given that layer images in Dynamic Media Classic now have unique names, no updates to existing PSD or Templates are going to happen (which shared layer names in the original PSD files).
 * Broken thumbnails of assets.
 
 ## Fixes in the latest version (20.21.1) {#latest-fixes-desktop-app}
@@ -52,7 +52,7 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 * No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows®.
 * No need to sign out of the desktop app to switch between companies.
 * Ctrl+V for paste operation now works on Windows®.
-* In the future, when a new version of the desktop app is released, users will be notified within the desktop app itself.
+* In the future, when a new version of the desktop app is released, users are going to be notified within the desktop app itself.
 
 ## Download and install the latest Adobe Dynamic Media Classic desktop app on macOS or Windows® {#installation-dmc-app}
 

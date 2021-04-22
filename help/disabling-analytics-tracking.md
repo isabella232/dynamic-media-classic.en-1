@@ -13,9 +13,9 @@ exl-id: fa5b3971-1c7d-4371-8d69-c399cec0390d
 ---
 # Disabling Adobe Analytics tracking{#disabling-adobe-analytics-tracking}
 
-**To disable Adobe Analytics tracking**
+**To disable Adobe Analytics tracking:**
 
 1. Turn off all events in the Adobe Analytics Configuration page in Dynamic Media Classic.
 1. Save and publish.
 
-This turns off the support through Dynamic Media Classic and through URLs obtained from the **CopyURL** feature. If you implement custom tracking, disable the Adobe Analytics tracking as set up in the Configuration page to prevent conflicts with the custom implementation.
+These steps turn off the support through Dynamic Media Classic and through URLs obtained from the CopyURL feature. If you implement custom tracking, disable the Adobe Analytics tracking as set up in the Configuration page to prevent conflicts with the custom implementation.

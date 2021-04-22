@@ -25,21 +25,17 @@ Publishing a video enables Dynamic Media Classic Servers to deliver video to you
 
 There are two different methods you can use to publish video:
 
-* **Publish videos automatically and instantly on upload**
+* **Publish videos automatically and instantly on upload** - As part of the video upload process, Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
 
-  As part of the video upload process, Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
-
-* **Publish video manually after upload**
-
-  If you do not want to publish videos immediately, you can manually publish videos at any time.
+* **Publish video manually after upload** - If you do not want to publish videos immediately, you can manually publish videos at any time.
 
 After you publish videos, Dynamic Media Classic activates the URL strings for your HTML page or application code.
 
-**To publish video**
+**To publish video:**
 
 1. Do one of the following:
 
-    * To publish videos automatically and instantly on upload, in the Upload screen, click **Publish after uploading**. You have finished; there are no further steps to complete.
+    * To publish videos automatically and instantly on upload, in the Upload page, click **[!UICONTROL Publish after uploading]**. You have finished; there are no further steps to complete.
     * To publish videos manually after upload, in the Browse Panel, select the videos, and then on the Global Navigation bar, click **Publish**.
 
 ## Linking a video URL to a mobile site or a website {#linking-a-video-url-to-a-mobile-site-or-a-website}
@@ -50,24 +46,24 @@ When a customer clicks the link, their device, bandwidth, and screen size are au
 
 See also [Embedding the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page).
 
-**To link a video URL to a mobile site or a website**
+**To link a video URL to a mobile site or a website:**
 
-1. In the Asset Browse panel, in the Show drop-down list, click **Video** or **Adaptive Video Set**.
+1. In the Asset Browse panel, in the **[!UICONTROL Show]** drop-down list, click **[!UICONTROL Video]** or **[!UICONTROL Adaptive Video Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set you want to link.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View** or **List View**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, click **Copy URL** to the right of the viewer you want. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]** or **[!UICONTROL List View]**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, click **[!UICONTROL Copy URL]** to the right of the viewer you want. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**. As a best practice, copy the URL associated with the `Universal_HTML5_Video` viewer.
 
 1. Paste the HTML5 video URL link on your website and mobile site.
 
@@ -77,30 +73,30 @@ Use the Embed Code feature when you want to play the video embedded on the web p
 
 See also [Linking a video URL to a mobile site or a website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
-**To embed the video viewer on a web page**
+**To embed the video viewer on a web page:**
 
-1. In the Asset Browse panel, in the Show drop-down list, click **Video** or **Adaptive Video Set**.
+1. In the Asset Browse panel, in the Show drop-down list, click **[!UICONTROL Video]** or **[!UICONTROL Adaptive Video Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set whose embed code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View** or **List View**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, click **Embed Code** to the right of the viewer you want. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the video thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]** or **[!UICONTROL List View]**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, under HTTP Streaming, click **[!UICONTROL Embed Code]** to the right of the viewer you want. As a best practice, click **[!UICONTROL Embed Code]** that is associated with the `Universal_HTML5_Video` viewer.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, select a single asset, and then below the video thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**. As a best practice, click **[!UICONTROL Embed Code]** that is associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**. As a best practice, click **[!UICONTROL Embed Code]** that is associated with the `Universal_HTML5_Video` viewer.
     
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the `Universal_HTML5_Video` viewer.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**. As a best practice, click **[!UICONTROL Embed Code]** that is associated with the `Universal_HTML5_Video` viewer.
 
-1. In the Embed Code dialog box, click **Copy to Clipboard**.
+1. In the Embed Code dialog box, click **[!UICONTROL Copy to Clipboard]**.
 
    Editing the code is not permitted in the Embed Code dialog box.
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 1. Paste the embed code in your web pages.
 
 ### Implementing embed code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
@@ -115,7 +111,7 @@ If you do not use the Dynamic Media Classic HTML5 video player, but instead want
 </video>
 ```
 
-* Replace `"S7 video thumbnail URL"` with the video’s thumbnail URL. This is the video’s thumbnail image that a user sees before they play the video.
+* Replace `"S7 video thumbnail URL"` with the video’s thumbnail URL which is the video’s thumbnail image that a user sees before they play the video.
 
   See [Obtaining video thumbnail URLs](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls).
 
@@ -129,29 +125,36 @@ If you do not use the Dynamic Media Classic HTML5 video player, but instead want
 
 ## Deploying video using a third-party video player {#deploying-video-using-a-third-party-video-player}
 
-If you use a third-party video player or a custom built video player instead of a Dynamic Media Classic video viewer, you can obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
+If you use a third-party video player or a custom-built video player instead of a Dynamic Media Classic video viewer, you can obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
 
-**To deploy video using a third-party video player**
+**To deploy video using a third-party video player:**
 
-1. In Dynamic Media Classic, on the Global Navigation bar, click **Setup** > **Application Setup** > **General Settings**.
+1. In Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
 1. Depending on the type of URL you want to use, do one of the following tasks:
+
 * To generate a direct HLS streaming video URL (multi-bitrate)
 
-  On the **Application General Settings** page, in the **Servers** group, in the **Published Server Name** text field, construct the direct URL using the following syntax: `server/is/content/company/folder/filename.m3u8`
-  For example, suppose the Published server name is `https://s7d9.scene7.com/.` Using the syntax in step 2, the direct URL might look like the following:
+  On the **[!UICONTROL Application General Settings]** page, in the **[!UICONTROL Servers]** group, in the **[!UICONTROL Published Server Name]** text field, construct the direct URL. Use the following syntax: `server/is/content/company/folder/filename.m3u8`
+  
+  For example, suppose that the Published server name is `https://s7d9.scene7.com/.` Using the syntax in step 2, the direct URL could look like the following:
   `https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8`
 
 * To generate a direct HLS streaming video URL (single bit rate)
 
-  On the **Application General Settings** page, in the **Servers** group, in the **HLS Streaming Server Name** text field, construct the direct URL using the following syntax:
+  On the **[!UICONTROL Application General Settings]** page, in the **[!UICONTROL Servers]** group, in the **[!UICONTROL HLS Streaming Server Name]** text field, construct the direct URL using the following syntax:
+
   `server/company/folder/filename.ext.m3u8`
-  For example, suppose the HLS streaming server name is `https://s7mbrstream.scene7.com/hls-vod/`. Using the syntax in step 2, the direct URL might look like the following:
+  
+  For example, suppose that the HLS streaming server name is `https://s7mbrstream.scene7.com/hls-vod/`. Using the syntax in step 2, the direct URL could look like the following:
   `https://s7mbrstream.scene7.com/hls-vod/GeoRetail/MBR/ToyStory3\_Teaser1\_High\_iPad\_768x432\_1296K.mp4.m3u8`
 
 * To generate a direct progressive video URL
 
-  On the **Application General Settings** page, in the **Servers** group, in the **Progressive Video Server Name** text field, construct the direct eVideo URL using the following syntax: `server/company/folder/filename`
-  For example, suppose the progressive video server name is `https://s7d9.scene7.com/is/content/`. Using the syntax in step 2, the direct URL might look like the following:
+  On the **[!UICONTROL Application General Settings]** page, in the **[!UICONTROL Servers]** group, in the **[!UICONTROL Progressive Video Server Name]** text field, construct the direct eVideo URL using the following syntax:
+  
+  `server/company/folder/filename`
+  
+  For example, suppose that the progressive video server name is `https://s7d9.scene7.com/is/content/`. Using the syntax in step 2, the direct URL could look like the following:
   `https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4`
 
 ## Working with video thumbnails {#working-with-video-thumbnails}
@@ -168,7 +171,7 @@ To generate URLs for video thumbnails, perform a publish operation.
 
 See [Publishing video](deploying-video-websites-mobile-sites.md#publishing_video).
 
-After publishing, you can obtain video thumbnail URLs in Detail View in the URLs and Embed Code panel. Click **Copy URL** to the right of the video thumbnail to copy its URL
+After publishing, you can obtain video thumbnail URLs in Detail View in the URLs and Embed Code panel. Click **[!UICONTROL Copy URL]** to the right of the video thumbnail to copy its URL.
 
 ### Modifying poster frames in video viewers {#modifying-poster-frames-in-video-viewers}
 
@@ -178,7 +181,7 @@ You can apply image modifiers to the poster frame. For example, you can crop the
 
 See [Adding or editing a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-See [www.adobe.com/go/learn_s7_image_server_guide_en](https://www.adobe.com/go/learn_s7_image_server_guide_en).
+See [Image Serving Guide](https://experienceleague.corp.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home.html?lang=en#image-serving-api).
 
 You can also modify video thumbnails by appending modifiers to video thumbnail URLs.
 

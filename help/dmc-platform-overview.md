@@ -19,17 +19,13 @@ Dynamic Media Classic is an integrated, rich media management, publishing, and s
 
 The key Dynamic Media Classic workflow steps are:
 
-* **Upload and manage your assets**
-Upload your media assets to Dynamic Media Classic. You can organize, browse, and search for assets on the system. You can also apply metadata to assets.
+* **Upload and manage your assets** - Upload your media assets to Dynamic Media Classic. You can organize, browse, and search for assets on the system. You can also apply metadata to assets.
 
-* **Create rich media**
-Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates. For more information, see About rich media.
+* **Create rich media** - Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates.
 
-* **Publish and administer**
-Publish assets to the Dynamic Media Classic Saas network, as well as monitor the status of assets when they are published, administer user rights, and maintain security.
+* **Publish and administer** - Publish assets to the Dynamic Media Classic SaaS network, as well as monitor the status of assets when they are published, administer user rights, and maintain security.
 
-* **Serve**
-Deliver media from Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
+* **Serve** - Deliver media from Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
 ![The Dynamic Media Classic workflow process](/help/assets/gs_workflow.png) 
 
@@ -43,4 +39,4 @@ The URL strings you generate with Dynamic Media Classic include instructions tha
 
 ## Content caching {#content-caching}
 
-The images that Dynamic Media Classic generates dynamically are cache-friendly; in most cases, they are JPEG images with unique URL calls that identify them. The images are delivered on the content delivery network (CDN), a system of servers that are networked together on the Internet to deliver content faster. The images are distributed from servers located globally, and then to computers. When implementing a caching mechanism using any CDN vendor, you simply change the server name to point to the CDN-enabled Dynamic Media Image Server. All Dynamic Media Classic editions include bundled CDN caching.
+The images that Dynamic Media Classic generates dynamically are cache-friendly; usually, they are JPEG images with unique URL calls that identify them. The images are delivered on the content delivery network (CDN), a system of servers that are networked together on the Internet to deliver content faster. The images are distributed from servers located globally, and then to computers. When implementing a caching mechanism using any CDN vendor, you simply change the server name to point to the CDN-enabled Dynamic Media Image Server. All Dynamic Media Classic editions include bundled CDN caching.
