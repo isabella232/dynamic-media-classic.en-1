@@ -15,7 +15,7 @@ exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 
 Projects provide an optional, secondary way for you to organize assets independently of the folders in which they are stored. An asset can be placed in only one folder, but it can be copied into more than one Project folder for organizational purposes.
 
-After you create a Project folder, you can place assets in it. However, assets in a Project are actually pointers to the Asset Library folder in which the assets are actually stored. You can place an asset in more than one Project. For example, an image of a blouse can be placed in both the “Blouses” and “Fall Collection” Project folders.
+After you create a Project folder, you can place assets in it. However, assets in a Project are actually pointers to the Asset Library folder in which the assets are stored. You can place an asset in more than one Project. For example, an image of a blouse can be placed in both the “Blouses” and “Fall Collection” Project folders.
 
 You can create a Project when you upload files or create Projects in the Asset Library Panel.
 
@@ -31,35 +31,28 @@ You can create a Project when you upload files or create Projects in the Asset L
 
 You can create a Project folder starting in the Assets Library or when you upload files to Dynamic Media Classic:
 
-* **In the Asset Library**
-Scroll to the bottom of the Asset Library, to the Projects section, and select the Add Project button . Then enter a name for the project.
+* **In the Asset Library** - Scroll to the bottom of the Asset Library, to the Projects section, and then click **[!UICONTROL Add Project]**. Enter a name for the project.
 
-* **When uploading files**
-In the Upload screen, select the Add to Project menu and choose Create Project. Then enter a name for the project.
+* **When uploading files** - In the Upload screen, click **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Enter a name for the project.
 
 >[!NOTE]
 >
->The Projects area in the Asset Library is a single level folder list; it doesn’t permit subfolders.
+>The Projects area in the Asset Library is a single level folder list; it does not permit subfolders.
 
 ## Working with Project folders {#working-with-project-folders}
 
-Follow these instructions to display, delete, and rename a Project folder:
+To display, delete, and rename a Project folder, do any of the following:
 
-* **Browsing contents**
-Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
+* **Browsing contents** - Select the name of the folder in the Asset Library. Its assets appear in the Browse Panel.
 
-* **Deleting Project folders**
-Select the Project folder and then select the Remove Project button . Deleting assets from a Project folder does not delete them from Dynamic Media Classic; the assets remain in the original folders in which they are stored.
+* **Deleting Project folders** - Select the Project folder and then click **[!UICONTROL Remove Project]**. Deleting assets from a Project folder does not delete them from Dynamic Media Classic; the assets remain in the original folders in which they are stored.
 
-* **Renaming Project folders**
-Double-click the name of the folder in the Asset Panel, and then enter a new name.
+* **Renaming Project folders** - Double-click the name of the folder in the Asset Panel, and then enter a new name.
 
 ## Adding assets to a Project folder {#adding-assets-to-a-project-folder}
 
 You can add images to a Project folder starting in the Browse Panel or when you upload files to Dynamic Media Classic:
 
-* **From the Browse Panel**
-Select the assets and drag them to a Project folder. You can also choose File > Add To Project, select a Project folder name in the Select Project dialog box, and select the Submit button.
+* **From the Browse Panel** - Select the assets and drag them to a Project folder. You can also click **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Select a Project folder name in the Select Project dialog box, and then click **[!UICONTROL Submit]**.
 
-* **When uploading files**
-In the Upload screen, click the Job Options button. In the Upload Job Options dialog box, choose Projects, and select a project name.
+* **When uploading files** - In the Upload page, click **[!UICONTROL Job Options]**. In the Upload Job Options dialog box, click **[!UICONTROL Projects]**, and then select a project name.

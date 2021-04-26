@@ -21,20 +21,20 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
 
 ## Copying an eCatalog URL {#copying-an-ecatalog-url}
 
-1. In the Asset Browse panel, in the Show drop-down list, click **Catalog**.
+1. In the Asset Browse panel, in the Show drop-down list, click **[!UICONTROL Catalog]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose embed code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Copy URL** to the right of the viewer you want.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **[!UICONTROL Copy URL]** to the right of the viewer you want.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
+
+    * Click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
       In the Viewer List page, under the Actions column of the table, click **Copy URL**.
 
@@ -42,33 +42,33 @@ Your web sites and applications access Dynamic Media Image Server content, inclu
 
 The most common way to deploy an eCatalog is to place a link in the form of an eCatalog thumbnail cover page on your web page. Work with your IT team to make sure that the eCatalog launches in a clean, centered pop-up window. Ask your IT team to keep the toolbar and address bar in the browser from showing.
 
-For additional details and code samples, see [Embedding HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+For more details and code samples, see [Embedding HTML5 eCatalog Viewer in the Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## Copying the embed code of an eCatalog viewer {#copying-the-embed-code-of-an-ecatalog-viewer}
 
 Using the Embed Code feature lets you review the viewer code for the selected eCatalog. You can also copy the code to the clipboard so you can paste it in your web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of an eCatalog viewer**
+**To copy the embed code of an eCatalog viewer:**
 
-1. In the Asset Browse panel, in the Show drop-down list, click **Catalog**.
+1. In the Asset Browse panel, in the Show drop-down list, click **[!UICONTROL Catalog]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the eCatalog whose embed code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, click **Embed Code**.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs panel on the right, click **[!UICONTROL Embed Code]**.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**.
 
-1. In the Embed Code dialog box, click **Copy to Clipboard**.
+    * Click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**.
+
+1. In the Embed Code dialog box, click **[!UICONTROL Copy to Clipboard]**.
 
    Editing the code is not permitted in the Embed Code dialog box.
 
-1. Click Close.
+1. Click **[!UICONTROL Close]**.
