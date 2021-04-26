@@ -17,22 +17,22 @@ After you publish a Mixed Media Set, you can obtain its URL for use in your web 
 
 ## Obtain a Mixed Media Set URL {#obtain-a-mixed-media-set-url}
 
-1. In the Asset Browse panel, in the Show drop-down list, click **Media Set**.
+1. In the Asset Browse panel, in the Show drop-down list, click **[!UICONTROL Media Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the media set whose embed code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Copy URL** to the right of the viewer you want.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **[!UICONTROL Copy URL]** to the right of the viewer you want.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
-    
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Copy URL**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
+
+    * Click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Copy URL]**.
 
 ## Add Mixed Media Set URLs to your web page {#add-mixed-media-set-urls-to-your-web-page}
 
@@ -42,30 +42,30 @@ The most common way to deploy Mixed Media Sets is to place a link (via a navigat
 
 Using the Embed Code feature lets you review the viewer code for the selected Mixed Media Set. You can also copy the code to the clipboard so you can paste it in your web pages for deployment of the viewer. Editing of the code is not permitted in the Embed Code dialog box.
 
-**To copy the embed code of a Mixed Media Set viewer**
+**To copy the embed code of a Mixed Media Set viewer:**
 
-1. In the Asset Browse panel, in the Show drop-down list, click **Mixed Media Set**.
+1. In the Asset Browse panel, in the Show drop-down list, click **[!UICONTROL Mixed Media Set]**.
 1. in the Asset Library panel on the left side, navigate to the asset folder that contains the Mixed Media Set whose embed code you want to copy.
 1. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click **Grid View**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **Embed Code** to the right of the viewer you want.
-    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, double-click a single asset to open it in Detail View. In the URLs and Embed Code panel on the right, click **[!UICONTROL Embed Code]** to the right of the viewer you want.
+    * Click **[!UICONTROL Grid View]**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
-    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview** > **Viewer List**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
-    
-    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview** > **Viewer List**.
+    * Click **[!UICONTROL List View]**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      In the Viewer List page, under the Actions column of the table, click **Embed Code**.
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**.
 
-1. In the Embed Code dialog box, click **Copy to Clipboard**.
+    * Click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
+      In the Viewer List page, under the Actions column of the table, click **[!UICONTROL Embed Code]**.
+
+1. In the Embed Code dialog box, click **[!UICONTROL Copy to Clipboard]**.
 
    Editing the code is not permitted in the Embed Code dialog box.
 
-1. Click **Close**.
+1. Click **[!UICONTROL Close]**.
 
 >[!MORELIKETHIS]
 >

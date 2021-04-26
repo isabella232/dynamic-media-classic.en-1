@@ -22,22 +22,20 @@ You can move assets to different folders in the Browse Panel.
 1. Select the asset or assets in the Browse Panel, and do one of the following:
 
     * Display the folder you want to move the assets to in the Asset Library and drag the assets to the folder.
-    * Choose File > Move, select a folder in the Move Assets window, and select Move.
+    * Click **[!UICONTROL File]** > **[!UICONTROL Move]**, select a folder in the Move Assets window, and select **[!UICONTROL Move]**.
 
 ## Rename assets {#rename-assets}
 
-To rename an asset:
-
 1. Select the asset in the Browse Panel, and do one of the following:
 
-    * Select the name, type in a new name, and press Enter or click away from the name.
-    * Choose File > Rename. The name of the asset is highlighted. Enter a new name and press Enter.
+    * Select the name, type in a new name, and press **[!UICONTROL Enter]** or click away from the name.
+    * Click **[!UICONTROL File]** > **[!UICONTROL Rename]**. The name of the asset is highlighted. Enter a new name and press **[!UICONTROL Enter]**.
 
 Be sure that you do not to enter the name of an existing Dynamic Media Classic asset.
 
 ## Delete assets {#delete-assets}
 
-You can delete selected assets in the Browse Panel as well as delete entire folders. Deleted assets and folders are moved to the Trash folder, where they remain for seven days before being permanently deleted.
+You can delete selected assets in the Browse Panel and delete entire folders. Deleted assets and folders are moved to the Trash folder, where they remain for seven days before being permanently deleted.
 
 When you delete an asset, all assets derived from it are deleted as well. For example, deleting an image for which you created zoom targets deletes the zoom targets along with the image.
 
@@ -47,10 +45,10 @@ When you delete an asset, all assets derived from it are deleted as well. For ex
 
 1. Do any of the following:
 
-    * To delete one or more assets, select the assets in the Browse Panel, and press Delete or choose File > Delete.
-    * To delete a folder, select the folder in the Asset Library, and click **Remove Folder**.
+    * To delete one or more assets, select the assets in the Browse Panel, and press **[!UICONTROL Delete]** or click **[!UICONTROL File]** > **[!UICONTROL Delete]**.
+    * To delete a folder, select the folder in the Asset Library, and click **[!UICONTROL Remove Folder]**.
 
-      Deleting a folder deletes the folder, all the assets in the folder, as well as all assets in its subfolders.
+      Deleting a folder deletes the folder, all the assets in the folder, and all assets in its subfolders.
 
 >[!NOTE]
 >
@@ -64,11 +62,11 @@ Create the list of Dynamic Media Classic IDs and save it as a text (.txt) file. 
 
 After you create the list, follow these steps to use it to delete assets:
 
-1. Choose File > Delete Asset List.
-1. In the Delete Asset list dialog box, browse or type the path to the text file with the list of assets you want to delete.
-1. Click the Delete button.
+1. Click **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]**.
+1. In the Delete Asset list dialog box, browse, or type the path to the text file with the list of assets you want to delete.
+1. Click **[!UICONTROL Delete]**.
 
-When you delete assets with a text file, if any Dynamic Media Classic ID is not on the list, a message is displayed letting you know that Dynamic Media Classic is “Unable to validate these entries in your list:” along with the list of entries. However, Dynamic Media Classic will not generate an error on the Job screen.
+When you delete assets with a text file, if any Dynamic Media Classic ID is not on the list, the message “Unable to validate these entries in your list:” is displayed and the list of entries. However, Dynamic Media Classic does not generate an error on the Job page.
 
 >[!MORELIKETHIS]
 >

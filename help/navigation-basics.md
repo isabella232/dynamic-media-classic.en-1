@@ -21,51 +21,51 @@ The Dynamic Media Classic screen includes three major areas: Global Navigation b
 
 The Global Navigation bar, located along the top of the screen, offers buttons for performing different tasks:
 
-**Select Company** Choose the company you want to access from the menu. This button isn’t available if you’re working with one company.
+* **Select Company** - Choose the company you want to access from the menu. This button is not available if you are working with one company.
 
-**Upload** Opens the Upload screen so you can upload files from your computer or network to Dynamic Media Classic. You can upload files from your desktop or via FTP. See Uploading files.
+* **Upload** - Opens the Upload screen so you can upload files from your computer or network to Dynamic Media Classic. You can upload files from your desktop or via FTP. See [Uploading files](/help/uploading-files.md).
 
-**Build** Choose a Build task from the menu. The Build panel opens so you can create an asset type.
+* **Build** - Choose a Build task from the menu. The Build panel opens so you can create an asset type.
 
-**Publish** Opens the Publish screen so you can publish rich media assets to Dynamic Media Image Servers and the rest of the Dynamic Media Classic SAAS Infrastructure. See Publishing.
+* **Publish** - Opens the Publish screen so you can publish rich media assets to Dynamic Media Image Servers and the rest of the Dynamic Media Classic SAAS Infrastructure.
 
-**Jobs** Opens the Jobs screen so you can examine records of upload and publish jobs.
+* **Jobs** - Opens the Jobs screen so you can examine records of upload and publish jobs.
 
-**Recent** Opens the Recent Activity screen so you can view the names of recently modified assets and recent upload and publish jobs.
+* **Recent** - Opens the Recent Activity screen so you can view the names of recently modified assets and recent upload and publish jobs.
 
-**Setup** Opens the Setup screen so you can choose setup or administration options for optimizing your use of Dynamic Media Classic. See Setup.
+* **Setup** - Opens the Setup screen so you can choose setup or administration options for optimizing your use of Dynamic Media Classic. See [Setup](/help/setup-basics.md).
 
-**Help** Choose a Help option:
+* **Help** Choose a Help option:
 
-**Help > Help On This Topic** Opens the Help system to a page with information about the task you are currently doing.
+* **Help > Help On This Topic** - Opens the Help system to a page with information about the task you are currently doing.
 
-**Help > Video Tutorial** Accesses videos on specific topics to demonstrate how to get started with each rich media publishing workflow.
+* **Help > Video Tutorial** - Accesses videos on specific topics showing you how to get started with each rich media publishing workflow.
 
-**Help > Help Contents** Opens the Help system to the Introduction page. You can click through the Table of Contents to find and view different topics.
+* **Help > Help Contents** - Opens the Help system to the Introduction page. You can click through the Table of Contents to find and view different topics.
 
-**Help > About** Tells you which version of Dynamic Media Classic you are running.
+* **Help > About** - Tells you which version of Dynamic Media Classic you are running.
 
-**Help > Support** Tells you how to get technical support from Dynamic Media Classic.
+* **Help > Support** - Tells you how to get technical support from Dynamic Media Classic.
 
-**Sign Out** Exits Dynamic Media Classic.
+* **Sign out** - Exits Dynamic Media Classic.
 
 ## Asset Library {#asset-library}
 
 Use the Asset Library to organize the assets you are working with. You can create folders and subfolders for organizing your assets in the Asset Library.
 
-At the top of the Asset Library panel are commands for locating assets. You can search for assets and filter to locate assets. Click the Trash icon at the bottom of the Asset Library to examine assets you deleted.
+At the top of the Asset Library panel are commands for locating assets. You can search for assets and filter to locate assets. Click the **[!UICONTROL Trash]** icon at the bottom of the Asset Library to examine assets you deleted.
 
 >[!NOTE]
 >
->You can click Asset Library controls to open or close the Asset Library and get more room to work onscreen. Select the Expand/Collapse control to expand or close the panel. These controls are located on the left side of the panel.
+>You can click **[!UICONTROL Asset Library]** controls to open or close the Asset Library and get more room to work onscreen. Click the **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** control to expand or close the panel. These controls are on the left side of the panel.
 
 ## Browse Panel/Build Panel {#browse-panel-build-panel}
 
-The Browse/Build Panel is where you do much of your work. What appears in this panel depends on whether you are working in Browse mode or Build mode:
+The Browse/Build Panel is where you do much of your work. The functions that are available in this panel depend on whether you are in Browse mode or Build mode.
 
-**Browse mode** Select a folder in the Asset Library to view and work with its contents in the Browse Panel. This panel offers the File, Preview, Select All, Select None, and Sort menus for working with assets. You can also view assets in different ways by moving the slider or selecting the Grid View , List View , or Detail View button. Selecting the Detail View button or double-clicking an asset opens the asset in Detail view, where you can perform asset-dependent file operations.
+* **Browse mode** - To view and work with a folder's contents in the Browse Panel, select a folder in the Asset Library. This panel offers the **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, and **[!UICONTROL Sort]** menus for working with assets. You can also view assets in different ways by moving the slider or click **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, or **[!UICONTROL Detail View]**. Clicking **[!UICONTROL Detail View]** or double-clicking an asset opens the asset in Detail view, where you can perform asset-dependent file operations.
 
-**Build mode** Click Build, then choose an option to start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build screen opens. You can select the assets you want to work with before or after you enter Build mode.
+* **Build mode** - Click **[!UICONTROL Build]**, then choose an option to start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build page opens. You can select the assets you want to work with before or after you enter Build mode.
 
 >[!MORELIKETHIS]
 >
