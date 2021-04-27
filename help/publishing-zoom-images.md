@@ -17,11 +17,11 @@ Publishing places your zoom images on Dynamic Media Image Servers so they can be
 
 ## Marking images for publish {#marking-images-for-publish}
 
-Images must be marked for publish in order for them to be copied to Dynamic Media Image Servers. You can mark your images for publish in the Browse Panel by selecting the **Mark for Publish** icon. As well, you can mark images for publish when you upload them.
+Images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your images for publish in the Browse Panel by selecting the **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them.
 
 ## Publishing the images {#publishing-the-images}
 
-To publish zoom images, start by clicking **Publish** on the Global Navigation bar. Then, select a **When option (One-Time or Recurring)**, optionally enter a name for the publish job, and click **Start Publish**.
+To publish zoom images, on the Global Navigation bar, click **[!UICONTROL Publish]**, then select a **[!UICONTROL When]** option (**[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**). You can optionally enter a name for the publish job. Click **Submit Publish**.
 
 >[!MORELIKETHIS]
 >

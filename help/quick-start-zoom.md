@@ -55,7 +55,7 @@ Zoom buttons appear. You can see what the zoom images look like on your web site
 
 Publishing your zoom images places them on Dynamic Media Image Servers so that they can be delivered to your web site and application. As part of the publishing process, Dynamic Media Classic activates URL strings. These URL strings call zoom images from Dynamic Media Image Servers to your web site or application.
 
-Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select the Start Publish button. See [Publishing zoom images](publishing-zoom-images.md#publishing_zoom_images).
+On the Global Navigation bar, click **[!UICONTROL Publish]**. On the Publish dialog box, click Submit Publish. See [Publishing zoom images](publishing-zoom-images.md#publishing_zoom_images).
 
 **6. Linking Zoom Viewers to your web page**
 

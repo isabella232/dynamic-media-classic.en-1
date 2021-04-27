@@ -13,15 +13,15 @@ exl-id: b085f7ea-4623-402e-97f5-ed8ad5f368c7
 ---
 # Publishing a Spin Set{#publishing-a-spin-set}
 
-Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your web site or application. What’s more, during the publishing process, Dynamic Media Classic activates the Spin Set URL strings you need for your web site or application.
+Publishing a Spin Set places the images in the set on Dynamic Media Image Servers, where they are available to your web site or application. What is more, during the publishing process, Dynamic Media Classic activates the Spin Set URL strings you need for your web site or application.
 
 ## Marking a Spin Set for publish {#marking-a-spin-set-for-publish}
 
-Mark your Spin Set for publish for it to be copied to Dynamic Media Classic image servers. You can mark your Spin Set for publish in the Browse Panel by selecting the Mark for Publish icon to the left of its name. All images in the set are marked for publish when you mark the Spin Set itself for publish.
+Mark your Spin Set for publish for it to be copied to Dynamic Media Classic image servers. You can mark your Spin Set for publish in the Browse Panel by clicking the **[!UICONTROL Mark for Publish]** icon to the left of its name. All images in the set are marked for publish when you mark the Spin Set itself for publish.
 
 ## Publishing the Spin Set {#publishing-the-spin-set}
 
-To publish a Spin Set to Dynamic Media Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option, optionally enter a name for the publish job, and select the Start Publish button.
+To publish a Spin Set to Dynamic Media Image Servers, on the Global Navigation bar, click **[!UICONTROL Publish]**. Then select a **[!UICONTROL When]** option. You can optionally enter a name for the publish job. Click **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >

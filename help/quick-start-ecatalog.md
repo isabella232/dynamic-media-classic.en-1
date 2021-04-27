@@ -20,14 +20,14 @@ An eCatalog is a digital, web version of print material—a catalog, brochure, f
 * Share the catalog by way of social media; download the catalog to view offline; enable Favorites to mark items you want to return to quickly, or print the catalog.
 * Navigate the catalog using the table of contents or the page grid view; page forward or backward by clicking the middle edge of a page.
 * Zoom in, zoom out, and pan to examine items on a page.
-* Move the pointer over a page region (called an Image Map) to see a pop-up window with information about an item.
-* Click a page region to open a new web page with more information about an item.
+* Move the pointer over a page region (called an Image Map) so you can see a pop-up window with information about an item.
+* Click a page region so it opens a new web page with more information about an item.
 * Write a sticky note and attach it to an eCatalog page.
-* Tap image map icons to launch related web pages or in-context info panels.
+* Tap image map icons if you want to launch related web pages or in-context info panels.
 * Use gesture interactions, including pinching to zoom and swiping to turn pages.
 * Search by keyword for items.
 
-![The eCatalog as it looks to users. A) eCatalog opening page. B)eCatalog turned to page 2.](/help/assets/ec_cat_viewer_popup.png)
+![The eCatalog as it appears to users. A) eCatalog opening page. B)eCatalog turned to page 2.](/help/assets/ec_cat_viewer_popup.png)
 
 To create an eCatalog, you typically use high-resolution PDF files created in Adobe® Acrobat® or another print program, but you can also create an eCatalog from image files.
 
@@ -35,47 +35,47 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 
 >[!NOTE]
 >
->If you are an AEM Dynamic Media - Scene7 mode user and want to use eCatalogs, you will need to edit the `pdfbrochure` value in CRXDE Lite. To do so, in AEM, click **[!UICONTROL Tools > General > CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+>If you are a Dynamic Media - Scene7 mode user and want to use eCatalogs, you must edit the `pdfbrochure` value in CRXDE Lite. To do so, in Adobe Experience Manager, click **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. In the left panel navigation tree, navigate to `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
 >
 >In the lower right pane, in the **[!UICONTROL Properties]** tab, select the `jobParam` row. Set the value for `pdfbrochure` from `false` to `true`. As in `pdfbrochure=true`
 >
 >In the upper-left corner of the CRXDE Lite page, click **[!UICONTROL Save All]**.
 >
->You will now be able to author eCatalogs in Dynamic Media Classic.
+>You are now able to author eCatalogs in Dynamic Media Classic.
 
-**Quick Start**
+## Quick Start
 
 This eCatalog Quick Start is designed to help you get up and running quickly with eCatalogs. Follow steps 1 through 7. After each step is a cross-reference to a topic heading where you can find more information.
 
-**1. Uploading the PDF files**
+### 1. Uploading the PDF files
 
-Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. Dynamic Media Classic detects these images and converts them using a standard CMYK color profile. However, you may have to upload and use a custom color profile.
+Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. Dynamic Media Classic detects these images and converts them using a standard CMYK color profile. However, you must upload and use a custom color profile.
 
-Click Upload on the Global Navigation bar to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or via FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
+On the Global Navigation bar, click **[!UICONTROL Upload]** to start uploading PDF files or images for your eCatalog. You can upload files from your desktop or via FTP; FTP is recommended if you are uploading many files or files larger than 100 MB.
 
 Under PDF Options, the Upload screen provides options for uploading PDF files at the proper resolution and correct color space. A 150 pixels-per-inch resolution is recommended. You can select the Auto-Generate eCatalog option to create an eCatalog when you upload a PDF file.
 
 See [Uploading the PDF files](uploading-pdf-files.md#uploading_the_pdf_files).
 
-**2. Creating an eCatalog**
+### 2. Creating an eCatalog
 
-Create your eCatalog by selecting PDF or image files in the Browse Panel, and then clicking the Build button and choosing eCatalogs. The eCatalog screen opens.
+Create your eCatalog by selecting PDF or image files in the Browse Panel. Click **[!UICONTROL Build]**, then choose **[!UICONTROL eCatalogs]**.
 
-On the Order Pages tab, select a Layout button—1 Up, 2 Up, or Custom—to choose whether you want single, double, or custom page spreads. You can rearrange pages or spreads by dragging them or, in a large eCatalog, choosing a page name on the Move To menu.
+On the eCatalog page, on the **[!UICONTROL Order Pages]** tab, select a Layout option: **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, or **[!UICONTROL Custom]**. You can rearrange pages or spreads by dragging them or, in a large eCatalog, choosing a page name on the Move To menu.
 
-To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import a large number of page names.
+To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import many page names.
 
-Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose an Dynamic Media Classic folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
+Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose a Dynamic Media Classic folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
 
 See [Creating an eCatalog](creating-ecatalog.md).
 
-**3. Creating Image Maps**
+### 3. Creating Image Maps
 
-Image Maps add another dimension to eCatalog pages. An Image Map is a region on a page that delivers more information about an item. When viewers roll the pointer over an Image Map, they see a description of the item. Clicking an Image Map activates an external reference that opens a new web page where you can learn more about an item.
+Image Maps add another aspect to eCatalog pages. An Image Map is a region on a page that delivers more information about an item. When viewers roll the pointer over an Image Map, they see a description of the item. Clicking an Image Map activates an external reference that opens a new web page where you can learn more about an item.
 
-To create an Image Map, open the eCatalog screen. Then go to the **[!UICONTROL Map Pages]** tab of the eCatalog screen, and draw the map with the Rectangle Image Map tool or Polygon Image Map tool. You can adjust the position and size of Image Maps by dragging map borders with the Pan tool.
+To create an Image Map, open the eCatalog screen. Then go to the **[!UICONTROL Map Pages]** tab of the eCatalog screen, and frame the map with the Rectangle Image Map tool or Polygon Image Map tool. You can adjust the position and size of Image Maps by dragging map borders with the Pan tool.
 
-After you draw the Image Map, enter the URL address that you want to go to when you click the Image Map. You can also enter the rollover text that appears when you move your pointer over the Image Map.
+After you frame the Image Map, enter the URL address that you want to go to when you click the Image Map. You can also enter the rollover text that appears when you move your pointer over the Image Map.
 
 See [Creating eCatalog Image Maps](creating-ecatalog-image-maps.md#creating-ecatalog-image-maps).
 
@@ -85,7 +85,7 @@ You can set up and manage the image map text using the Info Panel settings in th
 
 See [Managing Info Panel content](info-panel-content.md#managing-info-panel-content).
 
-**4. Setting up eCatalog Viewer Presets**
+### 4. Setting up eCatalog Viewer Presets
 
 End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Dynamic Media Classic comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
 
@@ -93,7 +93,7 @@ To create an eCatalog Viewer Preset, on the Global Navigation bar, click **[!UIC
 
 See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
-**5. Previewing eCatalogs in the eCatalog Viewer**
+### 5. Previewing eCatalogs in the eCatalog Viewer
 
 eCatalog Viewer Presets determine the style and behavior of your eCatalog Viewers.
 
@@ -103,15 +103,15 @@ Notice the orientation, color scheme, what the controls for changing pages look 
 
 See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-viewer.md#previewing-ecatalogs-in-the-ecatalog-viewer).
 
-**6. Publishing eCatalog and associated PDFs**
+### 6. Publishing eCatalog and associated PDFs
 
 Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
 
-After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click **[!UICONTROL Start Publish]**.
+After marking your eCatalog and PDF for publish in the Browse Panel, select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, click **[!UICONTROL Submit Publish]**.
 
 See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
-**7. Linking an eCatalog to a web page**
+### 7. Linking an eCatalog to a web page
 
 Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail view) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
 

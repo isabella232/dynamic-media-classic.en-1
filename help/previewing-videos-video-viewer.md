@@ -17,25 +17,25 @@ You can preview what a video looks like and how it plays in the Video Viewer.
 
 See [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-**To preview videos in a video viewer**
+**To preview videos in a video viewer:**
 
-1. In the Asset Library panel on the left side, in the Show drop-down list, select **Video** (single encoded videos) or **Adaptive Video Set** (when the Adaptive Video encoding preset is used, it results in a set of multi-bitrate encoded videos).
+1. In the Asset Library panel on the left side, in the Show drop-down list, select **[!UICONTROL Video]** (single encoded videos) or **[!UICONTROL Adaptive Video Set]**. When the Adaptive Video encoding preset is used, it results in a set of multi-bitrate encoded videos.
 1. In the Asset Library panel on the left side, navigate the asset folders to select the video that you want to preview.
 1. Do any one of the following
 
-    * Above the Assets window, on the right side of the toolbar, click **List View**. In the Asset window, hover on an asset, and then click **Preview**.
-    * Above the Assets window, on the right side of the toolbar, click **Grid View**. In the Asset window, in an asset thumbnail window, click **Preview**.
-    * Above the Assets window, on the right side of the toolbar, click **Detail View**. On the same toolbar, click **Preview**.
-    * In the Asset window, select an asset. In the toolbar, click **File** > **Preview**.
+    * Above the Assets window, on the right side of the toolbar, click **[!UICONTROL List View]**. In the Asset window, hover on an asset, and then click **[!UICONTROL Preview]**.
+    * Above the Assets window, on the right side of the toolbar, click **[!UICONTROL Grid View]**. In the Asset window, in an asset thumbnail window, click **[!UICONTROL Preview]**.
+    * Above the Assets window, on the right side of the toolbar, click **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]**.
+    * In the Asset window, select an asset. In the toolbar, click **[!UICONTROL File]** > **[!UICONTROL Preview]**.
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
-1. Click the Preview link to preview the asset in the selected viewer.
-1. Close the displayed viewer to return to the Preview screen.
-1. Click **Close** to return to the Assets screen.
+1. Click the Preview link so you can preview the asset in the selected viewer.
+1. Close the displayed viewer.
+1. Click **[!UICONTROL Close]** to return to the Assets screen.
 
 >[!NOTE]
 >
->Dynamic Media Classic provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what you see in the desktop preview does not realistically show what playback looks like on the mobile device. To preview how video looks and plays on a mobile device, go to the Preview screen, select the Copy URL and enter that URL in the web browser of a mobile device. For more information, see [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
+>Dynamic Media Classic provides a convenient method of previewing MP4 video on the desktop. Use this method to preview mobile content on the desktop without physically testing it on mobile devices. Be aware, however, that what you see in the desktop preview does not realistically show what playback looks like on the mobile device. To preview how video looks and plays on a mobile device, go to the Preview screen, click **[!UICONTROL Copy URL]**, and enter that URL in the web browser of a mobile device. For more information, see [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
 ## Working with video viewer presets {#working-with-video-viewer-presets}
 
@@ -53,33 +53,33 @@ In Viewer Presets you can activate, filter, sort, and preview Viewer Presets.
 
 See [Viewer Presets](application-setup.md#viewer_presets).
 
-**To add or edit a video viewer preset**
+**To add or edit a video viewer preset:**
 
-1. Near the upper-right corner of Dynamic Media Classic, click **Setup** > **Viewer Presets**.
+1. Near the upper-right corner of Dynamic Media Classic, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
-   To see only presets for Video Viewers, select Video Viewer from the open the Viewers drop-down list in the toolbar directly above the table.
+   To see only presets for Video Viewers, select Video Viewer from the open Viewers drop-down list in the toolbar directly above the table.
 
 1. Add or edit a Viewer Preset for showing video:
 
-   **Adding** Click Add in the toolbar. In the Add Viewer Preset dialog box, choose a platform and viewer from the respective drop-down lists, and then click Add.
+   * **Adding** - Click **[!UICONTROL Add]** in the toolbar. In the Add Viewer Preset dialog box, choose a platform and viewer from the respective drop-down lists, and then click **[!UICONTROL Add]**.
 
    See also [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
-   **Adding by starting from an existing Viewer Preset** In the table, select a Video Viewer Preset, and then click Edit in the toolbar.
+   * **Adding by starting from an existing Viewer Preset** - In the table, select a Video Viewer Preset, and then click **[!UICONTROL Edit]** in the toolbar.
 
-   After you reconfigure the Video Viewer, click **Save As** to save the preset using a different name in the Preset Name text field.
+   After you reconfigure the Video Viewer, click **[!UICONTROL Save As]** to save the preset using a different name in the Preset Name text field.
 
-   **Editing** Select a Video Viewer Preset, and then click Edit.
+   * **Editing** - Select a Video Viewer Preset, and then click **[!UICONTROL Edit]**.
 
-1. In the Configure Viewer screen, in the Preset Name field, enter or edit the preset name.
+1. In the Configure Viewer page, in the Preset Name field, enter, or edit the preset name.
 1. Set the remaining options that you want.
 
    To see a description of an option, click its Info Tip icon.
 
 1. Do one of the following:
 
-    * Click **Save As** if you added a Viewer Preset by starting from an existing preset. 
-    * Click **Save** if you added or edited a Viewer Preset.
+    * Click **[!UICONTROL Save As]** if you added a Viewer Preset by starting from an existing preset. 
+    * Click **[!UICONTROL Save]** if you added or edited a Viewer Preset.
 
 >[!MORELIKETHIS]
 >

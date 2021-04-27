@@ -19,15 +19,15 @@ Publishing places your eCatalog and PDF on Dynamic Media Image Servers so it can
 >
 >Make sure your eCatalog and PDF reside in the same folder and they are marked for publish in the Browse Panel or Asset Details page before you publish them.
 
-To publish your eCatalog to Dynamic Media Image Servers:
+**To publish eCatalogs and associated PDFs:**
 
-1. Click **Publish** on the Global Navigation bar.
-1. On the Publish screen, select a When option (One-Time or Recurring).
-1. (Optional) Enter a name for the publish job, but keep the time-and-date stamp.
+1. On the Global Navigation bar, click **[!UICONTROL Publish]**.
+1. On the Publish screen, click **[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**.
+1. (Optional) In the Job Name field, enter a name for the publish job, but keep the predefined date and time text.
 
-   If you set up your eCatalog so that viewers can perform keyword searches, make sure that the keyword data is published. Click Advanced, then click Advanced options. On the Publish drop-down menu, click Full W/ Search Data. This option is selected by default.
+   If you set up your eCatalog so that viewers can perform keyword searches, make sure that the keyword data is published. On the Publish dialog box, click **[!UICONTROL Advanced]**. From the **[!UICONTROL Publish]** drop-down menu, click **[!UICONTROL Full w/ Search Data]**. This option is selected by default.
 
-1. Click **Start Publish**.
+1. Click ****[!UICONTROL Submit Publish]****.
 
 >[!MORELIKETHIS]
 >

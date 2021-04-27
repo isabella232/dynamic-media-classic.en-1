@@ -174,7 +174,7 @@ The system automatically generates a custom schema for User-defined fields with 
 
 >[!NOTE]
 >
->Changes to the schema never change the asset metadata itself. However, they are not visible for all Dynamic Media Classic and Metadata Server functionality and can't be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Dynamic Media Classic and the Metadata Server.
+>Changes to the schema never change the asset metadata itself. However, they are not visible for all Dynamic Media Classic and Metadata Server functionality and cannot be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Dynamic Media Classic and the Metadata Server.
 
 The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside Dynamic Media Classic. A schema is defined by a prefix, a namespace, and a list of properties.
 

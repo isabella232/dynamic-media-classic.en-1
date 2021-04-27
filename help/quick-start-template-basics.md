@@ -57,7 +57,7 @@ Publishing your template places it on Dynamic Media Image Servers so that it can
 
 Be sure to publish all images associated with your template.
 
-To publish a template, mark it for publish and select the Publish button on the Global Navigation bar. Then select the Start Publish button. See [Publishing templates](publishing-templates.md#publishing_templates).
+To publish a template, mark it for publish and select the Publish button on the Global Navigation bar. Then click **[!UICONTROL Submit Publish]**. See [Publishing templates](publishing-templates.md#publishing_templates).
 
 **5. Link a template to a web page**
 

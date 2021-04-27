@@ -13,7 +13,7 @@ exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 ---
 # Publishing a Mixed Media Set{#publishing-a-mixed-media-set}
 
-Create a publish job to publish an Mixed Media Set that you have marked for publish to Dynamic Media Classic Video Server and Image Server. Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
+Create a publish job to publish a Mixed Media Set that you have marked for publish to Dynamic Media Classic Video Server and Image Server. Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Last Modified Date:
 
  -->
 
-**To publish a Mixed Media Set**
+**To publish a Mixed Media Set:**
 
 1. Do one of the following:
 
@@ -45,12 +45,12 @@ Last Modified Date:
 1. (Optional) In the **[!UICONTROL Job Name]** field, type a name for the publish job.
 1. In **[!UICONTROL Advanced]** options, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Video Server]**.
 
-   See [Advanced publish options](publishing-files.md#advanced_publish_options) for additional options you can set.
+   See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
 
 1. Click **[!UICONTROL Submit Publish]**.
-1. Repeat steps 2- 4 above.
+1. Repeat steps 2-4 above.
 1. In **[!UICONTROL Advanced]**, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Image Server]**.
 
-   See [Advanced publish options](publishing-files.md#advanced_publish_options) for additional options you can set.
+   See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
 
 1. Click **[!UICONTROL Submit Publish]**.
