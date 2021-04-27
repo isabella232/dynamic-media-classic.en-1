@@ -25,20 +25,28 @@ The Personal Setup settings control the default behavior of the Browse Panel, ho
 
 Identifies your account name, name, user name (e-mail address), and assigned user role.
 
-### Desktop Version
+## Desktop
 
-Click Install Now to install the desktop version of Dynamic Media Classic on your local hard drive. Or, click Reinstall Now to install the desktop version again.
+* **Clear Image Cache** - Removes all Adobe Dynamic Media cached image files from your computer.
+* **Clear Asset Cache** - Removes all Adobe Dynamic Media caches asset files from your computer.
 
-## To install the plug-in on your local hard drive
+Besides clearing the image and asset cache using the desktop app, you can manually clear the cache directly from the file system. Based on your operating system, navigate to the following:
 
-1. On the Personal Setup page in Dynamic Media Classic, under Illustrator Plug-in for Web-to-Print, click **Download Now** to download the **Illustrator Plug-in for Web-to-Print.zip** file. 
-1. Uncompress the ZIP file to a temporary folder.
+* macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
+* Windows®: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
-   A readme file is included at the root of the unzipped file to provide you with additional information about the plug-in.
+## Creative Suite Extension
 
-1. Depending on your installed operating system, do one of the following:
+**To install Adobe Dynamic Media Creative Suite Extension:**
 
-### Windows
+1. In Dynamic Media Classic, on the toolbar, click **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**, under Creative Suite Extension, click **[!UICONTROL Download Now]** to download the `s7csxs.zxp` file. 
+1. Click the **[!UICONTROL Installation]** and **[!UICONTROL System Requirements]** links for additional information about the extension.
+
+<!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
+
+1. Depending on your installed operating system, do one of the following: -->
+
+<!-- #### Windows
 
 |If you are running|Do this|
 |--- |--- |
@@ -46,7 +54,7 @@ Click Install Now to install the desktop version of Dynamic Media Classic on you
 |Adobe Illustrator 17 in Adobe Creative Cloud|<ul><li>From the root of the unzipped folder, click CC. </li><li>Depending on the bit version of Adobe Illustrator that you are using, click win32 or win64.</li><li> Copy `AdobeS7FXGFileFormat.aip` to Adobe Illustrator's plug-ins folder. For example, `C:\Program Files\Adobe\Adobe Illustrator CC (64 Bit)\Plug-ins\Illustrator Formats`.</li></ul><br/>**Note**: This example path is for the 64-bit location; the 32-bit location may fall under Program Files (x86) instead.|
 |Adobe Illustrator 16 in Adobe Creative Suite 6|<ul><li>From the root of the unzipped folder, click 6.0. </li><li>Depending on the bit version of Adobe Illustrator that you are using, click win32 or win64. </li><li>Copy AdobeS7FXGFileFormat.aip to Adobe Illustrator's plug-ins folder. For example, `C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Plug-ins\Illustrator Formats`.</li></ul><br/>**Note**: This example path is for the 64-bit location; the 32-bit location may fall under Program Files (x86) instead.|
 
-### Mac
+#### Mac
 
 |If you are running|Do this|
 |--- |--- |
@@ -54,66 +62,49 @@ Click Install Now to install the desktop version of Dynamic Media Classic on you
 |Adobe Illustrator 17 in Adobe Creative Cloud|<ul><li>From the root of the unzipped folder, click CC > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator’s plug-in folder. For example, `/Applications/Adobe Illustrator CC/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
 |Adobe Illustrator 16 in Adobe Creative Suite 6|<ul><li>From the root of the unzipped folder, click 6.0 > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator’s plug-in folder. For example, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul>|
 
-The plug-in is now available for you to use in Adobe Illustrator.
+The plug-in is now available for you to use in Adobe Illustrator. -->
 
-### Browser
+## Browser
 
-* **Thumbnail Size**
-  * Determines the default size of thumbnail images in Grid view in the Browse Panel.
-* **Default Asset Library View**
-  * Determines whether the assets in the Asset Library for build sets appear as thumbnails or by name. If you are working with large quantities of assets in the Asset Library, you can view the assets by name. For example, if you are building a large eCatalog with many PDF files, you can view the assets by name to make the list shorter.
-* **Default Browse Sort Order**
-  * Determines the order in which assets appear by default in the Browse Panel. Choose a sort criterion on the menu and whether you want an ascending or descending sort.
-* **Default Browse Location**
-  * Lets you set the browse location to the default, the last folder browsed, or to a specific location that you navigate to and identify. You can also set the browse location to sort the files and folders in ascending or descending order.
-* **Default Browse View** 
-  * Determines whether Grid view or List view is the default view you see when you first open the Browse Panel.
-* **Splash Screen Display**
-  * Determines whether you see any splash screens, including the Welcome splash screen.
-* **Show ToolTips**
-  * Determines whether tool tips appear when you move the pointer over buttons, menus, and navigation links. Tool tips describe on-screen items.
-* **Checkerboard Background**
-  * Displays a checkerboard layer behind images, letting you easily see the transparent areas of an image that has an alpha channel.
-* **Show File Size**
-  * Displays the file size of an asset when you are browsing.
-* **Include UDFs in Search**
-  * Deselected (default) to improve system performance for most metadata searches that you run.
+* **Thumbnail Size** - Determines the default size of thumbnail images in Grid view in the Browse Panel.
+* **Default Asset Library View** - Determines whether the assets in the Asset Library for build sets appear as thumbnails or by name. If you are working with large quantities of assets in the Asset Library, you can view the assets by name. For example, if you are building a large eCatalog with many PDF files, you can view the assets by name to make the list shorter.
+* **Default Browse Sort Order** - Determines the order in which assets appear by default in the Browse Panel. Choose a sort criterion on the menu and whether you want an ascending or descending sort.
+* **Default Browse Location** - Lets you set the browse location to the default, the last folder browsed, or to a specific location that you navigate to and identify. You can also set the browse location to sort the files and folders in ascending or descending order.
+* **Default Browse View** - Determines whether Grid view or List view is the default view you see when you first open the Browse panel.
+* **Splash Screen Display** - Determines whether you see any splash screens, including the Welcome splash screen.
+* **Show ToolTips** - Determines whether tooltips appear when you move the pointer over buttons, menus, and navigation links. Tooltips describe on-screen user interface items.
+* **Checkerboard Background** - Displays a checkerboard layer behind images, letting you easily see the transparent areas of an image that has an alpha channel.
+* **Show File Size** - Displays the file size of an asset when you are browsing.
+* **Include UDFs in Search** - To improve system performance for most metadata searches that you run, deselected (default).
 
-If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than including user-defined fields.
+  If most of your metadata searches benefit from including user-defined fields, you can select this option to turn it on. As an alternative, use Advanced Search to give you a more directed and faster search experience than including user-defined fields.
 
-See [Conducting an advanced search](searching-assets.md#conducting_an_advanced_search).
+  See [Conducting an advanced search](searching-assets.md#conducting_an_advanced_search).
 
-See also [User-Defined Fields](application-setup.md#user_defined_fields).
+  See also [User-Defined Fields](application-setup.md#user_defined_fields).
 
-* **Basic Search Type**
-  * Choose a default search type, Contains or Starts With.
-* **Show Media Portal Features**
-  * Select this option to access Media Portal features, such as Media Cart.
-* **Show Command Feedback**
-  * Show command requests to the server.
-* **Show Dialog During Export**
-  * Displays a dialog box when you perform an export. If you deselect this option, you can still go to the Jobs page to retrieve the results of your export.
+* **Basic Search Type** - You can select from two options: **[!UICONTROL Contains]** searches the full string for the specified value; **[!UICONTROL StartsWith]** searches from the beginning of the string and returns results faster than **[!UICONTROL Contains]**. Either option overrides the default that is set in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** by the Administrator.
+* **Show Command Feedback** - Select to turn the display of command requests to the server on; deselect to turn off.
+* **Show Dialog During Export** - Select to show a pop-up dialog box during an export. If you deselect (turn off) this option, you can still go to the Jobs page to retrieve the results of your export.
 
 ## Email
 
-* **Email Options**
-  * Choose how you want Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
-* **Email Scope**
-  * Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
-* **Email Types**
-  * Determines whether you are informed when upload jobs and publish jobs are completed.
-* **Language**
-* **Preferred Language**
-  * Determines the language for the interface.
-* **Password**
-* **New Password**
-  * Enter a new, valid password. Your password must meet the following requirements:
-    * Be between 8-25 characters long
-    * Contain at least one lowercase letter
-    * Contain at least one uppercase letter
-    * Contain at least one number
-    * Contain at least one of the following special characters: #$&-_:{}
-* **Re-Type Password**
-  * Re-enter the new password to confirm that you are entering it correctly.
-* **Password Expiration**
-  * Determines whether your password expires after 72 days as a security measure. If you select Yes, you are asked to create a new password after 72 days.
+* **Email Options** - Choose how you want Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
+* **Email Scope** - Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
+* **Email Types** - Determines whether you are informed when upload jobs and publish jobs are completed.
+
+## Language
+
+* **Preferred Language** - Determines the language you want to use for the interface.
+
+## Password
+
+* **Current Password** - Enter the password your present password.
+* **New Password** - Enter a new, valid password. Your password must meet the following requirements:
+  * Be between 8-25 characters long.
+  * Contain at least one lowercase letter.
+  * Contain at least one uppercase letter.
+  * Contain at least one number.
+  * Contain at least one of the following special characters: `# $ & - _ : { }`
+* **Re-Type Password** - Reenter the new password to confirm that you are entering it correctly.
+* **Password Expiration** - Determines whether your password expires after 72 days as a security measure. If you select Yes, you are asked to create a password after 72 days.

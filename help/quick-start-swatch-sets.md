@@ -45,7 +45,7 @@ See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
 Publishing a Swatch Set places it on Dynamic Media Classic servers and activates the URL string.
 
-Click the **Mark For Publish** icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Start Publish**.
+Click the **Mark For Publish** icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Submit Publish**.
 
 See [Publishing](publishing-files.md#publishing-files).
 

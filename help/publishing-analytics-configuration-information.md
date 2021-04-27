@@ -17,13 +17,13 @@ Publish your Dynamic Media Classic viewers so that information about configuring
 
 >[!NOTE]
 >
->Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Dynamic Media Classic, re-save your Adobe Analytics configuration settings, and then re-publish.
+>Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
 
 See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
 See [Configuring Adobe Analytics reports](configuring-analytics-reports.md#configuring_adobe_analytics_reports).
 
-**To publish configuration information**
+**To publish configuration information:**
 
-1. On the Global Navigation bar, click **Publish**.
-1. In the Publish dialog box, click **Start Publish**.
+1. On the Global Navigation bar, click **[!UICONTROL Publish]**.
+1. In the Publish dialog box, click **[!UICONTROL Submit Publish]**.

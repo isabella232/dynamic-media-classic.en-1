@@ -59,11 +59,11 @@ Publishing an Image Set places it on Dynamic Media Classic servers and activates
 >
 >This step is not necessary if you selected **Publish after save **(default) at the time you created and saved the Image Set.
 
-Click the Mark for Publish icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Start Publish**.
+Click the Mark for Publish icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Submit Publish**.
 
 See [Publishing](publishing-files.md#publishing-files).
 
-**6. Linking an Image Set to your Website**
+**6. Linking an Image Set to your Website:**
 
 Dynamic Media Classic creates URL calls for Image Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
 

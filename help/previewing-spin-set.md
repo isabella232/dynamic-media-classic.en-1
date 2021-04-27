@@ -19,19 +19,19 @@ See [Configuring Default Viewers](application-setup.md#configuring_default_viewe
 
 See [Previewing an asset](previewing-asset.md#previewing_an_asset).
 
-**To preview a Spin Set**
+**To preview a Spin Set:**
 
 1. In the Asset Library panel on the left side, in the Show drop-down list, select the Spin Set asset type.
 1. In the Asset Library panel on the left side, navigate the Asset folders that contain the Spin Set that you want to preview with a viewer.
 1. Do one of the following:
 
-    * Above the Assets window, on the right side of the toolbar, click Grid View. In the Asset window, below the thumbnail image, click Preview > Viewer List.
-    * Above the Assets window, on the right side of the toolbar, click List View. In the Asset window, select an asset, and then to the right of the thumbnail image, click Preview > Viewer List.
-    * Above the Assets window, on the right side of the toolbar, click Detail View. On the same toolbar, click Preview > Viewer List.
+   * Above the Assets window, on the right side of the toolbar, click **[!UICONTROL Grid View]**. In the Asset window, below the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Above the Assets window, on the right side of the toolbar, click **[!UICONTROL List View]**. In the Asset window, select an asset, and then to the right of the thumbnail image, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Above the Assets window, on the right side of the toolbar, click **[!UICONTROL Detail View]**. On the same toolbar, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
 1. In the Viewer List window, in the table, click a viewer link to preview the asset in the selected viewer.
-1. Close the displayed viewer to return to the Viewer List screen.
-1. In the lower-right corner of the Viewer List window, click Close to return to the Assets screen.
+1. Close the displayed viewer.
+1. In the lower-right corner of the Viewer List window, click **[!UICONTROL Close]** to return to the Assets screen.
 
 >[!MORELIKETHIS]
 >

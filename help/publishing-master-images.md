@@ -17,11 +17,13 @@ Publishing your image files publishes them to Dynamic Media Image Servers, where
 
 ## Marking master images for publish {#marking-master-images-for-publish}
 
-Master images must be marked for publish in order for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking the Mark for Publish icon. You can also mark images for publish when you upload them to Dynamic Media Classic.
+Master images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them to Dynamic Media Classic.
 
 ## Publishing your master images {#publishing-your-master-images}
 
-To publish master images to Dynamic Media Image Servers, start by selecting the Publish button on the Global Navigation bar. Then select a When option (One-Time or Recurring), optionally enter a name for the publish job, and select the Start Publish button.
+1. On the Global Navigation bar, click **[!UICONTROL Publish]**. On the Publish dialog box, select a When option (**[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**), then optionally enter a name for the publish job
+
+1. Click **[!UICONTROL Submit Publish]**.
 
 >[!NOTE]
 >

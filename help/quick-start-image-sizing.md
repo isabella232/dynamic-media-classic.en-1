@@ -56,9 +56,9 @@ Publishing your master image files serves two essential purposes:
 * Publishing your master images to Dynamic Media Image Servers so that images can be dynamically delivered to your web site and application.
 * Publishing activates the URL strings for calling images from Dynamic Media Image Servers to your web site or application. After publishing, you can copy and place the Dynamic Media Classic-generated URLs where necessary in your web site or application.
 
-Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish screen, select the Start Publish button. See [Publishing master images](publishing-master-images.md#publishing_master_images).
+Select the Publish button on the Global Navigation bar to initiate a publish. On the Publish dialog box, click **[!UICONTROL Submit Publish]**. See [Publishing master images](publishing-master-images.md#publishing_master_images).
 
-**5. Linking URLs to your web application**
+**5. Linking URLs to your web application:**
 
 Dynamic Media Classic creates URL callout strings for images. When you publish images to Dynamic Media Image Servers, the URLs become active. You can copy these URL strings from the Browse Panel (in Detail view) or Preview screen. After you copy the URL strings, you can use them in your web site and applications. The URL for image sizing replaces the reference to a static image name in your web page code. The URL references a master image name, which is replaced by your database for each new image to display.
 
