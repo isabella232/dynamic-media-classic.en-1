@@ -19,25 +19,25 @@ The Image Set Viewer offers zooming tools for examining images closely. If you w
 
 This Image Sets Quick Start is designed to get up and running quickly with Image Set techniques in Dynamic Media Classic.
 
-**1. Uploading your master images for multiple views and swatches**
+## 1. Uploading your master images for multiple views and swatches
 
-Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, take zooming into account when you choose images. Make sure that the images are least 2000 pixels in the largest dimension. Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
+Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size. Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
-Select the Upload button on the Global Navigation bar to upload files from your computer to a folder on Dynamic Media Classic.
+On the Global Navigation bar, click **[!UICONTROL Upload]** to upload files from your computer to a folder on Dynamic Media Classic.
 
 See [Preparing Image Set assets for upload](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) and [Uploading your files](uploading-files.md#uploading-your-files).
 
-**2. Creating an Image Set**
+## 2. Creating an Image Set
 
 In Image Sets, users click thumbnail images in the Image Set Viewer to see an image from a different side or angle.
 
-To create an Image Set, click the Build button and choose Image Sets. Then, on the Image Set screen, drag your images onto the screen to compose your Image Set. Organize, add, and delete images as needed.
+To create an Image Set, on the Global Navigation bar, click **[!UICONTROL Build]**, then choose **[!UICONTROL Image Sets]**. On the Image Set window, drag your images onto the page to compose your Image Set. Organize, add, and delete images as needed.
 
 See [Creating an Image Set](creating-image-set.md#creating-an-image-set).
 
 See also [Including zoom targets and Image Maps in Image Sets](including-zoom-targets-image-maps.md#including-zoom-targets-and-image-maps-in-image-sets)
 
-**3. Setting up Image Set Viewer Presets, as needed**
+## 3. Setting up Image Set Viewer Presets, as needed
 
 Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Images or Image Sets/Multiple Views presets to view your Image Sets.
 
@@ -45,28 +45,28 @@ You add or edit Viewer Presets from the Application Setup screen.
 
 See [Creating and editing Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
-**4. Previewing an Image Set**
+## 4. Previewing an Image Set
 
-Select the Image Set in the Browse Panel, and then click Preview. Your Image Set appears in the Preview screen. Click the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
+Select the Image Set in the Browse Panel, and then click **[!UICONTROL Preview]**. In the Preview page, click the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
 
 See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
-**5. Publishing an Image Set**
+## 5. Publishing an Image Set
 
 Publishing an Image Set places it on Dynamic Media Classic servers and activates the URL string.
 
 >[!NOTE]
 >
->This step is not necessary if you selected **Publish after save **(default) at the time you created and saved the Image Set.
+>This step is not necessary if you selected **[!UICONTROL Publish after save]** (default) at the time you created and saved the Image Set.
 
-Click the Mark for Publish icon to the left of its name in the Browse Panel. Then, click **Publish**. On the Publish screen, click **Submit Publish**.
+Click **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse Panel. Then, click **[!UICONTROL Publish]**. On the Publish page, click **[!UICONTROL Submit Publish]**.
 
 See [Publishing](publishing-files.md#publishing-files).
 
-**6. Linking an Image Set to your Website:**
+## 6. Linking an Image Set to your Website
 
 Dynamic Media Classic creates URL calls for Image Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
 
-Select the Image Set, and then click the Preview button. The Preview screen opens. Select an Image Set Viewer Preset and click **Copy URL**.
+Select the Image Set, and then click **[!UICONTROL Preview]**. Now select an Image Set Viewer Preset, and then click **[!UICONTROL Copy URL]**.
 
 See [Linking an Image Set to a web page](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).
