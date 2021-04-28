@@ -43,11 +43,9 @@ As part of creating your eCatalog, you can arrange pages or page spreads in the 
 >
 >You are now able to author eCatalogs in Dynamic Media Classic.
 
-## Quick Start
-
 This eCatalog Quick Start is designed to help you get up and running quickly with eCatalogs. Follow steps 1 through 7. After each step is a cross-reference to a topic heading where you can find more information.
 
-### 1. Uploading the PDF files
+## 1. Uploading the PDF files
 
 Adobe PDF files are usually the source for an eCatalog. Because they are meant to be printed, PDF files usually contain CMYK images. Dynamic Media Classic detects these images and converts them using a standard CMYK color profile. However, you must upload and use a custom color profile.
 
@@ -57,7 +55,7 @@ Under PDF Options, the Upload screen provides options for uploading PDF files at
 
 See [Uploading the PDF files](uploading-pdf-files.md#uploading_the_pdf_files).
 
-### 2. Creating an eCatalog
+## 2. Creating an eCatalog
 
 Create your eCatalog by selecting PDF or image files in the Browse Panel. Click **[!UICONTROL Build]**, then choose **[!UICONTROL eCatalogs]**.
 
@@ -69,7 +67,7 @@ Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose a Dynamic Me
 
 See [Creating an eCatalog](creating-ecatalog.md).
 
-### 3. Creating Image Maps
+## 3. Creating Image Maps
 
 Image Maps add another aspect to eCatalog pages. An Image Map is a region on a page that delivers more information about an item. When viewers roll the pointer over an Image Map, they see a description of the item. Clicking an Image Map activates an external reference that opens a new web page where you can learn more about an item.
 
@@ -85,7 +83,7 @@ You can set up and manage the image map text using the Info Panel settings in th
 
 See [Managing Info Panel content](info-panel-content.md#managing-info-panel-content).
 
-### 4. Setting up eCatalog Viewer Presets
+## 4. Setting up eCatalog Viewer Presets
 
 End users see your eCatalog in the eCatalog Viewer. If you are an administrator, you can configure the eCatalog Viewer. You can change its outline color and select a new “skin” to brand your eCatalog. Dynamic Media Classic comes with several “best practice” eCatalog Viewer Presets. You can choose one of these presets for displaying your eCatalogs. You can also create an eCatalog Viewer Preset of your own if you are an administrator.
 
@@ -93,7 +91,7 @@ To create an eCatalog Viewer Preset, on the Global Navigation bar, click **[!UIC
 
 See [Setting up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
-### 5. Previewing eCatalogs in the eCatalog Viewer
+## 5. Previewing eCatalogs in the eCatalog Viewer
 
 eCatalog Viewer Presets determine the style and behavior of your eCatalog Viewers.
 
@@ -103,7 +101,7 @@ Notice the orientation, color scheme, what the controls for changing pages look 
 
 See [Previewing eCatalogs in the eCatalog Viewer](previewing-ecatalogs-ecatalog-viewer.md#previewing-ecatalogs-in-the-ecatalog-viewer).
 
-### 6. Publishing eCatalog and associated PDFs
+## 6. Publishing eCatalog and associated PDFs
 
 Publishing your eCatalog and associated PDF places it on Dynamic Media Image Servers so that it can be delivered to your web site and application. As part of the publishing process, Dynamic Media Classic activates the URL string for your eCatalog. Use this URL to call the eCatalog from Dynamic Media Image Servers to your web site or application.
 
@@ -111,7 +109,7 @@ After marking your eCatalog and PDF for publish in the Browse Panel, select the 
 
 See [Publishing eCatalogs and associated PDFs](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
-### 7. Linking an eCatalog to a web page
+## 7. Linking an eCatalog to a web page
 
 Dynamic Media Classic activates the URL callout string necessary for displaying your eCatalog when you publish it to Dynamic Media Image Servers. You can copy this URL string from the Preview screen and the Browse Panel (in Detail view) by selecting URLs in the panel. After you copy the URL string, it is available to your web sites and applications.
 
