@@ -13,16 +13,12 @@ exl-id: eb8afc39-7784-4e32-80b6-2b87f3e0acff
 ---
 # Selecting assets in the Browse panel{#selecting-assets-in-the-browse-panel}
 
-Select an asset in the Browse Panel to work with it. Use these techniques to select assets:
+Select an asset in the Browse Panel so you can work with it. Use these techniques to select assets:
 
-* **A single asset**
-Click the asset (double-clicking opens the asset in Detail view).
+* **A single asset** - Click the asset (double-clicking opens the asset in Detail view).
 
-* **Several assets**
-Ctrl+click (Windows) or Command+click (Macintosh) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
+* **Several assets** - Ctrl+click (Windows®) or Command+click (Macintosh) assets to select assets in different places on the Browse Panel. Shift+click (click one asset, and then Shift+click another) to select adjacent assets.
 
-* **All assets in the Browse Panel**
-Click Select > All.
+* **All assets in the Browse Panel** - Click **[!UICONTROL Select]** > **[!UICONTROL All]**.
 
-* **No assets**
-Click Select > None.
+* **No assets** - Click **[!UICONTROL Select]** > **[!UICONTROL None]**.
