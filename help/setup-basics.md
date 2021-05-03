@@ -13,20 +13,18 @@ exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
 ---
 # Setup basics{#setup-basics}
 
-Use the Dynamic Media Classic Setup screen to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup screen, click the Setup button on the Global Navigation bar.
+Use the Dynamic Media Classic Setup page to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup page, on the Global Navigation bar, click **[!UICONTROL Setup]**.
 
-The settings available to you on this screen depend on your status as a user or administrator:
+The settings available to you on this page depend on your status as a user or administrator:
 
-* Users can only access Personal settings and the accounts of companies of which they are a member; they cannot perform any administrative tasks. 
-* Administrators can access Personal settings, as well as view and administer their own company accounts. They can also perform all application setup functions, and all administration functions, including adding administrators and users.
+* Users can only access **[!UICONTROL Personal Setup]** and the accounts of companies of which they are a member; they cannot perform any administrative tasks. 
+* Administrators can access **[!UICONTROL Personal Setup]**, and view and administer their own company accounts. They can also perform all application setup functions, and all administration functions, including adding administrators and users.
 
-Administrators can also set up Image Presets and Viewer Presets in the Setup screen:
+Administrators can also set up Image Presets and Viewer Presets in the **[!UICONTROL Setup]** page:
 
-* **Image Presets**
-Image Presets are saved formats for displaying master images at different sizes and formats.
+* **Image Presets** - Image Presets are saved formats for displaying master images at different sizes and formats.
 
-* **Viewer Presets**
-Viewer Presets determine how you see your rich media when you see it in a viewer.
+* **Viewer Presets** - Viewer Presets determine how you see your rich media when you see it in a viewer.
 
 >[!MORELIKETHIS]
 >

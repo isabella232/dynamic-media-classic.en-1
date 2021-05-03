@@ -15,28 +15,26 @@ exl-id: cb9e996c-ab90-4656-8e93-5e7cbeeadb7f
 
 Spin Set Viewer Presets determine the style, behavior, and look of your viewers. Dynamic Media Classic comes with default Spin Set Viewer Presets. If you are an administrator, you can create your own Spin Set Viewer Presets as well. You can configure a Spin Set Viewer Preset with different colors, borders, fonts, and image settings.
 
-Follow these steps to create a Spin Set Viewer Preset:
+**To create a Spin Set Viewer Preset:**
 
-1. Click **Setup** > **Viewer Presets**.
+1. On the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Do one of the following:
 
-    * To create a new preset, click **Add**, then in the Add Viewer Preset dialog box, choose a platform, and click **Spin Set Viewer**.
-    * To edit an existing Spin Set Viewer preset, select the preset and click **Edit**.
+    * To create a preset, click **[!UICONTROL Add]**, then in the Add Viewer Preset dialog box, choose a platform, and then click **[!UICONTROL Spin Set Viewer]**.
+    * To edit an existing Spin Set Viewer preset, select the preset, and then click **[!UICONTROL Edit]**.
 
-   The Configure Viewer screen opens.
+1. On the Configure Viewer page, type a name in the Preset Name box for the Spin Set Viewer preset.
+1. Specify other options as desired. To see a description of an option, click the **[!UICONTROL Info Tip]** icon next to the option.
 
-1. Type a name in the Preset Name box for the Spin Set Viewer preset.
-1. Specify other options as desired. To see a description of an option, click the Info Tip icon adjacent to the option.
+   The Preview page displays the viewer as you update and change settings.
 
-   The preview screen displays the viewer as you update and change settings.
+1. Click **[!UICONTROL Save]**.
 
-1. Click **Save**.
-
-Click Make Default to make the Spin Set Viewer Preset you created the company default for showing Spin Sets.
+Click **[!UICONTROL Make Default]** to make the Spin Set Viewer Preset you created the company default for showing Spin Sets.
 
 See [Configuring Default Viewers](application-setup.md#configuring_default_viewers).
 
-To delete a Spin Set Viewer Preset, select it on the Viewer Presets screen and click the Delete button.
+To delete a Spin Set Viewer Preset, select it on the Viewer Presets page, and then click **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
