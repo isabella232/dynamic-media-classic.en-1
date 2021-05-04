@@ -33,7 +33,9 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
   When an adaptive video set is generated, it includes MP4 videos.
 
-  `**Note:**` Master/source videos and any other source format video are *not* added to an Adaptive Video Set. 
+  >[!NOTE]
+  >
+  >Master/source videos and any other source format video are *not* added to an Adaptive Video Set. 
 
 * Video captioning in the Univeral_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers and video chapter navigation in the Univeral_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers.
 

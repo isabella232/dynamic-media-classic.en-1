@@ -21,7 +21,7 @@ Technical support offerings are designed to meet the needs of any size company. 
 |Community Forum|[Experience Manager community forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).|
 |SLA (Service Level Agreements)|[Support Services / Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html).|
 |Supported users|Up to ten users per organization can be designated as Supported Users, who can open cases with Customer Care.|
-|Free live web training and video tutorials|Included.|
+|Free live web training and instruction videos|Included.|
 |Telephone support|<ul><li>US and Canada: 1-800-497-0335 </li><li>[Phone numbers for other regions](https://helpx.adobe.com/contact/dma-external/DMACustomeCareRegionalPhoneNumbers.html).</li></ul>|
 
 <!-- |Create a support case| [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) | -->
