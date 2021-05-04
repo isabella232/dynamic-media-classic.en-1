@@ -1,6 +1,6 @@
 ---
-title: Adobe Dynamic Media Classic platform overview
-description: An overview of the Dynamic Media Classic platform and workflow process.
+title: Adobe Dynamic Media Classic program overview
+description: An overview of the Dynamic Media Classic program and workflow process.
 uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 ---
-# Adobe Dynamic Media Classic platform overview{#adobe-scene-platform-overview}
+# Adobe Dynamic Media Classic program overview{#adobe-scene-platform-overview}
 
 Dynamic Media Classic is an integrated, rich media management, publishing, and serving environment. Rich media can be delivered to all marketing and selling channels, including the web, print material, e-mail campaigns, web portals, desktops, and devices.
 

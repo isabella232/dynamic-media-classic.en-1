@@ -13,22 +13,22 @@ exl-id: e2840200-246e-4c68-b10f-a66461f2a118
 ---
 # Adobe Training Services{#adobe-training-services}
 
-Dynamic Media Classic offers training in the form of video tutorials, instructor-led workshops and web sessions, and demos.
+Dynamic Media Classic offers training in the form of video training, instructor-led workshops and web sessions, and demos.
 
-**Adobe Training Services**
+## Adobe Training Services
 
 Adobe Training Services provides in-depth, customized classroom training designed for your organization. Training can take the form of regional university-style classes, web-based sessions, or custom onsite workshops. Regional classes are open to all customers and held periodically at various locations across North America and EMEA. Custom sessions can be tailored for beginning to advanced users, end users, administrators, and IT staff.
 
-See [Adobe Training Services](https://training.adobe.com/training.html) [](https://www.adobe.com/go/learn_sc7_trainingrequest_en).
+See [Adobe Training Services](https://learning.adobe.com/)
 
-**Demos**
+## Demos
 
 Watch demonstrations of Dynamic Media Classic viewer features.
 
-See [Demos](https://www.adobe.com/solutions/web-experience-management/rich-media-assets-demos.html).
+See [Demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
-**Getting Started chapter of Help**
+## Getting Started chapter of Help
 
-The Getting Started section of the Help system presents instructions for users who are new to Dynamic Media Classic. It explains the basics of the platform, navigation, setup, asset management, and building rich media.
+The Getting Started section of the Help system presents instructions for users who are new to Dynamic Media Classic. It explains the basics of the program, navigation, setup, asset management, and building rich media.
 
 See [Getting started](dmc-platform-overview.md).
