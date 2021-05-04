@@ -13,9 +13,9 @@ exl-id: d74b4966-fe43-4349-bbe1-3a379c49bf1f
 ---
 # Sharing asset changes with peers in real time{#sharing-asset-changes-with-peers-in-real-time}
 
-With multiple copies of Dynamic Media Classic running on one or more computers in the same company, the following actions from any Dynamic Media Classic client are updated in real-time with all peer clients:
+With multiple copies of Dynamic Media Classic running on one or more computers in the same company, the following actions from any Dynamic Media Classic client are updated in real time with all peer clients:
 
-* Edit an asset (builder, image editor, etc.)
+* Edit an asset (builder, image editor, and so on)
 * Rename an asset
 * Delete an asset
 * Move an asset
@@ -26,6 +26,6 @@ After a change is made in the originating client, all peer clients signed into t
 
 When you sign in, you are prompted to allow or deny peer updates. You can "remember" the choice so you are only prompted once. To clear your choice, delete the appropriate site from the Peer Assisted Networking panel in Global Settings.
 
-If you are editing an asset that is changed by a peer, you are prompted to ingest the change into the builder or editor. If you choose Yes, then the builder or editor discards any changes made to the asset and imports the updated asset. If you choose No, the asset is unchanged in the builder or editor and any changes you’ve made persist in that session.
+If you are editing an asset that is changed by a peer, you are prompted to ingest the change into the builder or editor. If you choose **[!UICONTROL Yes]**, then the builder or editor discards any changes made to the asset and imports the updated asset. If you choose **[!UICONTROL No]**, the asset is unchanged in the builder or editor and any changes you have made persist in that session.
 
 When you save the asset, you are notified that a newer version exists and asked if you want to overwrite the asset with your changes.
