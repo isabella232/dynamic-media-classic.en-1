@@ -22,7 +22,7 @@ In the email message, provide the company name that you want to use to upload im
 
 The *upload token* ensures that no one can use the same shared-secret key to upload assets. It ensures that the upload is legitimate and comes from a trusted source.
 
-The upload token is an alphanumeric string that is available only for a specific amount of time. Use the following URLs, substituting your shared-secret key, to retrieve the upload token.
+The upload token is an alphanumeric string that is available only for a specific amount of time. Use the following URLs, substituting your shared-secret key, so you can retrieve the upload token.
 
 * Image
   `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In this example, the shared-secret key is `fece4b21-87ee-47fc-9b99-2e29b78b602`
@@ -36,7 +36,7 @@ By default, the upload token expires five minutes (300 seconds) after you retrie
 https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=1800
 ```
 
-The successful response for images looks like the following:
+The successful response for images appears similar to the following:
 
 ```as3
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
@@ -75,7 +75,8 @@ You can use the following fields in the query URL string to retrieve an upload t
 
 `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000`
 
-**Allowed HTTP methods:** GET and POST
+**Allowed HTTP methods:**
+`GET` and `POST`
 
 You can now upload an image asset.
 
@@ -116,9 +117,10 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * An upload token.
 * A file size limit.
 * A list of filename extensions.
-* Whether or not to preserve the color profile and file name associated with the asset.
-* Whether or not to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. See Knockout Background in [Image Editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
-* The name of the file to upload
+* Whether to preserve the color profile and file name associated with the asset.
+* Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. 
+See Knockout Background in [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
+* The name of the file to upload.
 
 <!-- 
 
@@ -130,15 +132,11 @@ Last Modified Date:
 
  -->
 
-![]()
+You can view the HTML source code associated with the form above by clicking [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-You can view the HTML source code associated with the form above by clicking the following link:
+In Firefox, right-click in the browser window, and then click **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that are run when the user clicks **[!UICONTROL Submit]**.
 
-[https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
-
-In Firefox, right-click in the browser window, and then click **View Page Source**. The code shows the corresponding URL query string and the POST method that are run when the user clicks **Submit**.
-
-To view the XML response in Internet Explorer, click **View > Source**. To view XML response in Firefox, click **Tools > Web Developer > Page Source**. Firefox is recommended for viewing XML responses.
+To view the XML response in Internet Explorer, click **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, click **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 
@@ -176,13 +174,13 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 
 |URL Parameter|Required or optional|Value|
 |--- |--- |--- |
-|op|Required|upload|
-|upload_token|Required|Upload token for the shared-secret key associated with the company.|
-|company_name|Required|Name of the company performing the upload.|
-|file_limit|Optional|File size limit, in bytes, for the asset.|
-|file_exts|Optional|List of allowable extensions for the image asset file.|
-|preserve_colorprofile|Optional|Preserves any embedded color profile while converting the uploaded file to PTIFF format. Possible values are true or false. Default is false.|
-|preserve_filename|Optional|Preserves the filename of the uploaded asset. Possible values are true or false. Default is false.|
+|`op`|Required|upload|
+|`upload_token`|Required|Upload token for the shared-secret key associated with the company.|
+|`company_name`|Required|Name of the company performing the upload.|
+|`file_limit`|Optional|File size limit, in bytes, for the asset.|
+|`file_exts`|Optional|List of allowable extensions for the image asset file.|
+|`preserve_colorprofile`|Optional|Preserves any embedded color profile while converting the uploaded file to PTIFF format. Possible values are true or false. Default is false.|
+|`preserve_filename`|Optional|Preserves the filename of the uploaded asset. Possible values are true or false. Default is false.|
 
 >[!NOTE]
 >
@@ -204,7 +202,7 @@ You can use `image_info` to retrieve metadata for an asset that you uploaded, as
 https://s7ugc1.scene7.com/ugc/image?op=image_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
 ```
 
-An example of a successful response looks like the following:
+An example of a successful response appears similar to the following:
 
 ```as3
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
@@ -232,9 +230,9 @@ You can use the following fields in the URL query string to request information 
 
 |URL Parameter|Required or optional|Value|
 |--- |--- |--- |
-|op|Required|image_info|
-|shared_secret|Required|The shared-secret key for the company.|
-|image_name|Required|Name of the image.|
+|`op`|Required|image_info|
+|`shared_secret`|Required|The shared-secret key for the company.|
+|`image_name`|Required|Name of the image.|
 
 **Sample URL:**
 
@@ -279,9 +277,10 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * An upload token.
 * A file size limit.
 * A list of filename extensions.
-* Whether or not to preserve the color profile and file name associated with the asset.
-* Whether or not to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. See Knockout Background in [Image Editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
-* The name of the file to upload
+* Whether to preserve the color profile and file name associated with the asset.
+* Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method.
+See Knockout Background in [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
+* The name of the file to upload.
 
 <!-- 
 
@@ -293,9 +292,7 @@ Last Modified Date:
 
  -->
 
-![]()
-
-The following HTML code is displayed when you right-click in the browser window, and then click **View Source** for the form shown in the illustration. The code shows the corresponding URL query string and the POST method that are run when the user clicks **Submit**.
+The following HTML code is displayed when you right-click in the browser window, and then click **[!UICONTROL View Source]** for the form shown in the example. The code shows the corresponding URL query string and the POST method that are run when the user clicks **[!UICONTROL Submit]**.
 
 ```as3
 <body> 
@@ -329,7 +326,7 @@ return true;
 </body>
 ```
 
-To view the XML response in Internet Explorer, click **View** > **Source**. To view XML response in Firefox, click **View** > **Page Source**. Firefox is recommended for viewing XML responses.
+To view the XML response in Internet Explorer, click **[!UICONTROL View]** > **[!UICONTROL Source]**. To view XML response in Firefox, click **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 
@@ -359,7 +356,7 @@ The following is a sample response from a successful upload:
 >
 >The uploaded asset (AI, EPS, PDF so on) is converted to the FXG format and the response sends a direct link to that FXG asset.
 
-The asset is like any other Web-to-print resource; you can apply processing queries to it. For example, the following URL converts an FXG resource into a 500x500 png image.
+The asset is like any other Web-to-print resource; you apply processing queries to it. For example, the following URL converts an FXG resource into a 500x500 png image.
 
 ```as3
 https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
@@ -369,11 +366,11 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 
 |URL Parameter|Required or optional|Value|
 |--- |--- |--- |
-|op|Required|upload|
-|upload_token|Required|Upload token for the shared-secret key associated with the company.|
-|company_name|Required|Name of the company performing the upload.|
-|file_limit|Optional|File size limit, in bytes, for the asset.|
-|file_exts|Optional|List of allowable extensions for the asset file.|
+|`op`|Required|upload|
+|`upload_token`|Required|Upload token for the shared-secret key associated with the company.|
+|`company_name`|Required|Name of the company performing the upload.|
+|`file_limit`|Optional|File size limit, in bytes, for the asset.|
+|`file_exts`|Optional|List of allowable extensions for the asset file.|
 
 >[!NOTE]
 >

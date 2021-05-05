@@ -26,19 +26,19 @@ These options are on the Upload page under Image Editing Options.
 
 ## Cropping white space from images
 
-To automatically crop white-space pixels from an image, select the Crop menu and choose Trim. Then choose these options:
+To automatically crop white-space pixels from an image, on the Upload Job Options dialog box, click **[!UICONTROL Crop Options]**. In the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Trim]**. Then choose these options:
 
-* **Trim Away Based On** - Choose whether to crop based on color or transparency:
+* **Trim Away Based On** - From this drop-down list, choose whether to crop based on color or transparency:
 
-* **Color** - Choose the **[!UICONTROL Color]** option. Then, from the **[!UICONTROL Corner]** drop-down list, select the corner of the image with the color that best represents the white-space color you want to crop.
+  * **Color** - Choose the **[!UICONTROL Color]** option. Then, from the **[!UICONTROL Corner]** drop-down list, select the corner of the image with the color that best represents the white-space color you want to crop.
 
-* **Transparency** - Choose the Transparency option.
+  * **Transparency** - Choose the Transparency option.
 
 * **Tolerance** - Drag the slider to specify a tolerance from 0 through 1:
 
-* **Trimming based on color** - Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
+  * **Trimming based on color** - Specify 0 to crop pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference.
 
-* **Trimming based on transparency** - Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
+  * **Trimming based on transparency** - Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
 
 ## Cropping manually from the sides of images
 
