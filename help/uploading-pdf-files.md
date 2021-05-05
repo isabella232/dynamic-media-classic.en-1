@@ -12,7 +12,7 @@ exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 ---
 # Uploading the PDF files{#uploading-the-pdf-files}
 
-Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, select the Upload button on the Global Navigation bar to begin uploading the PDFs.
+Typically, Adobe PDF files are the source for an eCatalog. These files contain all image information, fonts, and vector graphics. You can build an eCatalog with images as well. After you have prepared your PDF files for uploading, on the Global Navigation bar, click **[!UICONTROL Upload]** to begin uploading the PDFs.
 
 ## Preparing your PDF files {#preparing-your-pdf-files}
 
@@ -21,7 +21,7 @@ Prepare your PDF files before uploading them to Dynamic Media Classic:
 * To make uploading the files easier, place all the files in the same folder on your computer or network.
 * Name the files in alphanumeric order by page. Ordering the pages will make it easier to place the pages in the proper order after the files are uploaded.
 * To see whether PDF pages contain crop marks, registration targets, or color bars, examine the pages. These marks determine where to cut the paper when documents are printed; they must be removed before your eCatalog is placed on the web. Dynamic Media Classic provides options for cropping marks when you upload PDF files.
-* If you want viewers to search your eCatalog by keyword, find out whether your PDF files are “flattened.” You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you can’t select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
+* If you want viewers to search your eCatalog by keyword, find out whether your PDF files are “flattened.” You cannot extract search words from flattened PDF files. To find out whether a PDF is flattened, try to select text inside it. If you cannot select text, the PDF is flattened and viewers cannot search by keyword in your eCatalog. 
 * Because they are meant to be printed, PDF files usually contain CMYK images. By default, Dynamic Media Classic can intelligently detect these CMYK images and convert them using an internal CMYK color profile. However, if you want to use a custom color profile to convert CMYK images, you can do so.
 
   See [ICC profiles](icc-profiles.md#icc_profiles).
@@ -32,37 +32,27 @@ For detailed information about the different upload methods, see [Uploading your
 
 Select the files you want to upload, and then select these *best practice* PDF Options:
 
-* **Crop**
-Select the Crop menu and choose Manual if the pages contain crop marks, registration marks, or other marks. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half-inch margin. Assume that you choose 150 (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
+* **Crop Options** - On the Upload Job Options dialog box, click **[!UICONTROL Crop Options]**. If the PDF pages contain crop marks, registration marks, or other marks, in the **[!UICONTROL Crop]** drop-down list, choose **[!UICONTROL Manual]**. Enter the number of pixels to crop from the top, right, bottom, and left sides of pages. Crop marks are often set to a half-inch margin. Assume that you choose **[!UICONTROL 150]** (recommended) as the pixel-per-inch resolution, and enter 75, 75, 75, 75 in the Top, Right, Bottom, and Left text boxes. In such case, it crops a half inch from the margins (at 150 ppi, half of 1 equals 75 pixels).
 
-* **Processing**
-Select the Processing menu and choose Rasterize. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.
+* **Processing** - On the Upload Job Options dialog box, click **[!UICONTROL PDF Options]**. In the **[!UICONTROL Processing]** drop-down list, choose **[!UICONTROL Rasterize]**. The PDF file must be rasterized so that all pages and images can be displayed in the eCatalog.
 
-* **Extract Search Words (optional)**
-Select this option if you want your viewers to be able to search by keyword in your eCatalog.
+* **Extract Search Words (optional)** - On the Upload Job Options dialog box, click **[!UICONTROL PDF Options]**. In the Extract drop-down list, choose **[!UICONTROL Search words]** if you want your viewers to be able to search by keyword in your eCatalog.
 
-* **Auto-Generate eCatalog from multiple page PDF (optional)**
-Select this option to automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
+* **Auto-Generate eCatalog from multiple page PDF (optional)** - On the Upload Job Options dialog box, click **[!UICONTROL PDF Options]**. Select **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** to automatically create an eCatalog when you upload. You can go straight to the eCatalog screen and begin working on your eCatalog without having to first select PDF files and select the Build command. The eCatalog is named after your PDF file.
 
-* **Resolution**
-Dynamic Media Classic recommends 150 pixels per inch.
+* **Resolution** - On the Upload Job Options dialog box, click **[!UICONTROL PDF Options]**. In the **[!UICONTROL Resolution]** text field, enter a value. Dynamic Media Classic recommends 150 pixels per inch.
 
-* **Colorspace**
-Dynamic Media Classic recommends choosing Detect Automatically. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
+* **Colorspace** - On the Upload Job Options dialog box, click **[!UICONTROL PDF Options]**. In the Colorspace drop-down list, choose **[!UICONTROL Detect automatically]**. Usually, PDFs created for print output are in CMYK; PDFs for online viewing are RGB. If a PDF uses both color spaces, you can select a specific color space by choosing Force As RGB or Force As CMYK. PDFs use both color spaces, for example, when page graphics use a CMYK color space but pictures use RGB. If you uploaded an ICC profile, its name appears on the Colorspace menu and you can choose it there.
 
-    See [ICC profiles](icc-profiles.md#icc_profiles).
+    See [ICC profiles](/help/icc-profiles.md).
 
-* **Color Profile**
-Choose a Color Profile option:
+* **Color Profile Options** - On the Upload Job Options dialog box, click **[!UICONTROL Color Profile Options]**, and then choose a Color Profile option:
 
-* **Convert To SRGB**
-Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on web pages.
+  * **Keep Original Color Space** - Retains the original color space.
 
-* **Keep Original Color Space**
-Retains the original color space.
+  * **Custom From > To** - Opens submenus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
 
-* **Custom From > To**
-Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
+<!-- * **Convert To SRGB** - Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on web pages. -->
 
 See [ICC profiles](icc-profiles.md#icc_profiles).
 
