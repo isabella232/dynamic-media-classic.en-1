@@ -26,6 +26,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
  -->
 
 ![Detail view](/help/assets/image_0.img.png)
+*Detail View with the Asset Library panel hidden from view on the left side.*
 
 >[!NOTE]
 >
@@ -35,10 +36,10 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 To closely examine, preview, or work on an asset, you can display it in Detail view.
 
-1. In the Browse Panel, do one of the following:
+1. In the Browse Panel, do any one of the following:
 
+    * Select the asset. Near the upper-right corner of the Dynamic Media Classic, click the **[!UICONTROL Detail View]** icon .
     * Double-click the asset.
-    * Select the asset, then click **[!UICONTROL Detail View]**.
     * Select the asset, then click **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
 >[!NOTE]

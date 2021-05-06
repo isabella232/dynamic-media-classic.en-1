@@ -35,7 +35,8 @@ Dynamic Media Classic is fundamentally different from other systems because you 
 
 The URL strings you generate with Dynamic Media Classic include instructions that tell the server how to display the asset when it is delivered. For example, the same master image can be delivered in different sizes, formats, weights, colors, and zoom views. As part of building and publishing media assets with Dynamic Media Classic, you visually configure the effects. In so doing, you create the URL calls that correctly tell the server how to present your master asset to applications.
 
-![Dynamic Media Classic can deliver the same master image to different mediums in different sizes and formats.](/help/assets/gs_dynamic_publishing.png) 
+![Dynamic Media Classic can deliver the same master image to different mediums in different sizes and formats.](/help/assets/gs_dynamic_publishing.png)
+*Dynamic Media Classic ensures that consistent, quality experiences are delivered to any screen, regardless of size or bandwidth.*
 
 ## Content caching {#content-caching}
 
