@@ -21,41 +21,41 @@ Dynamic Media Classic comes with default Viewer Presets. Administrators can crea
 
 You can create and customize Viewer Presets to suit your needs.
 
-1. Click **Setup** > **Viewer Presets**.
-1. Create or edit a Viewer preset on the Viewer Presets screen by doing one of the following:
+1. On the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
+1. Create or edit a Viewer preset on the Viewer Presets page by doing one of the following:
 
-   **Creating** Click Add. In the Add Viewer Preset dialog box, choose a platform, choose Zoom Viewer:Custom, and click Add. You can also create a Zoom Viewer Preset by starting from an existing one. Display the name of the preset, select it, and then select the Edit button. On the Configure Viewer screen, enter a new name for the preset.
+   * **Creating** - Click **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Zoom Viewer]**, and then click **[!UICONTROL Add]**. You can also create a Zoom Viewer preset by starting from an existing one. Display the name of the preset, select it, and then click **[!UICONTROL Edit]**. On the Configure Viewer page, enter a new name for the preset.
 
-   **Editing** Display the name of a preset, select it, then click **Edit**.
+   * **Editing** - Display the name of a preset, select it, then click **[!UICONTROL Edit]**.
 
-1. Choose options in the Configure Viewer screen.
+1. On the Configure Viewer page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
+1. Choose options in the Configure Viewer page.
 
-   To see a description of an option, click the Info Tip icon next to the option.
+   To see a description of an option, click the **[!UICONTROL Info Tip]** icon to the right of the option.
 
-   The preview screen displays the viewer as you update and change settings.
+   The Preview page displays the viewer as you update and change settings.
 
-1. Click **Save** or **Save As**.
+1. Click **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
 
 ## Previewing Image Set Assets in a Viewer {#previewing-image-set-assets-in-a-viewer}
 
-You can use Preview to see how an asset appears on particular viewer type platform such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Preview.
+You can use Preview to see how an asset appears on particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Preview.
 
-1. In the Asset Library panel on the left side, in the Show drop-down list, select Image Set.
+1. In the Asset Library panel on the left side, in the **[!UICONTROL Show]** drop-down list, choose **[!UICONTROL Image Set]**.
 1. In the Asset Library panel on the left side, navigate the asset folders to select the Image Set that you want to preview.
 1. Do any one of the following
 
-    * Above the Assets window, on the right side of the toolbar, click **List View**. In the Asset window, hover on an asset, then click **Preview**.
-    * Above the Assets window, on the right side of the toolbar, click **Grid View**. In the Asset window, in an asset thumbnail window, click **Preview**.
-    * Above the Assets window, on the right side of the toolbar, click **Detail View**. On the same toolbar, click **Preview**.
-    * In the Asset window, select an asset. On the toolbar, click **File** > **Preview**.
+    * Near the upper-right corner of the Dynamic Media Classic window, click the **[!UICONTROL List View]** icon. In the Asset window, hover on an asset, then click **[!UICONTROL Preview]** (not the Preview drop-down list).
+    * Near the upper-right corner of the Dynamic Media Classic window, click the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, click **[!UICONTROL Preview]** (not the Preview drop-down list).
+    * Near the upper-right corner of the Dynamic Media Classic window, click the **[!UICONTROL Detail View]** icon. On the same toolbar, click **[!UICONTROL Preview]** (not the Preview drop-down list).
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
 1. To preview the asset in the selected viewer, click a viewer link.
 
    When you click a given viewer link, its associated URL is automatically copied to the clipboard.
 
-1. To return to the Preview screen, close the displayed viewer.
-1. Click **Close** to return to the Assets screen.
+1. To return to the Preview page, close the displayed viewer.
+1. Click **[!UICONTROL Close]** to return to the Assets page.
 
 >[!MORELIKETHIS]
 >

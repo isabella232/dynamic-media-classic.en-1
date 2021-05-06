@@ -13,9 +13,11 @@ exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 ---
 # Navigation basics{#navigation-basics}
 
-The Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, and Browse Panel/Build Panel.
+The Dynamic Media Classic screen includes three major areas: Global Navigation bar, Asset Library, Asset Filters tab, Browse Panel/Build Panel, and Media Cart (Media Portal only).
 
-![Navigation basics](/help/assets/gs_navigation_basics_popup_popup.png) 
+![Navigation basics](/help/assets/gs_navigation_basics_popup_popup.png)
+*Main Dynamic Media Classic areas*
+*A) Global Navigation bar B) Asset Library panel C) Asset Filters tab D) Browse panel E) Media Cart (Media Portal only)*
 
 ## Global Navigation bar {#global-navigation-bar}
 

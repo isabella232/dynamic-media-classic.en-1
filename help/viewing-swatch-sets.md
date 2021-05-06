@@ -21,41 +21,40 @@ Dynamic Media Classic comes with default Viewer Presets. Administrators can crea
 
 You can create and customize Viewer Presets to suit your needs.
 
-1. Click **Setup** > **Viewer Presets**.
+1. On the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Do one of the following:
 
-    * To create a preset, click **Add**. In the Add Viewer Preset dialog box, choose a platform, choose Swatch Set Viewer, then click **Add**.
-    * To edit an existing Swatch Set Viewer preset, select the preset, then click **Edit**.
+    * To create a preset, click **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, in the Viewer drop-down list, choose **[!UICONTROL Swatch Set Viewer]**, then click **[!UICONTROL Add]**.
+    * To edit an existing Swatch Set Viewer preset, select the preset, and then click **[!UICONTROL Edit]**.
 
-1. Type a name in the Preset Name box for the Swatch Set Viewer preset.
+1. On the Configure Viewer page, in the Preset Name text field, type a name for the Swatch Set Viewer preset.
 1. Choose options in the Configure Viewer screen.
 
-   To see a description of an option, click the Info Tip icon next to the option.
+   To see a description of an option, click the **[!UICONTROL Info Tip]** icon to the right of the option.
 
-   The preview screen displays the viewer as you update and change settings.
+   The Preview page displays the viewer as you update and change settings.
 
-1. Click **Save**.
+1. Click **[!UICONTROL Save]**.
 
 ## Previewing Swatch Sets in a Viewer {#previewing-swatch-sets-in-a-viewer}
 
-You can use Preview to see how an asset appears on particular viewer type platform such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all platforms are available in Preview.
+You can use Preview to see how an asset appears on particular viewer type such as HTML5. Depending on the asset type and associated viewer that you have selected to preview, not all viewer type platforms are available in Preview.
 
-1. In the Asset Library panel on the left side, in the Show drop-down list, select a Swatch Set-based asset type such as Swatch Set.
+1. In the Asset Library panel on the left side, in the **[!UICONTROL Show]** drop-down list, select a Swatch Set-based asset type such as **[!UICONTROL Swatch Set]**.
 1. In the Asset Library panel on the left side, navigate the Asset folders that contain Swatch Set that you want to preview with a viewer.
 1. Do any one of the following:
 
-    * Above the Assets window, on the right side of the toolbar, click **List View**. In the Asset window, hover on an asset, and then click **Preview**.
-    * Above the Assets window, on the right side of the toolbar, click **Grid View**. In the Asset window, in an asset thumbnail window, click **Preview**.
-    * Above the Assets window, on the right side of the toolbar, click **Detail View**. On the same toolbar, click **Preview**.
-    * In the Asset window, select an asset. On the toolbar, click **File** > **Preview**.
+    * Near the upper-right corner of the Dynamic Media Classic window, click the **[!UICONTROL List View]** icon. In the Asset window, hover on an asset, then click **[!UICONTROL Preview]** (not the Preview drop-down list).
+    * Near the upper-right corner of the Dynamic Media Classic window, click the **[!UICONTROL Grid View]** icon. In the Asset window, in an asset thumbnail window, click **[!UICONTROL Preview]** (not the Preview drop-down list).
+    * Near the upper-right corner of the Dynamic Media Classic window, click the **[!UICONTROL Detail View]** icon. On the same toolbar, click **[!UICONTROL Preview]** (not the Preview drop-down list).
 
 1. (Optional) In the Preview window, in the drop-down list at the bottom, select the URL encoding that you want applied to the asset’s URL when it is copied.
 1. To preview the asset in the selected viewer, click a viewer link.
 
    When you click a given viewer link, its associated URL is automatically copied to the clipboard.
 
-1. To return to the Preview screen, close the displayed viewer.
-1. Click **Close** to return to the Assets screen.
+1. To return to the Preview pager, close the displayed viewer.
+1. Click **[!UICONTROL Close]** to return to the Assets page.
 
 >[!MORELIKETHIS]
 >
