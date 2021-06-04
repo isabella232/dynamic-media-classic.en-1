@@ -14,7 +14,7 @@ The Publish Setup page settings determine how assets are delivered by default fr
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette pages to establish default settings for delivering assets from servers.
 
-To open the Publish Setup pages, click **Setup** > **Application Setup** > **Publish Setup**.
+To open the Publish Setup pages, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
 
 >[!NOTE]
 >
@@ -101,13 +101,13 @@ With localization, an Image Server URL adds the `locale=` parameter to the path,
 
 `https://server/is/image/company/image?locale=de_DE`
 
-On receipt of the http call by the Image Server, the `locale=` parameter is parsed through the localeMap field found in ****[!UICONTROL Setup]**** > ****[!UICONTROL Application Setup]**** > ****[!UICONTROL Publish Setup]**** > ****[!UICONTROL Image Server]**** > ****[!UICONTROL Localization Support]**** group.
+On receipt of the http call by the Image Server, the `locale=` parameter is parsed through the localeMap field found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]** group.
 
 The Locale Map field contains a list of entries that are separated using the pipe symbol (|).
 
 Each entry consists of a comma-separated list of values. The first value is the search value that is passed by the `locale=` parameter. The remaining values are suffix/replacement values that are then tried until one results in an existing image.
 
-Whether a suffix value or a replacement value is applied depends on the Global Locale setting in ****[!UICONTROL Setup]**** > ****[!UICONTROL Application Setup]**** > ****[!UICONTROL Publish Setup]**** > ****[!UICONTROL Image Server]**** > ****[!UICONTROL Localization Support]**** group.
+Whether a suffix value or a replacement value is applied depends on the Global Locale setting in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]** group.
 
 >[!NOTE]
 >
