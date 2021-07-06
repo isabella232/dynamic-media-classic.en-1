@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 ---
 # Linking URLs to your web application{#linking-urls-to-your-web-application}

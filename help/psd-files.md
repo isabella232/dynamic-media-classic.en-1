@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 ---
 # Working with PSD files{#working-with-psd-files}

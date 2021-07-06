@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: aa129b0e-fc73-4fc2-a894-4560b3f46c4f
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 ---
 # Managing content variations{#managing-content-variations}

@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 ---
 # Checking job files{#checking-job-files}

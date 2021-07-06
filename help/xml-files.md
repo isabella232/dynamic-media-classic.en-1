@@ -5,7 +5,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 6eaecd25-7de3-492c-81e0-86a78145feb0
 ---
 # XML files {#xml-files}

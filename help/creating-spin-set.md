@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
-role: Business Practitioner
+role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 ---
 # Creating a Spin Set{#creating-a-spin-set}

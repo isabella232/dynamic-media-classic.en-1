@@ -6,7 +6,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
 ---
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
