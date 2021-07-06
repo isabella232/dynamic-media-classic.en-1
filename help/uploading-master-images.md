@@ -11,17 +11,17 @@ feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 410ba80c-7f01-4cd0-9ab3-db9658757ba7
 ---
-# Uploading master images{#uploading-master-images}
+# Upload master images{#uploading-master-images}
 
 Before uploading images to Dynamic Media Classic, make sure they are the highest-quality size and format. Dynamic Media Classic recommends uploading high-quality images with a sufficient pixel count (from 1500 to 2000 pixels in the long size). This sizing allows for any dynamic imaging that is required.
 
 For details on uploading images, see [Uploading files](uploading-files.md#uploading_files).
 
-**Preparing your master images for upload:**
+**Prepare your master images for upload:**
 
 Prepare your master image files before you upload them to Dynamic Media Classic:
 
-* **Image size** - Create the largest size images you anticipate using. Typical image sizes range from 1500 to 2500 pixels in the longest size. If you intend to use the Zoom feature, Dynamic Media Classic recommends using images that are at least 2000 pixels in the longest size for optimal zoom detail. Dynamic Media Classic can render images up to 25 megapixels each. For example, you could use a 5000 x 5000 megapixel image or any other size combination up to 25 megapixels.
+* **Image size** - Create the largest size images you anticipate using. Typical image sizes range from 1500 to 2500 pixels in the longest size. If you intend to use the Zoom feature, Dynamic Media Classic recommends using images that are at least 2000 pixels in the longest size for optimal zoom detail. Dynamic Media Classic can render images up to 25 megapixels each. For example, you could use a 5000 x 5000 MP image or any other size combination up to 25 MP.
 
 * **File formats** - Dynamic Media Classic supports all standard image file formats, including TIFF, BMP, JPEG, PSD, GIF, and EPS. Lossless image formats—TIFF and PNG—are recommended. If you are using a JPEG image, use the highest-quality settings.
 
