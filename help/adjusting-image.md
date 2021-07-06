@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 ---
 # Adjusting an image{#adjusting-an-image}

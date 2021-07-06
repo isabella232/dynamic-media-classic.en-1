@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 feature: Dynamic Media Classic
-role: Data Engineer,Administrator,Business Practitioner
+role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
 ---
 # Creating an offer set{#creating-an-offer-set}

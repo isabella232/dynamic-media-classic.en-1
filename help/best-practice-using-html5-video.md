@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 feature: Dynamic Media Classic,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: ce49e4ce-8dc0-41e1-865a-249f23757553
 ---
 # Best practices for using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}

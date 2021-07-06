@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 ---
 # Organizing your work with Projects{#organizing-your-work-with-projects}

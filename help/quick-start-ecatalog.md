@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 feature: Dynamic Media Classic,Viewers,eCatalog
-role: Business Practitioner
+role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 ---
 # Quick Start: eCatalogs{#quick-start-ecatalogs}

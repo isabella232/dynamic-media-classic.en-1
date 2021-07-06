@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 39a05654-4f66-4f1e-aec5-ebe6d174353f
 feature: Dynamic Media Classic
-role: Data Engineer,Administrator,Business Practitioner
+role: Data Engineer,Admin,User
 exl-id: 778fd54b-a9e5-40c5-aff1-a156a5c15923
 ---
 # Pushing offer sets to Adobe Target Standard/Premium {#pushing-offer-sets-to-target}

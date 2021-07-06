@@ -9,7 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
 ---
 # Uploading and encoding videos{#uploading-and-encoding-videos}

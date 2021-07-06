@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
 feature: Dynamic Media Classic,Viewers,Spin Sets,Viewer Presets
-role: Business Practitioner
+role: User
 exl-id: cb9e996c-ab90-4656-8e93-5e7cbeeadb7f
 ---
 # Setting up Spin Set Viewer Presets{#setting-up-spin-set-viewer-presets}

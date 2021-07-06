@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: ca7c8a7f-76f4-4a25-8c36-617a029e55be
 feature: Dynamic Media Classic,Asset Management,Collaboration
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: d74b4966-fe43-4349-bbe1-3a379c49bf1f
 ---
 # Sharing asset changes with peers in real time{#sharing-asset-changes-with-peers-in-real-time}

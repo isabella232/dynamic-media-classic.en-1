@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
 feature: Dynamic Media Classic,Viewers,Zoom
-role: Business Practitioner
+role: User
 exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
 ---
 # Setting up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}

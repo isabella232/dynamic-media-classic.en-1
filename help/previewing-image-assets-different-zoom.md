@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: b072d3b7-0d30-4903-9c87-5fbbcc89bd51
 feature: Dynamic Media Classic,Viewers,Zoom
-role: Business Practitioner
+role: User
 exl-id: bc83a94d-540a-46ad-aae0-e4a32ee9a302
 ---
 # Previewing image assets with different Zoom viewers{#previewing-image-assets-with-different-zoom-viewers}

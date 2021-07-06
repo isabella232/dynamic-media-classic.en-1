@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: b399c2b2-3e59-43e7-aa7d-dd4fdf4e9bad
 feature: Dynamic Media Classic,Collaboration,Metadata,Asset Management
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: e6a5af61-37be-4152-9ea3-8868f054783c
 ---
 # Making more efficient use of metadata{#making-more-efficient-use-of-metadata}

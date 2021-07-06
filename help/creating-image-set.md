@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
 feature: Dynamic Media Classic,Viewers,Image Sets
-role: Business Practitioner
+role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
 ---
 # Creating an Image Set{#creating-an-image-set}

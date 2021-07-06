@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: c04c1331-8d94-449b-9693-1488c94084dc
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 08f14fe9-3e3b-4235-a6c5-b6b6d2ffc4bd
 ---
 # Working with PostScript and Illustrator files{#working-with-postscript-and-illustrator-files}
