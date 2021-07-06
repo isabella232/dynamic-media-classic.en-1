@@ -20,6 +20,7 @@ For example, suppose you want to present images of caps with different color bil
 ## Creating a Swatch Set {#create}
 
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
+
 |**[!UICONTROL Publish after save]** option selected before saving?|State of set after saving|State of set members after saving|
 |--- |--- |--- |
 |Yes|Published|Published|
