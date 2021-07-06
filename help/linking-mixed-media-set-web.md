@@ -7,8 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: b33dacc4-509d-4878-a769-76642bfaeb4e
-feature: Dynamic Media Classic,Viewers,Mix Media Sets
-role: Business Practitioner
+feature: Dynamic Media Classic,Viewers,Mix Media Set
+role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 ---
 # Linking a Mixed Media Set to a web page{#linking-a-mixed-media-set-to-a-web-page}
@@ -36,7 +36,7 @@ After you publish a Mixed Media Set, you can obtain its URL for use in your web 
 
 ## Add Mixed Media Set URLs to your web page {#add-mixed-media-set-urls-to-your-web-page}
 
-The most common way to deploy Mixed Media Sets is to place a link (via a navigation icon) on your web page. When clicked, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
+The most common way to deploy a Mixed Media Set is to place a link (by way of a navigation icon) on your web page. When clicked, the link launches a dynamic page (ASP or JSP) that displays the Mixed Media Set in Mixed Media Set Viewer.
 
 ## Copying the embed code of a Mixed Media Set viewer {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 

@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
 ---
 # Moving, renaming, and deleting assets{#moving-renaming-and-deleting-assets}

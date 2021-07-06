@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
 feature: Dynamic Media Classic,Viewers
-role: Business Practitioner
+role: User
 exl-id: 426b6e6b-daed-4ca6-b095-99bb06604b07
 ---
 # Creating a Swatch Set{#creating-a-swatch-set}

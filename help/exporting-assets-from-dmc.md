@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 ---
 # Exporting assets from Dynamic Media Classic{#exporting-assets-from-dmc}

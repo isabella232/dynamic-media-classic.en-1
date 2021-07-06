@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Classic,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
 ---
 # Deploying video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}
@@ -181,7 +181,7 @@ You can apply image modifiers to the poster frame. For example, you can crop the
 
 See [Adding or editing a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-See [Image Serving Guide](https://experienceleague.corp.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home.html?lang=en#image-serving-api).
+See [Image Serving Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home.html?lang=en#image-serving-api).
 
 You can also modify video thumbnails by appending modifiers to video thumbnail URLs.
 

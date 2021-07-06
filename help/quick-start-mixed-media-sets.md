@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Mixed Media Sets"
+title: "Quick Start: Mixed Media Set"
 description: An introduction and Quick Start to Mixed Media Sets to help you get up and running quickly.
 uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
 contentOwner: admin
@@ -7,8 +7,8 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
-feature: Dynamic Media Classic,Viewers,Mix Media Sets
-role: Business Practitioner
+feature: Dynamic Media Classic,Viewers,Mix Media Set
+role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 ---
 # Quick Start: Mixed Media Sets{#quick-start-mixed-media-sets}

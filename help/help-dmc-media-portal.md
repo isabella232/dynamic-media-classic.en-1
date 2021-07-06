@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: a55f7279-6bba-43f1-99fa-88e922ac1803
 feature: Dynamic Media Classic,Brand Portal
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 2c7c0838-0c48-450e-94ff-521bae19425f
 ---
 # Help for Dynamic Media Classic Media Portal{#help-for-scene-media-portal}

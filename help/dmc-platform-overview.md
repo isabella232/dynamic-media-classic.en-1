@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 ---
 # Adobe Dynamic Media Classic program overview{#adobe-scene-platform-overview}

@@ -6,7 +6,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 94cfb748-30f9-4a8b-9576-3b4775964d04
 ---
 # What’s new {#what-s-new}

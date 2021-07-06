@@ -5,7 +5,7 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 ---
 # Uploading an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}

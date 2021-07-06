@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ef0c292f-3240-4c62-8f32-25de8e4922ad
 feature: Dynamic Media Classic,Viewers,Image Sets
-role: Business Practitioner
+role: User
 exl-id: e51fc81e-e5be-4f07-80ad-3aa87d8bc87e
 ---
 # Including zoom targets and Image Maps in Image Sets{#including-zoom-targets-and-image-maps-in-image-sets}

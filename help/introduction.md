@@ -5,7 +5,7 @@ description: Dynamic Media Classic overview
 seo-description: Dynamic Media Classic overview
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 ---
 # Dynamic Media Classic Help {#scene7-overview}

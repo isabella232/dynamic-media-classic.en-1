@@ -7,7 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
 feature: Dynamic Media Classic,Viewers,Mix Media Sets
-role: Business Practitioner
+role: User
 exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
 ---
 # Creating a Mixed Media Set{#creating-a-mixed-media-set}
@@ -34,7 +34,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    >[!NOTE]
    >
-   >Mixed Media Sets do not support assets with filenames that contain any of the following characters: `( ) { }`.
+   >A Mixed Media Set does not support assets with filenames that contain any of the following characters: `( ) { }`.
 
 1. Do any of the following:
 
