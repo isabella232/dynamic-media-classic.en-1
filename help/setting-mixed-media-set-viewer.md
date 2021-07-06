@@ -7,7 +7,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
-feature: Dynamic Media Classic,Viewers,Mix Media Sets
+feature: Dynamic Media Classic,Viewers,Mix Media Set
 role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 ---

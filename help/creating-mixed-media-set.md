@@ -34,7 +34,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    >[!NOTE]
    >
-   >Mixed Media Sets do not support assets with filenames that contain any of the following characters: `( ) { }`.
+   >A Mixed Media Set does not support assets with filenames that contain any of the following characters: `( ) { }`.
 
 1. Do any of the following:
 
