@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
 feature: Dynamic Media Classic,Viewers,Zoom
-role: Business Practitioner
+role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
 ---
 # Publishing zoom images{#publishing-zoom-images}

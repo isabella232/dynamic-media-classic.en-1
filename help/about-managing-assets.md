@@ -5,7 +5,7 @@ contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: d15aaa18-123d-442e-928f-8e71fa266a64
 ---
 # About managing assets{#about-managing-assets}

@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
 ---
 # Creating Image Maps{#creating-image-maps}

@@ -8,7 +8,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 ---
 # Managing the Trash folder{#managing-the-trash-folder}

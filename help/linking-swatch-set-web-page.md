@@ -6,7 +6,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 feature: Dynamic Media Classic,Viewers
-role: Business Practitioner
+role: User
 exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
 ---
 # Linking a Swatch Set to a web page{#linking-a-swatch-set-to-a-web-page}

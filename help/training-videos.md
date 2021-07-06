@@ -2,7 +2,7 @@
 title: Dynamic Media Classic Training Videos
 description: Dynamic Media Classic training videos on getting started, dynamic imaging, video, media portal, templates, and image authoring and rendering.
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
 ---
 # Adobe Dynamic Media Classic Training Videos {#training-videos}
