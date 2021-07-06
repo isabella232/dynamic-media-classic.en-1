@@ -129,8 +129,10 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Copy the .APP file to **[!UICONTROL Applications]** using the following command:
 
-    `rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
-Unmount DMG - hdiutil detach <mount_point_path>`
+    ```
+    rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
+    Unmount DMG - hdiutil detach <mount_point_path>
+    ```
 
 1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
 
