@@ -92,7 +92,7 @@ Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscrip
 
 ### **_I'm interested in learning more about upgrading to Dynamic Media with AEM Assets. Where can I find more information?_**
 
-To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Dynamic Media upgrade portal](http://exploreadobe.com/dynamic-media-upgrade/).
+To learn more about the benefits of upgrading to the next generation of rich media authoring, publishing, and dynamic delivery, visit the [Dynamic Media upgrade portal](https://exploreadobe.com/dynamic-media-upgrade/).
 
 >[!MORELIKETHIS]
 >
