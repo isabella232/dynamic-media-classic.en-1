@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic Desktop app
-description: Dynamic Media Classic users can now experience a complete refresh of the user interface. The experience delivers an updated sign in with links to valuable resources, plus this update no longer relies on Adobe Flash technology in the browser.
+description: Dynamic Media Classic users can now experience a complete refresh of the user interface. The experience delivers an updated sign-in with links to valuable resources, plus this update no longer relies on Adobe Flash technology in the browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -14,11 +14,11 @@ See [Adobe Dynamic Media Classic desktop app](/help/dynamic-media-classic-deskto
 
 ## _Last updated June 30, 2020_
 
-Dynamic Media classic users now have access to a new sign in experience that no longer relies on Adobe Flash technology in the browser.
+Dynamic Media classic users now have access to a new sign-in experience that no longer relies on Adobe Flash technology in the browser.
 
 ### **_When browsers stop supporting Adobe Flash on December 31, 2020, will there be any impact to Dynamic Media Classic (formerly Scene7)?_**
 
-Adobe Flash Player was a web browser plug-in that let web browsers use content developed on the Adobe Flash Platform. The web user interface of Dynamic Media Classic (currently labeled [!DNL Scene7 Publishing System] or [!DNL SPS] in the product) required the Adobe Flash Player. When Adobe Flash is deprecated December 31, 2020, Dynamic Media Classic customers will no longer be able to log into the web user interface. Because of this change, Adobe has provided customers with a desktop app that replaces the browser experience.
+Adobe Flash Player was a web browser plug-in that allowed web browsers to use content developed on the Adobe Flash Platform. The web user interface of Dynamic Media Classic (currently labeled [!DNL Scene7 Publishing System] or [!DNL SPS] in the product) required the Adobe Flash Player. When Adobe Flash is deprecated December 31, 2020, Dynamic Media Classic customers will no longer be able to log into the web user interface. Because of this change, Adobe has provided customers with a desktop app that replaces the browser experience.
 
 ### **_How do I access the new desktop app?_**
 
@@ -30,7 +30,7 @@ The download links are also available by way of the [Dynamic Media Classic newsl
 
 ### **_How does the new desktop app work?_**
 
-After you download, install, and launch the desktop app, you are presented with a refreshed sign in experience. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Dynamic Media Classic. The overall experience is the same as the familiar web browser version you are used to. From the desktop app, you can access the Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
+After you download, install, and launch the desktop app, you are presented with a refreshed sign-in experience. By entering your existing user name and password and selecting the appropriate server based on your region, you can sign in to Dynamic Media Classic. The overall experience is the same as the familiar web browser version you are used to. From the desktop app, you can access the Dynamic Media Classic Production and Staging environments. You can also access Media Portal if you are credentialed for this capability.
 
 >[!IMPORTANT]
 >
