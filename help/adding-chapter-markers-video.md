@@ -1,6 +1,6 @@
 ---
-title: Adding chapter markers to video
-description: Learn how to add chapter markers to a video.
+title: Add chapter markers to video
+description: Learn how to add chapter markers to a video in Dynamic Media Classic.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference
@@ -11,17 +11,17 @@ feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
 ---
-# Adding chapter markers to video{#adding-chapter-markers-to-video}
+# Add chapter markers to video {#adding-chapter-markers-to-video}
 
-You can make your long form videos easier to watch and navigate by adding chapter markers to single videos or to Adaptive Video Sets. When a user plays the video, they can click the chapter markers on the video timeline (also known as the video scrubber). Doing so lets them easily navigate to their point of interest, or immediately jump to new content, demonstrations, tutorials, and so on.
+You can make your long form videos easier to watch and navigate by adding chapter markers to single videos or to Adaptive Video Sets. When a user plays the video, they can select the chapter markers on the video timeline (also known as the video scrubber). Doing so lets them easily navigate to their point of interest, or immediately jump to new content, demonstrations, tutorials, and so on.
 
 >[!NOTE]
 >
 >The video player that is used must support the use of chapter markers.
 
-See [Adding or editing a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) if you want to configure the chapter navigation cue points and chapter title pop-up text for the `Universal_HTML5_Video` viewer (HTML5).
+See [Add or edit a video viewer preset](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) if you want to configure the chapter navigation cue points and chapter title pop-up text for the `Universal_HTML5_Video` viewer (HTML5).
 
-See also [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+See also [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 You create a chapter list for your video in much the same way that you create captions. That is, you create a WebVTT file. Note, however, that this file must be separate from any WebVTT caption file that you may also be using; you cannot combine captions and chapters into one WebVTT file.
 
@@ -63,21 +63,21 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
 1. In Dynamic Media Classic, upload your WebVTT chapter file.
 
-   See [Uploading files](uploading-files.md#uploading_files).
+   See [Upload files](uploading-files.md#uploading_files).
 
 1. In the Asset Library panel on the left side, navigate to the asset folder that contains the video file that you want to associate with the chapter file that you uploaded.
-1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+1. In the Asset Browse panel, select a single video asset, and then below the thumbnail image of the asset, select **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. In the Viewer List table, find the HTML5 viewer named **Univeral_HTML5_Video**, and then do one of the following:
 
-    * For a pop-up video viewer experience, click **[!UICONTROL Copy URL]** to the far right of the name.
+    * For a pop-up video viewer experience, select **[!UICONTROL Copy URL]** to the far right of the name.
 
       Append the copied URL of the video with the following syntax so you can associate it with the copied URL to your caption file:
 
       `&navigation=*<full Copy URL path to the chapter navigation file .vtt>*`
 
-    * For an embedded video viewer experience, click **[!UICONTROL Embed Code]** to the far right of the name.
+    * For an embedded video viewer experience, select **[!UICONTROL Embed Code]** to the far right of the name.
 
-      In the Embed Code dialog box, click **[!UICONTROL Copy to Clipboard]**.
+      In the Embed Code dialog box, select **[!UICONTROL Copy to Clipboard]**.
 
       For the HTML5 `Universal_HTML5_Video` viewer, append the copied embed code with the following:
 

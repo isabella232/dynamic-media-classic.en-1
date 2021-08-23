@@ -9,7 +9,7 @@ feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 98b12031-f88b-47ea-a95b-31d71eaf22c2
 ---
-# About uploading and publishing assets{#about-uploading-and-publishing-assets}
+# About uploading and publishing assets {#about-uploading-and-publishing-assets}
 
 Your work in Dynamic Media Classic falls in three basic areas:
 

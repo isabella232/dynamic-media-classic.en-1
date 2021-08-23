@@ -1,5 +1,5 @@
 ---
-title: About User-generated content
+title: About User-generated content in Dynamic Media Classic
 description: An introduction to user-generated content.
 uuid: ba867a6a-84a4-4968-9a77-712f3ce5dad5
 contentOwner: rbrough
@@ -10,7 +10,7 @@ feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 14729192-7b9d-4f42-99da-6564a3f35959
 ---
-# About User-generated content{#about-user-generated-content}
+# About User-generated content in Dynamic Media Classic {#about-user-generated-content}
 
 Using UGC (user-generated content) consists of uploading assets to a dedicated Dynamic Media Classic storage repository and performing related operations.
 
