@@ -16,6 +16,8 @@ The Dynamic Media newsletter by Experience League was designed to help you get u
  
 In this one-stop shop archived newsletter, you can find valuable knowledge-building resources such as how-to videos and solution overviews. There are also introductions to key features and capabilities like image presets, viewer presets, and video profiles.
 
+<!-- microsite demo page https://experienceleague.adobe.com/tools/dynamic-media-demo/index.html -->
+
 <!-- ## Get inspired. Stay informed.
 
 [Sign up](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to receive the Dynamic Media newsletter on a monthly basis in your inbox. -->
