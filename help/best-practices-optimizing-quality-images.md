@@ -41,7 +41,7 @@ As a best practice for image sizing, use `&wid=<value>&hei=<value>&resMode=sharp
 
 Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Dynamic Media Classic by referring to the following helpful resources:
 
-Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
+Best practices white paper [Sharpen images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
@@ -63,7 +63,7 @@ There are two image sharpening methods that you can use:
 
       This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise", while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
 
-      For more information about how you set these three parameters, including best practices to use with the filter, see [Sharpening images in Adobe Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
+      For more information about how you set these three parameters, including best practices to use with the filter, see [Sharpen images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
     * Dynamic Media Classic also lets you control a fourth parameter: monochrome ( `0,1`). This parameter determines if unsharp masking is applied to each color component separately using the value `0` or to the image brightness/intensity using the value `1`.
 
