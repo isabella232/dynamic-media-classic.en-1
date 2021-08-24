@@ -1,6 +1,6 @@
 ---
-title: Managing content variations
-description: Learn how to manage content variations.
+title: Manage content variations
+description: Learn how to manage content variations in Dynamic Media Classic.
 uuid: 1e40a526-02f8-41d9-886f-6d094546bc13
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ feature: Dynamic Media Classic
 role: User
 exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 ---
-# Managing content variations{#managing-content-variations}
+# Manage content variations{#managing-content-variations}
 
 Use template sets to manage the way asset variations are published.
 
@@ -21,10 +21,10 @@ Universal URLs are used to display the template variation that appears on the pa
 
 You can use any image preset URL from the list. Image preset URLs are like universal URLs. There can be more than one image preset URL.
 
-1. Click **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**. The builder opens.
-1. Select a template, then click **[!UICONTROL Add/Preview]**.
-1. Modify the template properties and click **[!UICONTROL Save As]** to create another version.
-1. Type a name and click **[!UICONTROL Save]**.
+1. Go to **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
+1. In the builder, select a template, then select **[!UICONTROL Add/Preview]**.
+1. Modify the template properties and select **[!UICONTROL Save As]** to create another version.
+1. Type a name, and then select **[!UICONTROL Save]**.
 
    Both the asset and the template must be published.
 

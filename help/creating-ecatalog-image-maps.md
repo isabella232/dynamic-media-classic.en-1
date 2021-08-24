@@ -1,6 +1,6 @@
 ---
-title: Creating eCatalog Image Maps
-description: Learn how to create eCatalog image maps.
+title: Create eCatalog Image Maps
+description: Learn how to create eCatalog image maps in Dynamic Media Classic.
 uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
 contentOwner: admin
 content-type: reference
@@ -11,11 +11,11 @@ feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
 ---
-# Creating eCatalog Image Maps{#creating-ecatalog-image-maps}
+# Create eCatalog Image Maps{#creating-ecatalog-image-maps}
 
 An Image Map is a region on an eCatalog page that you can roll over with your mouse or select to trigger actions of various kinds. When you move the pointer over an Image Map for example, you see a rollover-text description of an item. When you select an Image Map, another action is initiated. For example, you can open a web page so that viewers can learn more about an item or purchase it or you can launch a video to see an item in use.
 
-## Drawing eCatalog Image Maps {#drawing-ecatalog-image-maps}
+## Draw eCatalog Image Maps {#drawing-ecatalog-image-maps}
 
 For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. This screen consists of the Image Map area where eCatalog pages are displayed and, on the right, the Image Map list. As you create Image Maps, their names are entered on the Image Map List.
 
@@ -35,19 +35,19 @@ For eCatalogs, you draw Image Maps on the Map Pages tab of the eCatalog screen. 
 
    To make entering URLs (Href templates) easier, select **[!UICONTROL Edit]** and enter a template.
 
-See [Using a template to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
+See [Use a template to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
 1. (Optional) In the Show drop-down list, select **[!UICONTROL Rollover Text]**, and then enter the text that you want users to see onscreen when they move their pointers over the Image Map.
 1. (Optional) In the Show drop-down list, select **[!UICONTROL Other Actions]**, and enter an attribute to trigger a blur or focus action when users move their pointers over an Image Map.
 
-   See [Defining other actions for Image Maps](creating-image-maps.md#defining_other_actions_for_image_maps).
+   See [Define other actions for Image Maps](creating-image-maps.md#defining_other_actions_for_image_maps).
 
 1. Select **[!UICONTROL Save]**.
 1. (Optional) Select **[!UICONTROL Preview]** to view the eCatalog with the default eCatalog Viewer preset.
 
 To delete an Image Map, select its name in the Image Map list and select **[!UICONTROL Delete]**. To temporarily disable an Image Map on a page without deleting the Image Map, deselect the Image Map’s On option in the Image Map List panel.
 
-## Embedding rich media in an eCatalog {#embedding-rich-media-in-an-ecatalog}
+## Embed rich media in an eCatalog {#embedding-rich-media-in-an-ecatalog}
 
 You can use eCatalog’s Rich Media option to add videos in MP4 format or spin sets to Image Maps that you have added to an eCatalog. When a user selects the Image Map area in the eCatalog, the associated spin set or video is displayed. This functionality is especially helpful if you want customers to see an item in use or see an item from different angles and perspectives.
 
@@ -57,7 +57,7 @@ You can also optionally display tooltip text when customers move their pointers 
 
 1. Draw an eCatalog Image Map.
 
-   See [Drawing eCatalog Image Maps](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
+   See [Draw eCatalog Image Maps](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
 
 1. In the Show drop-down list, select **[!UICONTROL Rich Media]**.
 1. In the Add Assets panel on the left, navigate to a folder that contains the spin set or video (MP4 format) asset that you want to embed.
@@ -69,13 +69,13 @@ You can also optionally display tooltip text when customers move their pointers 
 
 Starting on the Map Pages tab of the eCatalog screen, use these techniques to edit eCatalog Image Maps:
 
-* **Adjusting the position** - Select the Pan tool and move the pointer near but not over the border of the map. When the pointer shows a four-headed arrow, drag the entire image map to a new location.
+* **Adjust the position** - Select the Pan tool and move the pointer near but not over the border of the map. When the pointer shows a four-headed arrow, drag the entire image map to a new location.
 
-    See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+    See [Adjust the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-* **Changing the shape and size** - To resize a rectangular Image Map, select the Pan tool. Then move the pointer over a borderline or a corner, and when you see the double-headed arrow icon, drag. To resize a polygonal Image Map, drag a square selection handle. To create a selection handle, select the border of the Image Map and drag.
+* **Change the shape and size** - To resize a rectangular Image Map, select the Pan tool. Then move the pointer over a borderline or a corner, and when you see the double-headed arrow icon, drag. To resize a polygonal Image Map, drag a square selection handle. To create a selection handle, select the border of the Image Map and drag.
 
-    See [Adjusting the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+    See [Adjust the position, shape, and size of Image Maps](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
 * **Deleting Image Maps** - Select the Pan tool, select the Image Map to select it, and then select **[!UICONTROL Delete]**.
 
@@ -83,17 +83,17 @@ Starting on the Map Pages tab of the eCatalog screen, use these techniques to ed
 
 * **Handling overlapping Image Maps** - Drag to change the order of Image Maps on the Image Map list.
 
-    See [Handling overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
+    See [Handle overlapping Image Maps](creating-image-maps.md#handling_overlapping_image_maps).
 
 * **Copying Image Maps to other pages** - Select **[!UICONTROL Copy Maps To]** (make sure you are on the Map Pages tab). On the Select Images screen, select the page or pages where you want to copy the Image Maps, and select **[!UICONTROL Select]**.
 
-    See [Copying Image Maps to other images](creating-image-maps.md#copying_image_maps).
+    See [Copy Image Maps to other images](creating-image-maps.md#copying_image_maps).
 
 >[!NOTE]
 >
->Besides copying Image Maps to different pages in an eCatalog, you can copy all the Image Maps in an eCatalog to a different eCatalog. See [Copying Image Maps between eCatalogs](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
+>Besides copying Image Maps to different pages in an eCatalog, you can copy all the Image Maps in an eCatalog to a different eCatalog. See [Copy Image Maps between eCatalogs](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
 
-## Reviewing and importing Image Map data {#reviewing-and-importing-image-map-data}
+## Review and import Image Map data {#reviewing-and-importing-image-map-data}
 
 The Map Summary screen provides metadata about your eCatalog. You can also batch-import Image Map data for your eCatalog starting on the Map Summary screen. Importing Image Map data this way makes it easier to enter Image Map URLs and rollover text.
 
@@ -123,7 +123,7 @@ Starting on the Map Summary screen, follow these steps to import Image Map data 
 1. In the Job Name field, type a name for the file (be careful to retain its extension).
 1. Select **[!UICONTROL Upload]**.
 
-## Copying Image Maps between eCatalogs {#copying-image-maps-between-ecatalogs}
+## Copy Image Maps between eCatalogs {#copying-image-maps-between-ecatalogs}
 
 You can copy all the Image Maps in an eCatalog to a different eCatalog. Copying Image Maps this way is a convenient method of copying Image Maps between foreign-language translations of the same eCatalog. For the copying to be successful, Dynamic Media Classic recommends copying between eCatalogs with the same number of pages and same images.
 
