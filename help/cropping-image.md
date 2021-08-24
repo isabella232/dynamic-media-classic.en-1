@@ -28,14 +28,14 @@ You can crop off the transparent or solid-color pixels from the edge of an image
 1. To crop an image, Select its rollover **[!UICONTROL Edit]** button and choose **[!UICONTROL Crop]**, or display it in the Browse Panel in Detail view and Select the **[!UICONTROL Crop]** button.
 1. On the Crop Editor page, do one of the following:
 
-    * To trim color pixels, go to **[!UICONTROL Trim]** > **[!UICONTROL Color]**. The Auto Crop By Color dialog box appears. Select the **[!UICONTROL Corner]** menu and choose a corner with the background color that you want to crop away. Then enter a **[!UICONTROL Tolerance]** setting from 0 through 1. The 0 setting crops pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference. Select **[!UICONTROL Crop]**.
-    * To trim transparent pixels, go to **[!UICONTROL Trim]** > **[!UICONTROL Transparent]**. The Auto Crop By Transparency dialog box appears. Enter a tolerance setting from 0 through 1. The 0 setting crops pixels only if they are transparent. Numbers closer to 1 allow for more transparency. Select **[!UICONTROL Crop]**.
+    * To trim color pixels, go to **[!UICONTROL Trim]** > **[!UICONTROL Color]**. In the **[!UICONTROL Auto Crop By Color]** dialog box, select the **[!UICONTROL Corner]** menu and choose a corner with the background color that you want to crop away. Then enter a **[!UICONTROL Tolerance]** setting from 0 through 1. The 0 setting crops pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference. Select **[!UICONTROL Crop]**.
+    * To trim transparent pixels, go to **[!UICONTROL Trim]** > **[!UICONTROL Transparent]**. In the **[!UICONTROL Auto Crop By Transparency]** dialog box, enter a tolerance setting from 0 through 1. The 0 setting crops pixels only if they are transparent. Numbers closer to 1 allow for more transparency. Select **[!UICONTROL Crop]**.
 
 1. Select **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->To restore an image to its original state after you’ve cropped it, display the image in the Crop Editor screen and select **[!UICONTROL Reset]**.
+>To restore an image to its original state after you have cropped it, display the image in the Crop Editor screen and select **[!UICONTROL Reset]**.
 
 ## Select an area to crop {#select-an-area-to-crop}
 
