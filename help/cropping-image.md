@@ -1,6 +1,6 @@
 ---
-title: Cropping an image
-description: Learn how to crop an image.
+title: Crop an image
+description: Learn how to crop an image in Dynamic Media Classic.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: admin
 content-type: reference
@@ -19,13 +19,13 @@ You can crop an image to remove white space around it, or crop an area of the im
 
 >[!NOTE]
 >
->After you crop, you can select **[!UICONTROL Save As]** and save a cropped version of the image under a different name. In the Save As window, choose Save As New Master to save a second copy of the image. Select **[!UICONTROL Save As Addition View Of Master]** so you can save the original and its cropped version under a different name. Select **[!UICONTROL Replace Original]** to delete the original file from which you cropped your image. Then enter a name for the image, and Select **[!UICONTROL Submit]**.
+>After you crop, you can select **[!UICONTROL Save As]** and save a cropped version of the image under a different name. In the Save As window, select **[!UICONTROL Save As New Master]** to save a second copy of the image. Select **[!UICONTROL Save As Addition View Of Master]** so you can save the original and its cropped version under a different name. Select **[!UICONTROL Replace Original]** to delete the original file from which you cropped your image. Then enter a name for the image, and select **[!UICONTROL Submit]**.
 
 ## Crop to remove white space around an image {#crop-to-remove-white-space-around-an-image}
 
 You can crop off the transparent or solid-color pixels from the edge of an image.
 
-1. To crop an image, Select its rollover **[!UICONTROL Edit]** button and choose **[!UICONTROL Crop]**, or display it in the Browse Panel in Detail view and Select the **[!UICONTROL Crop]** button.
+1. To crop an image, select its rollover **[!UICONTROL Edit]** button and then select **[!UICONTROL Crop]**, or display it in the Browse Panel in Detail view and select the **[!UICONTROL Crop]** button.
 1. On the Crop Editor page, do one of the following:
 
     * To trim color pixels, go to **[!UICONTROL Trim]** > **[!UICONTROL Color]**. In the **[!UICONTROL Auto Crop By Color]** dialog box, select the **[!UICONTROL Corner]** menu and choose a corner with the background color that you want to crop away. Then enter a **[!UICONTROL Tolerance]** setting from 0 through 1. The 0 setting crops pixels only if they exactly match the color you selected in the corner of the image. Numbers closer to 1 allow for more color difference. Select **[!UICONTROL Crop]**.
