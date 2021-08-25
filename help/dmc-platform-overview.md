@@ -27,7 +27,7 @@ The key Dynamic Media Classic workflow steps are:
 
 * **Serve** - Deliver media from Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
-![The Dynamic Media Classic workflow process](/help/assets/gs_workflow.png) 
+![The Dynamic Media Classic workflow process](/help/assets/gs_workflow.png)
 
 ## Single master images and single URL calls {#single-master-images-and-single-url-calls}
 

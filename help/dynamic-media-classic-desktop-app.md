@@ -19,7 +19,7 @@ This new app is now available for Windows® and macOS.
 >
 >Adobe recommends that you install the new Adobe Dynamic Media Classic desktop app by October 1, 2020. Doing so will ensure you have a smooth transition before Adobe Flash Player is deprecated on December 31, 2020. After that date, you cannot log on to the browser version of Adobe Dynamic Media Classic user interface, labeled as Dynamic Media Classic in the product.
 
-See the FAQ for the [New Dynamic Media Classic sign in experience now available.](/help/new-ui-2020.md)
+See the FAQ for the [New Dynamic Media Classic sign-in experience now available.](/help/new-ui-2020.md)
 
 ## System requirements for Adobe Dynamic Media Classic desktop app {#system-requirements-dmc-app}
 
@@ -81,7 +81,7 @@ See also:
 
 1. Do one of the following based on the installer you downloaded.
 
-    * **For macOS** - In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
+    * **macOS** &ndash;In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
 
         ![Drag and drop install on macOS](/help/assets/dragondrop-install1.png)
 
@@ -90,9 +90,9 @@ See also:
 
         ![Open downloaded app](/help/assets/open-dmclassicapp1.png)
 
-    * **For Windows** - Run the installer binary and follow the on-screen instructions to install the desktop app.
+    * **Windows** &ndash; Run the installer binary and follow the on-screen instructions to install the desktop app.
 
-1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
+1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
@@ -101,7 +101,7 @@ See also:
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
     | Browser URL | Desktop app server name |
-    |---|---|
+    | --- | --- |
     | https://s7sps1.scene7.com/ | NA (North America) production |
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
@@ -134,7 +134,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
     Unmount DMG - hdiutil detach <mount_point_path>
     ```
 
-1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
+1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
@@ -143,7 +143,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
     | Browser URL | Desktop app server name |
-    |---|---|
+    | --- | --- |
     | https://s7sps1.scene7.com/ | NA (North America) production |
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
@@ -179,7 +179,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
-1. When you open the application, the new Adobe Dynamic Media Classic Sign in page is displayed:
+1. When you open the application, the new Adobe Dynamic Media Classic Sign-in page is displayed:
 
     ![Dynamic Media Classic sign in](/help/assets/dmclassic-login1.png)
 
@@ -188,7 +188,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
     | Browser URL | Desktop app server name |
-    |---|---|
+    | --- | --- |
     | https://s7sps1.scene7.com/ | NA (North America) production |
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
@@ -221,9 +221,9 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 ## Known limitations in Dynamic Media Classic 20.20.1 (fixed in 20.20.2)
 
-**_Applies to Windows® only - Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
+**_Applies to Windows® only &ndash; Is there a limitation on the number of files that can be uploaded through the desktop app UI?_**<br>Yes, a maximum of 150 files can be uploaded at a time by way of the desktop app UI.
 
-**_Applies to Windows® and macOS - How do I switch between companies?_**<br>To switch between companies, do the following:
+**_Applies to Windows® and macOS &ndash; How do I switch between companies?_**<br>To switch between companies, do the following:
 
 * In the Dynamic Media Classic app, select the new company from the company drop-down list.
 * When the pop-up window appears, tap **[!UICONTROL OK]** to sign out and close the app.
