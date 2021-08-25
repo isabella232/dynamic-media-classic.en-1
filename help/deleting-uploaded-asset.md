@@ -1,6 +1,6 @@
 ---
-title: Deleting an uploaded asset
-description: Learn how to delete an uploaded asset.
+title: Delete an uploaded asset
+description: Learn how to delete an uploaded asset in Dynamic Media Classic.
 uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: admin
 content-type: reference
@@ -10,7 +10,7 @@ feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
 ---
-# Deleting an uploaded asset{#deleting-an-uploaded-asset}
+# Delete an uploaded asset{#deleting-an-uploaded-asset}
 
 You can use the `delete` parameter in this format to delete an asset:
 
@@ -38,10 +38,10 @@ The following is an example of a response when an image asset is deleted:
 
 You can use the following fields in the URL query string to delete an asset:
 
-|URL parameter|Required/optional|Value|
-|--- |--- |--- |
-|op|Required|delete|
-|shared_secret|Required|The shared-secret key for the company.|
+| URL parameter | Required/optional | Value |
+| --- | --- | --- |
+| `op` | Required | delete |
+| `shared_secret` | Required | The shared-secret key for the company. |
 |<ul><li>For images:image_name</li><li>For Vector:fxg_name</li></ul>|Required|Name of the asset to delete.|
 
 **Sample image URL:**
