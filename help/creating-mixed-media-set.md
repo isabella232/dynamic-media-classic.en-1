@@ -1,6 +1,6 @@
 ---
-title: Creating a Mixed Media Set
-description: Learn how to create a Mixed Media Set.
+title: Create a Mixed Media Set
+description: Learn how to create a Mixed Media Set in Dynamic Media Classic.
 uuid: a0c6e5fa-7a85-4376-b9a3-b72ae63d3d95
 contentOwner: admin
 content-type: reference
@@ -10,7 +10,7 @@ feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
 ---
-# Creating a Mixed Media Set{#creating-a-mixed-media-set}
+# Create a Mixed Media Set{#creating-a-mixed-media-set}
 
 Create a Mixed Media Set when you want to combine multiple types of viewers in one presentation. Make sure your files, Image Sets, Swatch Sets, and Spin Sets are ready to publish before you add them to the Mixed Media Set.
 
@@ -21,15 +21,15 @@ Create a Mixed Media Set when you want to combine multiple types of viewers in o
 When you create a set, the **Publish after save** option affects the set and set members in the following ways:
 
 |“Publish after save” option selected before saving?|State of set after saving|State of set members after saving|
-|--- |--- |--- |
-|Yes|Published|Published|
-|No|Unpublished|Set members retain their published or unpublished state.|
+| --- | --- | --- |
+| Yes | Published | Published |
+| No | Unpublished | Set members retain their published or unpublished state. |
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To create a Mixed Media Set:**
 
-1. Click **[!UICONTROL Build]** > **[!UICONTROL Mixed Media Sets]**.
+1. Go to **[!UICONTROL Build]** > **[!UICONTROL Mixed Media Sets]**.
 1. Drag the videos, Image Sets, Spin Sets, and swatches from the Asset Library to the Mixed Media Set screen.
 
    >[!NOTE]
@@ -43,9 +43,11 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
     * (Optional) To add a custom thumbnail to represent a video in the Viewer, drag an image file from the Asset Library to the Thumbnail placeholder box.
 
 1. Near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
-1. Click **[!UICONTROL Save]**, select a folder for storing your Mixed Media Set, enter a name for the set, and click **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Save]**.
+1. Select a folder for storing your Mixed Media Set, then enter a name for the set.
+1. Select **[!UICONTROL Save]**.
 
-   To see what your combo Image Set looks like in an Image Set Viewer, click **[!UICONTROL Preview]**.
+   To see what your combo Image Set looks like in an Image Set Viewer, select **[!UICONTROL Preview]**.
 
 ## Edit a Mixed Media Set {#edit-a-mixed-media-set}
 
@@ -53,27 +55,27 @@ You can edit a Mixed Media Set. If you want to edit a set within a Mixed Media S
 
 Whether you edit a published or an unpublished set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 
-|Set already published?|“Publish after save” option selected before saving your edit?|State of set after saving|State of set members after saving|
-|--- |--- |--- |--- |
-|Yes|Yes|Published|Published|
-|Yes|No|Published|Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state.|
-|No|Yes|Published|Published|
-|No|No|Unpublished|Existing set members and any new set members that you added during your edit retain their published or unpublished state.|
+|Set already published? | **[!UICONTROL Publish after save]** option selected before saving your edit? |State of set after saving | State of set members after saving |
+| --- |--- |--- |--- |
+| Yes | Yes | Published | Published |
+| Yes | No | Published | Existing set members retain their published state. Any new set members that you added during your edit retain their published or unpublished state. |
+| No | Yes| Published | Published |
+| No | No | Unpublished | Existing set members and any new set members that you added during your edit retain their published or unpublished state. |
 
 See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To edit a Mixed Media Set:**
 
-1. Click the Mixed Media Set’s rollover **[!UICONTROL Edit]** button. 
+1. Select the Mixed Media Set’s rollover **[!UICONTROL Edit]** button.
 1. Do any of the following:
 
-    * To remove items, select them and click **[!UICONTROL Delete]**.
+    * To remove items, select them and select **[!UICONTROL Delete]**.
     * To reorder items, drag them to new locations.
 
 1. When you are finished editing the set, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
-1. Click **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
+1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
 
-## Deleting a Mixed Media Set {#deleting-a-mixed-media-set}
+## Delete a Mixed Media Set {#deleting-a-mixed-media-set}
 
 When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
 
@@ -82,4 +84,4 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 **To delete a Mixed Media Set:**
 
 1. In the Grid View, List View, or Details View, select one or more Mixed Media Sets.
-1. On the Global Navigation Bar, click **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.
+1. On the Global Navigation Bar, go to **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.

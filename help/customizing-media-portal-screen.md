@@ -1,6 +1,6 @@
 ---
-title: Customizing the Media Portal screen
-description: Learn how to customize the Media Portal screen.
+title: Customize the Media Portal screen
+description: Learn how to customize the Media Portal screen in Dynamic Media Classic.
 uuid: bd1a65a6-723b-49d0-8eac-849da00e0e1a
 contentOwner: admin
 content-type: reference
@@ -11,27 +11,27 @@ feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
 ---
-# Customizing the Media Portal screen{#customizing-the-media-portal-screen}
+# Customize the Media Portal screen{#customizing-the-media-portal-screen}
 
 The Media Portal style settings allow you to brand the Media Portal screen with your company logo and colors. Use the style settings to put your company branding on Media Portal.
 
-To access the style settings, choose **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]**. Be sure you click **[!UICONTROL Save]** to save your settings after you make them. You can click **[!UICONTROL Restore]** to bring back the default settings. As you make your choices, the Preview panel shows you what your choices look like.
+To access the style settings, go to **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]**. Be sure you select **[!UICONTROL Save]** to save your settings after you make them. You can select **[!UICONTROL Restore]** to bring back the default settings. As you make your choices, the Preview panel shows you how they appear.
 
-* **Logo** - Click **[!UICONTROL Browse]** and choose a graphic in the Select Logo Image window.
+* **[!UICONTROL Logo]** - Select **[!UICONTROL Browse]**, and then choose a graphic in the Select Logo Image window.
 
-* **Application** - Create a gradient color blend by making choices on the Background Gradient Colors menus.
+* **[!UICONTROL Application]** - Create a gradient color blend by making choices on the Background Gradient Colors menus.
 
-* **Tree** - Choose a rollover color (the color that appears when you move the pointer over an item) and selection color (the color that appears when you select an item).
+* **[!UICONTROL Tree]** - Choose a rollover color (the color that appears when you move the pointer over an item) and selection color (the color that appears when you select an item).
 
-* **Accordion** - Choose background colors, a border style, and rollover and selected colors for the accordion that appears on the right side of the screen in Details view.
+* **[!UICONTROL Accordion]** - Choose background colors, a border style, and rollover and selected colors for the accordion that appears on the right side of the screen in Details view.
 
-* **Accordion Header** - Choose whether to make text in the accordion header boldface.
+* **[!UICONTROL Accordion Header]** - Choose whether to make text in the accordion header boldface.
 
-* **Datagrid** - Choose colors for the header row in data grids.
+* **[!UICONTROL Datagrid]** - Choose colors for the header row in data grids.
 
-* **Alert** - Choose a background color for alert message boxes.
+* **[!UICONTROL Alert]** - Choose a background color for alert message boxes.
 
-* **Progress Bar** - Choose a color for the bar that indicates the progress of uploads and downloads.
+* **[!UICONTROL Progress Bar]** - Choose a color for the bar that indicates the progress of uploads and downloads.
 
 For Media Portal users to see the style settings that you chose, they must append `?company=(company name)` to the URL with which they access Media Portal. For example, to see style settings, Media Portal users who access the PortalCo company at the following:
 
