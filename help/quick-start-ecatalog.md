@@ -81,7 +81,7 @@ See [Using Image Maps to embed rich media in an eCatalog](creating-ecatalog-imag
 
 You can set up and manage the image map text using the Info Panel settings in the eCatalog screen.
 
-See [Managing Info Panel content](info-panel-content.md#managing-info-panel-content).
+See [Manage Info Panel content in eCatalogs](/help/info-panel-content-ecatalog.md).
 
 ## 4. Setting up eCatalog Viewer Presets
 
