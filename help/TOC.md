@@ -3,7 +3,7 @@ cloud: Experience Cloud
 product: adobe dynamic media classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
-breadcrumb-title: Adobe Dynamic Media Classic Guide
+breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Learn more about using Adobe Dynamic Media Classic
 index: y
 ---
@@ -11,7 +11,7 @@ index: y
 # Adobe Dynamic Media Classic Guide {#using}
 
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
++ [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NEW Adobe Dynamic Media Classic sign-in experience now available](new-ui-2020.md)
 + [Adobe Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
@@ -19,7 +19,7 @@ index: y
   + [About Adobe Dynamic Media Classic Help](introduction.md)
   + [Developer resources](developer-resources.md)
   + [What’s new](whats-new.md)
-  + [System requirements](system-requirements.md)
+  + [System requirements for Adobe Dynamic Media Classic desktop app](system-requirements.md)
   + [Support](support.md)
   + [Help for Adobe Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
   + [Adobe Training Services](training-services.md)
@@ -39,7 +39,7 @@ index: y
   + [Video SEO (Search Engine Optimization)](video-seo-search-engine-optimization.md)
   + [Administration Setup](administration-setup.md)
 + Media Portal {#media-portal}
-  + [System requirements](system-requirements-1.md)
+  + [System requirements for Media Portal in Adobe Dynamic Media Classic](system-requirements-media-portal.md)
   + [Quick Start: Media Portal](quick-start-media-portal-administration.md)
   + [Media Portal user roles](media-portal-user-roles.md)
   + [Create and manage Media Portal groups](creating-media-portal-groups.md)
