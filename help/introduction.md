@@ -21,7 +21,7 @@ Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publis
 
 ## Key resources
 
-* [Getting started & overview](/help/dmc-platform-overview.md)
+* [Get started & overview](/help/dmc-platform-overview.md)
 * [Quick Start: Ecatalog](/help/quick-start-ecatalog.md)
 * [Quick Start: Image sets](/help/quick-start-image-sets.md)
 * [Quick Start: Image sizing](/help/quick-start-image-sizing.md)

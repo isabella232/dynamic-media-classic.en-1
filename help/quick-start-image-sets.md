@@ -35,7 +35,7 @@ To create an Image Set, on the Global Navigation bar, click **[!UICONTROL Build]
 
 See [Creating an Image Set](creating-image-set.md#creating-an-image-set).
 
-See also [Including zoom targets and Image Maps in Image Sets](including-zoom-targets-image-maps.md#including-zoom-targets-and-image-maps-in-image-sets)
+See also [Including zoom targets and Image Maps in Image Sets](/help/including-zoom-targets-image-maps-image-sets.md)
 
 ## 3. Setting up Image Set Viewer Presets, as needed
 
