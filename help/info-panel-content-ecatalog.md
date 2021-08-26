@@ -32,7 +32,7 @@ You can select one of three preset response templates for displaying text in an 
 >
 >See [Set up eCatalog Viewer Presets](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets).
 
-1. Double-click your eCatalog to open it in Detail View.
+1. Double-click your eCatalog so it opens in Detail View.
 1. Select the **[!UICONTROL InfoPanel Setup]** panel.
 1. Select a Response Template:
 
@@ -59,7 +59,7 @@ When formatting source content, keep in mind the following guidelines:
 
 ### Import CSV content into eCatalogs from an externally hosted location {#import-csv-content-into-ecatalogs-from-an-externally-hosted-location}
 
-1. Double-click the eCatalog to open it in Detail View.
+1. Double-click the eCatalog so it opens in Detail View.
 1. Select the **[!UICONTROL InfoPanel Datafeed]** panel.
 1. Enter the URL for the CSV file in the Externally Hosted CSV File Location box. You can paste the URL into this field or type it directly.
 1. (Optional) Specify a time to update the content using the Schedule Update menus and select **[!UICONTROL Add]**. You can select multiple times for updating. Each update time appears in the Update Times box. (To remove a time, select it and select **[!UICONTROL Delete]**.)
@@ -77,7 +77,7 @@ Last Modified Date:
 
  -->
 
-1. Double-click the eCatalog to open it in Detail View.
+1. Double-click the eCatalog so it opens it in Detail View.
 1. Select the **[!UICONTROL InfoPanel Setup]** panel.
 1. Select **[!UICONTROL Upload S7Info Content]**.
 1. Select **[!UICONTROL Browse]**, select the tab-delimited TXT file, CSV, or SSV file you want to use, and select **[!UICONTROL Open]**.

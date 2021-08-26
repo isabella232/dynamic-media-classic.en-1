@@ -27,7 +27,7 @@ You can select one of three preset response templates for displaying text in an 
 
 **To set up a response template for Image Sets:**
 
-1. Double-click your Image Set to open it in Detail View.
+1. Double-click your Image Set so it opens in Detail View.
 1. Select **[!UICONTROL InfoPanel Setup]**.
 1. In the Response Template drop-down list, do one of the following:
 
@@ -59,7 +59,7 @@ When formatting source content, keep in mind the following guidelines:
 
 ### Import CSV content into Image Sets from an externally hosted location {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
-1. Double-click the Image Set to open it in Detail View.
+1. Double-click the Image Set so it opens in Detail View.
 1. Select **[!UICONTROL InfoPanel Datafeed]**.
 1. In the Externally hosted CSV file location (HTTP) text field, enter the URL to the CSV file.
 1. (Optional) In the Schedule Update fields, specify a time to update the content, and then select **[!UICONTROL Add]**.
