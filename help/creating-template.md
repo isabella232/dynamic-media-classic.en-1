@@ -1,6 +1,6 @@
 ---
 title: Create a template
-description: Learn how to create a template in Dynamic Media Classic.
+description: Learn how to create a template in Adobe Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: admin
 content-type: reference
@@ -17,7 +17,7 @@ To create a template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basi
 
 >[!NOTE]
 >
->If you edit a template created in an earlier version of Dynamic Media Classic, a prompt asks you upon saving “Do you want to add a canvas layer?”. Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
+>If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving “Do you want to add a canvas layer?”. Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.
 
 ## Create the initial template {#creating-the-initial-template}
 
@@ -46,7 +46,7 @@ You can create a template from an existing template. Open the template, select *
 1. Select **[!UICONTROL Save]**.
 1. Select a folder for storing your template, enter a name for the template, and select **[!UICONTROL Submit]**.
 
-   Dynamic Media Classic shrinks images if necessary to fit them on the canvas, the area on the Template screen for defining your template.
+   Adobe Dynamic Media Classic shrinks images if necessary to fit them on the canvas, the area on the Template screen for defining your template.
 
 ## Edit a template set {#editing-a-template-set}
 
@@ -63,7 +63,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit a template set:**
 
-1. In the Grid view, browse to a Template Set, and then below the image, select **[!UICONTROL Edit]**.
+1. In the Grid View, browse to a Template Set, and then below the image, select **[!UICONTROL Edit]**.
 1. Change the template as necessary.
 1. When you are finished editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.
@@ -97,7 +97,7 @@ Use these tools on the Template screen so you can create templates:
 
    >[!NOTE]
    >
-   >Text Editor v4.2 is planned for removal as an option in Dynamic Media Classic, so it is recommended that you use Text Editor 4.3 when possible. The **[!UICONTROL Word Wrap]** option will be incorporated into a future release of the Text Editor.
+   >Text Editor v4.2 is planned for removal as an option in Adobe Dynamic Media Classic, so it is recommended that you use Text Editor 4.3 when possible. The **[!UICONTROL Word Wrap]** option will be incorporated into a future release of the Text Editor.
 
 * **[!UICONTROL Designer and Developer]** - Select the option that best describes your role.
 
@@ -115,7 +115,7 @@ Use these tools on the Template screen so you can create templates:
 
    >[!NOTE]
    >
-   >If necessary, Dynamic Media Classic shrinks images to make them fit in the canvas when you create an image layer.
+   >If necessary, Adobe Dynamic Media Classic shrinks images to make them fit in the canvas when you create an image layer.
 
 ## Create a text layer {#creating-a-text-layer}
 
@@ -136,7 +136,7 @@ To format text in a text layer, do the following:
 1. In the text box of the Text Editor, select the text you want to format. You can select all the text, portions of the text, or individual characters.
 1. Specify any of the following formatting options, and then select **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Font]** - Choose a font on the Font menu. If a font you want does not appear on the menu, you can upload it into the Dynamic Media Classic. See Fonts.
+   * **[!UICONTROL Font]** - Choose a font on the Font menu. If a font you want does not appear on the menu, you can upload it into the Adobe Dynamic Media Classic. See Fonts.
 
    * **[!UICONTROL Font Size]** - Choose a font size from the menu, type a specific size in the box, or select the **[!UICONTROL Up]** or **[!UICONTROL Down]** arrows to increase or decrease the size by two points.
 
@@ -238,7 +238,7 @@ Layers must be small enough to fit on the canvas. You can change the size of a l
 
 >[!NOTE]
 >
->Dynamic Media Classic recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you’ve created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
+>Adobe Dynamic Media Classic recommends creating an Image Preset that is the exact size of your template. Matching the Image Preset size to the template size ensures that the final output size and sharpening options for the template are set correctly. After you’ve created this Image Preset, you can choose it from the Apply Preset menu on the Template Preview screen. The screen shows you what the image looks like when it is delivered from the server. See [Set up Image Presets](setting-image-presets.md#setting_up_image_presets).
 
 * **Changing the size of a layer** - To change the size of a layer or the canvas, select the layer or canvas on the Layers list and use one of these techniques:
 
@@ -282,7 +282,7 @@ To choose a background color, opacity, and blend mode for a layer or the canvas,
 
 ## Use shadow and glow effects on layers {#using-shadow-and-glow-effects-on-layers}
 
-You can apply a shadow or glow to a layer. The shadow or glow is applied to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Dynamic Media Classic.
+You can apply a shadow or glow to a layer. The shadow or glow is applied to the perimeter of the layer and extends inward or outward, depending on the shadow or glow option you choose. If your template originated with a PSD file with shadow and glow effects, you can adjust these effects in Adobe Dynamic Media Classic.
 
 After you apply a shadow or glow effect, you can adjust its size, color, opacity, and position in the Layer Properties area of the Template screen.
 

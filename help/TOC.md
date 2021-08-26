@@ -4,24 +4,24 @@ product: adobe dynamic media classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
-user-guide-description: Learn more about using Dynamic Media Classic
+user-guide-description: Learn more about using Adobe Dynamic Media Classic
 index: y
 ---
 
 # Adobe Dynamic Media Classic Guide {#using}
 
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NEW Dynamic Media Classic sign-in experience now available](new-ui-2020.md)
-+ [Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
++ [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
++ [NEW Adobe Dynamic Media Classic sign-in experience now available](new-ui-2020.md)
++ [Adobe Dynamic Media newsletter archive by Experience League](dynamic-media-newsletter.md)
 + Introducing Adobe Dynamic Media Classic {#intro}
   + [Adobe Dynamic Media Classic Desktop app - Now available](dynamic-media-classic-desktop-app.md)
-  + [About Dynamic Media Classic Help](introduction.md)
+  + [About Adobe Dynamic Media Classic Help](introduction.md)
   + [Developer resources](developer-resources.md)
   + [What’s new](whats-new.md)
-  + [System requirements](system-requirements.md)
+  + [System requirements for Adobe Dynamic Media Classic desktop app](system-requirements.md)
   + [Support](support.md)
-  + [Help for Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
+  + [Help for Adobe Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
   + [Adobe Training Services](training-services.md)
   + [Popular resources](popular-resources.md)
   + [Training videos](training-videos.md)
@@ -39,7 +39,7 @@ index: y
   + [Video SEO (Search Engine Optimization)](video-seo-search-engine-optimization.md)
   + [Administration Setup](administration-setup.md)
 + Media Portal {#media-portal}
-  + [System requirements](system-requirements-1.md)
+  + [System requirements for Media Portal in Adobe Dynamic Media Classic](system-requirements-media-portal.md)
   + [Quick Start: Media Portal](quick-start-media-portal-administration.md)
   + [Media Portal user roles](media-portal-user-roles.md)
   + [Create and manage Media Portal groups](creating-media-portal-groups.md)
@@ -65,7 +65,7 @@ index: y
   + [Move, rename, and delete assets](moving-renaming-deleting-assets.md)
   + [Work in Detail View](detail-view.md)
   + [View, add, and export metadata](viewing-adding-exporting-metadata.md)
-  + [Export assets from Dynamic Media Classic](exporting-assets-from-dmc.md)
+  + [Export assets from Adobe Dynamic Media Classic](exporting-assets-from-dmc.md)
   + [Share asset changes with peers in real time](sharing-asset-changes-peers-real.md)
   + [Print assets](printing-assets.md)
   + [Manage the Trash folder](trash-folder.md)
@@ -141,7 +141,7 @@ index: y
   + [Publish a Mixed Media Set](publishing-mixed-media-set.md)
   + [Link a Mixed Media Set to a web page](linking-mixed-media-set-web.md)
 + Adobe Analytics instrumentation kit {#analytics-kit}
-  + [Quick Start: Integrating Dynamic Media Classic with Adobe Analytics](quick-start-integrating-dmc-analytics.md)
+  + [Quick Start: Integrating Adobe Dynamic Media Classic with Adobe Analytics](quick-start-integrating-dmc-analytics.md)
   + [Log in to Adobe Analytics](log-analytics.md)
   + [Configure Adobe Analytics reports](configuring-analytics-reports.md)
   + [Instrumenting a viewer using the Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
@@ -151,7 +151,7 @@ index: y
   + [Publish Adobe Analytics configuration information](publishing-analytics-configuration-information.md)
 + Adobe Target Standard/Premium integration {#target-classic}
   + [Quick Start: Adobe Target Standard/Premium integration](quick-start-target-integration.md)
-  + [Integrate Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md)
+  + [Integrate Adobe Dynamic Media Classic with Adobe Target Standard/Premium](integrating-dmc-with-target.md)
   + [Create an offer set](creating-offer-set.md)
   + [Push offer sets to Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + User-generated content {#user-generated-content}

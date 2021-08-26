@@ -13,11 +13,11 @@ exl-id: b0010107-248c-4ebc-955c-7514462f351d
 ---
 # Publishing master images{#publishing-master-images}
 
-Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What’s more, during the publishing process, Dynamic Media Classic activates the URL strings you need for your web site and application.
+Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What’s more, during the publishing process, Adobe Dynamic Media Classic activates the URL strings you need for your web site and application.
 
 ## Marking master images for publish {#marking-master-images-for-publish}
 
-Master images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them to Dynamic Media Classic.
+Master images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them to Adobe Dynamic Media Classic.
 
 ## Publishing your master images {#publishing-your-master-images}
 

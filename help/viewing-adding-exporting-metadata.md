@@ -13,17 +13,17 @@ exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
 ---
 # Viewing, adding, and exporting metadata{#viewing-adding-and-exporting-metadata}
 
-You can store information specific to the files you work with in Dynamic Media Classic; this information is called *metadata*. You can use metadata in Dynamic Media Classic for organizing, searching, filtering, and sorting your assets.
+You can store information specific to the files you work with in Adobe Dynamic Media Classic; this information is called *metadata*. You can use metadata in Adobe Dynamic Media Classic for organizing, searching, filtering, and sorting your assets.
 
-Metadata appears in Detail view along with Dynamic Media Classic-generated information, such as the file creation date, publishing date, and keywords. To view metadata, open the asset in Detail view, and then select the Metadata panel. You can enter and edit metadata in Detail view.
+Metadata appears in Detail View along with Adobe Dynamic Media Classic-generated information, such as the file creation date, publishing date, and keywords. To view metadata, open the asset in Detail View, and then select the Metadata panel. You can enter and edit metadata in Detail View.
 
-Some metadata is embedded directly into a file. If a file contains this metadata, Dynamic Media Classic automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Dynamic Media Classic recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail view. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
+Some metadata is embedded directly into a file. If a file contains this metadata, Adobe Dynamic Media Classic automatically uploads it with the file. You can embed metadata into source assets in Adobe Photoshop, InDesign, Illustrator, and other applications; Adobe Dynamic Media Classic recognizes this metadata. You can also add metadata to individual files in the Metadata panel in Detail View. To ensure consistency across assets, company administrators create Metadata templates that provide the metadata fields that can be filled in.
 
 For more information about embedded metadata, see [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en).
 
 ## View metadata {#view-metadata}
 
-To view an asset’s metadata, open the asset in Detail view, and tap the Metadata panel. To select a set of metadata fields, choose an option on the Metadata View menu. Dynamic Media Classic offers these Metadata Views:
+To view an asset’s metadata, open the asset in Detail View, and tap the Metadata panel. To select a set of metadata fields, choose an option on the Metadata View menu. Adobe Dynamic Media Classic offers these Metadata Views:
 
 * **Compact View** - A basic list of values.
 
@@ -37,7 +37,7 @@ See [Metadata Views](application-setup.md#metadata_views) for information about 
 
 ## Manually enter metadata for an asset {#manually-enter-metadata-for-an-asset}
 
-1. Open the asset in Detail view.
+1. Open the asset in Detail View.
 1. Open the Metadata panel and do one or both of the following:
 
     * Choose a Metadata View to determine which metadata fields appear in the panel.
@@ -66,7 +66,7 @@ If you’ve added keywords to other files during this session, or if you have re
 
 >[!NOTE]
 >
->You can add keywords to files as you upload them to Dynamic Media Classic. In the Upload Job Options dialog box, choose **[!UICONTROL Additional Metadata]** and enter keywords.
+>You can add keywords to files as you upload them to Adobe Dynamic Media Classic. In the Upload Job Options dialog box, choose **[!UICONTROL Additional Metadata]** and enter keywords.
 >See [Upload options](uploading-files.md#upload_options).
 
 ## Import metadata {#import-metadata}
@@ -75,7 +75,7 @@ Rather than manually enter metadata one asset at a time, you can import metadata
 
 >[!NOTE]
 >
->You can create a template for entering metadata so that it can be properly imported to Dynamic Media Classic. After you create the template, you can use it to enter the metadata. 
+>You can create a template for entering metadata so that it can be properly imported to Adobe Dynamic Media Classic. After you create the template, you can use it to enter the metadata. 
 >See [Create a template for entering metadata to upload](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
 
 You can find more information about standardized properties at [Adobe XMP Developer Center](https://www.adobe.com/devnet/xmp.html).
@@ -129,9 +129,9 @@ On the Global Navigation bar, click **[!UICONTROL Upload]**. To import the metad
 
 ## Batch rename IDs using metadata {#batch-rename-ids-using-metadata}
 
-Using metadata imported from a tab-delimited file or XML file, you can rename Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected on the Browse Panel.
+Using metadata imported from a tab-delimited file or XML file, you can rename Adobe Dynamic Media Classic IDs. The imported metadata is applied only to the images specified in the metadata file itself. It does not matter whether images are selected on the Browse Panel.
 
-To rename an image’s Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called `new_vc_objectname` to the XML data.
+To rename an image’s Adobe Dynamic Media Classic ID, add a column labeled *newipsid* to the tab-delimited file, or add a field called `new_vc_objectname` to the XML data.
 
 For example:
 
@@ -144,7 +144,7 @@ The job log for the Metadata job shows which IDs were successfully renamed and w
 
 ## Create a template for entering metadata to upload {#create-a-template-for-entering-metadata-to-upload}
 
-Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Dynamic Media Classic. To create a template for use in recording and importing metadata to Dynamic Media Classic, follow these steps:
+Adobe Dynamic Media Classic offers a command for creating a template for recording metadata. Using the template ensures that the metadata is entered in the right format so it can be uploaded correctly to Adobe Dynamic Media Classic. To create a template for use in recording and importing metadata to Adobe Dynamic Media Classic, follow these steps:
 
 1. Select image assets with metadata fields you want for your template.
 1. Click **[!UICONTROL File]** > **[!UICONTROL Import Metadata]**.
@@ -175,15 +175,15 @@ The system automatically generates a custom schema for User-defined fields with 
 
 >[!NOTE]
 >
->Changes to the schema never change the asset metadata itself. However, they are not visible for all Dynamic Media Classic and Metadata Server functionality and cannot be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Dynamic Media Classic and the Metadata Server.
+>Changes to the schema never change the asset metadata itself. However, they are not visible for all Adobe Dynamic Media Classic and Metadata Server functionality and cannot be accessed after being changed. Likewise, if metadata for an asset exists, the creation of the matching schema makes the metadata usable in Adobe Dynamic Media Classic and the Metadata Server.
 
-The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside Dynamic Media Classic. A schema is defined by a prefix, a namespace, and a list of properties.
+The Metadata Schema Editor offers a graphical way to add or edit a custom company schema inside Adobe Dynamic Media Classic. A schema is defined by a prefix, a namespace, and a list of properties.
 
 * **Name** - UI-Name for the schema. Used to identify the properties in Metadata Views and Advanced Search. Similar to XMP Sections like Basic, IPTC, PDF.
 
-* **Prefix** - Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
+* **Prefix** - Technical unique identifier for the schema. Restricted to the letters a-z and A-Z. The prefix is not visible in the Adobe Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The prefix is used, to uniquely identify metadata fields in metadata search queries on the Metadata Server or import.
 
-* **Namespace** - Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the Dynamic Media Classic UI, but is used to store metadata in the XMP block.
+* **Namespace** - Technical unique identifier for the schema, typically a URL in the form `https://your.company.com/name/version/`. See the list of standard schemas for examples. The namespace is not visible in the Adobe Dynamic Media Classic UI, but is used to store metadata in the XMP block.
 
 * **Description** - Free form description of the schema.
 
@@ -195,7 +195,7 @@ Properties describe the metadata that can be stored with this schema in the XMP 
 
 |Property|Description|
 |--- |--- |
-|ID|Technical identifier for this property. The ID is not visible in the Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
+|ID|Technical identifier for this property. The ID is not visible in the Adobe Dynamic Media Classic UI, but used, when metadata for an asset is stored in the XMP block and the database. The ID is used, to create search queries on the Metadata Server. The ID has some restrictions such as: <ul><li>No spaces</li><li>No ".", ":", "$"</li><li>No number as first character</li><li>Best practice is to use a-z or A-Z as first character</li></ul> <br>Once created, the ID cannot be changed.|
 |Label|UI-Name for this property.|
 |Structure|Determines the type of the property together with Data Type. Structure can be one of:<ul><li>Simple Type: single value of data type</li><li>Sequence: a list of values of the same data type</li><li>Open Choice: select one item from a list of predefined values, or enter free text. Can be only of data type String or Integer</li><li>Closed Choice: select one item from a list of predefined values (a popup or combo-box)</li></ul>|
 |Data Type|Select from these available types: <ul><li>String</li><li>Integer</li><li>Float</li><li>Yes/No (Boolean)</li><li>Date</li></ul>|
@@ -204,7 +204,7 @@ When the property has the structure Open Choice or Closed Choice, you must provi
 
 |Property|Description|
 |--- |--- |
-|ID|Technical identifier for this value. The ID is not visible in the Dynamic Media Classic UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.|
+|ID|Technical identifier for this value. The ID is not visible in the Adobe Dynamic Media Classic UI, but is used when metadata for an asset is stored in the XMP block and the database. The ID is used in search queries on the Metadata Server. The ID cannot contain any spaces. Once created, the ID cannot be changed.|
 |Label|UI-Name for this value.|
 
 >[!MORELIKETHIS]

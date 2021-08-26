@@ -2,7 +2,7 @@
 
 ## Adobe Dynamic Media Classic Documentation Philosophy
 
-We know that Adobe Dynamic Media Classic users are working in highly competitive environments, striving to create digital experiences that will set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation to allow the customer to immediately leverage their Dynamic Media Classic investment and maximize ROI.
+We know that Adobe Dynamic Media Classic users are working in highly competitive environments, striving to create digital experiences that will set them apart from their competitors. Therefore it is vital that when Adobe delivers advanced new tools, that these tools are complemented with accurate and clear documentation to allow the customer to immediately leverage their Adobe Dynamic Media Classic investment and maximize ROI.
 
 The goal of the documentation is to put up-to-date documentation into the hands of users as soon as possible. Therefore we prioritize accurate, usable documentation and strive to continually update and improve it.
 
@@ -28,9 +28,9 @@ Exceptions to this rule apply to the release notes where known issues can be lis
 
 ### Documentation contributions are not for answering technical questions.
 
-Any ideas you may have to improve the documentation are welcome as contributions. However comments, issues, and pull requests are intended for *contributions* only. They are not intended to be used to answer your questions about how to use Dynamic Media Classic, implement your project, or solve technical problems.
+Any ideas you may have to improve the documentation are welcome as contributions. However comments, issues, and pull requests are intended for *contributions* only. They are not intended to be used to answer your questions about how to use Adobe Dynamic Media Classic, implement your project, or solve technical problems.
 
-Any questions about the usage of Dynamic Media Classic or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) or discussed in the [Experience Cloud community](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
+Any questions about the usage of Adobe Dynamic Media Classic or technical errors you may have should be reported through the [Experience Cloud Enterprise Support portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) or discussed in the [Experience Cloud community](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
 
 ***Documentation contributions are not a replacement for Adobe Customer Care*** and any such contributions seeking answers to support-related questions will be rejected.
 
@@ -58,7 +58,7 @@ Remember, readers of the documentation are worldwide and can not be expected to 
 
 #### Follow Microsoft Manual of Style
 
-[The Microsoft Manual of Style](https://docs.microsoft.com/en-us/style-guide/welcome/) is a freely available documentation style guide that focuses on software documentation and Dynamic Media Classic documentation follows this guide wherever possible.
+[The Microsoft Manual of Style](https://docs.microsoft.com/en-us/style-guide/welcome/) is a freely available documentation style guide that focuses on software documentation and Adobe Dynamic Media Classic documentation follows this guide wherever possible.
 
 ### Formatting
 

@@ -13,7 +13,7 @@ exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
 ---
 # Publishing zoom images{#publishing-zoom-images}
 
-Publishing places your zoom images on Dynamic Media Image Servers so they can be made available to your web site and application. As part of the publishing process, Dynamic Media Classic activates the URL strings. You can place these URL strings in the HTML code of your web site.
+Publishing places your zoom images on Dynamic Media Image Servers so they can be made available to your web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL strings. You can place these URL strings in the HTML code of your web site.
 
 ## Marking images for publish {#marking-images-for-publish}
 

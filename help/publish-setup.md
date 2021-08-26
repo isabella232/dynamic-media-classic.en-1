@@ -1,6 +1,6 @@
 ---
 title: Publish Setup
-description: Publish Setup settings let you determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications.
+description: Publish Setup settings let you determine how assets are delivered by default from Adobe Dynamic Media Classic servers to web sites or applications.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,7 +10,7 @@ exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
 ---
 # Publish Setup {#publish-setup}
 
-The Publish Setup page settings determine how assets are delivered by default from Dynamic Media Classic servers to web sites or applications. If no setting is specified, the Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup page. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server page.
+The Publish Setup page settings determine how assets are delivered by default from Adobe Dynamic Media Classic servers to web sites or applications. If no setting is specified, the Adobe Dynamic Media Classic server delivers an asset according to a default setting on a Publish Setup page. For example, a request to deliver an image that does not include a resolution attribute yields an image with the Default Object Resolution setting on the Image Server page.
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette pages to establish default settings for delivering assets from servers.
 
@@ -18,15 +18,15 @@ To open the Publish Setup pages, click **[!UICONTROL Setup]** > **[!UICONTROL Ap
 
 >[!NOTE]
 >
->The Publish Setup pages are for use by experienced web site developers and programmers. Dynamic Media Classic assumes that users who change settings on these pages are familiar with Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
+>The Publish Setup pages are for use by experienced web site developers and programmers. Adobe Dynamic Media Classic assumes that users who change settings on these pages are familiar with Adobe Dynamic Media Classic, HTTP protocol standards and conventions, and basic imaging technology.
 
 ## Image Server {#image-server}
 
 The Image Server page establishes default settings for delivering images from image servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
 
-Change these settings only with the assistance of a Dynamic Media Classic support person.
+Change these settings only with the assistance of a Adobe Dynamic Media Classic support person.
 
-* **Catalog Management** - These settings determine how Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+* **Catalog Management** - These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
 * **Request Attributes** - These settings impose limits on images that can be delivered from the server. For example, the *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 and **[!UICONTROL Height]** 5000.
 
@@ -53,9 +53,9 @@ Change these settings only with the assistance of a Dynamic Media Classic suppor
 
 >[!NOTE]
 >
->If you want to set up Localization Support options in Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
+>If you want to set up Localization Support options in Adobe Dynamic Media Classic, such as the Locale Map field, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
 
-A common way to use Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
+A common way to use Adobe Dynamic Media Classic is to manage the product imagery on e-Commerce websites. International businesses face the challenge that assets for similar products look different from country to country. Usually the differences are for a few parts of the overall media. Addressing such differences by copying all assets for each of the countries and over-write just the differences is a tremendous effort and contradicts the single master asset metaphor. Such differences for assets can endure, from country-specific videos with different audio tracks, to subtle but important differences in a power cord that is used with the product. Adobe Dynamic Media Classic uses a basic lookup mechanism. You define an order of asset suffixes in which the Image Server is looking, starting from the required locale.
 
 #### How assets are localized
 
@@ -91,7 +91,7 @@ Some of the benefits of using `locale=` and `attribute::DefaultLocale` include t
 
 #### Implementing asset localization
 
-Dynamic Media Classic and Image Serving have an interface that allows for the localizations of images and static content.
+Adobe Dynamic Media Classic and Image Serving have an interface that allows for the localizations of images and static content.
 
 Without localization, an Image Server URL looks like the following:
 
@@ -111,7 +111,7 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 >[!NOTE]
 >
->The Global Locale setting is only possible when you set it through the API, not within the Dynamic Media Classic interface.
+>The Global Locale setting is only possible when you set it through the API, not within the Adobe Dynamic Media Classic interface.
 
 **Suffix example:**
 
@@ -131,7 +131,7 @@ If an unknown or empty locale parameter is supplied with `locale=`, then the loc
 
 #### About defaultImage
 
-The Image Server tries the options for the requested locale, one after the other. If no match is found, the locale options are applied to defaultImage, and the matching version is returned. Therefore, either each locale must include an option for the image without localization, or localized defaultImage versions are made available in Dynamic Media Classic.
+The Image Server tries the options for the requested locale, one after the other. If no match is found, the locale options are applied to defaultImage, and the matching version is returned. Therefore, either each locale must include an option for the image without localization, or localized defaultImage versions are made available in Adobe Dynamic Media Classic.
 
 #### Scenarios for finding the localeMap
 
@@ -214,7 +214,7 @@ Using the first example as a basis, images for all languages could have the suff
 
 The Image Renderer page establishes default settings for delivering Image Sets from image rendering servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings):
 
-* **Catalog Management** - These settings determine how Dynamic Media Classic and the catalog file interact. Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Dynamic Media Classic support person.
+* **Catalog Management** - These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Adobe Dynamic Media Classic support person.
 
 * **Session Attributes** - These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
 

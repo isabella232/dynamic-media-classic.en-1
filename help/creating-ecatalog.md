@@ -1,6 +1,6 @@
 ---
 title: Create an eCatalog
-description: Learn how to create an eCatalog in Dynamic Media Classic.
+description: Learn how to create an eCatalog in Adobe Dynamic Media Classic.
 uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: admin
 content-type: reference
@@ -90,7 +90,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 ## Customize the table of contents (TOC) {#customizing-the-table-of-contents-toc}
 
-Dynamic Media Classic provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read “Cover” instead of “Page 0-1.”
+Adobe Dynamic Media Classic provides default page numbers in your eCatalog on the Order Pages tab of the eCatalog screen. For custom page names, you can change the page labels that constitute the table of contents (TOC). Renaming the front and back cover is recommended. For example, the front cover page can read “Cover” instead of “Page 0-1.”
 
 You can create a customized table of contents (TOC) for your eCatalog manually or by importing the page names from a CSV (Mac only) or XML file.
 

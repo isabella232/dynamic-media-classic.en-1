@@ -1,6 +1,6 @@
 ---
 title: Check job files
-description: Learn how to check job files in Dynamic Media Classic.
+description: Learn how to check job files in Adobe Dynamic Media Classic.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference
@@ -13,7 +13,7 @@ exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 ---
 # Check job files{#checking-job-files}
 
-To monitor file uploads to the Dynamic Media Classic and files you publish to Dynamic Media Classic servers, Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to the Adobe Dynamic Media Classic and files you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
 When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can select the icon to see more information about the active job.
 
@@ -35,7 +35,7 @@ Jobs are listed in these categories on the History tab of the Jobs page:
 
 * **[!UICONTROL Total]** - The number of files transferred.
 
-* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows®) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows®) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
 * **[!UICONTROL E (errors)]** - Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 
@@ -65,7 +65,7 @@ Use these techniques to sort jobs or change your view of the History tab of the 
 
 ## View, copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
 
-Double-click the name of a report on the Jobs page so the Job Details page opens. This page provides a summary report about the files in the job. Select **[!UICONTROL View Detail]** so you can see an entry’s Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Dynamic Media Classic, the report lists the missing fonts.
+Double-click the name of a report on the Jobs page so the Job Details page opens. This page provides a summary report about the files in the job. Select **[!UICONTROL View Detail]** so you can see an entry’s Adobe Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Adobe Dynamic Media Classic, the report lists the missing fonts.
 
 You can copy this information to the Clipboard.
 

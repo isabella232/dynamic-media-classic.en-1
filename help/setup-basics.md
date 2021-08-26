@@ -13,7 +13,7 @@ exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
 ---
 # Setup basics{#setup-basics}
 
-Use the Dynamic Media Classic Setup page to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup page, on the Global Navigation bar, click **[!UICONTROL Setup]**.
+Use the Adobe Dynamic Media Classic Setup page to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup page, on the Global Navigation bar, click **[!UICONTROL Setup]**.
 
 The settings available to you on this page depend on your status as a user or administrator:
 
@@ -28,6 +28,6 @@ Administrators can also set up Image Presets and Viewer Presets in the **[!UICON
 
 >[!MORELIKETHIS]
 >
->* [Dynamic Media Classic user roles and privileges](administration-setup.md#user_administration)
+>* [Adobe Dynamic Media Classic user roles and privileges](administration-setup.md#user_administration)
 >* [Image Presets](application-setup.md#image_presets)
 >* [Viewer Presets](application-setup.md#viewer_presets)

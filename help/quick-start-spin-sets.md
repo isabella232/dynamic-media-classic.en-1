@@ -13,7 +13,7 @@ exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 ---
 # Quick Start: Spin Sets{#quick-start-spin-sets}
 
-A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Dynamic Media Classic offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
+A Spin Set simulates the real-world act of turning an object to examine it. Spin Sets make it possible to view items from any angle, gaining the key visual details from any angle. A Spin Set simulates a 360-degree viewing experience. Adobe Dynamic Media Classic offers one-dimensional Spin Sets in which viewers can rotate an item, and two-dimensional Spin Sets in which viewers can rotate and flip the item. Moreover, users can "free-form" zoom and pan any of the views with a few simple mouse-clicks. In this way, users can examine an item more closely from a particular viewpoint. 
 
 ![Images for a spin set.](/help/assets/spin_set.png)
 
@@ -21,13 +21,13 @@ Spin Sets also accept Image Maps. An Image Map is a region on an image within th
 
 See [Creating Image Maps](creating-image-maps.md).
 
-This Spin Sets Quick Start is designed to get up and running quickly with Spin Set techniques in Dynamic Media Classic. Follow steps 1 through 7. At the end of each step, you can click a topic link to learn more.
+This Spin Sets Quick Start is designed to get up and running quickly with Spin Set techniques in Adobe Dynamic Media Classic. Follow steps 1 through 7. At the end of each step, you can click a topic link to learn more.
 
 ## 1. Creating and uploading the images
 
 At minimum, you need 8-12 shots of an item for a one-dimensional Spin Set and 16-24 for a two-dimensional Spin Set. The shots must be taken at regular intervals to give the impression that the item is rotating and being flipped. For example, if a one-dimensional Spin Set includes 12 shots, rotate the item 30° (360/12) for each shot.
 
-On the Global Navigation bar, click **[!UICONTROL Upload]** to upload spin images from your computer or network to Dynamic Media Classic.
+On the Global Navigation bar, click **[!UICONTROL Upload]** to upload spin images from your computer or network to Adobe Dynamic Media Classic.
 
 See [Guidelines for shooting Spin Set images](creating-spin-set.md#guidelines-for-shooting-spin-set-images).
 
@@ -79,7 +79,7 @@ See [Previewing a Spin Set](previewing-spin-set.md#previewing-a-spin-set).
 
 ## 6. Publishing a Spin Set
 
-Publishing a Spin Set places it on Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your web site or application.
+Publishing a Spin Set places it on Adobe Dynamic Media Classic servers so it can be dynamically delivered to your web site or application. It also activates the URL string that calls the Spin Set from Dynamic Media Image servers to your web site or application.
 
 To publish a Spin Set, mark it for publish by selecting the **[!UICONTROL Mark for Publish]** icon beside its name in the Browse Panel. On the Global Navigation bar, click **[!UICONTROL Publish]** to initiate a publish. On the Publish screen, click **[!UICONTROL Submit Publish]**.
 
@@ -87,7 +87,7 @@ See [Publishing a Spin Set](publishing-spin-set.md#publishing-a-spin-set).
 
 ## 7. Linking a Spin Set to a web page
 
-Dynamic Media Classic creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview page.
+Adobe Dynamic Media Classic creates URL callout strings for Spin Sets, and activates them after you publish them. You can copy these URLs from the Preview page.
 
 Select the Spin Set, and then click **[!UICONTROL Preview]**. Select a Spin Set Viewer Preset. Then click **[!UICONTROL Copy URL]**.
 

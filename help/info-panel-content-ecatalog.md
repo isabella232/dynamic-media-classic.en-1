@@ -1,6 +1,6 @@
 ---
 title: Manage Info Panel content in eCatalogs
-description: Learn how to manage Info Panel content in eCatalogs in Dynamic Media Classic.
+description: Learn how to manage Info Panel content in eCatalogs in Adobe Dynamic Media Classic.
 uuid: 5aa634f9-0874-4bb5-a3d9-8ce4d5577941
 contentOwner: admin
 content-type: reference
@@ -15,7 +15,7 @@ exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 
 In addition to using Image Map text for your rollovers in eCatalogs, you can use an Info Panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.
 
-You can manage your InfoPanel setup and data using the following features in Dynamic Media Classic:
+You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
 * InfoPanel Setup panel lets you specify the template used to display the Info Panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the eCatalogs is automatically published.
 * InfoPanel Datafeed panel lets you specify a CSV file containing the text you want to appear in the InfoPanel rollover text, and schedule times for updating the information.
@@ -39,7 +39,7 @@ You can select one of three preset response templates for displaying text in an 
     * Select a preset from the Response Template menu. The XML for the template design appears in the User Template box.
     * To create your own response template, select **[!UICONTROL Custom]**. Type the template XML definition in the User Template box. You can use the preset templates as a base for your own.
 
-1. (Optional) In the Default Response box, type the text you want to appear if Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Default Response box, type the text you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
 1. In the Response TTL box, enter the number of hours you want to wait before caching the data:
 
     * Set a lower number if the data is updated frequently throughout a day.
@@ -83,7 +83,7 @@ Last Modified Date:
 1. Select **[!UICONTROL Browse]**, select the tab-delimited TXT file, CSV, or SSV file you want to use, and select **[!UICONTROL Open]**.
 1. Select **[!UICONTROL Upload]**.
 
-Dynamic Media Classic sends you an e-mail message letting you know if the upload was successful or not.
+Adobe Dynamic Media Classic sends you an e-mail message letting you know if the upload was successful or not.
 
 ## Preview rollover key text for an Image Map {#preview-rollover-key-text-for-an-image-map}
 

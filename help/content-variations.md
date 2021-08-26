@@ -1,6 +1,6 @@
 ---
 title: Manage content variations
-description: Learn how to manage content variations in Dynamic Media Classic.
+description: Learn how to manage content variations in Adobe Dynamic Media Classic.
 uuid: 1e40a526-02f8-41d9-886f-6d094546bc13
 contentOwner: admin
 content-type: reference

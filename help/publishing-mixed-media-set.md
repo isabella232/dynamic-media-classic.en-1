@@ -13,13 +13,13 @@ exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 ---
 # Publishing a Mixed Media Set{#publishing-a-mixed-media-set}
 
-Create a publish job to publish a Mixed Media Set that you have marked for publish to Dynamic Media Classic Video Server and Image Server. Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
+Create a publish job to publish a Mixed Media Set that you have marked for publish to Adobe Dynamic Media Classic Video Server and Image Server. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
 >[!NOTE]
 >
 >Mixed Media Sets require that you publish to **Video Server** and also to **Image Server**. You use **Video Server** to publish the actual videos that you marked for publishing. And, you use **Image Server** to publish related assets, such as the video thumbnails, and set information for any Adaptive Video Set.
 
-Dynamic Media Classic tracks publish jobs on the Jobs screen.
+Adobe Dynamic Media Classic tracks publish jobs on the Jobs screen.
 
 See [Publishing](publishing-files.md#publishing_files).
 

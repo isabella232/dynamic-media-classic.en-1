@@ -1,6 +1,6 @@
 ---
 title: Create Image Maps
-description: Learn how to create image maps in Dynamic Media Classic.
+description: Learn how to create image maps in Adobe Dynamic Media Classic.
 uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
 contentOwner: admin
 content-type: reference
@@ -15,7 +15,7 @@ exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
 
 An Image Map is a region on an image, an eCatalog page, or an image in a SpinSet, that displays a rollover panel with text. When the user selects an Image Map, an action of some kind is triggered. For example, a web page is launched so that the user can learn more about a product. An outline appears around an Image Map when the user moves the pointer over it.
 
-Besides the ability to create image maps in Dynamic Media Classic, you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
+Besides the ability to create image maps in Adobe Dynamic Media Classic, you can also create image maps when you design a catalog in Adobe Acrobat or Adobe InDesign.
 
 When you create Image Maps, you can do any of the following:
 
@@ -44,9 +44,9 @@ When you create Image Maps, you can do any of the following:
 
    * **Polygonal map** - Select the Polygon Image Map tool and select points on the perimeter of the area of the image you want to enclose. Use the polygon density slider to vary the point density in the polygon. The original density is remembered if you select other maps. If any point is added, deleted, or moved in the polygon, the original density is lost and the slider is reset to its maximum value.
 
-1. Enter a name for the Image Map, if desired, in the Image Map list. After you draw an Image Map, Dynamic Media Classic assigns it a name.
+1. Enter a name for the Image Map, if desired, in the Image Map list. After you draw an Image Map, Adobe Dynamic Media Classic assigns it a name.
 
-   To create the name, Dynamic Media Classic appends a sequential number to the name of the image or eCatalog page you are working with. You can enter a name of your choice.
+   To create the name, Adobe Dynamic Media Classic appends a sequential number to the name of the image or eCatalog page you are working with. You can enter a name of your choice.
 
 1. If you want users to open a new web page when they select the Image Map, enter the URL in the Image Map list.
 
@@ -120,7 +120,7 @@ For example, copying Image Maps in an eCatalog is a convenient way to copy all i
 
 ## Use a template to enter JavaScript and URLs {#using-a-template-to-enter-javascript-and-urls}
 
-You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL Template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Dynamic Media Classic JavaScript handler called `loadProduct` that opens the image in a new window.
+You can define a URL template (also known as an Href template) to make entering Image Map URLs easier and more efficient. Define a URL template if most of your Image Map URLs share a common, fixed format. By entering the portion of the URL that is fixed as the URL template, you do not have to enter this portion of the URL each time you create an Image Map. Your URL Template can also contain JavaScript commands, pathnames, and parameters. By default, the URL template contains a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens the image in a new window.
 
 >[!NOTE]
 >
@@ -140,7 +140,7 @@ You place all values that do not change between Image Maps in the URL template. 
 * URL value - `product.htm`
 * Actual URL generated - `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
 
-By default, the URL template includes a proprietary Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Dynamic Media Classic handlers:
+By default, the URL template includes a proprietary Adobe Dynamic Media Classic JavaScript handler called `loadProduct` that opens a new window with the URL destination. However, you can use any JavaScript code to replace this JavaScript handler or use one of the following Adobe Dynamic Media Classic handlers:
 
 * `loadProductCW` - Displays the URL target specified in the URL column in the current window. This handler is primarily for eCatalogs that are integrated into a page within a website.
 
@@ -186,7 +186,7 @@ Select the **[!UICONTROL Show]** menu and select **[!UICONTROL Both]** if you wa
 
 You can create Image Maps while designing your eCatalog in Adobe Acrobat or Adobe InDesign.
 
-In Acrobat or InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Dynamic Media Classic automatically converts the links to Image Maps.
+In Acrobat or InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Adobe Dynamic Media Classic automatically converts the links to Image Maps.
 
 For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
@@ -197,15 +197,15 @@ For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 1. Select **[!UICONTROL New Hyperlink]** from the panel menu. 
 1. In the New Hyperlink dialog box, from the **[!UICONTROL Link To]** menu, choose **[!UICONTROL URL]**.
 1. Type or paste the product ID in the URL box.
-1. Select **[!UICONTROL OK]**. (Dynamic Media Classic completes the URL using the Image Map URL template.)
+1. Select **[!UICONTROL OK]**. (Adobe Dynamic Media Classic completes the URL using the Image Map URL template.)
 
    >[!NOTE]
    >
-   >You do not need to set appearance options in Adobe InDesign. You can specify appearance in Dynamic Media Classic.
+   >You do not need to set appearance options in Adobe InDesign. You can specify appearance in Adobe Dynamic Media Classic.
 
 1. Repeat steps 2 through 6 for all the Image Maps you want to create.
 1. Export the file as a PDF.
-1. Upload the PDF to Dynamic Media Classic.
+1. Upload the PDF to Adobe Dynamic Media Classic.
 1. In **[!UICONTROL PDF Options]**, select **[!UICONTROL Extract Links]**.
 
 ### To create Image Maps in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
@@ -216,11 +216,11 @@ For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
 >[!NOTE]
 >
->You do not need to set appearance options in Adobe Acrobat. You can specify appearance in Dynamic Media Classic.
+>You do not need to set appearance options in Adobe Acrobat. You can specify appearance in Adobe Dynamic Media Classic.
 
 1. In the Link Properties box, select **[!UICONTROL Actions]**.
 1. Select **[!UICONTROL Open A Web Link]** from the Select Action menu, and then select **[!UICONTROL Add]**.
-1. Type the product ID for the Image Map in the Edit URL box, and select **[!UICONTROL OK]**. (Dynamic Media Classic completes the URL using the image map URL template.)
+1. Type the product ID for the Image Map in the Edit URL box, and select **[!UICONTROL OK]**. (Adobe Dynamic Media Classic completes the URL using the image map URL template.)
 1. Repeat steps 1 through 7 for all the Image Maps you want to create.
 1. Save the file.
-1. Upload the PDF to Dynamic Media Classic and select Extract Links from the PDF Options.
+1. Upload the PDF to Adobe Dynamic Media Classic and select Extract Links from the PDF Options.

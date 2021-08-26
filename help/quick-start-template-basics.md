@@ -15,7 +15,7 @@ exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
 
 Template Basics are dynamically created and addressable layered image files like layered files in image-editing applications such as Adobe Photoshop. Unlike a static file containing layers, such as a PSD file, a template can include parameters. Through parameters, the different aspects of the image can be addressed and customized.
 
-A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, and create templates in Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into Dynamic Media Classic. After you add text to a template, you can format it by changing its justification, fonts, font size, and color.
+A template can contain any number of image layers and text layers. You can convert a static file containing layers, such as a layered PSD file, into a template, and create templates in Adobe Dynamic Media Classic. You can create text layers in templates using fonts that you uploaded into Adobe Dynamic Media Classic. After you add text to a template, you can format it by changing its justification, fonts, font size, and color.
 
 Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In so doing, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
 
@@ -23,13 +23,13 @@ This Quick Start is designed to get up and running quickly with Template Basics.
 
 ## 1. Upload the files
 
-Start by uploading the PSD file or image file for your template. Dynamic Media Classic supports many image file formats in addition to PSD, but lossless TIFF and PNG images are recommended for templates because they allow for transparency.
+Start by uploading the PSD file or image file for your template. Adobe Dynamic Media Classic supports many image file formats in addition to PSD, but lossless TIFF and PNG images are recommended for templates because they allow for transparency.
 
-If you are using a PSD file to build your template, select **[!UICONTROL Create Template]** on the **[!UICONTROL Upload Job Options]** dialog box when you upload the PSD file. Also choose a **[!UICONTROL Layer Naming]** option so Dynamic Media Classic knows how to name PSD layers when they are uploaded to Dynamic Media Classic.
+If you are using a PSD file to build your template, select **[!UICONTROL Create Template]** on the **[!UICONTROL Upload Job Options]** dialog box when you upload the PSD file. Also choose a **[!UICONTROL Layer Naming]** option so Adobe Dynamic Media Classic knows how to name PSD layers when they are uploaded to Adobe Dynamic Media Classic.
 
 If you are using image files, you can crop the images and also create a mask from clipping paths in the images as you upload them.
 
-On the Global Navigation bar, click **[!UICONTROL Upload]** to upload a PSD file or other image files from your computer to a folder on Dynamic Media Classic. See [Uploading template files](uploading-template-files.md#uploading_template_files).
+On the Global Navigation bar, click **[!UICONTROL Upload]** to upload a PSD file or other image files from your computer to a folder on Adobe Dynamic Media Classic. See [Uploading template files](uploading-template-files.md#uploading_template_files).
 
 ## 2. Create a template
 

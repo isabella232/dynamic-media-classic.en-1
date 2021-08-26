@@ -1,6 +1,6 @@
 ---
 title: Working with PDFs
-description: Learn how to work with PDFs in Dynamic Media Classic.
+description: Learn how to work with PDFs in Adobe Dynamic Media Classic.
 uuid: 26d70d28-9393-49b1-9051-d70456deca67
 contentOwner: admin
 content-type: reference
@@ -13,7 +13,7 @@ exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 ---
 # Working with PDFs{#working-with-pdfs}
 
-PDF (Portable Document Format) files are most often used in Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
+PDF (Portable Document Format) files are most often used in Adobe Dynamic Media Classic to create eCatalogs. When you upload a PDF file, Adobe Dynamic Media Classic rasterizes, or rips, the pages by default so that the pages can be used to build rich media.
 
 ## PDF upload options {#pdf-upload-options}
 
@@ -53,7 +53,7 @@ Select the Color Space menu and choose a color space for the PDF file. Most PDF 
 
 * **Keep Original Color Space** - Retains the original color space.
 
-* **Custom From > To** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic.
+* **Custom From > To** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic.
 
 See also [ICC profiles](/help/icc-profiles.md#icc_profiles).
 

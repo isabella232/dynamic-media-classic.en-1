@@ -1,6 +1,6 @@
 ---
 title: Create a Mixed Media Set
-description: Learn how to create a Mixed Media Set in Dynamic Media Classic.
+description: Learn how to create a Mixed Media Set in Adobe Dynamic Media Classic.
 uuid: a0c6e5fa-7a85-4376-b9a3-b72ae63d3d95
 contentOwner: admin
 content-type: reference

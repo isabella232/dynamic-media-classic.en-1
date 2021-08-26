@@ -1,6 +1,6 @@
 ---
 title: Include zoom targets and Image Maps in Swatch Sets
-description: Learn how to include zoom targets and image maps in Swatch Sets in Dynamic Media Classic.
+description: Learn how to include zoom targets and image maps in Swatch Sets in Adobe Dynamic Media Classic.
 uuid: e46ebebd-b086-450c-9812-22290a92db8c
 contentOwner: admin
 content-type: reference
@@ -15,7 +15,7 @@ exl-id: 1eaffe17-1fa3-4726-b0a1-369fabb9ee7e
 
 If you define zoom targets and Image Maps for the images in your Swatch Set, these targets and maps appear in the Swatch Set Viewer. Users, for example, can select an Image Map in the Swatch Set Viewer and open a new page on your web site with information about an item. Users can select a target thumbnail image in the Swatch Set Viewer and zoom automatically to part of an image.
 
-If you want to make zoom targets and Image Maps available to users, create zoom targets and Image Maps for the images in your Swatch Set. You can do that with the Image Maps or Zoom Targets tools in the Swatch Set screen or Browse Panel (in Detail view).
+If you want to make zoom targets and Image Maps available to users, create zoom targets and Image Maps for the images in your Swatch Set. You can do that with the Image Maps or Zoom Targets tools in the Swatch Set screen or Browse Panel (in Detail View).
 
 >[!MORELIKETHIS]
 >

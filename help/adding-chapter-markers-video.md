@@ -1,6 +1,6 @@
 ---
 title: Add chapter markers to video
-description: Learn how to add chapter markers to a video in Dynamic Media Classic.
+description: Learn how to add chapter markers to a video in Adobe Dynamic Media Classic.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference
@@ -51,7 +51,7 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
 **To add chapter markers to video:**
 
-1. Using a simple text editor outside Dynamic Media Classic, create your video chapter file.
+1. Using a simple text editor outside Adobe Dynamic Media Classic, create your video chapter file.
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ See [WebVTT: The Web Video Text Tracks Format](https://w3c.github.io/webvtt/).
 
    Generally, you want to name the chapter VTT file the same name as the video file, and append it with `chapters`. By doing so, it can help you with automating the generation of the video URLs using your existing web content management system.
 
-1. In Dynamic Media Classic, upload your WebVTT chapter file.
+1. In Adobe Dynamic Media Classic, upload your WebVTT chapter file.
 
    See [Upload files](uploading-files.md#uploading_files).
 

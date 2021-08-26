@@ -1,6 +1,6 @@
 ---
 title: Create a Swatch Set
-description: Learn how to create a swatch set in Dynamic Media Classic.
+description: Learn how to create a swatch set in Adobe Dynamic Media Classic.
 uuid: 250b3525-310d-4481-b0bc-f9057e823e0b
 contentOwner: admin
 content-type: reference
@@ -59,7 +59,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit a Swatch Set:**
 
-1. In the Grid view, browse to an SwatchSet, and then below the image, select **[!UICONTROL Edit]**.
+1. In the Grid View, browse to an SwatchSet, and then below the image, select **[!UICONTROL Edit]**.
 1. Do any of the following:
 
     * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Swatch Set’s **[!UICONTROL Views]** page.
