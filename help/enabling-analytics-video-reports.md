@@ -1,6 +1,6 @@
 ---
-title: Enabling Adobe Analytics Video Reports
-description: Learn how to enable Adobe Analytics video reports.
+title: Enable Adobe Analytics Video Reports
+description: Learn how to enable Adobe Analytics video reports in Dynamic Media Classic.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -9,7 +9,7 @@ feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 9d017742-1ed2-411d-a8a6-438102bf1557
 ---
-# Enabling Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}
+# Enable Adobe Analytics Video Reports{#enabling-adobe-analytics-video-reports}
 
 Using Adobe Analytics heartbeat-based video reporting, you no longer must enable the four video viewer events (Play, Pause, Stop, Milestone) when you configure Adobe Analytics in Dynamic Media Classic. Video Heartbeat works with out-of-the-box Dynamic Media Classic HTML5 Video and Mixed Media viewers. The video player generates tracking data for viewing within Adobe Analytics Video Reports.
 
@@ -21,7 +21,7 @@ Using Adobe Analytics heartbeat-based video reporting, you no longer must enable
 
 * Out-of-the-box segments of one-minute increments are supported. However, custom segment reporting, such as customer-defined milestones based on time increments, % milestone, or offset milestones, is not supported.
 
-  For more information about streaming media requirements and setup, see [Measuring Steaming Media in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html).
+  For more information about streaming media requirements and setup, see [Measure Steaming Media in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html).
 
 * For information about custom and solution variables see [Media reports enablement](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-reports-enable.html?lang=en#media-reports).
 
