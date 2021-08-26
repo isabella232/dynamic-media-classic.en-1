@@ -1,6 +1,6 @@
 ---
 title: Fonts
-description: Learn how to use fonts in Dynamic Media Classic.
+description: Learn how to use fonts in Adobe Dynamic Media Classic.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
 contentOwner: admin
 content-type: reference
@@ -13,9 +13,9 @@ exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
 ---
 # Fonts{#fonts}
 
-Sometimes, Dynamic Media Classic requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
+Sometimes, Adobe Dynamic Media Classic requires you to upload a font file to enter or render text in a particular font. For example, to use a particular font for text on a template layer, upload the font file. To display eCatalog Viewer page numbers in a particular font, upload the font file.
 
-Dynamic Media Classic supports these font types:
+Adobe Dynamic Media Classic supports these font types:
 
 * All TrueType fonts
 * PostScript® fonts
@@ -23,21 +23,21 @@ Dynamic Media Classic supports these font types:
 * OpenType/PostScript fonts
 * PhotoFonts
 
-After a font file has been uploaded, you can change its Dynamic Media Classic ID, font name, and type information on the Edit Info screen.
+After a font file has been uploaded, you can change its Adobe Dynamic Media Classic ID, font name, and type information on the Edit Info screen.
 
 >[!NOTE]
 >
->Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Dynamic Media Classic needs these font styles to process requests. Uploading all PostScript/Adobe Type1 files associated with a font is also recommended because some of these fonts contain detailed kerning information.
+>Adobe Dynamic Media Classic recommends uploading all font styles (bold, italic, bold/italic, and regular) if you plan to use fonts in template layers. Adobe Dynamic Media Classic needs these font styles to process requests. Uploading all PostScript/Adobe Type1 files associated with a font is also recommended because some of these fonts contain detailed kerning information.
 
 ## Upload font files {#uploading-font-files}
 
-Upload font files with the same techniques you use to upload other files. You can store font files in any Dynamic Media Classic folder. See [Uploading your files](uploading-files.md#uploading_your_files).
+Upload font files with the same techniques you use to upload other files. You can store font files in any Adobe Dynamic Media Classic folder. See [Uploading your files](uploading-files.md#uploading_your_files).
 
 ## Edit font file information {#editing-font-file-information}
 
 You can change the ID name of a font and its type information. Editing a font file can be helpful in searches and making fonts easier to identify.
 
-In the Browse Panel, select the font file you want to edit in Detail view and choose File > Edit Info. The Edit Info screen opens. Choose the following options and then select **[!UICONTROL Submit]**.
+In the Browse Panel, select the font file you want to edit in Detail View and choose File > Edit Info. The Edit Info screen opens. Choose the following options and then select **[!UICONTROL Submit]**.
 
 * **[!UICONTROL Font Name]** - This name identifies the font when it is published.
 

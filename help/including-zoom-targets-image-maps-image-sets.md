@@ -1,6 +1,6 @@
 ---
 title: Including zoom targets and Image Maps in Image Sets
-description: Learn how to include zoom targets and image maps in Image Sets in Dynamic Media Classic.
+description: Learn how to include zoom targets and image maps in Image Sets in Adobe Dynamic Media Classic.
 uuid: 1f5a00fe-3cc2-4668-a051-59e0bee50b35
 contentOwner: admin
 content-type: reference
@@ -15,7 +15,7 @@ exl-id: e51fc81e-e5be-4f07-80ad-3aa87d8bc87e
 
 If you define zoom targets and Image Maps for the images in your Image Set, these targets and maps appear in the Image Set Viewer. Users, for example, can select an Image Map in the Image Set Viewer and open a new page on your web site with information about an item. Users can select a target thumbnail image in the Image Set Viewer and zoom automatically to part of an image.
 
-If you want to make zoom targets and Image Maps available to users, create zoom targets and Image Maps for the images in your Image Set. You can do that with the Image Maps or Zoom Targets tools in the Image Set screen or Browse Panel (in Detail view).
+If you want to make zoom targets and Image Maps available to users, create zoom targets and Image Maps for the images in your Image Set. You can do that with the Image Maps or Zoom Targets tools in the Image Set screen or Browse Panel (in Detail View).
 
 >[!MORELIKETHIS]
 >

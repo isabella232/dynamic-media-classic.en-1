@@ -1,6 +1,6 @@
 ---
 title: Create an offer set
-description: Learn how to create an offer set in Dynamic Media Classic.
+description: Learn how to create an offer set in Adobe Dynamic Media Classic.
 uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: admin
 content-type: reference
@@ -21,11 +21,11 @@ You can create any of the following types of offer sets:
 
 For templates, select **[!UICONTROL Add and Preview]**, then set the parameters you choose. The other offer set types do not include parameters, but you can still customize them by selecting **[!UICONTROL Preview]** and changing the available presets.
 
-Dynamic Media Classic offers tools for editing as well as creating offer sets.
+Adobe Dynamic Media Classic offers tools for editing as well as creating offer sets.
 
 >[!NOTE]
 >
->Before you create an offer set, be sure you publish all assets that you intend to use for the set to Dynamic Media Classic. See [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+>Before you create an offer set, be sure you publish all assets that you intend to use for the set to Adobe Dynamic Media Classic. See [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 ## Types of offer sets {#types-of-offer-sets}
 
@@ -33,7 +33,7 @@ Create an offer set from the following types of offer sets:
 
 * **Images** - You can assemble images for an offer set. Each image includes a different offer in the set.
 
-* **Image template** - You can parameterize image templates in Dynamic Media Classic with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
+* **Image template** - You can parameterize image templates in Adobe Dynamic Media Classic with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
 
 * **Video** - You can assemble video for an offer set. Each video is a different offer in the set.
 
@@ -87,7 +87,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
    * **Test&Target Offer Set screen** - Go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**. Drag images or videos onto the screen. To create varying sizes of videos or images, drag in multiple copies of the image or video and set each size individually.
 
-   * **Grid view or List view** - Select the images or videos, and then go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
+   * **Grid View or List View** - Select the images or videos, and then go to **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
 
 1. Optionally, select an image or video and select **[!UICONTROL Preview]**. On the Preview Offers page, you can change the size and look of the image or video you selected. Or, you can change all images or videos in the offer set.
 
@@ -116,7 +116,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit an offer set:**
 
-1. To edit an offer set, display the offer set in Grid view or List view, and then select its **[!UICONTROL Edit]** rollover button.
+1. To edit an offer set, display the offer set in Grid View or List View, and then select its **[!UICONTROL Edit]** rollover button.
 1. In the Test&Target Offer Set page, do any of the following:
 
     * **Removing an offer** - Select the offer, and then select **[!UICONTROL Delete]** to remove an offer from the set.
@@ -126,7 +126,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
     >[!NOTE]
     >
-    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, sign in to Adobe Target Standard/Premium and remove the campaign associations first. Even after unassociating from a campaign, the asset can only be deleted from Dynamic Media Classic, requiring a sign-in to Adobe Target Standard/Premium, and not from within Adobe Target Standard/Premium.
+    >You cannot delete an offer set that is associated with a campaign. To delete an offer set associated with a campaign, sign in to Adobe Target Standard/Premium and remove the campaign associations first. Even after unassociating from a campaign, the asset can only be deleted from Adobe Dynamic Media Classic, requiring a sign-in to Adobe Target Standard/Premium, and not from within Adobe Target Standard/Premium.
 
 1. When you finish editing, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save]** is selected (default).
 1. Select **[!UICONTROL Save]**, select a storage folder, enter a name for the set, and then select **[!UICONTROL Save]**.

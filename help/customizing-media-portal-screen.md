@@ -1,6 +1,6 @@
 ---
 title: Customize the Media Portal screen
-description: Learn how to customize the Media Portal screen in Dynamic Media Classic.
+description: Learn how to customize the Media Portal screen in Adobe Dynamic Media Classic.
 uuid: bd1a65a6-723b-49d0-8eac-849da00e0e1a
 contentOwner: admin
 content-type: reference

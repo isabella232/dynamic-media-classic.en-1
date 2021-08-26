@@ -13,7 +13,7 @@ exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 ---
 # Searching assets{#searching-assets}
 
-To locate file assets in Dynamic Media Classic, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an advanced search, and filter for assets.
+To locate file assets in Adobe Dynamic Media Classic, you can view assets by type, sort assets in the Browse Panel, conduct a simple search, conduct an advanced search, and filter for assets.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ To see only files of a certain type as you browse, in the Asset Library on the l
 
 >[!NOTE]
 >
->If you do not see the Asset Library panel on the left side, click the right triangle arrow on the left side, half way down the Dynamic Media Classic window, to open the Asset Library.)
+>If you do not see the Asset Library panel on the left side, click the right triangle arrow on the left side, half way down the Adobe Dynamic Media Classic window, to open the Asset Library.)
 
 ## Sorting files in the Browse Panel {#sorting-files-in-the-browse-panel}
 
@@ -49,7 +49,7 @@ Use the Search field in Asset Library so you can conduct simple searches. You ca
 
 <!-- Does not appear to be working anymore >[!NOTE]
 >
->Dynamic Media Classic tracks searches. To run a search a second time, click **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
+>Adobe Dynamic Media Classic tracks searches. To run a search a second time, click **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
 
 ## Conducting an advanced search {#conducting-an-advanced-search}
 

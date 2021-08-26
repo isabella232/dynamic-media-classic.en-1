@@ -1,6 +1,6 @@
 ---
 title: Get disk usage information
-description: Learn how to get disk usage information in Dynamic Media Classic.
+description: Learn how to get disk usage information in Adobe Dynamic Media Classic.
 uuid: 01361693-53d0-4072-b7c3-f284631d28cf
 contentOwner: admin
 content-type: reference

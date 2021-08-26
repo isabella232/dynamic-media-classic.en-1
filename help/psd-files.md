@@ -15,9 +15,9 @@ exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 
 <!--   USED TO BE AN OPTION UNDER COLOR PROFILE OPTIONS * **Convert To sRGB (default)** - Converts to sRGB (Standard Red Green Blue). sRGB is the recommended color space for displaying images on web pages. -->
 
-PSD (Photoshop Document files) are most often used in Dynamic Media Classic to create templates. When you upload a PSD file, you can create a Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
+PSD (Photoshop Document files) are most often used in Adobe Dynamic Media Classic to create templates. When you upload a PSD file, you can create a Adobe Dynamic Media Classic template automatically from the file (select the Create Template option on the Upload screen).
 
-Dynamic Media Classic creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
+Adobe Dynamic Media Classic creates multiple images from a PSD file with layers if you use the file to create a template; it creates one image for each layer.
 
 ## PSD upload options {#psd-upload-options}
 
@@ -41,11 +41,11 @@ These options are available when uploading PSD files:
 
   * **Keep Original Color Space** - Retains the original color space of the image.
 
-  * **Custom From > To** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Dynamic Media Classic. See [ICC profiles](/help/icc-profiles.md).
+  * **Custom From > To** - Opens menus so you can choose a Convert From and Convert To color space. You can choose a standard Photoshop color space or a color space you uploaded to Adobe Dynamic Media Classic. See [ICC profiles](/help/icc-profiles.md).
 
 * **Photoshop Options**
 
-  * **Maintain Layers** - Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail view and selecting the layer panel. See Viewing and editing layers in a PSD file.
+  * **Maintain Layers** - Rips the layers in the PSD, if any, into individual assets. The asset layers remain associated with the PSD. You can view them by opening the PSD file in Detail View and selecting the layer panel. See Viewing and editing layers in a PSD file.
 
   * **Create Template** - Creates a template from the layers in the PSD file.
 
@@ -53,7 +53,7 @@ These options are available when uploading PSD files:
 
   * **Extend Layers To Background Size** - Extends the size of ripped image layers to the size of the background layer.
 
-  * **Layer Naming** - Layers in the PSD file are uploaded as separate images. To name these images in Dynamic Media Classic, choose from the following options:
+  * **Layer Naming** - Layers in the PSD file are uploaded as separate images. To name these images in Adobe Dynamic Media Classic, choose from the following options:
 
     * **Layer Name** - Names the images after their layer names in the PSD file. For example, a layer named Price Tag in the original PSD file becomes an image named Price Tag. However, if the layer names in the PSD file are default Photoshop layer names (Background, Layer 1, Layer 2, and so on), the images are named after their layer numbers in the PSD file, not their default layer names.
 
@@ -65,9 +65,9 @@ These options are available when uploading PSD files:
 
 ## Viewing and editing layers in a PSD file {#viewing-and-editing-layers-in-a-psd-file}
 
-If you selected the Maintain Layers option when you uploaded your PSD, Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail view.
+If you selected the Maintain Layers option when you uploaded your PSD, Adobe Dynamic Media Classic ripped the individual layers into assets. You can view and edit the asset layers belonging to a PSD file by opening the file in the Browse Panel in Detail View.
 
-1. Double-click the full PSD file in the Browse Panel. The file opens in Detail view.
+1. Double-click the full PSD file in the Browse Panel. The file opens in Detail View.
 
     >[!NOTE]
     >
@@ -84,4 +84,4 @@ If you selected the Maintain Layers option when you uploaded your PSD, Dynamic M
 
 1. Click **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
 1. To view or edit a different layer, click an arrow at the bottom of the layer preview.
-1. To exit the layer Detail view, click the **[!UICONTROL Grid view]** icon.
+1. To exit the layer Detail View, click the **[!UICONTROL Grid View]** icon.

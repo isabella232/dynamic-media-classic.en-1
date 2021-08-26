@@ -1,6 +1,6 @@
 ---
 title: Work in Detail View
-description: Learn how to work in Detail View in Dynamic Media Classic.
+description: Learn how to work in Detail View in Adobe Dynamic Media Classic.
 uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: admin
 content-type: reference
@@ -38,7 +38,7 @@ To closely examine, preview, or work on an asset, you can display it in Detail V
 
 1. In the Browse Panel, do any one of the following:
 
-    * Select the asset. Near the upper-right corner of the Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon .
+    * Select the asset. Near the upper-right corner of the Adobe Dynamic Media Classic, select the **[!UICONTROL Detail View]** icon .
     * Double-click the asset.
     * Select the asset, then go to **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
@@ -48,7 +48,7 @@ To closely examine, preview, or work on an asset, you can display it in Detail V
 
 ## Get information in Detail View {#getting-information-in-detail-view}
 
-Detail View provides information about an asset or file. It shows this information about an item: the folder where it is stored, its filename, the date the item was uploaded to Dynamic Media Classic, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail View.
+Detail View provides information about an asset or file. It shows this information about an item: the folder where it is stored, its filename, the date the item was uploaded to Adobe Dynamic Media Classic, and its publishing history. You can also view and edit metadata and add keywords for an asset in Detail View.
 
 You can obtain an asset URL in Detail View; however, the URL is not active until you publish the asset. For images, Detail View also provides a list of build and derived assets and metadata, such as zoom targets and Image Sets.
 

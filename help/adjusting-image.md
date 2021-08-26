@@ -1,6 +1,6 @@
 ---
 title: Adjust an image
-description: Learn how to adjust an image in Dynamic Media Classic.
+description: Learn how to adjust an image in Adobe Dynamic Media Classic.
 uuid: c052acd3-e8c1-4134-ad21-b9c41578097f
 contentOwner: admin
 content-type: reference
@@ -13,13 +13,13 @@ exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 ---
 # Adjust an image{#adjusting-an-image}
 
-Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the color balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
+Adobe Dynamic Media Classic offers various commands for adjusting the appearance of an image. You can flip, rotate, blur, alter the color balance, and colorize an image. As you experiment with these commands, you can see their effects on the image you are working with.
 
 See also [Create an alias for an image](adjusting-image.md#creating_an_alias_for_an_image).
 
 **To adjust an image:**
 
-1. Select the image’s rollover Edit button and choose Adjust, or in the Browse Panel, double-click the image so it opens in Detail view.
+1. Select the image’s rollover Edit button and choose Adjust, or in the Browse Panel, double-click the image so it opens in Detail View.
 1. Select a size and Image Preset (in the bottom of the window).
 1. Use the commands on the right side of the Adjust Editor window to adjust the image:
 

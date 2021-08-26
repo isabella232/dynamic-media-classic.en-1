@@ -13,7 +13,7 @@ exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
 ---
 # Quick Start: Media Portal{#quick-start-media-portal}
 
-Media Portal lets companies easily acquire, control, and distribute approved assets to external partners and channels, and internal users of a company. This browser-based, "self-serve" environment provides Media Portal users with administrator-controlled "views" into Dynamic Media Classic assets for easy access to, browse, search, preview, and export assets in corporate-approved formats.
+Media Portal lets companies easily acquire, control, and distribute approved assets to external partners and channels, and internal users of a company. This browser-based, "self-serve" environment provides Media Portal users with administrator-controlled "views" into Adobe Dynamic Media Classic assets for easy access to, browse, search, preview, and export assets in corporate-approved formats.
 
 As an administrator, you control how users view, access, and use assets in Media Portal. Moreover, you can customize the Media Portal interface to match your web site and brand. You can specify font, font color, font size, and incorporate branding elements such as logos in the Media Portal interface.
 
@@ -39,7 +39,7 @@ See [Adding and managing Media Portal users](adding-media-portal-users.md#adding
 
 ## 4. Manage FTP accounts
 
-You can have separate FTP accounts that are associated with Media Portal and mapped to a specific folder in your Dynamic Media Classic account. This kind of functionality means you can allow users to upload digital assets into your account using separate FTP accounts.
+You can have separate FTP accounts that are associated with Media Portal and mapped to a specific folder in your Adobe Dynamic Media Classic account. This kind of functionality means you can allow users to upload digital assets into your account using separate FTP accounts.
 
 See [Managing FTP accounts](ftp-accounts.md#managing_ftp_accounts).
 

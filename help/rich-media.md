@@ -1,6 +1,6 @@
 ---
 title: Rich media
-description: Learn about the variety of tools in Dynamic Media Classic that can help you create rich media.
+description: Learn about the variety of tools in Adobe Dynamic Media Classic that can help you create rich media.
 uuid: b64981a3-c3c2-4010-9b65-f9982ea0a664
 contentOwner: admin
 content-type: reference
@@ -13,15 +13,15 @@ exl-id: 52937d52-92a6-4310-a363-d3c8a266e9ef
 ---
 # Rich media{#rich-media}
 
-Dynamic Media Classic offers many tools for creating rich media. You create these rich media types:
+Adobe Dynamic Media Classic offers many tools for creating rich media. You create these rich media types:
 
 * **eCatalogs** - Present an interactive, search-enabled web version of your catalog or other print material. Create clickable areas (called Image Maps) that show rollover content and allow customers to turn pages, zoom, pan, and attach sticky notes to pages. 
     See [Quick Start: eCatalog](/help/quick-start-ecatalog.md).
 
-* **eVideo** - Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
+* **eVideo** - Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Adobe Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
     See [Quick Start: eVideo](/help/quick-start-video.md).
 
-* **Image Maps** - Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one master image. As Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
+* **Image Maps** - Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one master image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
     See [Quick Start: Image Sizing](/help/quick-start-image-sizing.md).
 
 * **Image Sets** - Deliver an interactive shopping experience in which users can view products in multiple views. You can combine zoom, multiple views, and color swatches for an integrated viewing experience.
@@ -39,5 +39,5 @@ Dynamic Media Classic offers many tools for creating rich media. You create thes
 * **Template Basics** - Create data-driven templates that combine fonts, images, and graphics for monogramming, online personalization, and promotions. For example, layer sale or other promotional graphics onto product images or place the names of customers on T-shirts or coffee mugs. Customers can see their names in e-mail messages or print brochures you send to them.
     See [Quick Start: Template Basics](/help/quick-start-template-basics.md).
 
-* **Zoom Targets** - Lets customers zoom in, zoom out, and pan images using the configurable viewers that come with Dynamic Media Classic. Customers can quickly and interactively view high-resolution product details.
+* **Zoom Targets** - Lets customers zoom in, zoom out, and pan images using the configurable viewers that come with Adobe Dynamic Media Classic. Customers can quickly and interactively view high-resolution product details.
     See [Quick Start: Zoom](/help/quick-start-zoom.md).

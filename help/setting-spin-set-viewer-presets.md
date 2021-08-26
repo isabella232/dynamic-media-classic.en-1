@@ -13,7 +13,7 @@ exl-id: cb9e996c-ab90-4656-8e93-5e7cbeeadb7f
 ---
 # Setting up Spin Set Viewer Presets{#setting-up-spin-set-viewer-presets}
 
-Spin Set Viewer Presets determine the style, behavior, and look of your viewers. Dynamic Media Classic comes with default Spin Set Viewer Presets. If you are an administrator, you can create your own Spin Set Viewer Presets as well. You can configure a Spin Set Viewer Preset with different colors, borders, fonts, and image settings.
+Spin Set Viewer Presets determine the style, behavior, and look of your viewers. Adobe Dynamic Media Classic comes with default Spin Set Viewer Presets. If you are an administrator, you can create your own Spin Set Viewer Presets as well. You can configure a Spin Set Viewer Preset with different colors, borders, fonts, and image settings.
 
 **To create a Spin Set Viewer Preset:**
 

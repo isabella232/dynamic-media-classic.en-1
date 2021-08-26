@@ -1,6 +1,6 @@
 ---
 title: Publishing files
-description: "Learn how to publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Dynamic Media Classic and add them to your website or application."
+description: "Learn how to publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Adobe Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Adobe Dynamic Media Classic and add them to your website or application."
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -11,13 +11,13 @@ exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
 ---
 # Publishing files{#publishing-files}
 
-You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Dynamic Media Classic and add them to your website or application.
+You publish your assets to Dynamic Media Image Servers. You can publish assets on a one-time basis or arrange for Adobe Dynamic Media Classic to publish assets on a recurring schedule. After your assets are published, they are available to you for delivery. You can copy the URL calls from Adobe Dynamic Media Classic and add them to your website or application.
 
-Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html#dynamic).
+Adobe Dynamic Media Classic now supports the delivery of all images and video over HTTP/2. That is, a published URL or embed code for the image or video is available to be integrated with any application that accepts a hosted asset. That published asset is then delivered by way of HTTP/2 protocol. This method of delivery improves the way browsers and servers communicate, allowing for better response and load times of all your Adobe Dynamic Media Classic assets. See [HTTP2 Delivery of Content FAQ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html#dynamic).
 
 ## Publish After Uploading {#publish-after-uploading}
 
-Assets either in a published or unpublished state. By default, any assets that you upload into Dynamic Media Classic are automatically marked for publishing.
+Assets either in a published or unpublished state. By default, any assets that you upload into Adobe Dynamic Media Classic are automatically marked for publishing.
 
 For more information, see the [Instant Publish Notice PDF](/help/assets/rendering-instant-publish-notification.pdf).
 
@@ -36,11 +36,11 @@ Some "child" assets are automatically marked for publish when their parents are 
 |Spin sets|Images within the set.|
 |Templates|Template files, pages, and images.|
 
-Derived images are also automatically marked for publish when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail view under Built & Derivatives.
+Derived images are also automatically marked for publish when their parent images are being published. Derived images include images you adjusted with image-editing options. You can see these derived images in Detail View under Built & Derivatives.
 
 ## Creating a publish job {#creating-a-publish-job}
 
-Create a publish job to publish assets you have uploaded to Dynamic Media Classic servers but choose not to automatically published them yet. You can perform a one-time publish job or schedule jobs to recur regularly. Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
+Create a publish job to publish assets you have uploaded to Adobe Dynamic Media Classic servers but choose not to automatically published them yet. You can perform a one-time publish job or schedule jobs to recur regularly. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
 **To create a publish job:**
 
@@ -56,7 +56,7 @@ Create a publish job to publish assets you have uploaded to Dynamic Media Classi
 
 1. Click **[!UICONTROL Submit Publish]**.
 
-Dynamic Media Classic tracks publish jobs on the Jobs page. You can review publish jobs on that page.
+Adobe Dynamic Media Classic tracks publish jobs on the Jobs page. You can review publish jobs on that page.
 
 >[!NOTE]
 >
@@ -72,7 +72,7 @@ If you want the publish job to occur later, in the Publish page, select **[!UICO
 
 Create a recurring publish job by selecting **[!UICONTROL Recurring]** on the Publish page.
 
-Then choose a Repeat option of **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, or **[!UICONTROL Custom]**, then specify when you want the publishing job to recur. Dynamic Media Classic presents calendar tools for scheduling the recurring publish job. You can click **[!UICONTROL Custom]** option and enter a rule in the Rule text field to describe a custom job interval.
+Then choose a Repeat option of **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, or **[!UICONTROL Custom]**, then specify when you want the publishing job to recur. Adobe Dynamic Media Classic presents calendar tools for scheduling the recurring publish job. You can click **[!UICONTROL Custom]** option and enter a rule in the Rule text field to describe a custom job interval.
 
 See [Creating a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
@@ -86,7 +86,7 @@ You can display the Advanced options on the Publish page and choose these option
 
 * **Publish To** - To publish assets only to a specific server, choose a server type.
 
-* **Publish** - By default, Dynamic Media Classic publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can click **[!UICONTROL Full Publish]** to also publish assets that have been updated or changed since they were last published. Select **[!UICONTROL Full w/ Search Data]** if you are publishing an eCatalog and you want readers to be able to search it by keyword.
+* **Publish** - By default, Adobe Dynamic Media Classic publishes only assets that are new and have not been published before (the New Since Last Publish option). However, you can click **[!UICONTROL Full Publish]** to also publish assets that have been updated or changed since they were last published. Select **[!UICONTROL Full w/ Search Data]** if you are publishing an eCatalog and you want readers to be able to search it by keyword.
 
 * **Run Job As** - Choose a user name from the list. You can sort jobs by user name on the Jobs page. By choosing a name, you associate a publish job with a user.
 
@@ -138,15 +138,15 @@ Published assets are indicated in the user interface by a round, green icon with
 
 ## Getting an asset’s publish history {#getting-an-asset-s-publish-history}
 
-The last date an asset was published is shown in Detail view at the top of the panel. You can get more details about the publishing history by opening the History & Published Servers panel in Detail view. From there, you can see when the asset was published and to which servers it was published.
+The last date an asset was published is shown in Detail View at the top of the panel. You can get more details about the publishing history by opening the History & Published Servers panel in Detail View. From there, you can see when the asset was published and to which servers it was published.
 
 ## Republished assets and CDN delays {#republished-assets-and-cdn-delays}
 
-Dynamic Media Classic assets are distributed on the content delivery network (CDN). CDN is a system of computer servers networked together that cooperate transparently to deliver content, especially large media content, to end users. In the CDN system, web content is stored in web caches across the Internet (called the edge cache network). Web content is delivered from the web caches to end users to make for faster deliveries.
+Adobe Dynamic Media Classic assets are distributed on the content delivery network (CDN). CDN is a system of computer servers networked together that cooperate transparently to deliver content, especially large media content, to end users. In the CDN system, web content is stored in web caches across the Internet (called the edge cache network). Web content is delivered from the web caches to end users to make for faster deliveries.
 
 The first time someone downloads a web page, the assets are delivered to a CDN web cache server. They are stored on this server so that the next time someone in the same area accesses the web page, the same cached content can be delivered faster. The content is delivered faster because it is located closer to the end user. CDN makes for faster web page displays. It decreases bandwidth demands on the central server because content is delivered from the edge cache network, not from a central server in every instance.
 
-Newly published Dynamic Media Classic content is available immediately to the end user and quickly populates the edge cache network. However, newly republished content—images that have the exact same names as images previously published to an image server—is not updated on CDN for up to ten hours. Instead, end users see what is in a web cache on the CDN network. For this reason, your Dynamic Media Classic republished assets do not appear to end users for ten hours.
+Newly published Adobe Dynamic Media Classic content is available immediately to the end user and quickly populates the edge cache network. However, newly republished content—images that have the exact same names as images previously published to an image server—is not updated on CDN for up to ten hours. Instead, end users see what is in a web cache on the CDN network. For this reason, your Adobe Dynamic Media Classic republished assets do not appear to end users for ten hours.
 
 If you want your newly republished image assets to be available sooner than the ten-hour delay, you can flush web caches on CDN. Flushing these web caches removes old content from CDN web caches and replaces it with your most recently published assets.
 

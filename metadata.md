@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Dynamic Media Classic
+solution: Adobe Dynamic Media Classic
 type: Documentation
 feature-set: Experience Manager Assets
 git-repo: https://github.com/AdobeDocs/dynamic-media-classic.en

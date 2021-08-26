@@ -1,6 +1,6 @@
 ---
 title: Create a Spin Set
-description: Learn how to create a Spin Set in Dynamic Media Classic.
+description: Learn how to create a Spin Set in Adobe Dynamic Media Classic.
 uuid: 697bd78f-5e39-46bf-aa6d-ad8ab99fe40e
 contentOwner: admin
 content-type: reference
@@ -13,15 +13,15 @@ exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 ---
 # Create a Spin Set{#creating-a-spin-set}
 
-To create an effective Spin Set, make sure that you shoot the images correctly. You can create a Spin Set in Dynamic Media Classic by selecting the Build button and choosing Spin Sets. Edit Spin Sets in the Spin Sets screen.
+To create an effective Spin Set, make sure that you shoot the images correctly. You can create a Spin Set in Adobe Dynamic Media Classic by selecting the Build button and choosing Spin Sets. Edit Spin Sets in the Spin Sets screen.
 
 >[!NOTE]
 >
->Previous versions of Dynamic Media Classic did not offer two-dimensional Spin Sets. If you created a Spin Set in a previous version of Dynamic Media Classic, you cannot save your one-dimensional Spin Set without first saving it under a different name. Select **[!UICONTROL Save As]** in the Spin Set screen and enter a new name so that you can edit it in Dynamic Media Classic.
+>Previous versions of Adobe Dynamic Media Classic did not offer two-dimensional Spin Sets. If you created a Spin Set in a previous version of Adobe Dynamic Media Classic, you cannot save your one-dimensional Spin Set without first saving it under a different name. Select **[!UICONTROL Save As]** in the Spin Set screen and enter a new name so that you can edit it in Adobe Dynamic Media Classic.
 
 ## Guidelines for shooting Spin Set images {#guidelines-for-shooting-spin-set-images}
 
-In general, the more images you have in a Spin Set, the better the image spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
+In general, the more images you have in a Spin Set, the better the image spinning effect is. However, including many images in the set also increases the amount of time it takes for the images to load. Adobe Dynamic Media Classic recommends these guidelines for shooting images for use in Spin Sets:
 
 * At minimum, use 8-12 images in a one-dimensional spin set and 16-24 images in a two-dimensional Spin Set.
 * Use a lossless format; TIFF and PNG are recommended.
@@ -31,7 +31,7 @@ In general, the more images you have in a Spin Set, the better the image spinnin
 
 ## Create a Spin Set {#create}
 
-The order in which the Spin Set is authored or created in Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction . Therefore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
+The order in which the Spin Set is authored or created in Adobe Dynamic Media Classic is important. Depending on how you order the assets when you drag and drop images into the grid on the Spin Set page, the Spin Set spins in a certain direction . Therefore, the order in which it is visually displayed in the builder is how the asset is spun when a user moves their mouse pointer or moves their finger, left to right.
 
 When you create a set, the **[!UICONTROL Publish after save]** option affects the set and set members in the following ways:
 

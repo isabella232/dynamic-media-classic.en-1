@@ -16,7 +16,7 @@ Before you can upload an image asset, you first request a shared-secret key. You
 
 Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request a shared-secret key.
 
-In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Dynamic Media Classic, save it locally for future use.
+In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Adobe Dynamic Media Classic, save it locally for future use.
 
 ## Retrieving the upload token {#retrieving-the-upload-token}
 

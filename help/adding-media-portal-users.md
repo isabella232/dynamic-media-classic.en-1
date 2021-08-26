@@ -1,6 +1,6 @@
 ---
 title: Add and manage Media Portal users
-description: Learn how to add and manage Media Portal users in Dynamic Media Classic.
+description: Learn how to add and manage Media Portal users in Adobe Dynamic Media Classic.
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: admin
 content-type: reference
@@ -101,7 +101,7 @@ You can display the names and e-mail addresses of Media Portal users in a pop-up
 
 ## Set up the Welcome e-mail message for Media Portal users {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
-You can send a Welcome e-mail when you add new Media Portal users, contributors, and contributor-users. You can configure this e-mail message or tell Dynamic Media Classic not to send it.
+You can send a Welcome e-mail when you add new Media Portal users, contributors, and contributor-users. You can configure this e-mail message or tell Adobe Dynamic Media Classic not to send it.
 
 1. Navigate to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In the User Administration Setup screen, select **[!UICONTROL Email Settings]**.
@@ -109,9 +109,9 @@ You can send a Welcome e-mail when you add new Media Portal users, contributors,
 
    * **[!UICONTROL Send Email]** - Deselect this option if you do not want to inform new users by e-mail that you have signed them up.
 
-   * **[!UICONTROL Default Password]** - Enter a temporary password for new users, or leave the field empty to have Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
+   * **[!UICONTROL Default Password]** - Enter a temporary password for new users, or leave the field empty to have Adobe Dynamic Media Classic generate random passwords. Users are asked to change passwords the first time they sign in.
 
-   * **[!UICONTROL Replacement URL]** - Enter a URL different from the default if your users access Dynamic Media Classic through a different URL.
+   * **[!UICONTROL Replacement URL]** - Enter a URL different from the default if your users access Adobe Dynamic Media Classic through a different URL.
 
 ## Other user management tasks {#other-user-management-tasks}
 
@@ -125,6 +125,6 @@ Starting on the User Administration Setup screen, you can also do these tasks:
 
 * **[!UICONTROL Edit user information]** - Enter up-to-date information about a user.
 
-* **[!UICONTROL Create user-defined fields]** - Create custom, user-defined metadata fields so they can help you organize assets in the Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
+* **[!UICONTROL Create user-defined fields]** - Create custom, user-defined metadata fields so they can help you organize assets in the Adobe Dynamic Media Classic. The fields can also be activated or deactivated, as necessary.
 
 See [User-Defined Fields](application-setup.md#user_defined_fields).

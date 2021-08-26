@@ -15,7 +15,7 @@ exl-id: 1157400c-b33a-422e-848c-258660ddc748
 
 For example, on an iOS mobile device, it detects a bandwidth such as 3G, 4G, or Wi-Fi. Then, it automatically selects the right encoded video from among the various video bit rates within the Adaptive Video Set. The video is streamed to desktops, mobile devices, or tablets.
 
-In addition, video quality is dynamically switched automatically if network conditions change on the desktop or on the mobile device. Also, if a customer enters full-screen mode on a desktop, the Adaptive Video Set responds by using a better resolution, improving the customer’s viewing experience. Using Adaptive Video Sets provides you with the best possible playback for customers playing Dynamic Media Classic video on multiple screens and devices.
+In addition, video quality is dynamically switched automatically if network conditions change on the desktop or on the mobile device. Also, if a customer enters full-screen mode on a desktop, the Adaptive Video Set responds by using a better resolution, improving the customer’s viewing experience. Using Adaptive Video Sets provides you with the best possible playback for customers playing Adobe Dynamic Media Classic video on multiple screens and devices.
 
 The logic that a video player uses to determine which encoded video to play or to select during playback is based on the following algorithm:
 
@@ -27,9 +27,9 @@ The logic that a video player uses to determine which encoded video to play or t
 
 See the algorithm’s logic at [https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp](https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp) for technical information about it.
 
-For managing single video and Adaptive Video Sets, Dynamic Media Classic supports the following:
+For managing single video and Adaptive Video Sets, Adobe Dynamic Media Classic supports the following:
 
-* Uploading video from numerous supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
+* Uploading video from numerous supported video formats and audio formats and encoding video to MP4 H.264 format for playback across multiple screens. You can use predefined Adobe Dynamic Media Classic adaptive video presets, single video encoding presets, or customize your own encoding to control the quality and size of the video.
 
   When an adaptive video set is generated, it includes MP4 videos.
 
@@ -50,7 +50,7 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
   See the latest support in the [Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-  Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find BlackBerry® devices that support this video format at the following website:
+  Adobe Dynamic Media Classic supports mobile video playback for MP4 H.264 video. You can find BlackBerry® devices that support this video format at the following website:
 
   See [Supported video formats on BlackBerry®](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
 
@@ -58,7 +58,7 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
   See [Supported video formats on Windows® Phone](https://docs.microsoft.com/en-us/).
 
-* Play back the video using Dynamic Media Classic Viewer Presets, including the following:
+* Play back the video using Adobe Dynamic Media Classic Viewer Presets, including the following:
 
   * Single video viewers.
   * Mixed Media viewers that combine both video and image content.
@@ -68,14 +68,14 @@ For managing single video and Adaptive Video Sets, Dynamic Media Classic support
 
 **Quick Start**
 
-The following step-by-step workflow description is designed to help you get up and running quickly with adaptive video sets in Dynamic Media Classic. After each step is a cross-reference to a topic heading where you can find more information.
+The following step-by-step workflow description is designed to help you get up and running quickly with adaptive video sets in Adobe Dynamic Media Classic. After each step is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Uploading and encoding videos
 
 Upload and generate adaptive video sets using one of the following two scenarios:
 
-* **Upload pre-encoded videos** - If your videos were already encoded outside Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Dynamic Media Classic. Then, click **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
-* **Upload master source videos** - If your videos are not encoded, on the Global Navigation bar, click **[!UICONTROL Upload]** to upload master video source files (non-MP4) and have Dynamic Media Classic encode them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
+* **Upload pre-encoded videos** - If your videos were already encoded outside Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Adobe Dynamic Media Classic. Then, click **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
+* **Upload master source videos** - If your videos are not encoded, on the Global Navigation bar, click **[!UICONTROL Upload]** to upload master video source files (non-MP4) and have Adobe Dynamic Media Classic encode them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
 
   This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three video encodes in the correct aspect ratio.
 
@@ -87,7 +87,7 @@ See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_e
 
 **Optional**
 
-Dynamic Media Classic offers numerous predefined video encoding presets. These predefined presets reflect the most common video encoding settings used today and are optimized for playback on target pages.
+Adobe Dynamic Media Classic offers numerous predefined video encoding presets. These predefined presets reflect the most common video encoding settings used today and are optimized for playback on target pages.
 
 However, if further customization is needed, administrators can create Video Presets to customize the size and playback experience of Videos to end users. Administrators can add and manage Video Presets from the Video Presets page available under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Single Encoding Presets]**. The Video Presets page offers options for adding, editing, deleting, and activating Video Presets.
 
@@ -103,7 +103,7 @@ You can play the video on the Preview page. You can also choose different Video 
 
 **Optional**
 
-Viewer Preset customization - Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Dynamic Media Classic, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
+Viewer Preset customization - Adobe Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Adobe Dynamic Media Classic, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
 
 See [Working with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 

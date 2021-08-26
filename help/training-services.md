@@ -23,12 +23,12 @@ See [Adobe Training Services](https://learning.adobe.com/)
 
 ## Demos
 
-Watch demonstrations of Dynamic Media Classic viewer features.
+Watch demonstrations of Adobe Dynamic Media Classic viewer features.
 
 See [Demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 ## Getting Started chapter of Help
 
-The Getting Started section of the Help system presents instructions for users who are new to Dynamic Media Classic. It explains the basics of the program, navigation, setup, asset management, and building rich media.
+The Getting Started section of the Help system presents instructions for users who are new to Adobe Dynamic Media Classic. It explains the basics of the program, navigation, setup, asset management, and building rich media.
 
 See [Getting started](dmc-platform-overview.md).

@@ -1,6 +1,6 @@
 ---
 title: Deploy video to your websites and mobile sites
-description: Learn how to deploy video to your websites and mobile sites from Dynamic Media Classic.
+description: Learn how to deploy video to your websites and mobile sites from Adobe Dynamic Media Classic.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: admin
 content-type: reference
@@ -13,7 +13,7 @@ exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
 ---
 # Deploy video to your websites and mobile sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobile sites, and desktop applications access Dynamic Media Classic server content, including video, by using URL strings or embedded code. Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your web pages, mobile pages, and desktop applications, copy it from Dynamic Media Classic.
+Websites, mobile sites, and desktop applications access Adobe Dynamic Media Classic server content, including video, by using URL strings or embedded code. Adobe Dynamic Media Classic activates these URL strings during the publishing process. To place the URL string or embed code for your video in your web pages, mobile pages, and desktop applications, copy it from Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -21,15 +21,15 @@ Websites, mobile sites, and desktop applications access Dynamic Media Classic se
 
 ## Publish video {#publishing-video}
 
-Publishing a video enables Dynamic Media Classic Servers to deliver video to your website, mobile site, or application.
+Publishing a video enables Adobe Dynamic Media Classic Servers to deliver video to your website, mobile site, or application.
 
 There are two different methods you can use to publish video:
 
-* **Publish videos automatically and instantly on upload** - As part of the video upload process, Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
+* **Publish videos automatically and instantly on upload** - As part of the video upload process, Adobe Dynamic Media Classic can automatically publish videos when they are uploaded and encoded. This ability to instantly publish means that there is no need to publish videos separately after the fact.
 
 * **Publish video manually after upload** - If you do not want to publish videos immediately, you can manually publish videos at any time.
 
-After you publish videos, Dynamic Media Classic activates the URL strings for your HTML page or application code.
+After you publish videos, Adobe Dynamic Media Classic activates the URL strings for your HTML page or application code.
 
 **To publish video:**
 
@@ -101,7 +101,7 @@ See also [Link a video URL to a mobile site or a website](deploying-video-websit
 
 ### Implement embed code for using HTML5 video with MP4 video assets {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-If you do not use the Dynamic Media Classic HTML5 video player, but instead want to use the native HTML5 `<video>` tag with MP4 video assets, you can use the following embed code sample:
+If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instead want to use the native HTML5 `<video>` tag with MP4 video assets, you can use the following embed code sample:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 
@@ -125,11 +125,11 @@ If you do not use the Dynamic Media Classic HTML5 video player, but instead want
 
 ## Deploy video using a third-party video player {#deploying-video-using-a-third-party-video-player}
 
-If you use a third-party video player or a custom-built video player instead of a Dynamic Media Classic video viewer, you obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
+If you use a third-party video player or a custom-built video player instead of a Adobe Dynamic Media Classic video viewer, you obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
 
 **To deploy video using a third-party video player:**
 
-1. In Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
 1. Depending on the type of URL you want to use, do one of the following tasks:
 
 * To generate a direct HLS streaming video URL (multi-bitrate)
@@ -159,13 +159,13 @@ If you use a third-party video player or a custom-built video player instead of 
 
 ## Work with video thumbnails {#working-with-video-thumbnails}
 
-Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Dynamic Media Classic generates and deploy these URLs outside Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
+Adobe Dynamic Media Classic generates thumbnails for encoded videos, and pre-encoded videos. You can use video thumbnails like any image asset. Moreover, you can obtain URLs for the video thumbnails that Adobe Dynamic Media Classic generates and deploy these URLs outside Adobe Dynamic Media Classic. For example, you can deploy the thumbnails in search results, related video listings, and video play lists on a website.
 
 Thumbnails are generated based on the first heterogeneous frame (not an all black frame, or an all white frame, and so forth) of the video.
 
 ### Obtain video thumbnail URLs {#obtaining-video-thumbnail-urls}
 
-Dynamic Media Classic generates video thumbnails automatically during the upload process. The thumbnails appear in the Browse panel in List view and Grid view.
+Adobe Dynamic Media Classic generates video thumbnails automatically during the upload process. The thumbnails appear in the Browse panel in List View and Grid View.
 
 To generate URLs for video thumbnails, perform a publish operation.
 
@@ -175,7 +175,7 @@ After publishing, you can obtain video thumbnail URLs in Detail View in the URLs
 
 ### Modify poster frames in video viewers {#modifying-poster-frames-in-video-viewers}
 
-The *poster frame* is the initial frame that appears in Video viewers before the video begins playing. Dynamic Media Classic uses video thumbnails as poster frames.
+The *poster frame* is the initial frame that appears in Video viewers before the video begins playing. Adobe Dynamic Media Classic uses video thumbnails as poster frames.
 
 You can apply image modifiers to the poster frame. For example, you can crop the poster frame or make it transparent. To modify the poster frame, open the video viewer configuration screen and enter modifiers in the Poster Image Modifiers section.
 

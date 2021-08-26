@@ -1,6 +1,6 @@
 ---
 title: Personal Setup
-description: All users can change settings on the Personal Setup screen of Dynamic Media Classic.
+description: All users can change settings on the Personal Setup screen of Adobe Dynamic Media Classic.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: admin
 content-type: reference
@@ -17,7 +17,7 @@ All users can change settings on the Personal Setup screen. To open the Personal
 
 >[!NOTE]
 >
->The Personal Setup screen lists which user role you have in Dynamic Media Classic: Company Administrator, Administrator, or User.
+>The Personal Setup screen lists which user role you have in Adobe Dynamic Media Classic: Company Administrator, Administrator, or User.
 
 The Personal Setup settings control the default behavior of the Browse Panel, how you receive e-mail, and password settings. Remember to click Save after you change these settings.
 
@@ -39,7 +39,7 @@ Besides clearing the image and asset cache using the desktop app, you can manual
 
 **To install Adobe Dynamic Media Creative Suite Extension:**
 
-1. In Dynamic Media Classic, on the toolbar, click **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**, under Creative Suite Extension, click **[!UICONTROL Download Now]** to download the `s7csxs.zxp` file. 
+1. In Adobe Dynamic Media Classic, on the toolbar, click **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**, under Creative Suite Extension, click **[!UICONTROL Download Now]** to download the `s7csxs.zxp` file. 
 1. Click the **[!UICONTROL Installation]** and **[!UICONTROL System Requirements]** links for additional information about the extension.
 
 <!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
@@ -66,11 +66,11 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Browser
 
-* **Thumbnail Size** - Determines the default size of thumbnail images in Grid view in the Browse Panel.
+* **Thumbnail Size** - Determines the default size of thumbnail images in Grid View in the Browse Panel.
 * **Default Asset Library View** - Determines whether the assets in the Asset Library for build sets appear as thumbnails or by name. If you are working with large quantities of assets in the Asset Library, you can view the assets by name. For example, if you are building a large eCatalog with many PDF files, you can view the assets by name to make the list shorter.
 * **Default Browse Sort Order** - Determines the order in which assets appear by default in the Browse Panel. Choose a sort criterion on the menu and whether you want an ascending or descending sort.
 * **Default Browse Location** - Lets you set the browse location to the default, the last folder browsed, or to a specific location that you navigate to and identify. You can also set the browse location to sort the files and folders in ascending or descending order.
-* **Default Browse View** - Determines whether Grid view or List view is the default view you see when you first open the Browse panel.
+* **Default Browse View** - Determines whether Grid View or List View is the default view you see when you first open the Browse panel.
 * **Splash Screen Display** - Determines whether you see any splash screens, including the Welcome splash screen.
 * **Show ToolTips** - Determines whether tooltips appear when you move the pointer over buttons, menus, and navigation links. Tooltips describe on-screen user interface items.
 * **Checkerboard Background** - Displays a checkerboard layer behind images, letting you easily see the transparent areas of an image that has an alpha channel.
@@ -89,7 +89,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Email
 
-* **Email Options** - Choose how you want Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
+* **Email Options** - Choose how you want Adobe Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
 * **Email Scope** - Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
 * **Email Types** - Determines whether you are informed when upload jobs and publish jobs are completed.
 

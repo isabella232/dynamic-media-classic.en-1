@@ -1,6 +1,6 @@
 ---
-title: Export assets from Dynamic Media Classic
-description: Learn how to export assets from Dynamic Media Classic.
+title: Export assets from Adobe Dynamic Media Classic
+description: Learn how to export assets from Adobe Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: admin
 content-type: reference
@@ -11,15 +11,15 @@ feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 ---
-# Export assets from Dynamic Media Classic{#exporting-assets-from-dmc}
+# Export assets from Adobe Dynamic Media Classic{#exporting-assets-from-dmc}
 
-You can save assets you edited in Dynamic Media Classic to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
+You can save assets you edited in Adobe Dynamic Media Classic to a local network drive. Exported assets are bundled in a ZIP file for downloading or sending by e-mail.
 
 The compressed Zip file has a maximum file size of 1 GB for the export job. Also, you are allowed a maximum of 500 total assets per export job.
 
-Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
+Adobe Dynamic Media Classic keeps a record of export jobs in the Jobs screen.
 
-**To export assets from Dynamic Media Classic:**
+**To export assets from Adobe Dynamic Media Classic:**
 
 1. Select the assets you want to export, and then go to **[!UICONTROL File]** > **[!UICONTROL Export]**. 
 1. In the Export Selected Assets window, click **[!UICONTROL Image Options]**, and then specify any of the following options (administrators determine which options are available to their users):

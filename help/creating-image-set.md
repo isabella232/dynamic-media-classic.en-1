@@ -1,6 +1,6 @@
 ---
 title: Create an Image Set
-description: Learn how to create an image set in Dynamic Media Classic.
+description: Learn how to create an image set in Adobe Dynamic Media Classic.
 uuid: 689fdc14-4f51-4c94-8515-cd8551e101d8
 contentOwner: admin
 content-type: reference
@@ -54,7 +54,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 **To edit an Image Set:**
 
-1. In the Grid view, browse to an ImageSet, and then below the image, select **[!UICONTROL Edit]**.
+1. In the Grid View, browse to an ImageSet, and then below the image, select **[!UICONTROL Edit]**.
 1. Do any of the following:
 
     * To add an image (published or unpublished), drag it from a folder in Add Assets onto the Image Set’s **[!UICONTROL Views]** page.

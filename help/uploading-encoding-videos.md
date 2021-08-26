@@ -14,19 +14,19 @@ exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
 ---
 # Uploading and encoding videos{#uploading-and-encoding-videos}
 
-To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to Dynamic Media Classic. Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
+To create single video or adaptive video sets for delivery to the web or mobile devices, you first upload your master video files to Adobe Dynamic Media Classic. Adobe Dynamic Media Classic encodes videos to MP4 format and it publishes video in the following file formats:
 
-* **MP4** - Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
+* **MP4** - Adobe Dynamic Media Classic recommends MP4 as the preferred video file format. Use MP4 files for the following:
 
   * HTTP Dynamic Streaming on desktops.
   * HTTP Live Streaming (Apple’s streaming protocol).
   * Progressive video delivery to Android™, BlackBerry®, and Windows® mobile devices
 
-  Dynamic Media Classic offers two workflows for uploading video files:
+  Adobe Dynamic Media Classic offers two workflows for uploading video files:
 
-* **Pre-encoded Videos** - You upload MP4 files directly to Dynamic Media Classic. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
+* **Pre-encoded Videos** - You upload MP4 files directly to Adobe Dynamic Media Classic. With this workflow, files are not encoded at the time you upload them. The files are pre-encoded in preparation for delivery to the desktop and to mobile devices.
 
-* **Master source videos** - Upload master source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled “Video” in the Browse panel. Dynamic Media Classic supports the encoding of video files in many formats.
+* **Master source videos** - Upload master source video files and, at upload, encode these files to MP4 files. Encoded videos are labeled “Video” in the Browse panel. Adobe Dynamic Media Classic supports the encoding of video files in many formats.
 
   * Make sure the master source video files that you want to encode are supported.
 
@@ -38,7 +38,7 @@ To create single video or adaptive video sets for delivery to the web or mobile 
   
     See [Best practices for video encoding](uploading-encoding-videos.md#best-practices-for-video-encoding).
 
-Dynamic Media Classic also generates video thumbnails. You can learn more about video thumbnails, how to obtain their URLs, and modifying poster frames.
+Adobe Dynamic Media Classic also generates video thumbnails. You can learn more about video thumbnails, how to obtain their URLs, and modifying poster frames.
 
 See [Working with video thumbnails](deploying-video-websites-mobile-sites.md#working-with-video-thumbnails).
 
@@ -55,7 +55,7 @@ Do any one of the following.
 1. On the Upload page, make sure that **[!UICONTROL Publish After Uploading]** is checked.
 1. Click **[!UICONTROL Submit Upload]**.
   
-*If you want to encode your videos using Dynamic Media Classic*
+*If you want to encode your videos using Adobe Dynamic Media Classic*
 
 1. On the Global Navigation bar, click **[!UICONTROL Upload]**.
 1. In the Upload page, click **[!UICONTROL From Desktop]** tab.
@@ -73,7 +73,7 @@ Do any one of the following.
 
 *If you want to re-encode a video file that you previously uploaded*
 
-1. In Dynamic Media Classic, in the Browse panel, navigate to the video and select it.
+1. In Adobe Dynamic Media Classic, in the Browse panel, navigate to the video and select it.
 1. Click **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.
 1. In the Reprocess Assets dialog box, expand **[!UICONTROL EVideo Options]**, then do one of the following:
    * Best practice is to use the following method. Select **Adaptive Video**.
@@ -119,7 +119,7 @@ The following table lists video file types (with permitted video codecs) that yo
 
 ## Best practices for video encoding {#best-practices-for-video-encoding}
 
-The following are best-practice tips for encoding source video files in Dynamic Media Classic.
+The following are best-practice tips for encoding source video files in Adobe Dynamic Media Classic.
 
 <!-- THE FOLLOWINGS LINKS APPEAR TO BE DEAD AND THE CONTENT COMPLETELY LOST. THE GO URL DOESN'T EVEN WORK ANYMORE.
 For advice about video encoding, see the following:
@@ -141,7 +141,7 @@ The following table describes the recommended size, aspect ratio, and minimum bi
 
 ### Obtaining a file’s metadata {#obtaining-a-file-s-metadata}
 
-You can obtain a file’s metadata by viewing its metadata in Dynamic Media Classic, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
+You can obtain a file’s metadata by viewing its metadata in Adobe Dynamic Media Classic, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
 
 1. Go to this web page: [https://mediainfo.sourceforge.net/en/Download](https://mediainfo.sourceforge.net/en/Download).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
@@ -251,7 +251,7 @@ Master video files created with video production equipment and video-editing sof
 
 See [Uploading and encoding videos](uploading-encoding-videos.md#uploading-and-encoding-videos).
 
-Dynamic Media Classic gives you a library of predefined video encoding presets that reflect the most common encoding settings used today. These encoding presets are optimized for playback on target screens. In addition, administrators can create their own video encoding presets to customize the size and playback quality of videos to end users. All video encoding presets, whether out-of-the-box from Dynamic Media Classic, or custom-made, output video in the MP4 file format.
+Adobe Dynamic Media Classic gives you a library of predefined video encoding presets that reflect the most common encoding settings used today. These encoding presets are optimized for playback on target screens. In addition, administrators can create their own video encoding presets to customize the size and playback quality of videos to end users. All video encoding presets, whether out-of-the-box from Adobe Dynamic Media Classic, or custom-made, output video in the MP4 file format.
 
 On the Video Presets screen, administrators can set up and manage video encoding. They can do the following:
 
@@ -260,7 +260,7 @@ On the Video Presets screen, administrators can set up and manage video encoding
 * Edit video encoding presets.
 * Delete video presets.
 
-Any video that you upload to Dynamic Media Classic or that you encode in Dynamic Media Classic is treated as “video”. In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
+Any video that you upload to Adobe Dynamic Media Classic or that you encode in Adobe Dynamic Media Classic is treated as “video”. In other words, this asset classification means that you can deliver the video for playback on desktops, mobile devices, or both. For example, you can preview these types of videos in Adobe Dynamic Media Classic. You can also generate URLs (using the Copy URL feature) and code that you can embed (using the Embed Code feature) for use with video players, on websites, and so on.
 
 See [Previewing videos in a video viewer](previewing-videos-video-viewer.md#previewing-videos-in-a-video-viewer).
 
@@ -268,7 +268,7 @@ See [Linking a video URL to a mobile site or a website](deploying-video-websites
 
 See [Embedding the video viewer on a web page](deploying-video-websites-mobile-sites.md#embedding-the-video-viewer-on-a-web-page).
 
-For video assets that you upload and encode in Dynamic Media Classic, video is delivered in the following file format:
+For video assets that you upload and encode in Adobe Dynamic Media Classic, video is delivered in the following file format:
 
 **MP4 H.264** Use MP4 files for the following:
 
@@ -276,7 +276,7 @@ For video assets that you upload and encode in Dynamic Media Classic, video is d
 * HLS (HTTP Live Streaming, Apple’s streaming protocol).
 * Progressive video delivery to Android™, BlackBerry®, and Windows® mobile devices.
 
-Any other video format and codec is treated as a “Master Video”. This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Dynamic Media Classic. You also cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
+Any other video format and codec is treated as a “Master Video”. This asset classification means that the video is a source video file and cannot be used for delivery playback on desktops or mobile devices. For example, you cannot preview these types of videos in Adobe Dynamic Media Classic. You also cannot generate Copy URLs or Embed Code for use in video players, on websites, and so on.
 
 ### Filtering the list of video encoding presets {#filtering-the-list-of-video-encoding-presets}
 
@@ -288,7 +288,7 @@ You can also filter based on a playback device option to narrow the list to Vide
 
 **To filter the list of video encoding presets:**
 
-1. In Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Adaptive Video Presets]** or **[!UICONTROL Single Encoding Presets]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Adaptive Video Presets]** or **[!UICONTROL Single Encoding Presets]**.
 
    The pages for Adaptive Video Presets and Single Encoding Presets include a table that lists the Active status, Preset name, intended Playback Device, video dimensions, and  data rate of each video preset. 
 
@@ -301,7 +301,7 @@ You can also filter based on a playback device option to narrow the list to Vide
 
 Activated Video Presets show up in the Upload Job Options dialog box. The dialog box appears when a user uploads video files during the upload process. They can choose from a list of all activated encoding presets.
 
-1. In Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Do one of the following:
 
     * Click **[!UICONTROL Adaptive Video Presets]**.
@@ -320,9 +320,9 @@ Activated Video Presets show up in the Upload Job Options dialog box. The dialog
 
 ### Adding or editing a video encoding preset {#adding-or-editing-a-video-encoding-preset}
 
-You can create your own custom single encoding video presets and add them to the Video Presets table. You can also change any pre-defined single encoding Video Presets that came with Dynamic Media Classic, provided you save the edited preset with a new name.
+You can create your own custom single encoding video presets and add them to the Video Presets table. You can also change any pre-defined single encoding Video Presets that came with Adobe Dynamic Media Classic, provided you save the edited preset with a new name.
 
-Dynamic Media Classic has set maximum limits on the target data rate, resolution height, and resolution width to ensure a proper playback experience. Warning messages appear if you exceed these limits which are the following:
+Adobe Dynamic Media Classic has set maximum limits on the target data rate, resolution height, and resolution width to ensure a proper playback experience. Warning messages appear if you exceed these limits which are the following:
 
 * For computer playback, the limits are: (Width/16) &#42; (Height/16) &lt; 8192.
 * For mobile playback, the limits are: (Width/16) &#42; (Height/16) &lt; 660; target data rate &lt; 4000.
@@ -330,14 +330,14 @@ Dynamic Media Classic has set maximum limits on the target data rate, resolution
 
 **To add or edit a video encoding preset:**
 
-1. In Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Click **[!UICONTROL Single Encoding Presets]**.
 1. In the Video Presets page, do any one of the following:
 
     * On the Video Presets toolbar, click **[!UICONTROL Add]** so you can add a Video Preset.
     * Select a Video Preset. In the toolbar, click **[!UICONTROL Edit]**.
 
-      You cannot edit Dynamic Media Classic predefined presets; you can only create a preset from an existing one by choosing **[!UICONTROL Save As]**.
+      You cannot edit Adobe Dynamic Media Classic predefined presets; you can only create a preset from an existing one by choosing **[!UICONTROL Save As]**.
 
 1. On the Add Video Preset page or the Edit Video Preset page, set the Video Preset options you want.
 
@@ -352,7 +352,7 @@ Dynamic Media Classic has set maximum limits on the target data rate, resolution
     |Aspect Ratio|Aspect ratio is the ratio of the width to the height of the video. The first two aspect ratios listed below are commonly used to display video horizontally:<ul><li> 4:3 - Used for almost all standard definition TV broadcast content.</li><li>16:9 - Used for almost all wide-screen, high-definition TV content (HDTV) and movies.</li><li>Auto-scale - (Default) A single encoding preset that works with any aspect ratio to create videos for delivery to mobile, tablet, and desktop. Uploaded source videos that are encoded with this preset are set with a fixed height. However, the width automatically scales to preserve the video’s aspect ratio (width to height ratio).</li><li>Custom - Used when you want to define a non-standard video size.</li><li>The aspect ratio you choose determines the width and height settings for the Resolution Size; the width and height value automatically scale to the proper aspect ratio.</li></ul>|
     |Resolution Size|Resolution size, expressed by the number of pixels wide by the number of pixels high, determines the size. Enter a width and height value in pixels or drag the slider to enter these values. The Resolution spectrum lists typical resolution sizes. The width and height values automatically adhere to the aspect ratio you selected. For example, if you select 4:3 as the aspect ratio and enter 400 for width, 300 is entered automatically for height. If you selected Auto-scale for the Aspect Ratio setting, then the Width value for the Resolution Size is automatically set to Auto. Click Preview so you can open a browser window and see your resolution choices there.|
     |Encode File Suffix|Enter a suffix. This suffix is appended to the resulting encoded video file. You can enter a hyphen and underscore in the name; blank spaces and special characters are not allowed.|
-    |Other Settings|Dynamic Media Classic determines all other encoding settings automatically according to best-practice encoding guidelines.|
+    |Other Settings|Adobe Dynamic Media Classic determines all other encoding settings automatically according to best-practice encoding guidelines.|
 
 1. Do one of the following:
 
@@ -361,9 +361,9 @@ Dynamic Media Classic has set maximum limits on the target data rate, resolution
 
 ### Deleting a video encoding preset {#deleting-a-video-encoding-preset}
 
-Administrators can delete custom Video Presets. Video presets that come with Dynamic Media Classic cannot be deleted.
+Administrators can delete custom Video Presets. Video presets that come with Adobe Dynamic Media Classic cannot be deleted.
 
-1. In Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Click **[!UICONTROL Single Encoding Presets]**.
 1. In the Video Presets page, select a Video Preset in the table that you no longer want or need.
 1. On the Video Presets toolbar, click **[!UICONTROL Delete]**.

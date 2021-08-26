@@ -13,17 +13,17 @@ exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 ---
 # Quick Start: Image Sets{#quick-start-image-sets}
 
-Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by clicking a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.
+Adobe Dynamic Media Classic Image Sets give users an integrated viewing experience. In the dynamic Image Set Viewer, users can see different views of an item by clicking a thumbnail image. Image Sets lets you present alternative high-resolution views of an item.
 
 The Image Set Viewer offers zooming tools for examining images closely. If you want, you can make guided zoom targets and Image Maps part of your Image Set. Image Sets make for a more concerted, intimate viewing experience.
 
-This Image Sets Quick Start is designed to get up and running quickly with Image Set techniques in Dynamic Media Classic.
+This Image Sets Quick Start is designed to get up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 
 ## 1. Uploading your master images for multiple views and swatches
 
-Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size. Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
+Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
-On the Global Navigation bar, click **[!UICONTROL Upload]** to upload files from your computer to a folder on Dynamic Media Classic.
+On the Global Navigation bar, click **[!UICONTROL Upload]** to upload files from your computer to a folder on Adobe Dynamic Media Classic.
 
 See [Preparing Image Set assets for upload](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) and [Uploading your files](uploading-files.md#uploading-your-files).
 
@@ -39,7 +39,7 @@ See also [Including zoom targets and Image Maps in Image Sets](/help/including-z
 
 ## 3. Setting up Image Set Viewer Presets, as needed
 
-Administrators can create or modify Image Set Viewer Presets. Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Images or Image Sets/Multiple Views presets to view your Image Sets.
+Administrators can create or modify Image Set Viewer Presets. Adobe Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Images or Image Sets/Multiple Views presets to view your Image Sets.
 
 You add or edit Viewer Presets from the Application Setup screen.
 
@@ -53,7 +53,7 @@ See [Previewing an asset](previewing-asset.md#previewing-an-asset).
 
 ## 5. Publishing an Image Set
 
-Publishing an Image Set places it on Dynamic Media Classic servers and activates the URL string.
+Publishing an Image Set places it on Adobe Dynamic Media Classic servers and activates the URL string.
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ See [Publishing](publishing-files.md#publishing-files).
 
 ## 6. Linking an Image Set to your Website
 
-Dynamic Media Classic creates URL calls for Image Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
+Adobe Dynamic Media Classic creates URL calls for Image Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
 
 Select the Image Set, and then click **[!UICONTROL Preview]**. Now select an Image Set Viewer Preset, and then click **[!UICONTROL Copy URL]**.
 

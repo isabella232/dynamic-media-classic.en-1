@@ -13,7 +13,7 @@ exl-id: aa268ff7-c474-409a-af3e-3fd8ae1e6241
 ---
 # Media Portal system requirements {#system-requirements}
 
-For the best experience using Dynamic Media Classic Media Portal, make sure that your system meets the following system requirements and suggestions:
+For the best experience using Adobe Dynamic Media Classic Media Portal, make sure that your system meets the following system requirements and suggestions:
 
 * Microsoft® Windows® 7 or later or macOS X 10.6 or higher Macintosh Intel® processor required.
 * 3 GB RAM or higher required (4 GB or higher suggested).

@@ -1,6 +1,6 @@
 ---
 title: Dynamic Media newsletter archive
-description: The archived Dynamic Media newsletter by Experience League was a monthly newsletter. It was designed to help you get up to speed with Dynamic Media and Dynamic Media Classic so that you could realize value right away. The archived newsletters contain valuable knowledge-building resources that were available in this one-stop shop newsletter that is now discontinued. Archived newsletters include how-to videos and solution overviews. There are also introductions to key features and capabilities like image presets, viewer presets, and video profiles. 
+description: The archived Dynamic Media newsletter by Experience League was a monthly newsletter. It was designed to help you get up to speed with Dynamic Media and Adobe Dynamic Media Classic so that you could realize value right away. The archived newsletters contain valuable knowledge-building resources that were available in this one-stop shop newsletter that is now discontinued. Archived newsletters include how-to videos and solution overviews. There are also introductions to key features and capabilities like image presets, viewer presets, and video profiles. 
 keywords: dynamic media;newsletter;product updates;tips and tricks;events;customer success;blog;blogs;images;videos;features;capabilities
 feature: Dynamic Media Classic
 role: Admin,User
@@ -13,7 +13,7 @@ exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 >
 >The monthly newsletter is now discontinued. However, you can still access the newsletter archives below.
 
-The Dynamic Media newsletter by Experience League was designed to help you get up to speed with Dynamic Media and Dynamic Media Classic so that you could start realizing value right away.
+The Dynamic Media newsletter by Experience League was designed to help you get up to speed with Dynamic Media and Adobe Dynamic Media Classic so that you could start realizing value right away.
  
 In this one-stop shop archived newsletter, you can find valuable knowledge-building resources such as how-to videos and solution overviews. There are also introductions to key features and capabilities like image presets, viewer presets, and video profiles.
 
@@ -46,28 +46,28 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
   * Explore three ways your rich media investment can help during these challenging times.
   * Sign up for the webinar to learn how to lighten your page load with Smart Imaging.
-  * Watch the on-demand Skill Builder webinars for Dynamic Media Classic.
+  * Watch the on-demand Skill Builder webinars for Adobe Dynamic Media Classic.
   * View the Dynamic Media sessions from Online Adobe Summit 2020.
-  * Learn more about Adobe's free Dynamic Media Classic audits.
+  * Learn more about Adobe's free Adobe Dynamic Media Classic audits.
   * Meet `John Monroe`, Senior Program Manager for Customer Success Services.
 
 * **[February 2020, Issue 2](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_02_2020_Feb.html)**
 
     In this issue:
 
-  * Attend new Skill Builder Webinars and transform into a Dynamic Media Classic expert.
+  * Attend new Skill Builder Webinars and transform into a Adobe Dynamic Media Classic expert.
   * See where you can find Dynamic Media at Adobe Summit 2020.
   * Explore how to use the cropping magic of Dynamic Media.
-  * To help you get more value from Dynamic Media Classic, take advantage of a free audit from Adobe.
-  * Learn about the new user interface for Dynamic Media Classic.
+  * To help you get more value from Adobe Dynamic Media Classic, take advantage of a free audit from Adobe.
+  * Learn about the new user interface for Adobe Dynamic Media Classic.
   * Meet `Georgia Myers`, Manager of Customer Success for Adobe Experience Cloud.
 
 * **[January 2020, Issue 1](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_01_2020_Jan.html)**
 
     In this issue:
 
-  * Five new Skill Builder Webinars to hone your Dynamic Media Classic skills.
-  * A free audit to help you get more value from Dynamic Media Classic.
+  * Five new Skill Builder Webinars to hone your Adobe Dynamic Media Classic skills.
+  * A free audit to help you get more value from Adobe Dynamic Media Classic.
   * A record-setting holiday shopping season for Adobe's rich media customers.
   * Your guide for selecting a DAM (Digital Asset Manager) that meets your needs for today and prepares you for what's new in rich media tomorrow.
   * Meet `Mark Dean`, Digital Media Specialist.
@@ -76,7 +76,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
     In this issue:
 
-  * A refresh of the Dynamic Media Classic user interface.
+  * A refresh of the Adobe Dynamic Media Classic user interface.
   * Powerful new security features.
   * How Adobe is preparing so you have a successful holiday season.
   * Share the newsletter with your colleagues to build team expertise.
@@ -91,7 +91,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * A CMSwire article that helps you understand how to update your rich media strategy to meet today's customer expectations.
   * Access to the on-demand webinar on Dynamic Media from the Skill Builder series.
   * Meet `Nick Peters`, Manager, Site Reliability Engineering, Adobe Experience Manager.
-  * Get up to speed on Dynamic Media and Dynamic Media Classic in Experience League.
+  * Get up to speed on Dynamic Media and Adobe Dynamic Media Classic in Experience League.
 
 * **[September 2019, Issue 09](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_09_2019_Sept.html)**
 
@@ -102,7 +102,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * A second chance to catch two recent Skill Builder webinars.
   * Watch the on-demand webinar on protecting your digital assets from piracy.
   * Meet `Bridget Roman`, Senior Product Marketing Manager for Experience Manager Assets.
-  * Get up to speed on Dynamic Media and Dynamic Media Classic in Experience League.
+  * Get up to speed on Dynamic Media and Adobe Dynamic Media Classic in Experience League.
 
 * **[August 2019, Issue 08](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_08_2019_Aug.html)**
 
@@ -134,13 +134,13 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
   * Learn more about the upcoming Adobe Insider Tour.
   * Read about how you can protect your digital assets from being pirated.
   * Learn about AI-driven Smart Crop for images.
-  * Meet `Alex Thiers`, one of the driving forces behind many of the great features and innovations within Dynamic Media and Dynamic Media Classic.
+  * Meet `Alex Thiers`, one of the driving forces behind many of the great features and innovations within Dynamic Media and Adobe Dynamic Media Classic.
 
 * **[May 2019, Issue 05](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_05_2019_May.html)**
 
     In this issue:
 
-  * Explore top ten hidden features of Dynamic Media Classic in a blog posting.
+  * Explore top ten hidden features of Adobe Dynamic Media Classic in a blog posting.
   * Watch key how-to videos in Experience League.
   * Learn about the upcoming Adobe Insider Tour.
   * To update your rich media strategy, read a three-part blog series.

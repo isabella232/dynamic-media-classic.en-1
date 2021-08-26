@@ -13,7 +13,7 @@ exl-id: 08f14fe9-3e3b-4235-a6c5-b6b6d2ffc4bd
 ---
 # Working with PostScript and Illustrator files{#working-with-postscript-and-illustrator-files}
 
-You can use Adobe PostScript® (EPS) and Adobe® Illustrator® (AI) files in Dynamic Media Classic. Dynamic Media Classic offers commands for configuring these files as you upload them.
+You can use Adobe PostScript® (EPS) and Adobe® Illustrator® (AI) files in Adobe Dynamic Media Classic. Adobe Dynamic Media Classic offers commands for configuring these files as you upload them.
 
 When you upload PostScript (EPS) or Illustrator (AI) image files, you can format them in various ways. You can rasterize the files, convert them to FXG for Template Publishing, maintain the transparent background, choose a resolution, and choose a color space. Options for formatting PostScript and Illustrator files are available on the Upload screen under PostScript Options and Illustrator Options in the Upload Job Options box.
 

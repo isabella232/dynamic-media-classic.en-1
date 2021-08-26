@@ -13,11 +13,11 @@ exl-id: 02782dc0-601f-453a-98d1-1fdd7267df3b
 ---
 # Publishing Adobe Analytics configuration information{#publishing-adobe-analytics-configuration-information}
 
-Publish your Dynamic Media Classic viewers so that information about configuring Adobe Analytics reports is sent to Dynamic Media Classic servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Dynamic Media Classic servers. From the servers, it can be relayed to Adobe Analytics after users perform activity on the viewers.
+Publish your Adobe Dynamic Media Classic viewers so that information about configuring Adobe Analytics reports is sent to Adobe Dynamic Media Classic servers. This information is embedded in viewers. Publishing is necessary so that the information contained in the viewers is available on Adobe Dynamic Media Classic servers. From the servers, it can be relayed to Adobe Analytics after users perform activity on the viewers.
 
 >[!NOTE]
 >
->Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
+>Whenever you change Adobe Analytics Report settings within Adobe Analytics, be sure you log back on to Adobe Analytics from within Adobe Dynamic Media Classic, resave your Adobe Analytics configuration settings, and then republish.
 
 See [Log in to Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 

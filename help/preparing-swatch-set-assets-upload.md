@@ -20,7 +20,7 @@ To create a Swatch Set, you need vignettes or different shots of the same image 
 * A black, brown, and green shot of the same jacket.
 * A black, brown, and green color swatch.
 
-Because users can zoom images in Swatch Sets, make sure that the images are at least 2000 pixels in the largest dimension. Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
+Because users can zoom images in Swatch Sets, make sure that the images are at least 2000 pixels in the largest dimension. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
 For detailed instructions on uploading assets, see [Uploading files](uploading-files.md#uploading_files).
 

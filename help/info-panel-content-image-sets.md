@@ -1,6 +1,6 @@
 ---
 title: Manage Info Panel content in Image Sets
-description: Learn how to manage Info Panel content in Image Sets in Dynamic Media Classic.
+description: Learn how to manage Info Panel content in Image Sets in Adobe Dynamic Media Classic.
 uuid: ed7b4344-f180-41fc-a95a-62a9767dc056
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -15,7 +15,7 @@ exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
 
 In addition to using Image Map text for your rollovers in Image Sets, you can use an info panel to add larger quantities of rollover text, including links. You can also manage the InfoPanel by using timed caching and scheduling content updates.  
   
-You can manage your InfoPanel setup and data using the following features in Dynamic Media Classic:
+You can manage your InfoPanel setup and data using the following features in Adobe Dynamic Media Classic:
 
 * InfoPanel Setup panel lets you specify the template used to display the info panel text, a default response for errors, and the number of hours the information is cached. In addition, you can specify whether the Image Set is automatically published.
 * InfoPanel Datafeed panel lets you specify a CSV file containing the text you want to appear in the info panel rollover text, and schedule times for updating the information.
@@ -34,7 +34,7 @@ You can select one of three preset response templates for displaying text in an 
     * To use the default response, select **[!UICONTROL Default]**. The XML for the template design appears, dimmed, in the User Template text box.
     * To create your own response template, select **[!UICONTROL Custom]**. In the User Template text box, type the template XML definition. You can use the default template that is already defined in the text box as a base for your own response.
 
-1. (Optional) In the Default Response box, type the text that you want to appear if Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
+1. (Optional) In the Default Response box, type the text that you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an Image Set name, but no rollover identifier, this message appears for the user.
 1. In the Response TTL text field, enter the number of hours that you want to wait before caching the data.
 
     * Set a lower number if the data is updated frequently throughout the day.
