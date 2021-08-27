@@ -64,7 +64,7 @@ After you add a user, Adobe Dynamic Media Classic sends the user a Welcome e-mai
 
 ### Delete a user {#deleting-a-user}
 
-You can delete users from Adobe Adobe Dynamic Media Classic by making them invalid. Invalid users are removed from the system and all accounts.
+You can delete users from Adobe Dynamic Media Classic by making them invalid. Invalid users are removed from the system and all accounts.
 
 1. Go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Select a user from the list, and then select **[!UICONTROL Edit]**.

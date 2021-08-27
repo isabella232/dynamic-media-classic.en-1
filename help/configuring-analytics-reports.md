@@ -77,7 +77,7 @@ The following table describes viewer events you can add to the Adobe Analytics C
 
 ### Adobe Dynamic Media Classic variables {#scene-variables}
 
-For each viewer event on Adobe Analytics Configuration screen, choose an Adobe Analytics variable and a *Adobe Dynamic Media Classic variable*. Adobe Dynamic Media Classic variables represent data you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
+For each viewer event on Adobe Analytics Configuration screen, choose an Adobe Analytics variable and an *Adobe Dynamic Media Classic variable*. Adobe Dynamic Media Classic variables represent data you can obtain for a report. For example, the `searchTerm` variable lists keywords used in eCatalog searches.
 
 The following table describes Adobe Dynamic Media Classic variables:
 
