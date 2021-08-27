@@ -1,5 +1,5 @@
 ---
-title: Organizing your work with Projects
+title: Organize your work with Projects
 description: Learn how to organize your work with Projects in Adobe Dynamic Media Classic.
 uuid: bd2b1792-e2d9-4a15-90c1-8ef2cf632867
 contentOwner: admin

@@ -26,7 +26,7 @@ See [Frequently Asked Questions](new-ui-2020.md). New updates as of May 7, 2020.
 ## Adobe Dynamic Media Classic User Resources
 
 * [Dynamic Media Monthly Newsletter](dynamic-media-newsletter.md)
-* [Guide: Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
+* [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 * [Guide: Best Practices Guide for Sharpening Images](/help/assets/s7_sharpening_images.pdf)
 * [Guide: How Adobe Dynamic Media Classic Supports SEO](/help/assets/s7_seo.pdf) - Search engines today enable search for websites and images. Adobe Dynamic Media Classic supports efforts to make images search-engine friendly so that more traffic is driven to the Adobe Dynamic Media Classic user's website. This guide in PDF gives you the background and implementation recommendations to make that happen.
 <!-- * [Webinar: Best Practices for Responsive Design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Learn practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one master asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images. -->
