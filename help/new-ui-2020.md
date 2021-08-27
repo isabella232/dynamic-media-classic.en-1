@@ -84,7 +84,7 @@ Contact Adobe Support with any issues you have while using the app.
 
 Adobe Dynamic Media Classic is a powerful, feature-rich solution designed to enhance your rich media strategies. To ensure you take advantage of all the capabilities, be sure you explore these practical resources:
 
-* [Adobe Dynamic Media Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
+* [Adobe Dynamic Media Classic Best Practices Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 * [Adobe Blog Posts](https://blog.adobe.com/)<!-- (https://blog.adobe.com/tag/dynamic-media/) -->
 * [Adobe Dynamic Media Newsletter Archives](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/dynamic-media-newsletter.html)
 
