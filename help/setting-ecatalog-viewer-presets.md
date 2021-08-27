@@ -40,7 +40,7 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
     | --- | --- | --- |
     | `$1$` | rollover_key value | The item identifier from the `<area>` element of the map. |
     | `$2$` | frame | The sequence number of the currently shown frame in the image set. |
-    | `$3$` | imageroot| The first path element of the first item specified in the image command (typically the image catalog ID of the catalog entry specifying the image set). |
+    | `$3$` | image root| The first path element of the first item specified in the image command (typically the image catalog ID of the catalog entry specifying the image set). |
 
 1. (Optional) In the **[!UICONTROL Info Panel Settings]**, in the **[!UICONTROL Response Template]** box, type the text you want to appear if Adobe Dynamic Media Classic encounters an error in retrieving information for an image map. For example, if the system receives a company name and an eCatalog name, but no rollover identifier, this message appears for the user.
 
