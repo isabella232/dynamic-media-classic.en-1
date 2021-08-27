@@ -55,7 +55,7 @@ In this one-stop shop archived newsletter, you can find valuable knowledge-build
 
     In this issue:
 
-  * Attend new Skill Builder Webinars and transform into a Adobe Dynamic Media Classic expert.
+  * Attend new Skill Builder Webinars and transform into an Adobe Dynamic Media Classic expert.
   * See where you can find Dynamic Media at Adobe Summit 2020.
   * Explore how to use the cropping magic of Dynamic Media.
   * To help you get more value from Adobe Dynamic Media Classic, take advantage of a free audit from Adobe.

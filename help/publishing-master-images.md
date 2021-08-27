@@ -1,6 +1,6 @@
 ---
-title: Publishing master images
-description: Learn how to publish master images.
+title: Publish master images
+description: Learn how to publish master images from Adobe Dynamic Media Classic.
 uuid: b56ba79a-f89a-45f1-a8bb-c73a22eab8d4
 contentOwner: admin
 content-type: reference
@@ -11,19 +11,19 @@ feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: b0010107-248c-4ebc-955c-7514462f351d
 ---
-# Publishing master images{#publishing-master-images}
+# Publish master images{#publishing-master-images}
 
 Publishing your image files publishes them to Dynamic Media Image Servers, where they are available to your web site and application. What’s more, during the publishing process, Adobe Dynamic Media Classic activates the URL strings you need for your web site and application.
 
-## Marking master images for publish {#marking-master-images-for-publish}
+## Mark master images for publish {#marking-master-images-for-publish}
 
 Master images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your master images for publish in the Browse Panel by clicking **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them to Adobe Dynamic Media Classic.
 
-## Publishing your master images {#publishing-your-master-images}
+## Publish your master images {#publishing-your-master-images}
 
-1. On the Global Navigation bar, click **[!UICONTROL Publish]**. On the Publish dialog box, select a When option (**[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**), then optionally enter a name for the publish job
+1. On the Global Navigation bar, select **[!UICONTROL Publish]**. On the Publish dialog box, select a When option (**[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**), then optionally enter a name for the publish job
 
-1. Click **[!UICONTROL Submit Publish]**.
+1. Select **[!UICONTROL Submit Publish]**.
 
 >[!NOTE]
 >
@@ -31,4 +31,4 @@ Master images must be marked for publish for them to be copied to Dynamic Media 
 
 >[!MORELIKETHIS]
 >
->* [Publishing](publishing-files.md#publishing_files)
+>* [Publish files](publishing-files.md#publishing_files)

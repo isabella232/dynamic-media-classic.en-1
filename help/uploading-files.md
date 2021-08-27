@@ -12,7 +12,7 @@ exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
 ---
 # Uploading files{#uploading-files}
 
-Before you upload assets files to Adobe Dynamic Media Classic, make sure that the asset files are named correctly, and that your folder structure is set up and organized the way you want. You can upload files from a Adobe Dynamic Media Classic-provided FTP site or directly from your computer or network. Adobe Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Dynamic Media Classic desktop application, you can upload files and folders by dragging them directly from your desktop. See [Application General Settings](application-setup.md#general_settings).
+Before you upload assets files to Adobe Dynamic Media Classic, make sure that the asset files are named correctly, and that your folder structure is set up and organized the way you want. You can upload files from an Adobe Dynamic Media Classic-provided FTP site or directly from your computer or network. Adobe Dynamic Media Classic offers options for optimizing files as you upload them. If you installed Adobe Dynamic Media Classic desktop application, you can upload files and folders by dragging them directly from your desktop. See [Application General Settings](application-setup.md#general_settings).
 
 ## Preparing your assets and folders for uploading {#preparing-your-assets-and-folders-for-uploading}
 
@@ -83,7 +83,7 @@ To achieve optimal results with the Adobe Dynamic Media Classic program, be sure
 
 >[!NOTE]
 >
->When you upload image files and PDFs to Adobe Dynamic Media Classic, the system converts these source files to P-TIFF (Pyramid TIFF) files. These P-TIFFs are the files that are later published to Dynamic Media Image Servers. Adobe Dynamic Media Classic uses the Pyramid Tiff file format because it contains various zoom ratios that allow for fast zooming when viewed with a Adobe Dynamic Media Classic Zoom Viewer.
+>When you upload image files and PDFs to Adobe Dynamic Media Classic, the system converts these source files to P-TIFF (Pyramid TIFF) files. These P-TIFFs are the files that are later published to Dynamic Media Image Servers. Adobe Dynamic Media Classic uses the Pyramid Tiff file format because it contains various zoom ratios that allow for fast zooming when viewed with an Adobe Dynamic Media Classic Zoom Viewer.
 
 ### Supported Static File Formats {#supported-static-file-formats}
 

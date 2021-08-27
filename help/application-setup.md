@@ -27,11 +27,11 @@ On account creation, Adobe Dynamic Media Classic automatically provides the assi
 
 See also [Test the Secure Testing service](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
-* **[!UICONTROL Published Server Name]** - This server is the live Content Deliver Network (CDN) server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by a Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Published Server Name]** - This server is the live Content Deliver Network (CDN) server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
-* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by a Adobe Dynamic Media Classic support technician.
+* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician.
 
-<!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Adobe Dynamic Media Classic support technician. -->
+<!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician. -->
 
 * **[!UICONTROL Test&amp;Target Server Name]** - Your Test&Target URL, up to and including .com. For instructions about obtaining this URL, see Integrating [!DNL Adobe Dynamic Media Classic] with [!DNL Adobe Target Standard/Premium].
 

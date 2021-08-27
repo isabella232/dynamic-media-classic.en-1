@@ -14,7 +14,7 @@ exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
 
 eCatalog Viewer Presets determine the style, behavior, and look of eCatalog Viewers. Adobe Dynamic Media Classic provides eCatalog Viewer Presets, and you can create your own eCatalog Viewer Presets as well if you are an administrator.
 
-To create a preset, you can start from scratch or start with a Adobe Dynamic Media Classic-provided eCatalog Viewer Preset and save it under a new name. You can create your own eCatalog Viewer Presets to present printed material in your company colors and set the tone.
+To create a preset, you can start from scratch or start with an Adobe Dynamic Media Classic-provided eCatalog Viewer Preset and save it under a new name. You can create your own eCatalog Viewer Presets to present printed material in your company colors and set the tone.
 
 eCatalog Viewer Presets offer many settings for going from page to page, zooming, searching, and choosing “skins.” What these controls look like and how the Viewer appears, depends on your choice of eCatalog Viewer Presets.
 
@@ -25,7 +25,7 @@ Follow these steps so you can create a eCatalog Viewer Preset (you must be an ad
 
    * **Creating an eCatalog Viewer Preset** - Click **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose eCatalog Viewer, then click **[!UICONTROL Add]**.
 
-   * **Editing an eCatalog Viewer Preset** - Select an eCatalog Viewer Preset, then click Edit. Click **[!UICONTROL Save As]** after you finish creating the preset.
+   * **Editing an eCatalog Viewer Preset** - Select an eCatalog Viewer Preset, then click **[!UICONTROL Edit]**. Click **[!UICONTROL Save As]** after you finish creating the preset.
 
 1. On the Configure Viewer screen, enter a name for your eCatalog Viewer Preset.
 1. In the Configure Viewer screen, set the options you want.

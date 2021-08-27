@@ -63,7 +63,7 @@ On the eCatalog page, on the **[!UICONTROL Order Pages]** tab, select a Layout o
 
 To add pages, select a folder in the Asset Library, and then drag PDF or image files from into the Order Pages screen. Instead of default page numbers, you can provide custom page names or import many page names.
 
-Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose a Adobe Dynamic Media Classic folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
+Click **[!UICONTROL Save]**, enter a name for your eCatalog, choose an Adobe Dynamic Media Classic folder for storing it, and click **[!UICONTROL Save]**. Each time you change the page order or edit your eCatalog, save your changes by clicking **[!UICONTROL Save]**.
 
 See [Creating an eCatalog](creating-ecatalog.md).
 

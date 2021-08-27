@@ -14,7 +14,7 @@ The Publish Setup page settings determine how assets are delivered by default fr
 
 Administrators can change the default settings on the Image Server, Image Renderer, and Vignette pages to establish default settings for delivering assets from servers.
 
-To open the Publish Setup pages, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
+To open the Publish Setup pages, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
 
 >[!NOTE]
 >
@@ -24,30 +24,30 @@ To open the Publish Setup pages, click **[!UICONTROL Setup]** > **[!UICONTROL Ap
 
 The Image Server page establishes default settings for delivering images from image servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings).
 
-Change these settings only with the assistance of a Adobe Dynamic Media Classic support person.
+Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
 
-* **Catalog Management** - These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
+* **[!UICONTROL Catalog Management]** - These settings determine how Adobe Dynamic Media Classic and the catalog interact. Unlike most web servers, Dynamic Media Image Server URL calls go to a manifest-or catalog-file rather than an image file proper. The catalog file (not to be confused with an eCatalog) contains a list of all content published to the image server along with the path to each image. If you have a Digimarc ID, enter your user information in the Digimarc User Info section.
 
-* **Request Attributes** - These settings impose limits on images that can be delivered from the server. For example, the *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 and **[!UICONTROL Height]** 5000.
+* **[!UICONTROL Request Attributes]** - These settings impose limits on images that can be delivered from the server. For example, the *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 and **[!UICONTROL Height]** 5000.
 
-* **Default Request Attributes** - These settings pertain to the default appearance of images.
+* **[!UICONTROL Default Request Attributes]** - These settings pertain to the default appearance of images.
 
-* **Common Thumbnail Attributes** - These settings pertain to the default appearance and alignment of thumbnail images.
+* **[!UICONTROL Common Thumbnail Attributes]** - These settings pertain to the default appearance and alignment of thumbnail images.
 
-* **Defaults for Catalog Fields** - These settings pertain to the resolution and default thumbnail type of images.
+* **[!UICONTROL Defaults for Catalog Fields]** - These settings pertain to the resolution and default thumbnail type of images.
 
-* **Color Management Attributes** - These settings determine which ICC color profiles are used.
+* **[!UICONTROL Color Management Attributes]** - These settings determine which ICC color profiles are used.
 
-* **Compatibility Attributes** - This setting enables leading and trailing paragraphs in text layers to be treated as they were in version 3.6 for backwards compatibility.
+* **[!UICONTROL Compatibility Attributes]** - This setting enables leading and trailing paragraphs in text layers to be treated as they were in version 3.6 for backwards compatibility.
 
-* **Localization Support** - These settings let you manage multiple locale attributes. It also lets you specify a locale map string so you can define which languages you want to support for the various tooltips in Viewers.
+* **[!UICONTROL Localization Support]*** - These settings let you manage multiple locale attributes. It also lets you specify a locale map string so you can define which languages you want to support for the various tooltips in Viewers.
 
     For example, if you are a multi-national brand that sells in different countries, you can ensure that each country has their own locale-specific Viewer. To accomplish this functionality, you specify a locale map string. Then you edit the tooltip text in a Viewer’s preset by adding the translated text strings for the language you want.
 
     >[!NOTE]
     > To set up Localization Support options, [use the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request setup help.
 
-    For more information about setting up **Localization Support**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
+    For more information about setting up **[!UICONTROL Localization Support]**, see [Considerations when setting up localization of assets](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
 ### Considerations when setting up localization of assets {#considerations-when-setting-up-localization-of-assets}
 
@@ -83,13 +83,13 @@ Some of the benefits of using `locale=` and `attribute::DefaultLocale` include t
 
 #### Application scenarios
 
-|Application|Scenario|
-|--- |--- |
-|Viewer localization|After static content catalogs are implemented, localization is controlled entirely with the locale= parameter, appended to all requests that are made to IS. Configuration records, skins, splash screens, and so on, can have locale-specific variants or not. The correct contents is provided by IS without the viewer needing to know which contents is localized and what its IDs are.|
-|Images and video|Multi-national companies often have a mix of generic and locale-specific contents. With this mechanism, a reference to an image or video can be generic, and IS serves up the locale-specific contents if it is available.|
-|Image sets and Media sets|The entire image set can be different for some locales--such as when an eCatalog is different--with the translation from a generic to a locale-specific image set handled by the viewer. More commonly, individual IDs in a generic set can refer to localized contents. For example, most photos of an appliance can be the same in all languages, except the photo of the Control Panel. IS automatically translate IDs, so there is no need to generate locale-specific image sets.|
+| Application | Scenario |
+| --- | --- |
+| Viewer Localization | After static content catalogs are implemented, localization is controlled entirely with the locale= parameter, appended to all requests that are made to IS. Configuration records, skins, splash screens, and so on, can have locale-specific variants or not. The correct contents is provided by IS without the viewer needing to know which contents is localized and what its IDs are. |
+| Images and Video | Multi-national companies often have a mix of generic and locale-specific contents. With this mechanism, a reference to an image or video can be generic, and IS serves up the locale-specific contents if it is available. |
+| Image Sets and Media Sets | The entire image set can be different for some locales--such as when an eCatalog is different--with the translation from a generic to a locale-specific image set handled by the viewer. More commonly, individual IDs in a generic set can refer to localized contents. For example, most photos of an appliance can be the same in all languages, except the photo of the Control Panel. IS automatically translate IDs, so there is no need to generate locale-specific image sets. |
 
-#### Implementing asset localization
+#### Implement asset localization
 
 Adobe Dynamic Media Classic and Image Serving have an interface that allows for the localizations of images and static content.
 
@@ -101,7 +101,7 @@ With localization, an Image Server URL adds the `locale=` parameter to the path,
 
 `https://server/is/image/company/image?locale=de_DE`
 
-On receipt of the http call by the Image Server, the `locale=` parameter is parsed through the localeMap field found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]** group.
+On receipt of the http call by the Image Server, the `locale=` parameter is parsed through the `localeMap` field found in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]** group.
 
 The Locale Map field contains a list of entries that are separated using the pipe symbol (|).
 
@@ -115,19 +115,19 @@ Whether a suffix value or a replacement value is applied depends on the Global L
 
 **Suffix example:**
 
-|URL|localeMap IDs|Result|
-|--- |--- |--- |
-|`https://server/is/image/company/image?locale=de_DE`|`de_DE,_DE,|fr_FR,_FR,`|Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the localeMap. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value “” is used as a suffix, resulting in the image itself being returned.|
+| URL | localeMap IDs | Result |
+| --- | --- | --- |
+| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Notice that there is no GlobalLocale defined. The locale parameter de_DE is matched against the first entry in the `localeMap`. The first corresponding value _DE is added as a suffix to the asset image_DE and an attempt is made to find it on the Image Server. If it is found on the server, it is returned. Otherwise, the second value “” is used as a suffix, resulting in the image itself being returned. |
 
 **Replacement example:**
 
-|URL|GlobalLocale and localeMap IDs|Result|
+|URL|`GlobalLocale` and `localeMap` IDs|Result|
 |--- |--- |--- |
-|`https://server/is/image/company/image-main-01?locale=de_DE`|`GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main`|In the replacement example above, GlobalLocale is set to main. The locale parameter de_DE is matched against the first entry in the localeMap. The GlobalLocale substring is found and replaced with the first corresponding value `de` in the localeMap: `image-de-01`. If it is found on the Image Server, it is returned. If not, the second value is replaced, resulting in `image-main-01`.|
+|`https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main` | In the replacement example above, GlobalLocale is set to main. The locale parameter de_DE is matched against the first entry in the `localeMap`. The GlobalLocale substring is found and replaced with the first corresponding value `de` in the `localeMap`: `image-de-01`. If it is found on the Image Server, it is returned. If not, the second value is replaced, resulting in `image-main-01`. |
 
 If no locale is defined in the URL, the Image Server takes the DefaultLocale, if it is defined, and applies it to the URL.
 
-If an unknown or empty locale parameter is supplied with `locale=`, then the localeMap is scanned for the empty value “starting with,”. It is important to have a default locale applied for unknown locales.
+If an unknown or empty locale parameter is supplied with `locale=`, then the `localeMap` is scanned for the empty value “starting with,”. It is important to have a default locale applied for unknown locales.
 
 #### About defaultImage
 
@@ -147,12 +147,12 @@ The locale IDs are mapped to their corresponding suffixes. If no locale-specific
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,`
 
-|locale=|Output IDs to search|
-|--- |--- |
-|en,en_us, en_uk|myImg_E, myImg|
-|de,de_de,de_at|myImg_D, myImg|
-|fr|myImg_F, myImg|
-|All others|-|
+| locale= | Output IDs to search |
+| --- | --- |
+| en , en_us, en_uk | myImg_E, myImg |
+| de , de_de , de_at | myImg_D, myImg |
+| fr | myImg_F, myImg |
+| All others | - |
 
 ##### Finding the localeMap when the locale is unknown
 
@@ -160,11 +160,11 @@ You can map unknown locales to specific IDs or to generic IDs. For the example, 
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,_E,`
 
-|locale=|Output IDs to search|
-|--- |--- |
-|de,de_de,de_at|myImg_D,myImg|
-|fr|myImg_F,myImg|
-|All others|myImg_E,myImg|
+| locale= | Output IDs to search |
+| --- | --- |
+| de, de_de, de_at | myImg_D, myImg |
+| fr | myImg_F, myImg |
+| All others | myImg_E, myImg |
 
 You could also have a dedicated locSuffix, such as U, just for unknown locales, and force to the default image if no `_U` exists, as in the following:
 
@@ -174,7 +174,7 @@ Or, you can map directly to the generic ID, as in the following:
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,`
 
-##### Finding the localeMap using a multi-tiered lookup
+##### Find the localeMap using a multi-tiered lookup
 
 It is often desirable to group locales, such as European, Middle Eastern, and North American, to address regional standards, such as skin exposure. You can achieve this effect using a multi-tiered lookup.
 
@@ -182,15 +182,15 @@ For this example, suppose you want to support collections for Western and Middle
 
 `attribute::LocaleMap=w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
-|locale=|Output IDs to search|
-|--- |--- |
-|w1, w3|myImg-W, myImg|
-|w2|myImg-W2, myImg-W, myImg|
-|m1|myImg-M1, myImg-M, myImg|
-|m2|myImg-M2, myImg-M, myImg|
-|All others|mylmg|
+| locale= | Output IDs to search |
+| --- | --- |
+| w1, w3 | myImg-W, myImg |
+| w2 | myImg-W2, myImg-W, myImg |
+| m1 | myImg-M1, myImg-M, myImg |
+| m2 | myImg-M2, myImg-M, myImg |
+| All others | mylmg |
 
-##### Finding the localeMap by searching for specific IDs
+##### Find the localeMap by searching for specific IDs
 
 Some image naming conventions do not support generic image IDs. The generic IDs from the request must be mapped to a specific ID in the catalog. However, there are instances where the exact specific ID is not known.
 
@@ -198,11 +198,11 @@ Using the first example as a basis, images for all languages could have the suff
 
 `attribute::LocaleMap=,_1,_2,_3|fr,_22,_23,_1,_2,_3|de,_470,_480,_1,_2,_3|de_at,_470,_480,_1,_2,_3|de_de,_470,_480,_1,_2,_3`
 
-|locale=|Output IDs to search|
-|--- |--- |
-|fr|myImg_22, myImg_23, myImg_1, myImg_2, myImg_3|
-|de, de_at, de_de|myImg_470, myImg_480, myImg_1, myImg_2,myImg_3|
-|All others|myImg_1, myImg_2, myImg_3|
+| locale= | Output IDs to search |
+| --- | --- |
+| fr | myImg_22, myImg_23, myImg_1, myImg_2, myImg_3 |
+| de, de_at, de_de | myImg_470, myImg_480, myImg_1, myImg_2,myImg_3 |
+| All others | myImg_1, myImg_2, myImg_3 |
 
 ##### Important considerations when implementing localization support
 
@@ -214,15 +214,15 @@ Using the first example as a basis, images for all languages could have the suff
 
 The Image Renderer page establishes default settings for delivering Image Sets from image rendering servers. Settings are available in these five categories (see the Image Server page itself for detailed descriptions of the settings):
 
-* **Catalog Management** - These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of a Adobe Dynamic Media Classic support person.
+* **[!UICONTROL Catalog Management]** - These settings determine how Adobe Dynamic Media Classic and the catalog file interact. Adobe Dynamic Media Classic Render Server URL calls are made to the catalog, which in turn calls to deliver images from the server. Change these settings only with the assistance of an Adobe Dynamic Media Classic support person.
 
-* **Session Attributes** - These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
+* **[!UICONTROL Session Attributes]** - These settings establish error parameters, the URL for relative image URLs, and whether object overlapping is permitted.
 
-* **Default Material Attributes** - These settings establish default resolution and sharpening settings for images.
+* **[!UICONTROL Default Material Attributes]** - These settings establish default resolution and sharpening settings for images.
 
-* **Response Image Attributes** - These settings pertain to the default appearance of images.
+* **[!UICONTROL Response Image Attributes]** - These settings pertain to the default appearance of images.
 
-* **Color Management Attributes** - These settings pertain to the default color settings of images.
+* **[!UICONTROL Color Management Attributes]** - These settings pertain to the default color settings of images.
 
 ## Vignette {#vignette}
 

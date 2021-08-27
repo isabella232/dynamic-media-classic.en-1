@@ -1,6 +1,6 @@
 ---
-title: Publishing a Mixed Media Set
-description: Learn how to publish a Mixed Media Set.
+title: Publish a Mixed Media Set
+description: Learn how to publish a Mixed Media Set from Adobe Dynamic Media Classic.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 ---
-# Publishing a Mixed Media Set{#publishing-a-mixed-media-set}
+# Publish a Mixed Media Set{#publishing-a-mixed-media-set}
 
 Create a publish job to publish a Mixed Media Set that you have marked for publish to Adobe Dynamic Media Classic Video Server and Image Server. Adobe Dynamic Media Classic offers advanced publishing options for publishing to specific servers and options for republishing assets that have already been published.
 
@@ -37,20 +37,20 @@ Last Modified Date:
 
 1. Do one of the following:
 
-    * In the Browse Panel, click **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
-    * In the Upload screen, click **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
+    * In the Browse Panel, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
+    * In the Upload screen, select **[!UICONTROL Mark For Publish]** next to each filename that you want to publish.
 
-1. On the Global Navigation bar, click **[!UICONTROL Publish]**.
+1. On the Global Navigation bar, select **[!UICONTROL Publish]**.
 1. Set the scheduling options you want.
 1. (Optional) In the **[!UICONTROL Job Name]** field, type a name for the publish job.
 1. In **[!UICONTROL Advanced]** options, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Video Server]**.
 
    See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
 
-1. Click **[!UICONTROL Submit Publish]**.
+1. Select **[!UICONTROL Submit Publish]**.
 1. Repeat steps 2-4 above.
 1. In **[!UICONTROL Advanced]**, in the **[!UICONTROL Publish To]** drop-down list, select **[!UICONTROL Image Server]**.
 
    See [Advanced publish options](publishing-files.md#advanced_publish_options) for more options you can set.
 
-1. Click **[!UICONTROL Submit Publish]**.
+1. Select **[!UICONTROL Submit Publish]**.

@@ -125,7 +125,7 @@ If you do not use the Adobe Dynamic Media Classic HTML5 video player, but instea
 
 ## Deploy video using a third-party video player {#deploying-video-using-a-third-party-video-player}
 
-If you use a third-party video player or a custom-built video player instead of a Adobe Dynamic Media Classic video viewer, you obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
+If you use a third-party video player or a custom-built video player instead of an Adobe Dynamic Media Classic video viewer, you obtain the direct video URL that works for HLS multi-bitrate video streaming or progressive download.
 
 **To deploy video using a third-party video player:**
 
