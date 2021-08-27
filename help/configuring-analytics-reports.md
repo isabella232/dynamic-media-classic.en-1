@@ -36,7 +36,7 @@ Use the Adobe Analytics Configuration screen to associate viewer events with Ado
 
    See [Viewer events](configuring-analytics-reports.md#viewer_events).
 
-1. Add a Adobe Dynamic Media Classic variable.
+1. Add an Adobe Dynamic Media Classic variable.
 
    See [Adobe Dynamic Media Classic variables](configuring-analytics-reports.md#scene7_variables).
 

@@ -17,7 +17,7 @@ After you have created the necessary variables in Adobe Analytics, linked them t
 
 **To test the integration by viewing an Adobe Analytics report:**
 
-1. Start a Adobe Dynamic Media Classic viewer from your account, particularly one that broadcasts the metric that you want to obtain, and interact with it to create some event data.
+1. Start an Adobe Dynamic Media Classic viewer from your account, particularly one that broadcasts the metric that you want to obtain, and interact with it to create some event data.
 
    For example, if you want to measure popular alternative views in an Image Set, then preview an Image Set and click the different thumbnails images.
 

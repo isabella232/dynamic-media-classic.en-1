@@ -1,6 +1,6 @@
 ---
-title: Publishing zoom images
-description: Learn how to publish Zoom images.
+title: Publish zoom images
+description: Learn how to publish Zoom images from Adobe Dynamic Media Classic.
 uuid: d7e7a474-8af5-46a7-94df-063396f67554
 contentOwner: admin
 content-type: reference
@@ -11,18 +11,18 @@ feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
 ---
-# Publishing zoom images{#publishing-zoom-images}
+# Publish zoom images{#publishing-zoom-images}
 
 Publishing places your zoom images on Dynamic Media Image Servers so they can be made available to your web site and application. As part of the publishing process, Adobe Dynamic Media Classic activates the URL strings. You can place these URL strings in the HTML code of your web site.
 
-## Marking images for publish {#marking-images-for-publish}
+## Mark images for publish {#marking-images-for-publish}
 
 Images must be marked for publish for them to be copied to Dynamic Media Image Servers. You can mark your images for publish in the Browse Panel by selecting the **[!UICONTROL Mark for Publish]** icon. You can also mark images for publish when you upload them.
 
-## Publishing the images {#publishing-the-images}
+## Publish the images {#publishing-the-images}
 
-To publish zoom images, on the Global Navigation bar, click **[!UICONTROL Publish]**, then select a **[!UICONTROL When]** option (**[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**). You can optionally enter a name for the publish job. Click **Submit Publish**.
+To publish zoom images, on the Global Navigation bar, select **[!UICONTROL Publish]**, then select a **[!UICONTROL When]** option (**[!UICONTROL One-Time]** or **[!UICONTROL Recurring]**). You can optionally enter a name for the publish job. Select **Submit Publish**.
 
 >[!MORELIKETHIS]
 >
->* [Publishing](publishing-files.md#publishing_files)
+>* [Publish files](publishing-files.md#publishing_files)
