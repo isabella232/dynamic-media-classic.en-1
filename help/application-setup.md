@@ -29,7 +29,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Published Server Name]** - This server is the live Content Deliver Network (CDN) server used in all system-generated URL calls specific to your account. Do not change this server name unless you are instructed to do so by an Adobe Dynamic Media Classic support technician.
 
-* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician.
+* **[!UICONTROL Origin Server Name]** - This server is used for quality assurance testing only. Do not change this server name unless instructed to do so by an Adobe Dynamic Media Classic support technician.
 
 <!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician. -->
 
@@ -617,7 +617,7 @@ See [Export an HTML5 Viewer preset](application-setup.md#exporting_an_html5_view
 
 You can export an existing HTML5 Viewer Preset to use as the basis for creating an HTML5 Viewer Preset. This export option is useful because you do not have to create the viewer from scratch. Instead, you export a preset that looks and behaves close to what you want, then you can use that as a starting point to make design adjustments.
 
-All default, out-of-box Viewer preset CSS files in Adobe Adobe Dynamic Media Classic use relative image serving paths that point to assets on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file on 
+All default, out-of-box Viewer preset CSS files in Adobe Dynamic Media Classic use relative image serving paths that point to assets on `Scene7SharedAssets`. For example, the following is a relative path to an image asset in a Viewer preset CSS file on 
 
 `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
