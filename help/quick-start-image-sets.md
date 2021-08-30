@@ -1,6 +1,6 @@
 ---
 title: "Quick Start: Image Sets"
-description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques.
+description: An introduction and Quick Start to Image Sets to help you get up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: admin
 content-type: reference
@@ -19,39 +19,39 @@ The Image Set Viewer offers zooming tools for examining images closely. If you w
 
 This Image Sets Quick Start is designed to get up and running quickly with Image Set techniques in Adobe Dynamic Media Classic.
 
-## 1. Uploading your master images for multiple views and swatches
+## 1. Upload your master images for multiple views and swatches
 
 Start by uploading the images for your Image Sets. Because users can zoom on images in the Image Set Viewer, be sure you account for this ability when choosing images. Make sure that the images are least 2000 pixels in the largest size. Adobe Dynamic Media Classic supports many image file formats, but lossless TIFF, PNG, and EPS images are recommended.
 
-On the Global Navigation bar, click **[!UICONTROL Upload]** to upload files from your computer to a folder on Adobe Dynamic Media Classic.
+On the Global Navigation bar, select **[!UICONTROL Upload]** to upload files from your computer to a folder on Adobe Dynamic Media Classic.
 
-See [Preparing Image Set assets for upload](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) and [Uploading your files](uploading-files.md#uploading-your-files).
+See [Prepare Image Set assets for upload](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) and [Upload your files](uploading-files.md#uploading-your-files).
 
-## 2. Creating an Image Set
+## 2. Create an Image Set
 
-In Image Sets, users click thumbnail images in the Image Set Viewer to see an image from a different side or angle.
+In Image Sets, users select thumbnail images in the Image Set Viewer to see an image from a different side or angle.
 
-To create an Image Set, on the Global Navigation bar, click **[!UICONTROL Build]**, then choose **[!UICONTROL Image Sets]**. On the Image Set window, drag your images onto the page to compose your Image Set. Organize, add, and delete images as needed.
+To create an Image Set, on the Global Navigation bar, select **[!UICONTROL Build]**, then choose **[!UICONTROL Image Sets]**. On the Image Set window, drag your images onto the page to compose your Image Set. Organize, add, and delete images as needed.
 
-See [Creating an Image Set](creating-image-set.md#creating-an-image-set).
+See [Create an Image Set](creating-image-set.md#creating-an-image-set).
 
-See also [Including zoom targets and Image Maps in Image Sets](/help/including-zoom-targets-image-maps-image-sets.md)
+See also [Include zoom targets and Image Maps in Image Sets](/help/including-zoom-targets-image-maps-image-sets.md)
 
-## 3. Setting up Image Set Viewer Presets, as needed
+## 3. Prepare Image Set Viewer Presets, as needed
 
-Administrators can create or modify Image Set Viewer Presets. Adobe Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: Custom > Images or Image Sets/Multiple Views presets to view your Image Sets.
+Administrators can create or modify Image Set Viewer Presets. Adobe Dynamic Media Classic comes with default Viewer Presets for each rich media type. Use the Zoom Viewer: **[!UICONTROL Custom]** > **[!UICONTROL Images]** or **[!UICONTROL Image Sets]**/**[!UICONTROL Multiple Views]** presets to view your Image Sets.
 
 You add or edit Viewer Presets from the Application Setup screen.
 
-See [Creating and editing Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
+See [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
 
-## 4. Previewing an Image Set
+## 4. Preview an Image Set
 
-Select the Image Set in the Browse Panel, and then click **[!UICONTROL Preview]**. In the Preview page, click the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
+Select the Image Set in the Browse Panel, and then select **[!UICONTROL Preview]**. In the Preview page, select the thumbnail icons to examine your Image Set in the selected Viewer. You can choose different Viewers from the Presets menu.
 
-See [Previewing an asset](previewing-asset.md#previewing-an-asset).
+See [Preview an asset](previewing-asset.md#previewing-an-asset).
 
-## 5. Publishing an Image Set
+## 5. Publish an Image Set
 
 Publishing an Image Set places it on Adobe Dynamic Media Classic servers and activates the URL string.
 
@@ -59,14 +59,14 @@ Publishing an Image Set places it on Adobe Dynamic Media Classic servers and act
 >
 >This step is not necessary if you selected **[!UICONTROL Publish after save]** (default) at the time you created and saved the Image Set.
 
-Click **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse Panel. Then, click **[!UICONTROL Publish]**. On the Publish page, click **[!UICONTROL Submit Publish]**.
+Select **[!UICONTROL Mark for Publish]** icon to the left of its name in the Browse Panel. Then, select **[!UICONTROL Publish]**. On the Publish page, select **[!UICONTROL Submit Publish]**.
 
-See [Publishing](publishing-files.md#publishing-files).
+See [Publish files](publishing-files.md#publishing-files).
 
-## 6. Linking an Image Set to your Website
+## 6. Link an Image Set to your Website
 
 Adobe Dynamic Media Classic creates URL calls for Image Sets, and activates them after you publish. You can copy these URLs from the Preview screen.
 
-Select the Image Set, and then click **[!UICONTROL Preview]**. Now select an Image Set Viewer Preset, and then click **[!UICONTROL Copy URL]**.
+Select the Image Set, and then select **[!UICONTROL Preview]**. Now select an Image Set Viewer Preset, and then select **[!UICONTROL Copy URL]**.
 
-See [Linking an Image Set to a web page](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).
+See [Link an Image Set to a web page](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).

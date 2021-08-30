@@ -1,5 +1,5 @@
 ---
-title: "Quick Start: Video"
+title: "Quick Start: Video in Adobe Dynamic Media Classic"
 description: An introduction and Quick Start to Adobe Dynamic Media Classic Video to help you get up and running quickly.
 contentOwner: admin
 content-type: reference
@@ -9,7 +9,7 @@ feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 ---
-# Quick Start: Video{#quick-start-video}
+# Quick Start: Video in Adobe Dynamic Media Classic{#quick-start-video}
 
  Adobe Dynamic Media Classic Video is an end-to-end solution that makes it easy to publish high-quality Adaptive Video for streaming across multiple screens, including desktop, iOS, Android™, BlackBerry®, and Windows® mobile devices. An Adaptive Video Set groups versions of the same video that are encoded at different bit rates and formats such as 400 kbps, 800 kbps, and 1000 kbps. The desktop computer or mobile device detects the available bandwidth.
 
@@ -39,9 +39,9 @@ For managing single video and Adaptive Video Sets, Adobe Dynamic Media Classic s
 
 * Video captioning in the Univeral_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers and video chapter navigation in the Univeral_HTML5_Video, Universal_HTML5_MixedMedia_dark, and Universal_HTML5_MixedMedia_light viewers.
 
-  See [Adding captions to video](adding-captions-video.md).
+  See [Add captions to video](adding-captions-video.md).
 
-  See [Adding chapter markers to video](adding-chapter-markers-video.md).
+  See [Add chapter markers to video](adding-chapter-markers-video.md).
 
 * Organize, browse, and search video with full metadata support for efficient management of video assets.
 * Deliver Adaptive Video Sets to the web and to desktops, and mobile devices, including the iPhone, iPad, Android™, BlackBerry®, and Windows® phone.
@@ -70,20 +70,20 @@ For managing single video and Adaptive Video Sets, Adobe Dynamic Media Classic s
 
 The following step-by-step workflow description is designed to help you get up and running quickly with adaptive video sets in Adobe Dynamic Media Classic. After each step is a cross-reference to a topic heading where you can find more information.
 
-## 1. Uploading and encoding videos
+## 1. Upload and encode videos
 
 Upload and generate adaptive video sets using one of the following two scenarios:
 
-* **Upload pre-encoded videos** - If your videos were already encoded outside Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Adobe Dynamic Media Classic. Then, click **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
-* **Upload master source videos** - If your videos are not encoded, on the Global Navigation bar, click **[!UICONTROL Upload]** to upload master video source files (non-MP4) and have Adobe Dynamic Media Classic encode them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
+* **Upload pre-encoded videos** - If your videos were already encoded outside Adobe Dynamic Media Classic, on the Global Navigation bar, select **[!UICONTROL Upload]** to browse and upload MP4 video files directly to Adobe Dynamic Media Classic. Then, go to **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Browse to your video files. Drag-and-drop the video files you want into the Adaptive Video Set table, and then save the set.
+* **Upload master source videos** - If your videos are not encoded, on the Global Navigation bar, select **[!UICONTROL Upload]** to upload master video source files (non-MP4). Adobe Dynamic Media Classic encodes them to MP4 files for you. In the **[!UICONTROL Upload Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, select **[!UICONTROL Adaptive Video]**.
 
-  This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three video encodes in the correct aspect ratio.
+  This preferred option lets you create an Adaptive Video Set that automatically applies the correct encoding preset to the video, whether it is 16:9 or 4:3, to match the dimensions of the video you uploaded. When you submit your upload job, an Adaptive Video Set is automatically created for you which includes three encode video settings in the correct aspect ratio.
 
   Or, in the same **[!UICONTROL Job Options]** dialog box, under **[!UICONTROL EVideo Options]**, expand **[!UICONTROL Single Encoding Presets]**. Select individual video encoding presets that you want from **Desktop**, **Mobile (iPhone, iPad, Android™)**, and **Tablet (iPad, Android™)** so that you create the MP4 files.
 
 * Or, you can reprocess a master video using the **[!UICONTROL Reprocess]** feature. The newly encoded videos are added to the existing Adaptive Video Set.
 
-See [Uploading and encoding videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
+See [Upload and encode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
 **Optional**
 
@@ -91,31 +91,31 @@ Adobe Dynamic Media Classic offers numerous predefined video encoding presets. T
 
 However, if further customization is needed, administrators can create Video Presets to customize the size and playback experience of Videos to end users. Administrators can add and manage Video Presets from the Video Presets page available under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Single Encoding Presets]**. The Video Presets page offers options for adding, editing, deleting, and activating Video Presets.
 
-See [Working with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
+See [Work with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
-## 2. Previewing videos in a video viewer
+## 2. Preview videos in a video viewer
 
-To see how a video plays for end users on a desktop, your website, or on a mobile device, select the video in the Browse Panel, and then click **[!UICONTROL Preview]**.
+To see how a video plays for end users on a desktop, your website, or on a mobile device, select the video in the Browse Panel, and then select **[!UICONTROL Preview]**.
 
-See [Previewing videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
 You can play the video on the Preview page. You can also choose different Video Viewers to find out how your video appears in different players. As a best practice, use the HTML5 video player for multi-screen playback on desktop, tablet, and mobile devices.
 
 **Optional**
 
-Viewer Preset customization - Adobe Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Adobe Dynamic Media Classic, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
+Viewer Preset customization - Adobe Dynamic Media Classic offers predefined Viewer Presets for delivering video. These presets determine the look of the Viewer and how its playback controls work. To customize the video viewer, Administrators can add and manage Viewer Presets from the Viewer Presets page. To open this page, in the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. The Viewer Presets page offers commands for adding, editing, deleting, and activating Viewer Presets.
 
-See [Working with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
+See [Work with video viewer presets](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
-## 3. Deploying videos to your websites and mobile sites
+## 3. Deploy videos to your websites and mobile sites
 
 To integrate video into your website, you can do either one of the following:
 
 * Display the video in its own pop-up or modal window, in which case use the **[!UICONTROL Copy URL]** feature.
 
-  To obtain the URL for a video, in the Grid View or List View, select it in the Browse Panel. Click **[!UICONTROL Preview]**, and then click **[!UICONTROL Copy URL]** to the right of `Universal_HTML5_Viewer`.
+  To obtain the URL for a video, in the Grid View or List View, select it in the Browse Panel. Select **[!UICONTROL Preview]**, and then select **[!UICONTROL Copy URL]** to the right of `Universal_HTML5_Viewer`.
 
-  When you click **[!UICONTROL Copy URL]**, the URL is copied to the Clipboard. Place this code in the HTML of your website, mobile site, or application.
+  When you select **[!UICONTROL Copy URL]**, the URL is copied to the Clipboard. Place this code in the HTML of your website, mobile site, or application.
 
   >[!NOTE]
   >
@@ -123,15 +123,15 @@ To integrate video into your website, you can do either one of the following:
 
 * Display the video embedded on the web page, in which case use the **[!UICONTROL Embed Code]** feature.
 
-  To obtain the embed code for a video, in the Grid View or List View, select the video in the Browse Panel. Click **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, click **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
+  To obtain the embed code for a video, in the Grid View or List View, select the video in the Browse Panel. Go to **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Under the Actions column of the table, select **[!UICONTROL Embed Code]** to the right of `Universal_HTML5_Video`. Editing the code is not permitted.
 
-  Click **[!UICONTROL Close]** and paste the embed code in your web pages.
+  Select **[!UICONTROL Close]** and paste the embed code in your web pages.
 
   >[!NOTE]
   >
   >Embed code is only activated after you publish the video or Adaptive Video Set.
 
-See [Deploying video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
+See [Deploy video to your websites and mobile sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
 >[!MORELIKETHIS]
 >
