@@ -1,6 +1,6 @@
 ---
 title: "Quick Start: Media Portal"
-description: An introduction and Quick Start to Media Portal to help you get up and running quickly with Media Portal techniques and administration.
+description: An introduction and Quick Start to Media Portal to help you get up and running quickly with Media Portal techniques and administration in Adobe Dynamic Media Classic.
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: admin
 content-type: reference
@@ -17,7 +17,7 @@ Media Portal lets companies easily acquire, control, and distribute approved ass
 
 As an administrator, you control how users view, access, and use assets in Media Portal. Moreover, you can customize the Media Portal interface to match your web site and brand. You can specify font, font color, font size, and incorporate branding elements such as logos in the Media Portal interface.
 
-This Quick Start is designed to get you up and running quickly with Media Portal administration. At the end of each step, click the topic link to learn more.
+This Quick Start is designed to get you up and running quickly with Media Portal administration. At the end of each step, select the topic link to learn more.
 
 ## 1. Understand Media Portal user roles
 
@@ -29,19 +29,19 @@ See [Media Portal user roles](media-portal-user-roles.md#media_portal_user_roles
 
 Groups determine the folders and files to which a user has access, what users can do in those folders and files, and which Image Presets are available. As an administrator, your first task is to create groups. For each group, decide which folders, files, and Image Presets group members can access. As well, grant read, write, and delete permissions to the group members. These permissions determine whether members can browse, edit, rename, and delete the folders and files to which they have access.
 
-See [Creating and managing Media Portal groups](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
+See [Create and manage Media Portal groups](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
 ## 3. Add users
 
 When you add a user, you assign the user a role (user, contributor, or user-contributor). You also assign the user to one or more groups. To speed the process of adding users, you can upload a user list in the form of a CSV file. New users are sent a Welcome e-mail message and instructions for logging on to Media Portal.
 
-See [Adding and managing Media Portal users](adding-media-portal-users.md#adding_and_managing_media_portal_users).
+See [Add and manage Media Portal users](adding-media-portal-users.md#adding_and_managing_media_portal_users).
 
 ## 4. Manage FTP accounts
 
 You can have separate FTP accounts that are associated with Media Portal and mapped to a specific folder in your Adobe Dynamic Media Classic account. This kind of functionality means you can allow users to upload digital assets into your account using separate FTP accounts.
 
-See [Managing FTP accounts](ftp-accounts.md#managing_ftp_accounts).
+See [Manage FTP accounts](ftp-accounts.md#managing_ftp_accounts).
 
 >[!NOTE]
 >
@@ -53,13 +53,13 @@ See [Media Portal user roles](media-portal-user-roles.md#media_portal_user_roles
 
 Media Portal users, when they export files, can reformat the files and export original master files — if you give them permission to do that. As an administrator, you decide how users export files.
 
-See [Specifying export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+See [Specify export options available to Media Portal users](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
 ## 6. Create Image Presets
 
 An Image Preset is a collection of pre-defined settings that change the size, image quality, format, resolution, and other aspects of an image’s appearance when it is exported. You can create Image Presets to control how images are reformatted when users export them.
 
-See [Creating and enabling Image Presets](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
+See [Create and enable Image Presets](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
 
 ## 7. Create metadata presets and user-defined metadata fields
 
@@ -71,4 +71,4 @@ See [Making more efficient use of metadata](making-efficient-metadata.md#making_
 
 Media Portal style settings let you brand the Media Portal page with your company logo and colors. Use the style settings to put your company branding on Media Portal.
 
-See [Customizing the Media Portal page](customizing-media-portal-screen.md#customizing_the_media_portal_screen).
+See [Customize the Media Portal page](customizing-media-portal-screen.md#customizing_the_media_portal_screen).
