@@ -1,5 +1,5 @@
 ---
-title: Signing in to and out of Adobe Dynamic Media Classic
+title: Sign in to and out of Adobe Dynamic Media Classic
 description: Learn about signing in to and out of Adobe Dynamic Media Classic and connecting to a production environment server in North America (NA), or Europe, Middle East, Africa (EMEA), or Asia-Pacific (APAC).
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ exl-id: 8d70db72-b02b-4915-b4c3-6efb146b7f08
 ---
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
-# Signing in to Adobe Dynamic Media Classic {#dmc-sign-in}
+# Sign in to Adobe Dynamic Media Classic {#dmc-sign-in}
 
 Make sure that you have the following before using the Adobe Dynamic Media Classic desktop application:
 
@@ -29,16 +29,16 @@ Make sure that you have the following before using the Adobe Dynamic Media Class
 Use the following mapping to select the production environment you want to use.
 
     | Browser URL | Desktop app server name |
-    |---|---|
+    | --- | --- |
     | https://s7sps1.scene7.com/ | NA (North America) production |
     | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
     | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
-1. Tap **[!UICONTROL Sign in]**.
+1. Select **[!UICONTROL Sign in]**.
 
-## Signing out from Adobe Dynamic Media Classic {#dmc-sign-out} 
+## Sign out from Adobe Dynamic Media Classic {#dmc-sign-out} 
 
-1. In the upper-right corner of the Adobe Dynamic Media Classic desktop application, tap **[!UICONTROL Sign out]**, then tap **[!UICONTROL Sign out]** again.
+1. In the upper-right corner of the Adobe Dynamic Media Classic desktop application, select **[!UICONTROL Sign out]**, and then select **[!UICONTROL Sign out]** again.
 
 >[!MORELIKETHIS]
 >

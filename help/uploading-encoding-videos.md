@@ -78,9 +78,9 @@ Do any one of the following.
 1. In the Reprocess Assets dialog box, expand **[!UICONTROL EVideo Options]**, then do one of the following:
    * Best practice is to use the following method. Select **Adaptive Video**.
      See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
-   * Optional. If you want to use individual encoding settings, expand ****[!UICONTROL Single Encoding Presets]****, and then select the encoding options you want for Desktop, Mobile, and Tablet.
+   * Optional. If you want to use individual encoding settings, expand **[!UICONTROL Single Encoding Presets]**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
      See [Desktop video encoding presets](application-setup.md#desktop-video-encoding-presets), [Mobile video encoding presets](application-setup.md#mobile-video-encoding-presets), [Tablet video encoding presets](application-setup.md#tablet-video-encoding-presets).
-1. In the Reprocess Assets dialog box, click **[!UICONTROL Submit]**.
+1. In the Reprocess Assets dialog box, select **[!UICONTROL Submit]**.
 
 When you use Adaptive Video encoding preset or you use multiple single encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
 
@@ -133,17 +133,17 @@ When you encode a video file, use a source video file of the highest possible qu
 
 The following table describes the recommended size, aspect ratio, and minimum bit rate that your source video files must have when you encode them:
 
-|Size|Aspect ratio|Minimum bit rate|
-|--- |--- |--- |
-|1024 X 768|4:3|4500 kbps for most videos.|
-|1280 X 720|16:9|3000 - 6000 kbps, depending on the amount of motion in the video.|
-|1920 X 1080|16:9|6000 - 8000 kbps, depending on the amount of motion in the video.|
+| Size | Aspect ratio | Minimum bit rate |
+| --- | --- | --- |
+| 1024 X 768 | 4:3 | 4500 kbps for most videos. |
+| 1280 X 720 | 16:9 | 3000 - 6000 kbps, depending on the amount of motion in the video. |
+| 1920 X 1080 | 16:9 | 6000 - 8000 kbps, depending on the amount of motion in the video. |
 
 ### Obtaining a file’s metadata {#obtaining-a-file-s-metadata}
 
 You can obtain a file’s metadata by viewing its metadata in Adobe Dynamic Media Classic, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
 
-1. Go to this web page: [https://mediainfo.sourceforge.net/en/Download](https://mediainfo.sourceforge.net/en/Download).
+1. Go to this web page: [https://mediaarea.net/en/MediaInfo](https://mediaarea.net/en/MediaInfo).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
 1. After installation, either right-click the video file (Windows® only) and select MediaInfo, or open MediaInfo and drag your video file into the application. You see all metadata associated with your video file, including its width, height, and fps.
 

@@ -1,6 +1,6 @@
 ---
-title: Sharing asset changes with peers in real time
-description: Learn how to share asset changes with peers in real time.
+title: Share asset changes with peers in real time
+description: Learn how to share asset changes with peers in real time in Adobe Dynamic Media Classic.
 uuid: 13fa4f6e-66bf-4682-96a9-0e7040706f53
 contentOwner: admin
 content-type: reference
@@ -11,9 +11,9 @@ feature: Dynamic Media Classic,Asset Management,Collaboration
 role: Admin,User
 exl-id: d74b4966-fe43-4349-bbe1-3a379c49bf1f
 ---
-# Sharing asset changes with peers in real time{#sharing-asset-changes-with-peers-in-real-time}
+# Share asset changes with peers in real time{#sharing-asset-changes-with-peers-in-real-time}
 
-With multiple copies of Adobe Dynamic Media Classic running on one or more computers in the same company, the following actions from any Adobe Dynamic Media Classic client are updated in real time with all peer clients:
+With multiple copies of Adobe Dynamic Media Classic running on multiple computers in the same company, the following actions from any Adobe Dynamic Media Classic client are updated in real time with all peer clients:
 
 * Edit an asset (builder, image editor, and so on)
 * Rename an asset

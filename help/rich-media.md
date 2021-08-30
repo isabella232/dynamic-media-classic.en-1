@@ -19,7 +19,7 @@ Adobe Dynamic Media Classic offers many tools for creating rich media. You creat
     See [Quick Start: eCatalog](/help/quick-start-ecatalog.md).
 
 * **eVideo** - Delivery high-quality video experiences to multiple screens, including desktops, mobile devices, and tablets. Use predefined Adobe Dynamic Media Classic encoding presets or customize encoding to control the quality and size of video. Organize, browse, and search video with full metadata support for efficient management of video assets.
-    See [Quick Start: eVideo](/help/quick-start-video.md).
+    See [Quick Start: Video in Adobe Dynamic Media Classic](/help/quick-start-video.md).
 
 * **Image Maps** - Dynamically serve images at any size and format throughout your web site. Instead of manually creating many images at different sizes, you only use one master image. As Adobe Dynamic Media Classic delivers the requested image, it optimizes the image for highest-quality results in size, format, weight, quality, and sharpening.
     See [Quick Start: Image Sizing](/help/quick-start-image-sizing.md).

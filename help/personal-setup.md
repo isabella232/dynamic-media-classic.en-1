@@ -89,9 +89,9 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Email
 
-* ****[!UICONTROL Email Options]**** - Choose how you want Adobe Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
-* ****[!UICONTROL Email Scope]**** - Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
-* ****[!UICONTROL Email Types]**** - Determines whether you are informed when upload jobs and publish jobs are completed.
+* **[!UICONTROL Email Options]** - Choose how you want Adobe Dynamic Media Classic to inform you by e-mail when upload and publish jobs are completed. You can receive job completion notices only if warnings or errors occurred.
+* **[!UICONTROL Email Scope]** - Determines whether you receive all job e-mail for your company or only e-mail about upload and publish jobs you initiate.
+* **[!UICONTROL Email Types]** - Determines whether you are informed when upload jobs and publish jobs are completed.
 
 ## Language
 
