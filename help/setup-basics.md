@@ -1,6 +1,6 @@
 ---
-title: Setup basics
-description: Learn how to use the Setup screen to enter your personal settings. If you are an administrator, set up your company settings.
+title: Setup basics 
+description: Learn how to use the Setup screen to enter your personal settings in Adobe Dynamic Media Classic. If you are an administrator, set up your company settings.
 uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
 contentOwner: admin
 content-type: reference
@@ -13,11 +13,11 @@ exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
 ---
 # Setup basics{#setup-basics}
 
-Use the Adobe Dynamic Media Classic Setup page to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup page, on the Global Navigation bar, click **[!UICONTROL Setup]**.
+Use the Adobe Dynamic Media Classic Setup page to enter your personal settings. If you are an administrator, set up your company settings. To open a Setup page, on the Global Navigation bar, select **[!UICONTROL Setup]**.
 
 The settings available to you on this page depend on your status as a user or administrator:
 
-* Users can only access **[!UICONTROL Personal Setup]** and the accounts of companies of which they are a member; they cannot perform any administrative tasks. 
+* Users can only access **[!UICONTROL Personal Setup]** and the accounts of companies of which they are a member; they cannot perform any administrative tasks.
 * Administrators can access **[!UICONTROL Personal Setup]**, and view and administer their own company accounts. They can also perform all application setup functions, and all administration functions, including adding administrators and users.
 
 Administrators can also set up Image Presets and Viewer Presets in the **[!UICONTROL Setup]** page:

@@ -1,6 +1,6 @@
 ---
-title: Setting up Zoom Viewer Presets
-description: Learn how to set up Zoom Viewer Presets.
+title: Set up Zoom Viewer Presets
+description: Learn how to set up Zoom Viewer Presets in Adobe Dynamic Media Classic.
 uuid: 202d80cb-8282-45d4-89e8-942c8677aa93
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
 ---
-# Setting up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}
+# Set up Zoom Viewer Presets{#setting-up-zoom-viewer-presets}
 
 Zoom Viewer Presets determine the style, behavior, and look of your Zoom viewers. Adobe Dynamic Media Classic offers many options for customizing and skinning Viewers. Adobe Dynamic Media Classic comes with default basic (fast), fly-out, and custom Zoom Viewer Presets. If you are an administrator, you can create company Zoom Viewer Presets or edit a default preset and save it with a new name.
 
@@ -37,26 +37,26 @@ Adobe Dynamic Media Classic recommends the following parameters for fly-out Zoom
 
 * **Zoom Viewer: Custom** - Provides guided or unguided zoom with images, Image Sets with multiple views, or Color Swatch Sets.
 
-## Creating and editing Zoom Viewer Presets {#creating-and-editing-zoom-viewer-presets}
+## Create and edit Zoom Viewer Presets {#creating-and-editing-zoom-viewer-presets}
 
-1. On the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
+1. On the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Do one of the following:
 
-   * **Creating a preset** - Click **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose a Zoom Viewer, and then click **[!UICONTROL Add]**. Enter a name for the preset in the Preset Name box.
+   * **Create a preset** - Select **[!UICONTROL Add]**. In the Add Viewer Preset dialog box, choose a platform, choose a Zoom Viewer, and then select **[!UICONTROL Add]**. Enter a name for the preset in the Preset Name box.
 
-   * **Editing a preset** - Select a Zoom Viewer Preset, then click **[!UICONTROL Edit]**.
+   * **Edit a preset** - Select a Zoom Viewer Preset, then select **[!UICONTROL Edit]**.
 
 1. Specify settings as desired.
 
-   To see a description of an option, click the **[!UICONTROL Info Tip]** icon next to the option.
+   To see a description of an option, select the **[!UICONTROL Info Tip]** icon next to the option.
 
    The Preview page displays the viewer as you update and change settings.
 
-1. Click **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
-1. On the Viewer Presets page, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, click **[!UICONTROL Edit]**, change settings on the Configure Viewer page, and click ****[!UICONTROL Save]****.
+1. Select **[!UICONTROL Save]** or **[!UICONTROL Save As]**.
+1. On the Viewer Presets page, examine the Zoom Viewer Preset or Guided Zoom Viewer Preset you created. If it needs adjusting, select **[!UICONTROL Edit]**, change settings on the Configure Viewer page, and then select **[!UICONTROL Save]**.
 
 For information about managing Viewer Presets on the Viewer Presets screen, see [Viewer Presets](application-setup.md#viewer_presets).
 
 >[!MORELIKETHIS]
 >
->* [Creating and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets)
+>* [Create and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets)

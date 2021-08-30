@@ -78,9 +78,9 @@ Do any one of the following.
 1. In the Reprocess Assets dialog box, expand **[!UICONTROL EVideo Options]**, then do one of the following:
    * Best practice is to use the following method. Select **Adaptive Video**.
      See [Adaptive Video (default)](application-setup.md#adaptive-video-default).
-   * Optional. If you want to use individual encoding settings, expand ****[!UICONTROL Single Encoding Presets]****, and then select the encoding options you want for Desktop, Mobile, and Tablet.
+   * Optional. If you want to use individual encoding settings, expand **[!UICONTROL Single Encoding Presets]**, and then select the encoding options you want for Desktop, Mobile, and Tablet.
      See [Desktop video encoding presets](application-setup.md#desktop-video-encoding-presets), [Mobile video encoding presets](application-setup.md#mobile-video-encoding-presets), [Tablet video encoding presets](application-setup.md#tablet-video-encoding-presets).
-1. In the Reprocess Assets dialog box, click **[!UICONTROL Submit]**.
+1. In the Reprocess Assets dialog box, select **[!UICONTROL Submit]**.
 
 When you use Adaptive Video encoding preset or you use multiple single encoding presets, the result is an Adaptive Video Set that is automatically created with multiple video encodings. You can also manually create an Adaptive Video Set by selecting individual videos.
 
