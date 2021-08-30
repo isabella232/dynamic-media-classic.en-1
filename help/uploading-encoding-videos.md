@@ -133,17 +133,17 @@ When you encode a video file, use a source video file of the highest possible qu
 
 The following table describes the recommended size, aspect ratio, and minimum bit rate that your source video files must have when you encode them:
 
-|Size|Aspect ratio|Minimum bit rate|
-|--- |--- |--- |
-|1024 X 768|4:3|4500 kbps for most videos.|
-|1280 X 720|16:9|3000 - 6000 kbps, depending on the amount of motion in the video.|
-|1920 X 1080|16:9|6000 - 8000 kbps, depending on the amount of motion in the video.|
+| Size | Aspect ratio | Minimum bit rate |
+| --- | --- | --- |
+| 1024 X 768 | 4:3 | 4500 kbps for most videos. |
+| 1280 X 720 | 16:9 | 3000 - 6000 kbps, depending on the amount of motion in the video. |
+| 1920 X 1080 | 16:9 | 6000 - 8000 kbps, depending on the amount of motion in the video. |
 
 ### Obtaining a file’s metadata {#obtaining-a-file-s-metadata}
 
 You can obtain a file’s metadata by viewing its metadata in Adobe Dynamic Media Classic, using a video editing tool, or using an application designed for obtaining metadata. Following are instructions for using MediaInfo, a third-party application, to obtain a video file’s metadata:
 
-1. Go to this web page: [https://mediainfo.sourceforge.net/en/Download](https://mediainfo.sourceforge.net/en/Download).
+1. Go to this web page: [https://mediaarea.net/en/MediaInfo](https://mediaarea.net/en/MediaInfo).
 1. Select and download the installer for the GUI version, and follow the installation instructions.
 1. After installation, either right-click the video file (Windows® only) and select MediaInfo, or open MediaInfo and drag your video file into the application. You see all metadata associated with your video file, including its width, height, and fps.
 
