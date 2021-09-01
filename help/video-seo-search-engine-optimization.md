@@ -1,6 +1,6 @@
 ---
 title: Video SEO (Search Engine Optimization)
-description: Learn how to configure video SEO settings.
+description: Learn how to configure video SEO settings in Adobe Dynamic Media Classic.
 uuid: bac2c6a9-8466-4b8f-b835-6cb0b4168513
 contentOwner: admin
 content-type: reference
@@ -37,15 +37,15 @@ Adobe Dynamic Media Classic creates reports about Video Sitemaps and mRSS feeds 
 >
 >For the Video Sitemaps and mRSS feeds, Adobe Dynamic Media Classic captures metadata only from videos that are marked for publish. Mark videos for publish to include their metadata in Video Sitemaps and mRSS feeds.
 
-## Choosing video SEO settings {#choosing-video-seo-settings}
+## Choose video SEO settings {#choosing-video-seo-settings}
 
-Click Video SEO settings for video Sitemaps and mRSS feeds on the **[!UICONTROL Video Search Engine Optimization Settings]** page. To open this page, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
+Select Video SEO settings for video Sitemaps and mRSS feeds on the **[!UICONTROL Video Search Engine Optimization Settings]** page. To open this page, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
 
 In the **[!UICONTROL General Setting]** area, choose whether to generate Video Sitemaps, mRSS feeds, or both. In the **[!UICONTROL Generation Settings]** area, map metadata fields to input fields.
 
-After you choose settings, click **[!UICONTROL Save]** (or **[!UICONTROL Save & Generate]**) to create the Video Sitemap, mRSS feeds, or both.
+After you choose settings, select **[!UICONTROL Save]** (or **[!UICONTROL Save & Generate]**) to create the Video Sitemap, mRSS feeds, or both.
 
-### Choosing General Settings {#choosing-general-settings}
+### Set up General Settings {#choosing-general-settings}
 
 On the **[!UICONTROL Generation Mode]** drop-down list, choose a report mode:
 
@@ -59,17 +59,17 @@ On the **[!UICONTROL Generation Mode]** drop-down list, choose a report mode:
 
 On the **[!UICONTROL Automatic/Manual Mode]** drop-down list, choose whether to generate automatically or manually:
 
-* **Automatic Mode** - Adobe Dynamic Media Classic automatically generates one Video Sitemap, Media RSS (mRSS) feed, or both, each day. Choose the Mark for Publish option to automatically mark for publish the XML file that Adobe Dynamic Media Classic generates.
+* **Automatic Mode** - Adobe Dynamic Media Classic automatically generates one Video Sitemap, Media RSS (mRSS) feed, or both, each day. Select the **[!UICONTROL Mark for Publish]** option to automatically mark for publish the XML file that Adobe Dynamic Media Classic generates.
 
   * **Mark for Publish** Marks for publish the XML file that is generated.
 
-* **Manual Mode** - Adobe Dynamic Media Classic generates the Video Sitemap, Media RSS (mRSS) feed, or both, when you click Generate or Save & Generate in the Video Search Optimization Settings screen. Choose these options as well:
+* **Manual Mode** - Adobe Dynamic Media Classic generates the Video Sitemap, Media RSS (mRSS) feed, or both, when you select **[!UICONTROL Generate]** or **[!UICONTROL Save & Generate]** in the Video Search Optimization Settings screen. Choose these options as well:
 
   * **No Further Settings** - Does not mark for publish the XML file that is generated.
 
   * **Mark for Publish** - Marks for publish the XML file that is generated.
 
-  * **Allow Partial Generation** - Search engines can reject an XML file if it does not contain complete metadata information for all videos. This option generates the XML file even if metadata isn’t available for some videos. A warning is registered on the Report screen. Choose this option if you intend to export the XML file and process the missing information manually.
+  * **Allow Partial Generation** - Search engines can reject an XML file if it does not contain complete metadata information for all videos. This option generates the XML file even if metadata is not available for some videos. A warning is registered on the Report screen. Choose this option if you intend to export the XML file and process the missing information manually.
 
 ### Choosing Generation Settings {#choosing-generation-settings}
 
@@ -85,16 +85,16 @@ See [Metadata Views](application-setup.md#metadata_views).
 
 1. Do one of the following:
 
-    * To save your settings without generating the XML file, click **[!UICONTROL Save]**. 
-    * To save and generate the file, click **[!UICONTROL Save & Generate]**.
+    * To save your settings without generating the XML file, select **[!UICONTROL Save]**. 
+    * To save and generate the file, select **[!UICONTROL Save & Generate]**.
 
       The XML file is generated and recorded in the Job log. Video Sitemap (video-sitemap) and a Media RSS (mRSS) feed (mrss-feed) files are stored in the root folder of your company.
 
 >[!NOTE]
 >
->Publish the Video Sitemap or mRSS feed before you can submit it to search engines. Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of the company. Mark these XML files for publish, if necessary, and click **[!UICONTROL Publish]**.
+>Publish the Video Sitemap or mRSS feed before you can submit it to search engines. Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of the company. Mark these XML files for publish, if necessary, and select **[!UICONTROL Publish]**.
 
-## Submitting Video Sitemap and mRSS-Feed files to search engines {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
+## Submit Video Sitemap and mRSS-Feed files to a search engine {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
 
 Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of the company:
 
@@ -103,8 +103,8 @@ Video Sitemap and Media RSS (mRSS) feed files are stored in the root folder of t
 
 Copy one of these URLs into the search engine’s webmaster tools to submit your Video Sitemap or Media RSS (mRSS) feed file to search engines.
 
-## Viewing Video SEO reports {#viewing-video-seo-reports}
+## View Video SEO reports {#viewing-video-seo-reports}
 
-View Video SEO reports on the Video Search Engine Optimization Report page. To open this page, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]**.
+View Video SEO reports on the Video Search Engine Optimization Report page. To open this page, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]**.
 
 If errors occurred when a report was generated, they are listed on the Report page.

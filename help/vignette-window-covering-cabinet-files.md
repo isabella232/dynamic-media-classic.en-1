@@ -1,6 +1,6 @@
 ---
-title: Working with vignette, window covering, and cabinet files
-description: Learn how to work with vignette, window covering, and cabinet files.
+title: Work with vignette, window covering, and cabinet files
+description: Learn how to work with vignette, window covering, and cabinet files in Adobe Dynamic Media Classic.
 uuid: a738791c-4be0-4286-abbd-fae7a0e4bb73
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8d1e0c37-a648-4c7b-8f68-4b2ab71dfa11
 ---
-# Working with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}
+# Work with vignette, window covering, and cabinet files{#working-with-vignette-window-covering-and-cabinet-files}
 
 Users of the Adobe Dynamic Media Classic Image Authoring tool can *use* vignettes (VNT files), window coverings (VNW files), and cabinets (VNC files). These files cannot be created or edited in Adobe Dynamic Media Classic.
 
