@@ -1,6 +1,6 @@
 ---
-title: Testing assets before making them public
-description: Learn how to test assets before making them public.
+title: Test assets before making them public
+description: Learn how to test assets in Adobe Dynamic Media Classic before making them public.
 uuid: 5e8f3bec-6cf1-408e-8ea1-aebde0012a70
 contentOwner: admin
 content-type: reference
@@ -11,7 +11,7 @@ feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 ---
-# Testing assets before making them public {#testing-assets-before-making-them-public}
+# Test assets before making them public {#testing-assets-before-making-them-public}
 
 Secure Testing helps you define a secure test environment and build a robust B2B solution, based on a configurable set of IP address and ranges. This functionality lets you match your Adobe Dynamic Media Classic deployments with the architecture of your content management and business system.
 
@@ -31,7 +31,7 @@ If desired, create a staging environment rather than making assets publicly avai
 
 Most corporations run their Internet behind a firewall. Access to the Internet is possible through certain routes and typically through a limited range of public IP addresses.
 
-From your corporate network, you can figure out your public IP address using websites like https://whatismyip.com or request this information from your corporate IT organization.
+From your corporate network, you can figure out your public IP address using websites like [https://www.whatismyip.com](https://www.whatismyip.com/) or request this information from your corporate IT organization.
 
 With the Secure Testing, Adobe Dynamic Media Classic establishes a dedicated Image Server for staging environments or internal applications. Any request to this server checks the origin IP address. If the incoming request is not within the approved list of IP addresses, a failure response is returned. The Adobe Dynamic Media Classic Company Administrator configures the approved list of IP addresses for their company’s Secure Testing environment.
 
@@ -72,9 +72,9 @@ The following asset types and functionalities are currently not supported:
 * Web-to-print
 * Adobe Dynamic Media Classic Info or eCatalog search
 
-## Testing the Secure Testing service {#testing-the-secure-testing-service}
+## Test the Secure Testing service {#testing-the-secure-testing-service}
 
-Test the Secure Testing service to make sure it works as expected.
+Test the Secure Testing service so you ensure that it works as expected.
 
 <!-- >[!NOTE]
 >
@@ -93,9 +93,9 @@ Last Modified Date:
  -->
 
 1. Contact Adobe Customer Care and request that they enable Secure Testing on your account.
-1. In Adobe Dynamic Media Classic, on the Global Navigation bar, click **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
+1. In Adobe Dynamic Media Classic, on the Global Navigation bar, go to **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
 1. On the Image Server Publish page, in the **[!UICONTROL Publish Context]** drop-down list, select **[!UICONTROL Test Image Serving]**.
-1. For the Client Address Filter, click **[!UICONTROL Add]**.
+1. For the Client Address Filter, select **[!UICONTROL Add]**.
 1. Select the check box so that the address is enabled (turned on), and then type an IP address and net mask in the respective text fields.
 
    >[!NOTE]
@@ -105,16 +105,16 @@ Last Modified Date:
 1. Do one of the following:
    * Repeat the previous two steps if you must add more IP addresses.
    * Continue to the next step.
-1. At the lower left of the Image Server Publish page, click **[!UICONTROL Save]**
+1. At the lower left of the Image Server Publish page, select **[!UICONTROL Save]**
 1. Upload the desired images to your Adobe Dynamic Media Classic account.
 
-   See [Uploading files](uploading-files.md#uploading_files).
+   See [Upload files](uploading-files.md#uploading_files).
 
 1. Make sure some of the images are marked for publish and others are unmarked, and then submit the publish job.
 
-   See [Publishing](publishing-files.md#publishing_files).
+   See [Publish files](publishing-files.md#publishing_files).
 
-1. Determine the name of your Secure Testing service by clicking **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**. 
+1. Determine the name of your Secure Testing service by going to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**. 
 1. On the Application General Settings page, under the Servers group, find the name to the right of **[!UICONTROL Test Publish Context Server Name]**.
 
 Contact Adobe Care if the server name is missing or the URLs to the server do not work.

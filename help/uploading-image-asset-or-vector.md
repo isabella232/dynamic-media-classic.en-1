@@ -1,6 +1,6 @@
 ---
-title: Uploading an image asset or a vector asset
-description: Learn how to upload an image asset or a vector asset.
+title: Upload an image asset or a vector asset
+description: Learn how to upload an image asset or a vector asset in Adobe Dynamic Media Classic
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -8,17 +8,17 @@ feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 ---
-# Uploading an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}
+# Upload an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}
 
 Before you can upload an image asset, you first request a shared-secret key. You use this shared-secret key to retrieve an upload token. You then use the upload token to upload image assets or vector assets.
 
-## Requesting a shared-secret key {#requesting-a-shared-secret-key}
+## Request a shared-secret key {#requesting-a-shared-secret-key}
 
 Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request a shared-secret key.
 
 In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Adobe Dynamic Media Classic, save it locally for future use.
 
-## Retrieving the upload token {#retrieving-the-upload-token}
+## Retrieve the upload token {#retrieving-the-upload-token}
 
 The *upload token* ensures that no one can use the same shared-secret key to upload assets. It ensures that the upload is legitimate and comes from a trusted source.
 
@@ -61,11 +61,11 @@ Save the upload token locally for use with future requests.
 
 You can use the following fields in the query URL string to retrieve an upload token:
 
-|URL parameter|Required or optional|Value|
-|--- |--- |--- |
-|op|Required|get_uploadtoken|
-|shared_secret|Required|The shared-secret key for the company that is doing the upload.|
-|expires|Optional|Number of seconds that the upload token is valid. Default is 300 seconds, if not specified.|
+| URL parameter | Required or optional | Value |
+| --- | --- | --- |
+| op| Required | get_uploadtoken |
+| shared_secret | Required | The shared-secret key for the company that is doing the upload. |
+| expires | Optional | Number of seconds that the upload token is valid. Default is 300 seconds, if not specified. |
 
 **Sample image URL:**
 
@@ -80,9 +80,9 @@ You can use the following fields in the query URL string to retrieve an upload t
 
 You can now upload an image asset.
 
-See [Uploading an image asset](uploading-image-asset-or-vector.md#uploading_an_image_asset).
+See [Upload an image asset](uploading-image-asset-or-vector.md#uploading_an_image_asset).
 
-## Uploading an image asset {#uploading-an-image-asset}
+## Upload an image asset {#uploading-an-image-asset}
 
 After you retrieve an upload token that is valid for a specific amount of time, you can upload an image asset. You upload the asset as a multipart/form post while sending the rest of the values as a URL query string, as shown in this example:
 
@@ -92,9 +92,9 @@ https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-99
 
 The `upload_token` and `company_name` fields are required.
 
-See [Retrieving the upload token](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
+See [Retrieve the upload token](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
 
-See [Retrieving a shared-secret key](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
+See [Retrieve a shared-secret key](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
 
 You can also send other optional values as URL query strings, as in this example:
 
@@ -106,10 +106,10 @@ The `file_limit` parameter specifies the file-size limit in bytes. The `file_ext
 
 A global limit is set in the application for the file size limit and the filename extensions allowed. If what you send in the request is a subset of the global limits, it is honored. The global limits are the following:
 
-|Global limit|Value|
-|--- |--- |
-|File size for all clients|20 MB|
-|Supported image file formats for upload|BMP, GIF, JPG, PNG, PSD|
+| Global limit | Value |
+| --- | --- |
+| File size for all clients | 20 MB |
+| Supported image file formats for upload | BMP, GIF, JPG, PNG, PSD |
 
 The following HTML form lets a user upload an asset. The form asks the user to enter the following information:
 
@@ -119,7 +119,7 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * A list of filename extensions.
 * Whether to preserve the color profile and file name associated with the asset.
 * Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. 
-See Knockout Background in [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
+See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
 <!-- 
@@ -132,11 +132,11 @@ Last Modified Date:
 
  -->
 
-You can view the HTML source code associated with the form above by clicking [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
+You can view the HTML source code associated with the form above by select [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-In Firefox, right-click in the browser window, and then click **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that are run when the user clicks **[!UICONTROL Submit]**.
+In Firefox, right-click in the browser window, and then select **[!UICONTROL View Page Source]**. The code shows the corresponding URL query string and the POST method that are run when the user clicks **[!UICONTROL Submit]**.
 
-To view the XML response in Internet Explorer, click **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, click **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
+To view the XML response in Internet Explorer, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view the XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 
@@ -172,15 +172,15 @@ https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit
 
 Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
 
-|URL Parameter|Required or optional|Value|
-|--- |--- |--- |
-|`op`|Required|upload|
-|`upload_token`|Required|Upload token for the shared-secret key associated with the company.|
-|`company_name`|Required|Name of the company performing the upload.|
-|`file_limit`|Optional|File size limit, in bytes, for the asset.|
-|`file_exts`|Optional|List of allowable extensions for the image asset file.|
-|`preserve_colorprofile`|Optional|Preserves any embedded color profile while converting the uploaded file to PTIFF format. Possible values are true or false. Default is false.|
-|`preserve_filename`|Optional|Preserves the filename of the uploaded asset. Possible values are true or false. Default is false.|
+| URL Parameter | Required or Optional | Value |
+| --- | --- | --- |
+| `op` | Required | upload |
+| `upload_token` | Required | Upload token for the shared-secret key associated with the company. |
+| `company_name` | Required | Name of the company performing the upload. |
+| `file_limit` | Optional | File size limit, in bytes, for the asset. |
+| `file_exts` | Optional | List of allowable extensions for the image asset file. |
+| `preserve_colorprofile` | Optional | Preserves any embedded color profile while converting the uploaded file to PTIFF format. Possible values are true or false. Default is false. |
+| `preserve_filename` | Optional | Preserves the filename of the uploaded asset. Possible values are true or false. Default is false. |
 
 >[!NOTE]
 >
@@ -194,7 +194,7 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 
 POST
 
-### Getting asset metadata for images {#getting-asset-metadata-for-images}
+### Get asset metadata for images {#getting-asset-metadata-for-images}
 
 You can use `image_info` to retrieve metadata for an asset that you uploaded, as shown in the following example:
 
@@ -228,11 +228,11 @@ An example of a successful response appears similar to the following:
 
 You can use the following fields in the URL query string to request information for an asset:
 
-|URL Parameter|Required or optional|Value|
-|--- |--- |--- |
-|`op`|Required|image_info|
-|`shared_secret`|Required|The shared-secret key for the company.|
-|`image_name`|Required|Name of the image.|
+| URL Parameter | Required or optional | Value |
+| --- | --- | --- |
+| `op` |Required | image_info |
+| `shared_secret` | Required | The shared-secret key for the company. |
+| `image_name` | Required | Name of the image. |
 
 **Sample URL:**
 
@@ -242,7 +242,7 @@ You can use the following fields in the URL query string to request information 
 
 GET and POST
 
-## Uploading a vector asset {#uploading-a-vector-asset}
+## Upload a vector asset {#uploading-a-vector-asset}
 
 After you retrieve an upload token that is valid for a specific amount of time, you can upload a vector asset. You upload the asset as a multipart/form post while sending the rest of the values as a URL query string, as shown in this example:
 
@@ -252,9 +252,9 @@ https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-99
 
 The `upload_token` and `company_name` fields are required.
 
-See [Retrieving the upload token](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
+See [Retrieve the upload token](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
 
-See [Retrieving a shared-secret key](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
+See [Retrieve a shared-secret key](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
 
 You can also send other optional values as URL query strings, as in this example:
 
@@ -266,10 +266,10 @@ The `file_limit` parameter specifies the file-size limit in bytes. The `file_ext
 
 A global limit is set in the application for the file size limit and the filename extensions allowed. If what you send in the request is a subset of the global limits, it is honored. The global limits are the following:
 
-|Global limit|Value|
-|--- |--- |
-|File size for all clients|20 MB|
-|Supported vector file formats for upload|AI, EPS, PDF (only when the PDF is previously opened and saved in Adobe Illustrator CS6)|
+| Global limit | Value |
+| --- | --- |
+| File size for all clients | 20 MB |
+| Supported vector file formats for upload | AI, EPS, PDF (only when the PDF is previously opened and saved in Adobe Illustrator CS6) |
 
 The following HTML form lets a user upload an asset. The form asks the user to enter the following information:
 
@@ -279,7 +279,7 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * A list of filename extensions.
 * Whether to preserve the color profile and file name associated with the asset.
 * Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method.
-See Knockout Background in [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
+See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
 <!-- 
@@ -292,7 +292,7 @@ Last Modified Date:
 
  -->
 
-The following HTML code is displayed when you right-click in the browser window, and then click **[!UICONTROL View Source]** for the form shown in the example. The code shows the corresponding URL query string and the POST method that are run when the user clicks **[!UICONTROL Submit]**.
+The following HTML code is displayed when you right-click in the browser window, and then select **[!UICONTROL View Source]** for the form shown in the example. The code shows the corresponding URL query string and the POST method that are run when the user selects **[!UICONTROL Submit]**.
 
 ```as3
 <body> 
@@ -318,7 +318,7 @@ return true;
 </tr> 
 <tr><td colspan="2"></td></tr> 
 <tr> 
-<td><strong>Click Submit to upload your Vector: </strong></td> 
+<td><strong>Select Submit to upload your Vector: </strong></td> 
 <td><input type="submit" value="Submit"></td> 
 </tr> 
 </table> 
@@ -326,7 +326,7 @@ return true;
 </body>
 ```
 
-To view the XML response in Internet Explorer, click **[!UICONTROL View]** > **[!UICONTROL Source]**. To view XML response in Firefox, click **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox is recommended for viewing XML responses.
+To view the XML response in Internet Explorer, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox is recommended for viewing XML responses.
 
 The following is a sample response from a successful upload:
 
@@ -364,13 +364,13 @@ https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
 
 Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
 
-|URL Parameter|Required or optional|Value|
-|--- |--- |--- |
-|`op`|Required|upload|
-|`upload_token`|Required|Upload token for the shared-secret key associated with the company.|
-|`company_name`|Required|Name of the company performing the upload.|
-|`file_limit`|Optional|File size limit, in bytes, for the asset.|
-|`file_exts`|Optional|List of allowable extensions for the asset file.|
+| URL Parameter | Required or Optional | Value |
+| --- | --- | --- |
+| `op` | Required|upload|
+| `upload_token` | Required | Upload token for the shared-secret key associated with the company. |
+| `company_name` | Required | Name of the company performing the upload. |
+| `file_limit` | Optional | File size limit, in bytes, for the asset. |
+| `file_exts` | Optional | List of allowable extensions for the asset file. |
 
 >[!NOTE]
 >

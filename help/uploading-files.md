@@ -121,10 +121,10 @@ Make sure that all users in your company understand these file naming rules:
 
 Usually, an asset filename can be the same as its item number, product SKU, or other name as in the following:
 
-|Item|Filename|Asset ID|
-|--- |--- |--- |
-|896649|896649.jpg|896649|
-|48A3_2X|48A3_2X.tif|48A3_2X|
+| Item | Filename | Asset ID |
+| --- | --- | --- |
+| 896649 | 896649.jpg | 896649 |
+| 48A3_2X | 48A3_2X.tif | 48A3_2X |
 
 ### Folder organization and structure {#folder-organization-and-structure}
 
@@ -149,7 +149,7 @@ You can upload individual files from the desktop or upload folders via FTP. If y
 
 Adobe Dynamic Media Classic sends you an email message to confirm when your upload job begins and ends, and to notify you of any problems.
 
-During (or immediately after) a large upload job, some new items could display the “Image not yet optimized” message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize Files](application-setup.md#optimize_files).
+During (or immediately after) a large upload job, some new items could display the “Image not yet optimized” message. This message appears because the files are not yet fully processed and added to Adobe Dynamic Media Classic. You can optimize these files later. See [Optimize files](application-setup.md#optimize_files).
 
 ### Upload files using the From Desktop tab {#upload-files-using-sps-desktop-application}
 
@@ -228,7 +228,7 @@ Select this option if you want to upload subfolders of the folder you intend to 
   * **[!UICONTROL Process metadata files]** - Available only if you selected either the **[!UICONTROL VIA FTP]** tab. Select this option if you want to upload a tab-delimited or XML file to add metadata to multiple assets.
 See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
-* **CROP OPTIONS** - To automatically crop white-space pixels from an image, open the **[!UICONTROL Crop]** menu, select **[!UICONTROL Manual]**, and enter pixel measurements in the Top, Right, Bottom, and Left text fields to crop from the sides. You can also select **[!UICONTROL Trim]** on the Crop menu and choose these options:
+* **Crop options** - To automatically crop white-space pixels from an image, open the **[!UICONTROL Crop]** menu, select **[!UICONTROL Manual]**, and enter pixel measurements in the Top, Right, Bottom, and Left text fields to crop from the sides. You can also select **[!UICONTROL Trim]** on the Crop menu and choose these options:
 
   * **[!UICONTROL Trim Away Based On]** - Choose whether to crop based on color or transparency:
     * **[!UICONTROL Color]** - Choose the Color option. Then select the Corner menu and choose the corner of the image with the color that best represents the white-space color you want to crop.
@@ -237,28 +237,28 @@ See [Import metadata (via FTP)](viewing-adding-exporting-metadata.md#import-meta
       Trimming based on transparency: Specify 0 to crop pixels only if they are transparent; numbers closer to 1 allow for more transparency.
     * **[!UICONTROL Tolerance]** - Drag the slider to specify a tolerance from 0 through 1.
 
-* **COLOR PROFILE OPTIONS** - Choose a color conversion when you create optimized files that are used for Adobe Dynamic Media Classic dynamic delivery:
+* **Color profile options** - Choose a color conversion when you create optimized files that are used for Adobe Dynamic Media Classic dynamic delivery:
 
   * **[!UICONTROL Default Color Preservation]** - Maintains the source image colors whenever the images contain color space information; there is no color conversion. Nearly all images today have the appropriate color profile already embedded. However, if a CMYK source image does not contain an embedded color profile, the colors are converted to sRGB (standard Red Green Blue) color space. sRGB is the recommended color space for displaying images on web pages.
   * **[!UICONTROL Keep Original Color Space]** - Retains the original colors without any color conversion at the point of ingestion into Adobe Dynamic Media Classic. For images without an embedded color profile, any required color conversion to process requests for the image is done using the default color profiles as configured in the Publish settings. These color profiles do not always align with the color in the files created with this option. Therefore, you are encouraged to use the option Default Color Preservation.
   * **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Opens menus so you can choose a **[!UICONTROL Convert From]** and **[!UICONTROL Convert To]** color space. This advanced option overrides any color information that is embedded in the source file. Select this option only when all the images that you are submitting contain incorrect or missing color profile data.
 
-* **Image Edit Options** - You can preserve the clipping <> masks in images, and choose a color profile.
+* **Image edit options** - You can preserve the clipping <> masks in images, and choose a color profile.
 See [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 
-* **PostScript® Options** - You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **PostScript® options** - You can rasterize PostScript® files, crop files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Work with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **Photoshop Options** - You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
+* **Photoshop options** - You can create templates from Adobe® Photoshop® files, maintain layers, specify how layers are named, extract text, and specify how images are anchored into templates.
 See [PSD upload options](psd-files.md#psd_upload_options).
 
-* **PDF Options** - You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
+* **PDF options** - You can rasterize the files, extract search words and links, auto-generate an eCatalog, set the resolution, and choose a color space.
 See [PDF upload options](pdfs.md#pdf_upload_options).
 
-* **Illustrator Options** - You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
+* **Illustrator options** - You can rasterize Adobe Illustrator® files, maintain transparent backgrounds, choose a resolution, and choose a color space.
 See [Work with PostScript and Illustrator files](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **EVIDEO Options** - You can transcode a video file by choosing a Video Preset.
+* **EVIDEO options** - You can transcode a video file by choosing a Video Preset.
 See [Work with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
 * **Additional Metadata** - Enter keywords that describe the files you intend to upload. Separate keywords by comma. Keywords make searching for assets easier.

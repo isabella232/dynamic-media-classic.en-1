@@ -1,6 +1,6 @@
 ---
 title: Adobe Training Services
-description: Learn more about Adobe Training Services.
+description: Learn more about Adobe Training Services for Adobe Dynamic Media Classic.
 uuid: c405f60c-d0a8-4c88-8530-b093875500cd
 contentOwner: admin
 content-type: reference
@@ -27,8 +27,8 @@ Watch demonstrations of Adobe Dynamic Media Classic viewer features.
 
 See [Demos](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
-## Getting Started chapter of Help
+## Get Started chapter of Help
 
 The Getting Started section of the Help system presents instructions for users who are new to Adobe Dynamic Media Classic. It explains the basics of the program, navigation, setup, asset management, and building rich media.
 
-See [Getting started](dmc-platform-overview.md).
+See [Get started](dmc-platform-overview.md).
