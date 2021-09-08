@@ -68,7 +68,7 @@ Last Modified Date:
 The following asset types and functionalities are currently not supported:
 
 * RTMP video streaming
-* UGC services
+* UGC (User-Generated Content) services
 * Web-to-print
 * Adobe Dynamic Media Classic Info or eCatalog search
 
