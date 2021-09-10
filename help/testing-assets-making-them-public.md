@@ -72,6 +72,10 @@ The following asset types and functionalities are currently not supported:
 * Web-to-print
 * Adobe Dynamic Media Classic Info or eCatalog search
 
+>[!IMPORTANT]
+>
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+
 ## Test the Secure Testing service {#testing-the-secure-testing-service}
 
 Test the Secure Testing service so you ensure that it works as expected.
