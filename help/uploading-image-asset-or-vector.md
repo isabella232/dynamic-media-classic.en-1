@@ -12,6 +12,10 @@ exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 
 Before you can upload an image asset, you first request a shared-secret key. You use this shared-secret key to retrieve an upload token. You then use the upload token to upload image assets or vector assets.
 
+>[!IMPORTANT]
+>
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+
 ## Request a shared-secret key {#requesting-a-shared-secret-key}
 
 Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request a shared-secret key.
@@ -243,6 +247,10 @@ You can use the following fields in the URL query string to request information 
 GET and POST
 
 ## Upload a vector asset {#uploading-a-vector-asset}
+
+>[!IMPORTANT]
+>
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
 
 After you retrieve an upload token that is valid for a specific amount of time, you can upload a vector asset. You upload the asset as a multipart/form post while sending the rest of the values as a URL query string, as shown in this example:
 
