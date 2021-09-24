@@ -23,9 +23,7 @@ When you log in, you have the option of entering your Experience Cloud Org ID to
 
 **To log in to Adobe Analytics from Adobe Dynamic Media Classic:**
 
-Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth.
-
-The Adobe Analytics OAuth integration with Dynamic Media Classic is typically only done once per user.
+Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe Analytics OAuth integration with Dynamic Media Classic is typically only done once per user.
 
 1. Access [Adobe Developer Console](https://developer.adobe.com/console). Ensure that your account has administrator permissions for the organization for which the integration is required.
 1. Near the upper-right corner of the Home page, from the drop-down list, select the appropriate company. (The screenshot below is for information purposes only; the actual company name you select can vary.)
@@ -90,8 +88,6 @@ The Adobe Analytics OAuth integration with Dynamic Media Classic is typically on
    >By default, the user must be aware of the fact that both **[!UICONTROL COMPANIES]** and **[!UICONTROL SUITES]** drop-down lists are empty. As such, the user must select a value from each list. -->
 
 1. Select **[!UICONTROL OK]** so you can save configuration.
-
-
 
 >[!MORELIKETHIS]
 >
