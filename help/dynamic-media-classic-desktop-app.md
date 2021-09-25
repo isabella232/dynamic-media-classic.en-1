@@ -100,11 +100,11 @@ See also:
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
-    | Desktop app server name | Browser URL |
+    | Browser URL | Desktop app server name |
     | --- | --- |
-    | NA (North America) production | `https://s7sps1.scene7.com/` |
-    | EMEA (Europe, Middle East, and Africa) production | `https://s7sps3.scene7.com/` |
-    | APAC (Asia-Pacific) production | `https://s7sps5.scene7.com/` |
+    | https://s7sps1.scene7.com/ | NA (North America) production |
+    | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
+    | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
 1. Following sign in, notice the familiar browser user interface experience. You can continue your day to day Adobe Dynamic Media Classic activity as usual on the desktop app.
 
@@ -117,7 +117,7 @@ See also:
 
 To download and *silent* install the latest version of Adobe Dynamic Media Classic desktop app on macOS:
 
-1. Uninstall any older Adobe Dynamic Media Classic desktop app versions on your system by moving the Adobe Dynamic Media Classic.app to Trash.
+1. Uninstall any older Adobe Dynamic Media Classic desktop app versions on your system.
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app for macOS.
 
@@ -142,11 +142,11 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
-    | Desktop app server name | Browser URL |
+    | Browser URL | Desktop app server name |
     | --- | --- |
-    | NA (North America) production | `https://s7sps1.scene7.com/` |
-    | EMEA (Europe, Middle East, and Africa) production | `https://s7sps3.scene7.com/` |
-    | APAC (Asia-Pacific) production | `https://s7sps5.scene7.com/` |
+    | https://s7sps1.scene7.com/ | NA (North America) production |
+    | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
+    | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
 
 ## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows® {#install-silent-windows-dmc-app}
 
@@ -187,11 +187,12 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
-    | Desktop app server name | Browser URL |
+    | Browser URL | Desktop app server name |
     | --- | --- |
-    | NA (North America) production | `https://s7sps1.scene7.com/` |
-    | EMEA (Europe, Middle East, and Africa) production | `https://s7sps3.scene7.com/` |
-    | APAC (Asia-Pacific) production | `https://s7sps5.scene7.com/` |
+    | https://s7sps1.scene7.com/ | NA (North America) production |
+    | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
+    | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
+
 
 ## Video walk-through on using Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
