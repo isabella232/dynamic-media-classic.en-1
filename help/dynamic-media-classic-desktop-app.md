@@ -32,22 +32,34 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 >
 >Upgrade notification within the Adobe Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
 
-## Fixes in the minor release (20.21.2) {#minor-release}
+## Fixes in the latest release (20.21.3) {#release-sept2021}
 
-* Known limitation in 20.21.1 of Server dropdown being empty.
+* Broken thumbnails for assets seen after a period of inactivity on the desktop app.
+* Desktop app stops responding, typically after Set operations.
+* Request Obfuscation and Locking Mode auto-enabled under **[!UICONTROL Test Image Serving]**.
+
+    See [Test the Secure Testing service](/help/testing-assets-making-them-public.md#testing-the-secure-testing-service).
+
+* Updated authentication mechanism with Adobe Analytics. Relevant for new integrations or if some Analytics variables must be updated from within Dynamic Media Classic desktop app.
+
+    See [Log in to Adobe Analytics](/help/log-analytics.md) for updated steps.
+
+## Fixes in release 20.21.2 {#minor-release}
+
+* Known limitation in 20.21.1: the **[!UICONTROL Server]** drop-down list on the Sign-in screen was empty.
 * In **[!UICONTROL Upload Job Options]**, Layer naming default value under **[!UICONTROL Photoshop Options]**, is now **[!UICONTROL Photoshop and Layer Name]**. Layers in the PSD file are uploaded as separate images.
   * The earlier default of **[!UICONTROL Layer name]**, named the images after their layer name or layer number in the PSD file. The layer number was used if the layer names in the PSD file were default Photoshop layer names.
   * The new default of **[!UICONTROL Photoshop and Layer Name]**, names the images after the PSD file followed by the layer name or layer number. The layer number is used if the layer names in the PSD file are default Photoshop layer names.
   * Given that layer images in Adobe Dynamic Media Classic now have unique names, no updates to existing PSD or Templates are going to happen (which shared layer names in the original PSD files).
 * Broken thumbnails of assets.
 
-## Fixes in the latest version (20.21.1) {#latest-fixes-desktop-app}
+## Fixes in release 20.21.1 {#latest-fixes-desktop-app}
 
 * Sign in issues due to timeout resulting in the following message: *This user may be assigned to the group or groups without permission. Contact your administrator.*
 * Viewer presets get duplicated with each incorrect password attempt.
 * Desktop application becoming unresponsive due to many assets in the root folder. (Fixed on Windows®; working as desired on macOS.)
 
-## Fixes in the previous version (20.20.2) {#previous-version-fixes-desktop-app}
+## Fixes in release 20.20.2 {#previous-version-fixes-desktop-app}
 
 * No limitation on the number of files that you can upload through the desktop app user interface for both macOS and Windows®.
 * No need to sign out of the desktop app to switch between companies.
@@ -65,15 +77,15 @@ See also:
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * The latest version (20.21.2) is available at the following:
+    * The latest version (20.21.3) is available at the following:
+
+        * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
+        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
+
+    * The previous version (20.21.2) is available at the following:
 
         * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
         * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
-
-    * The previous version (20.21.1) is available at the following:
-
-        * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
-        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
 
 <!--         * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
         * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
@@ -100,11 +112,11 @@ See also:
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
-    | Browser URL | Desktop app server name |
+    | Server | Browser URL |
     | --- | --- |
-    | https://s7sps1.scene7.com/ | NA (North America) production |
-    | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
-    | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
+    | NA Production (North America) | https://s7sps1.scene7.com/ |
+    | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
+    | APAC Production (Asia-Pacific) | https://s7sps5.scene7.com/ |
 
 1. Following sign in, notice the familiar browser user interface experience. You can continue your day to day Adobe Dynamic Media Classic activity as usual on the desktop app.
 
@@ -121,11 +133,11 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app for macOS.
 
-    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
+    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
 
 1. Mount the downloaded Disk Image (.DMG) to a mountpoint location using the following command:
 
-    `hdiutil attach adobe-dynamic-media-classic-20.21.2.dmg -mountpoint <mount_point_path>`
+    `hdiutil attach adobe-dynamic-media-classic-20.21.3.dmg -mountpoint <mount_point_path>`
 
 1. Copy the .APP file to **[!UICONTROL Applications]** using the following command:
 
@@ -142,11 +154,11 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
-    | Browser URL | Desktop app server name |
+    | Server | Browser URL |
     | --- | --- |
-    | https://s7sps1.scene7.com/ | NA (North America) production |
-    | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
-    | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
+    | NA Production (North America) | https://s7sps1.scene7.com/ |
+    | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
+    | APAC Production (Asia-Pacific) | https://s7sps5.scene7.com/ |
 
 ## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on Windows® {#install-silent-windows-dmc-app}
 
@@ -163,19 +175,19 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
+    * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
 
 1. Run the installer in record mode using the following command:
 
-    `adobe-dynamic-media-classic-20.21.2.exe /r /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.21.3.exe /r /f1"C:\Setup.iss"`
 
 1. In the GUI installer window, follow the steps to install so that interactions/inputs, like install location, get recorded in `Setup.iss` file.
 
-1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.21.2.exe` to other computer.
+1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.21.3.exe` to other computer.
 
 1. Run the following command for a silent installation:
 
-    `adobe-dynamic-media-classic-20.21.2.exe /s /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.21.3.exe /s /f1"C:\Setup.iss"`
 
     Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
@@ -187,16 +199,15 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
     For the **[!UICONTROL Server]** to use, see the following mapping for the production environment:
 
-    | Browser URL | Desktop app server name |
+    | Server | Browser URL |
     | --- | --- |
-    | https://s7sps1.scene7.com/ | NA (North America) production |
-    | https://s7sps3.scene7.com/ | EMEA (Europe, Middle East, and Africa) production |
-    | https://s7sps5.scene7.com/ | APAC (Asia-Pacific) production |
-
+    | NA Production (North America) | https://s7sps1.scene7.com/ |
+    | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
+    | APAC Production (Asia-Pacific) | https://s7sps5.scene7.com/ |
 
 ## Video walk-through on using Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Watch a [video walk-through on using Adobe Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Length: 2 minutes 36 seconds). 
+Watch a [video walk-through on using Adobe Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Length: 2 minutes 36 seconds).
 
 ## Clearing the image cache and asset cache on your computer using the desktop app {#clear-cache}
 
