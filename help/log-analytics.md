@@ -72,10 +72,10 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 1. Near the upper-right corner of the Adobe Dynamic Media Classic desktop application, go to **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. In the left panel, under **[!UICONTROL Application Setup]**, select **[!UICONTROL Adobe Analytics]**.
 1. On the **[!UICONTROL Adobe Analytics Configuration]** page, select **[!UICONTROL Adobe Analytics Login]**.
-1. In the **[!UICONTROL Adobe Analytics Login]** dialog box, in the Client ID field and the Client Secret field, paste the respective values that you copied earlier.
-1. Perform IMS login.
+1. In the **[!UICONTROL Adobe Analytics Login]** dialog box, in the **[!UICONTROL CLIENT ID]** field and the **[!UICONTROL CLIENT SECRET]** field, paste the respective values that you copied earlier.
+1. In the lower-right corner of the dialog box, select Login and perform your Adobe IMS (Identity Management Services) login.
 
-   When you are successfully logged in, the **[!UICONTROL COMPANIES]** drop-down list, initiated by the companies that are available to you, becomes visible.
+   When you successfully log in, the Adobe Analytics Login dialog appears again along with the **[!UICONTROL COMPANIES]** drop-down list, initiated by the companies that are available to you.
 
 1. From the **[!UICONTROL COMPANIES]** drop-down list, choose a company.
 
@@ -87,7 +87,8 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
    >
    >By default, the user must be aware of the fact that both **[!UICONTROL COMPANIES]** and **[!UICONTROL SUITES]** drop-down lists are empty. As such, the user must select a value from each list. -->
 
-1. Select **[!UICONTROL OK]** so you can save configuration.
+1. Select **[!UICONTROL OK]** so you can save the configuration.
+1. In the lower-left corner of the Adobe Analytics Configuration page, select **[!UICONTROL Save]** to ensure that your Adobe Analytics account configuration is updated.
 
 >[!MORELIKETHIS]
 >
