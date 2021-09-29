@@ -36,7 +36,7 @@ When you create Image Maps, you can do any of the following:
     * If you are working with a SpinSet in the Grid View or List View, select **[!UICONTROL Edit]**. Or, open it in Detail View, and then select **[!UICONTROL Edit]**. Select an image asset, and then select **[!UICONTROL Image Map]**.
     * If you are working with an eCatalog, in the Grid View, List View, Detail View, select **[!UICONTROL Edit]**. Select the **[!UICONTROL Map Pages]** tab.
 
-   ![](assets/ma_image_map.png)
+   ![Image map image](assets/ma_image_map.png)
 
 1. Draw a rectangular or polygonal (many-sided) Image Map:
 
