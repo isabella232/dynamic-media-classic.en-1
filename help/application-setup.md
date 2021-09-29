@@ -1,6 +1,6 @@
 ---
 title: Application Setup
-description: Learn how to set up the Application area of Adobe Dynamic Media Classic.
+description: Learn how to set up and configure the Application area of Adobe Dynamic Media Classic. The Application area lets you enter general settings, create image, viewer, and video encoding presets, define default viewers and metadata, publishing settings, and video SEO settings. You can also use the area to set up batch set presets to automate the generation of 2D spin sets.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -955,7 +955,7 @@ spin-03-12
 
 With this information, your Batch Set Type recipe could be created as follows:
 
-![](assets/se_batch_set_recipe.png)
+![Batch set recipe image](assets/se_batch_set_recipe.png)
 
 Grouping for the shared asset name part of the spin set is added to the Match field (as highlighted). The variable part of the asset name containing the row and column is added to the Row and Column fields, respectively.
 
