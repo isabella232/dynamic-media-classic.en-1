@@ -14,14 +14,12 @@ exl-id: 14729192-7b9d-4f42-99da-6564a3f35959
 
 Using UGC (user-generated content) consists of uploading assets to a dedicated Adobe Dynamic Media Classic storage repository and performing related operations.
 
-UGC supports the following file formats:
-
-* Raster: JPG, PNG, TIFF
-* Vector: AI, EPS (EPS files from Adobe Illustrator 2018 are not supported), PDF (only when the PDF file is previously opened and saved in Adobe Illustrator CS6)
+UGC supports raster image file formats BMP, GIF, JPG, PNG, PSD, TIFF.
+<!-- * Vector: AI, EPS (EPS files from Adobe Illustrator 2018 are not supported), PDF (only when the PDF file is previously opened and saved in Adobe Illustrator CS6) -->
 
 >[!IMPORTANT]
 >
->Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic ended on September 30, 2021.
 
 Before uploading assets, you obtain a shared-secret key. You use this key to retrieve an upload token. You submit the upload token when you upload assets and perform other UGC tasks.
 

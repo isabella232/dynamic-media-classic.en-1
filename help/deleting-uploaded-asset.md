@@ -42,16 +42,18 @@ You can use the following fields in the URL query string to delete an asset:
 | --- | --- | --- |
 | `op` | Required | delete |
 | `shared_secret` | Required | The shared-secret key for the company. |
-|<ul><li>For images:image_name</li><li>For Vector:fxg_name</li></ul>|Required|Name of the asset to delete.|
+|`image_name` | Required | Name of the asset to delete. |
+
+<!-- <li>For Vector:fxg_name</li> -->
 
 >[!IMPORTANT]
 >
->Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic ended on September 30, 2021.
 
 **Sample image URL:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=delete&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif`
 
-**Sample vector URL:**
+<!-- **Sample vector URL:**
 
-`https://s7ugc1.scene7.com/ugc/vector?op=delete&shared_secret=2160a8fa-cec6-45ba-8d59- ca595f6d2b47& &fxg_name=8875744.fxg`
+`https://s7ugc1.scene7.com/ugc/vector?op=delete&shared_secret=2160a8fa-cec6-45ba-8d59- ca595f6d2b47& &fxg_name=8875744.fxg` -->

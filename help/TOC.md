@@ -158,7 +158,7 @@ index: y
   + [About User-generated content](about-ugc.md)
   + [Delete an uploaded asset](deleting-uploaded-asset.md)
   + [Get disk usage information](getting-disk-usage-information.md)
-  + [Upload an image asset or a vector asset](uploading-image-asset-or-vector.md)
+  + [Upload a raster image asset](uploading-image-asset-or-vector.md)
 + Master files {#master-files}
   + [Best practices for optimizing the quality of your images](best-practices-optimizing-quality-images.md)
   + [Edit images](editing-images.md)

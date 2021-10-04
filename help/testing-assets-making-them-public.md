@@ -67,14 +67,14 @@ Last Modified Date:
 
 The following asset types and functionalities are currently not supported:
 
-* RTMP video streaming
-* UGC (User-Generated Content) services
-* Web-to-print
 * Adobe Dynamic Media Classic Info or eCatalog search
+* RTMP video streaming
+* Web-to-print
+* UGC (User-Generated Content) services
 
 >[!IMPORTANT]
 >
->Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic ended on September 30, 2021.
 
 ## Test the Secure Testing service {#testing-the-secure-testing-service}
 
@@ -104,7 +104,7 @@ Last Modified Date:
 
    >[!NOTE]
    >
-   >If you add a single IP address and net mask, that address can make asset calls. However, any other IP addresses and net masks that you add are not permitted to make asset calls. As such, consider disabling (turn off) the check box in the step above to turn off the ability to specify an IP address and net mask. Doing so effectively permits *all* IP addresses to make asset calls, and they all show up. 
+   >If you add a single IP address and net mask, that address can make asset calls. However, any other IP addresses and net masks that you add are not permitted to make asset calls. As such, consider disabling (turn off) the check box in the step above to turn off the ability to specify an IP address and net mask. Doing so effectively permits *all* IP addresses to make asset calls, and they all show up.
 
 1. Do one of the following:
    * Repeat the previous two steps if you must add more IP addresses.
