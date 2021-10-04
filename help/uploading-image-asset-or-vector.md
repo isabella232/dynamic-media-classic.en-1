@@ -1,6 +1,6 @@
 ---
-title: Upload an image asset or a vector asset
-description: Learn how to upload an image asset or a vector asset in Adobe Dynamic Media Classic
+title: Upload a raster image asset
+description: Learn how to upload a raster image asset into Adobe Dynamic Media Classic
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -8,17 +8,17 @@ feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 ---
-# Upload an image asset or a vector asset{#uploading-an-image-asset-or-a-vector-asset}
+# Upload a raster image asset {#uploading-an-image-asset-or-a-vector-asset}
 
-Before you can upload an image asset, you first request a shared-secret key. You use this shared-secret key to retrieve an upload token. You then use the upload token to upload image assets or vector assets.
+Before you can upload an image asset, you first request a shared-secret key. You use this shared-secret key to retrieve an upload token. You then use the upload token to upload raster image assets.
 
 >[!IMPORTANT]
 >
->Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+>Support for new or existing UGC vector assets in Adobe Dynamic Media Classic ended on September 30, 2021.
 
 ## Request a shared-secret key {#requesting-a-shared-secret-key}
 
-Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In your support case, request a shared-secret key.
+Request a *shared-secret key* by [using the Admin Console to create a support case.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In your support case, request a shared-secret key.
 
 In the email message, provide the company name that you want to use to upload image assets. After you receive the key from Adobe Dynamic Media Classic, save it locally for future use.
 
@@ -28,11 +28,11 @@ The *upload token* ensures that no one can use the same shared-secret key to upl
 
 The upload token is an alphanumeric string that is available only for a specific amount of time. Use the following URLs, substituting your shared-secret key, so you can retrieve the upload token.
 
-* Image
+* Raster image
   `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In this example, the shared-secret key is `fece4b21-87ee-47fc-9b99-2e29b78b602`
 
-* Vector
-  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9`
+<!-- * Vector
+  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
 
 By default, the upload token expires five minutes (300 seconds) after you retrieve it. To request more time, include `expires` in the URL and the amount of time you require in seconds. For example, the following sample image URL retrieves an upload token that is valid for 1800 seconds:
 
@@ -71,13 +71,13 @@ You can use the following fields in the query URL string to retrieve an upload t
 | shared_secret | Required | The shared-secret key for the company that is doing the upload. |
 | expires | Optional | Number of seconds that the upload token is valid. Default is 300 seconds, if not specified. |
 
-**Sample image URL:**
+**Sample raster image URL:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=600`
 
-**Sample vector URL:**
+<!-- **Sample vector URL:**
 
-`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000`
+`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` -->
 
 **Allowed HTTP methods:**
 `GET` and `POST`
@@ -86,7 +86,7 @@ You can now upload an image asset.
 
 See [Upload an image asset](uploading-image-asset-or-vector.md#uploading_an_image_asset).
 
-## Upload an image asset {#uploading-an-image-asset}
+## Upload a raster image asset {#uploading-an-image-asset}
 
 After you retrieve an upload token that is valid for a specific amount of time, you can upload an image asset. You upload the asset as a multipart/form post while sending the rest of the values as a URL query string, as shown in this example:
 
@@ -113,7 +113,7 @@ A global limit is set in the application for the file size limit and the filenam
 | Global limit | Value |
 | --- | --- |
 | File size for all clients | 20 MB |
-| Supported image file formats for upload | BMP, GIF, JPG, PNG, PSD |
+| Supported image file formats for upload | BMP, GIF, JPG, PNG, PSD, TIFF |
 
 The following HTML form lets a user upload an asset. The form asks the user to enter the following information:
 
@@ -125,16 +125,6 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method. 
 See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
-
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
-
- -->
 
 You can view the HTML source code associated with the form above by select [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
@@ -246,11 +236,11 @@ You can use the following fields in the URL query string to request information 
 
 GET and POST
 
-## Upload a vector asset {#uploading-a-vector-asset}
+<!-- ## Upload a vector asset {#uploading-a-vector-asset}
 
 >[!IMPORTANT]
 >
->Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic will end on September 30, 2021.
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic end on September 30, 2021.
 
 After you retrieve an upload token that is valid for a specific amount of time, you can upload a vector asset. You upload the asset as a multipart/form post while sending the rest of the values as a URL query string, as shown in this example:
 
@@ -289,16 +279,6 @@ The following HTML form lets a user upload an asset. The form asks the user to e
 * Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method.
 See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
-
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
-
- -->
 
 The following HTML code is displayed when you right-click in the browser window, and then select **[!UICONTROL View Source]** for the form shown in the example. The code shows the corresponding URL query string and the POST method that are run when the user selects **[!UICONTROL Submit]**.
 
@@ -374,7 +354,7 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 
 | URL Parameter | Required or Optional | Value |
 | --- | --- | --- |
-| `op` | Required|upload|
+| `op` | Required | upload |
 | `upload_token` | Required | Upload token for the shared-secret key associated with the company. |
 | `company_name` | Required | Name of the company performing the upload. |
 | `file_limit` | Optional | File size limit, in bytes, for the asset. |
@@ -391,3 +371,4 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 **Allowed HTTP method:**
 
 POST
+ -->
