@@ -30,7 +30,7 @@ When you create a template set, the **[!UICONTROL Publish after save]** option a
 | Yes | Published | Published |
 | No | Unpublished |Set members retain their published or unpublished state. |
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 You can create a template from an existing template. Open the template, select **[!UICONTROL Save As]**, and enter a new name in the Save As dialog box.
 
@@ -61,7 +61,7 @@ Whether you edit a published set or an unpublished template set, the **[!UICONTR
 | No | Yes | Published | Published |
 | No | No | Unpublished | Existing set members and any new set members that you added during your edit retain their published or unpublished state. |
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To edit a template set:**
 
@@ -74,7 +74,7 @@ See also [Manually publish assets](publishing-files.md#manually_publishing_asset
 
 When you delete a Template set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To delete a Template:**
 

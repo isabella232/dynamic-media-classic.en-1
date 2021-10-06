@@ -48,7 +48,7 @@ When you create an Offer Set, the **[!UICONTROL Publish after save]** option aff
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To create an offer set with a parameterized template:**
 
@@ -81,7 +81,7 @@ When you create an Offer Set, the **[!UICONTROL Publish after save]** option aff
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To create an offer set with images or videos:**
 
@@ -114,7 +114,7 @@ Whether you edit a published set or an unpublished set, the **[!UICONTROL Publis
 | No | Yes | Published | Published |
 | No | No | Unpublished | Existing set members and any new set members that you added during your edit retain their published or unpublished state. |
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To edit an offer set:**
 
@@ -137,7 +137,7 @@ See also [Manually publish assets](publishing-files.md#manually_publishing_asset
 
 When you delete an Offer Set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
 
-See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
 
 **To delete an offer set:**
 
