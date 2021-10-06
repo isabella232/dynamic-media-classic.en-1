@@ -25,7 +25,7 @@ When you create a set, the **Publish after save** option affects the set and set
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
 
-See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
 
 **To create a Mixed Media Set:**
 
@@ -62,7 +62,7 @@ Whether you edit a published or an unpublished set, the **[!UICONTROL Publish af
 | No | Yes| Published | Published |
 | No | No | Unpublished | Existing set members and any new set members that you added during your edit retain their published or unpublished state. |
 
-See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
 
 **To edit a Mixed Media Set:**
 
@@ -79,7 +79,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 
 When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
 
-See also [Manually publishing assets](publishing-files.md#manually_publishing_assets) and [Manually unpublishing assets](publishing-files.md#manually_unpublishing_assets).
+See also [Manually publish assets](publishing-files.md#manually_publishing_assets) and [Manually unpublish assets](publishing-files.md#manually_unpublishing_assets).
 
 **To delete a Mixed Media Set:**
 

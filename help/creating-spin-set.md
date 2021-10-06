@@ -40,7 +40,7 @@ When you create a set, the **[!UICONTROL Publish after save]** option affects th
 | Yes | Published | Published |
 | No | Unpublished | Set members retain their published or unpublished state. |
 
-See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
+See also [Manually publish assets](publishing-files.md#manually-publishing-assets) and [Manually unpublish assets](publishing-files.md#manually-unpublishing-assets).
 
 After you save a Spin Set, you can use Preview in the Build: Spin Set page to see what your Spin Set looks like in the default viewer.
 
@@ -71,7 +71,7 @@ Whether you edit a published set or an unpublished set, the **[!UICONTROL Publis
 | No | Yes | Published | Published |
 | No | No | Unpublished | Existing set members and any new set members that you added during your edit retain their published or unpublished state. |
 
-See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
+See also [Manually publish assets](publishing-files.md#manually-publishing-assets) and [Manually unpublish assets](publishing-files.md#manually-unpublishing-assets).
 
 **To edit a Spin Set:**
 
@@ -93,7 +93,7 @@ See also [Manually publishing assets](publishing-files.md#manually-publishing-as
 
 When you delete a set, the set itself is moved to the Trash. However, the members (or “children”) within that set are not affected; instead, they each retain their existing published or unpublished state.
 
-See also [Manually publishing assets](publishing-files.md#manually-publishing-assets) and [Manually unpublishing assets](publishing-files.md#manually-unpublishing-assets).
+See also [Manually publish assets](publishing-files.md#manually-publishing-assets) and [Manually unpublish assets](publishing-files.md#manually-unpublishing-assets).
 
 **To delete a Spin Set:**
 
