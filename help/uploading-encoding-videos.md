@@ -149,7 +149,7 @@ You can obtain a file’s metadata by viewing its metadata in Adobe Dynamic Medi
 
 When you choose or create a video encoding preset for your master video file, make sure that the preset has the same aspect ratio as the master video file. The *aspect ratio* is the ratio of the width to the height of the video.
 
-To determine the aspect ratio of a video file, obtain the file’s metadata and note the file’s width and height (see [Obtain a file’s metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
+To determine the aspect ratio of a video file, obtain the file’s metadata, and note the file’s width and height (see [Obtain a file’s metadata](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Then use this formula to determine the aspect ratio:
 
 width/height = aspect ratio
 
@@ -372,3 +372,4 @@ Administrators can delete custom Video Presets. Video presets that come with Ado
 >* [Quick Start: Video in Adobe Dynamic Media Classic](quick-start-video.md#quick-start-video)
 >* [Upload and encode videos](uploading-encoding-videos.md#uploading-and-encoding-videos)
 >* [Work with video viewer presets](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
+>* [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video

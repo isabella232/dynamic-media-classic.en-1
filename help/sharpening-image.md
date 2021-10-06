@@ -35,6 +35,8 @@ There are best practices you can follow to optimize the sharpening of your image
 
 See [Best practices for sharpening images in Adobe Dynamic Media Classic and on Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
 
+See also [Sharpening](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) training video.
+
 **To sharpen an image:**
 
 To sharpen an image, select its rollover **[!UICONTROL Edit]** button and choose **[!UICONTROL Sharpen]**, or open it in the Browse Panel in Detail View, and then select **[!UICONTROL Sharpen]**. The Sharpness Editor page opens with sharpening commands. Choose commands, and then select **[!UICONTROL Save]**.
@@ -125,6 +127,8 @@ To set your company’s default sharpening options, go to **[!UICONTROL Setup]**
 Unless you add sharpening image modifiers to the preset, the small initial load image can look soft because it is downsampled to fit into the viewer window without being sharpened.
 
 Viewer Presets (like Image Presets) let you centralize many options into one location, including choice of skin and viewer options (such as including a Print button or controlling the speed of the zoom animation). Viewer Presets are found in the same section as Image Presets, under **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Viewer Presets]**.
+
+See [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) training video.
 
 The Modifiers option is found under the Core Settings section of all eCatalog, Spin, and Custom Zoom Viewer Presets. By adding the URL sharpening commands to the Modifiers box, you add sharpening every time that viewer is called with that viewer preset.
 

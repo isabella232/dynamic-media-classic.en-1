@@ -13,13 +13,15 @@ exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 ---
 # Quick Start: Zoom{#quick-start-zoom}
 
- Zoom lets you interactively view high-resolution details in images. For example, you can see the colors, options, angles, and details of an image in a dynamic, fully configurable, integrated viewer. This viewer can be embedded on a web page or appear in a pop-up window. You can audit images at close range and pan images at high resolutions to examine them closely. Zooming gives your clients an engaging, informative, and interactive viewing experience.
+Zoom lets you interactively view high-resolution details in images. For example, you can see the colors, options, angles, and details of an image in a dynamic, fully configurable, integrated viewer. This viewer can be embedded on a web page or appear in a pop-up window. You can audit images at close range and pan images at high resolutions to examine them closely. Zooming gives your clients an engaging, informative, and interactive viewing experience.
 
-Adobe Dynamic Media Classic also offers guided zooming—a means for you to highlight the important features in an image. For example, to focus the attention of viewers on a logo, you can create a zoom target for the logo. When users select this zoom target, they zoom to the logo.
+Adobe Dynamic Media Classic also offers guided zooming &ndash; a means for you to highlight the important features in an image. For example, to focus the attention of viewers on a logo, you can create a zoom target for the logo. When users select this zoom target, they zoom to the logo.
 
 All zoom images are created and served from single master images, graphics, and database-driven attributes. Adobe Dynamic Media Classic zooming greatly reduces the time and cost of producing and delivering images. You can use Zoom Viewers to zoom in and out of images. The Zoom Viewer has buttons that you can select to zoom and pan; you can also pan by dragging onscreen. Using Zoom Viewer Presets, you can configure the Zoom Viewer in which you zoom images.
 
-This Zoom Quick Start is designed to get up and running quickly with Zoom techniques in Adobe Dynamic Media Classic. Follow steps 1 through 6. After each step is a cross-reference to a topic heading where you can find more information.
+See [Zoom target: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/559_Zoom%20Target%20Tool_converted%20renamed_Dynamic%20Imaging-AVS) and [Zoom: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/560_Zoom_converted%20renamed_Dynamic%20Imaging-AVS) training videos.
+
+The following Zoom Quick Start is designed to get you up and running quickly with Zoom techniques in Adobe Dynamic Media Classic. Follow steps 1 through 6. After each step is a cross-reference to a topic heading where you can find more information.
 
 ## 1. Upload zoom Images
 

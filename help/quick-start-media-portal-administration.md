@@ -17,7 +17,15 @@ Media Portal lets companies easily acquire, control, and distribute approved ass
 
 As an administrator, you control how users view, access, and use assets in Media Portal. Moreover, you can customize the Media Portal interface to match your web site and brand. You can specify font, font color, font size, and incorporate branding elements such as logos in the Media Portal interface.
 
-This Quick Start is designed to get you up and running quickly with Media Portal administration. At the end of each step, select the topic link to learn more.
+See the following training videos:
+
+* [Media Portal overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/544_mp_overview1_converted%20renamed_Done-AVS)
+
+* [Media Portal tour 1](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/545_mp_tour1_user_converted%20renamed_Done-AVS)
+
+* [Media Portal tour 2](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/546_mp_tour2_admin_converted%20renamed_Done-AVS)
+
+The following Quick Start is designed to get you up and running quickly with Media Portal administration. At the end of each step, select the topic link to learn more.
 
 ## 1. Understand Media Portal user roles
 

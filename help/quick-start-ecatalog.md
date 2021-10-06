@@ -13,7 +13,14 @@ exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 ---
 # Quick Start: eCatalogs{#quick-start-ecatalogs}
 
-An eCatalog is a digital, web version of print material—a catalog, brochure, flyer, product manual, or advertising circular, for example. An eCatalog is displayed in an eCatalog Viewer on a web site. This viewer simulates the experience of reading printed material. Depending on the settings you choose for your eCatalog, the viewer can let you do the following:
+An eCatalog is a digital, web version of print material—a catalog, brochure, flyer, product manual, or advertising circular, for example. An eCatalog is displayed in an eCatalog Viewer on a web site. This viewer simulates the experience of reading printed material. 
+
+See also the following training videos:
+
+* [Quick start 1: eCatalogs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/561_Quick%20Start%20-%20Part%201_converted%20renamed_eCatalogs-AVS)
+* [Quick start 2: eCatalogs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/562_Quick%20Start%20-%20Part%202_converted%20renamed_eCatalogs-AVS)
+
+Depending on the settings you choose for your eCatalog, the viewer can let you do the following:
 
 * Search the catalog for a keyword or keywords. The search results are displayed as a list of thumbnails in a search panel on the left side of the catalog. Each clickable thumbnail represents a catalog spread where the highlighted search term was found.
 

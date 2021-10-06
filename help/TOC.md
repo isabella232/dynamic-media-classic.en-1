@@ -23,7 +23,7 @@ index: y
   + [Support](support.md)
   + [Help for Adobe Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
   + [Adobe Training Services](training-services.md)
-  + [Popular resources](popular-resources.md)
+  + [Popular learning resources](popular-resources.md)
   + [Training videos](training-videos.md)
 + Getting started {#getting-started}
   + [Adobe Dynamic Media Classic program overview](dmc-platform-overview.md)

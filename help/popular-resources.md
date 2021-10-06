@@ -1,6 +1,6 @@
 ---
-title: Popular resources
-description: Links to webinars, training videos, best practices information, and developer resources for Adobe Dynamic Media Classic.
+title: Popular learning resources
+description: Links to webinars, training videos, newsletters, best practices information, and developer resources for Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 feature: Dynamic Media Classic
 role: Admin,User

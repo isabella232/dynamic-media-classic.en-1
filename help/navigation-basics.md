@@ -65,6 +65,8 @@ The Browse/Build Panel is where you do much of your work. The functions that are
 
 * **[!UICONTROL Build mode]** - Select **[!UICONTROL Build]**, then choose an option so you can start building an eCatalog, Image Set, Spin Set, or one of several other available items on the Build menu. The Build page opens. You can select the assets you want to work with before or after you enter Build mode.
 
+See also [Navigation basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS) training video.
+
 >[!MORELIKETHIS]
 >
 >* [Manage assets](about-managing-assets.md)

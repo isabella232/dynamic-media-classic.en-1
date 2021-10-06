@@ -19,7 +19,9 @@ A template can contain any number of image layers and text layers. You can conve
 
 Using the Parameters page, you can convert any aspect of a template to an addressable parameter. In so doing, you can change which layered image to use or what text value to use in your template. Parameters are passed with the URL string, allowing you to change any parameter to dynamically customize the reply image generated from the image server.
 
-This Quick Start is designed to get up and running quickly with Template Basics.
+See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
+
+This Quick Start is designed to get you up and running quickly with Template Basics.
 
 ## 1. Upload the files
 

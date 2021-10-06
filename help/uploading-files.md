@@ -262,7 +262,7 @@ See [Work with PostScript and Illustrator files](postscript-illustrator-files.md
 See [Work with video encoding presets](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
 * **Additional Metadata** - Enter keywords that describe the files you intend to upload. Separate keywords by comma. Keywords make searching for assets easier.
-See [Conduct an advanced search](searching-assets.md#conducting_an_advanced_search).
+See [Conduct an advanced search](searching-assets.md#conducting_an_advanced_search). See also [Upload keywords](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) training video.
 
 * **Batch Set Presets** - If you want to create an Image Set, Spin Set, or Swatch Set from the uploaded files, select the **[!UICONTROL Active]** column for the preset you want to use. You can select more than one preset. You create the presets in the Application Setup/Batch Set Presets page.
 See [Batch Set Presets](application-setup.md#batch_set_presets).

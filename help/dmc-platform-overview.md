@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic program overview
-description: An overview of the Adobe Dynamic Media Classic program and workflow process.
+description: An overview of the Adobe Dynamic Media Classic program and its entire workflow process.
 uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: admin
 content-type: reference
@@ -14,6 +14,8 @@ exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 # Adobe Dynamic Media Classic program overview{#adobe-scene-platform-overview}
 
 Adobe Dynamic Media Classic is an integrated, rich media management, publishing, and serving environment. Rich media can be delivered to all marketing and selling channels, including the web, print material, e-mail campaigns, web portals, desktops, and devices.
+
+See also [Platform overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS) training video.
 
 ## Workflow process {#workflow-process}
 
