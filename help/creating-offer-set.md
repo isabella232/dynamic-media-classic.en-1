@@ -33,7 +33,9 @@ Create an offer set from the following types of offer sets:
 
 * **Images** - You can assemble images for an offer set. Each image includes a different offer in the set.
 
-* **Image template** - You can parameterize image templates in Adobe Dynamic Media Classic with the Build > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see Creating template parameters.
+* **Image template** - You can parameterize image templates in Adobe Dynamic Media Classic with the **[!UICONTROL Build]** > Template Basics command. Through parameters, components of the template — the text in text frames, the different images — can be swapped out and customized. For an offer set, you can use template parameters to create variations on the same image in your offer set, for example. For information about creating and parameterizing image templates, see [Create template parameters](creating-template-parameters.md#creating_template_parameters).
+
+See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
 
 * **Video** - You can assemble video for an offer set. Each video is a different offer in the set.
 

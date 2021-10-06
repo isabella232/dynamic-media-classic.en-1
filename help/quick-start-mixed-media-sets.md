@@ -17,7 +17,7 @@ exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 
 Mixed Media Set Viewer Presets include community options for end users to embed code, copy URLs, and link to the main web site. Users can use these options to share information about products on their personal web sites or social networking sites.
 
-This Mixed Media Sets Quick Start is designed to get up and running quickly with Mixed Media Set techniques in Adobe Dynamic Media Classic.
+This Mixed Media Sets Quick Start is designed to get you up and running quickly with Mixed Media Set techniques in Adobe Dynamic Media Classic.
 
 ## 1. Upload the images, swatch files, and videos
 
@@ -46,6 +46,8 @@ Adobe Dynamic Media Classic comes with default viewer presets for Mixed Media Se
 When setting up a Mixed Media Set viewer preset, add the viewer presets for all the other assets in your set. For example, if your Mixed Media Set includes videos, add a video viewer preset to the Mixed Media Set viewer preset. You can also add a soundtrack to the viewer. This soundtrack plays while the viewer is open, but does not play when a video is active.
 
 See [Set up a Mixed Media Set Viewer Preset](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) and [Create and edit Viewer Presets](application-setup.md#adding-and-editing-viewer-presets).
+
+See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) training video.
 
 ## 5. Preview a Mixed Media Set
 

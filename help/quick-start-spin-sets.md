@@ -21,7 +21,9 @@ Spin Sets also accept Image Maps. An Image Map is a region on an image within th
 
 See [Create Image Maps](creating-image-maps.md).
 
-This Spin Sets Quick Start is designed to get up and running quickly with Spin Set techniques in Adobe Dynamic Media Classic. Follow steps 1 through 7. At the end of each step, you can select a topic link to learn more.
+See [Image and Spin Sets: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) training video.
+
+This Spin Sets Quick Start is designed to get you up and running quickly with Spin Set techniques in Adobe Dynamic Media Classic. Follow steps 1 through 7. At the end of each step, you can select a topic link to learn more.
 
 ## 1. Create and upload the images
 

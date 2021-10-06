@@ -71,7 +71,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 ### Browse
 
-* **[!UICONTROL Show Projects]** - Determines whether Projects are available as a means of organizing your Adobe Dynamic Media Classic assets. See Organizing your work with Projects.
+* **[!UICONTROL Show Projects]** - Determines whether Projects are available as a means of organizing your Adobe Dynamic Media Classic assets. See [Organize your work with Projects](/help/organizing-projects.md).
 
 * **[!UICONTROL Show Sample eVideo Content]** - Turn on or off the display of eVideo sample content.
 
@@ -105,7 +105,9 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 ### Upload to Application
 
-* **[!UICONTROL Overwrite Images]** - Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). (See Using the Overwrite Images option.)
+See also [Default upload job options](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/569_Default%20Job%20Options_converted%20renamed_Getting%20Started-AVS) training video.
+
+* **[!UICONTROL Overwrite Images]** - Adobe Dynamic Media Classic does not allow two files to have the same name. Each item's Adobe Dynamic Media Classic ID (the image name minus the filename extension) must be unique. Because of this rule, the Upload dialog box has an Overwrite option. The exact effect of this option depends on the specified Overwrite Images option. These options specify how replacement images are uploaded: whether they replace the original images, or become duplicate images. Duplicate images are renamed with a “-1” (for example, chair.tif is renamed chair-1.tif). These options affect images uploaded to a different folder than the original or images with a different filename extension from the original (such as JPG, TIF, or PNG). See [Use the Overwrite Images option](#using-the-overwrite-images-option).
 
   * **[!UICONTROL Overwrite in current folder, same base image name/extension]** - This option is the strictest rule for replacement. It requires that you upload the replacement image to the same folder as the original, and that the replacement image has the same filename extension as the original. If these requirements are not met, a duplicate is created.
 
@@ -119,7 +121,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 * **[!UICONTROL Default Color Profiles]** - Specifies the color profiles applied as part of Default Color Profile Options when adding CMYK images.
 
-* **[!UICONTROL Default Upload Options]** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see Upload options.
+* **[!UICONTROL Default Upload Options]** - Opens the Upload Job Options dialog box, where you can specify default upload options. For information about these options, see [Upload options](/help/uploading-files.md#upload_options).
 
 ### Image Map Editor, to Application
 
@@ -129,7 +131,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
 ### Other Settings, to Application
 
-* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See Managing the Trash folder.
+* **[!UICONTROL Trash Can Clean Up Warnings]** - Assets in the Trash are automatically removed within seven days. Select “Send emails before trash items are automatically deleted” if you want notifications sent to company administrators when assets that are in the Trash are four days away from being permanently deleted. See [Manage the Trash folder](/help/trash-folder.md).
 
 ## Use the Overwrite Images option {#using-the-overwrite-images-option}
 
@@ -205,7 +207,7 @@ The Add Preset and Edit Preset screens offers these options for creating and edi
 
 * **[!UICONTROL Sharpening]** - Select the Enable Simple Sharpening option to apply a basic sharpening filter to the image after all scaling takes place. Sharpening can help compensate for blurriness that can result when you display an image at a different size.
 
-   For more information about sharpening, resample modes, and unsharp masking, see [Sharpen an image](sharpening-image.md#sharpening_an_image).
+   For more information about sharpening, resample modes, and unsharp masking, see [Sharpen an image](sharpening-image.md#sharpening_an_image). See also [Sharpening](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) training video.
 
 * **[!UICONTROL Resample Mode]** - Select a Resampling mode option. These options sharpen the image when it is downsampled:
 
@@ -259,6 +261,8 @@ Adobe Dynamic Media Classic offers Adaptive Video encoding presets. It is a mast
 Only “Adaptive Video” encoding presets are activated (enabled or “turned on”) by default. You can deactivate it, if desired. Inactive Adaptive Video presets do not appear as a selectable option in the eVideo section of the Upload Job Options dialog box.
 
 See [Upload and encode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
+
+See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
 **To activate or deactivate adaptive video presets:**
 
@@ -581,6 +585,8 @@ Besides adding viewer presets by using **[!UICONTROL Add]** in the user interfac
 
 See [Export an HTML5 Viewer preset](application-setup.md#exporting_an_html5_viewer_preset).
 
+See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) training video.
+
 **To add and edit Viewer presets:**
 
 1. Near the upper-right corner of Adobe Dynamic Media Classic, go to **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
@@ -646,15 +652,15 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 1. Open the CSS file in a CSS editor, make your changes, and then save the file.
 1. Upload the CSS file to Adobe Dynamic Media Classic.
 
-   See [Uploading files](uploading-files.md#uploading_files).
+   See [Upload files](uploading-files.md#uploading_files).
 
 1. Publish the CSS file to the Dynamic Media Image Server.
 
-   See [Publishing files](publishing-files.md#publishing_files).
+   See [Publish files](publishing-files.md#publishing_files).
 
 1. Add the new viewer preset as usual. Select the viewer CSS file that you uploaded.
 
-   See [Adding and editing Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
+   See [Add and edit Viewer Presets](application-setup.md#adding_and_editing_viewer_presets).
 
 ### Activate or deactivate Viewer Presets {#activating-or-deactivating-viewer-presets}
 
@@ -911,6 +917,8 @@ Use Batch Set Preset to create, edit, and manage your batch set presets. You can
 You can use either the form field method to define a batch set preset or the code method, which lets you use regular expressions. As in **[!UICONTROL Default Naming]**, you can select **[!UICONTROL Code View]** at the same time you are defining in the Form View and use of regular expressions to build your definitions. Alternately, you can uncheck either view to use one or the other exclusively.
 
 See also [Create a batch set preset for the auto generation of a 2D Spin Set](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
+
+See also [2D spin sets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) training video.
 
 **To create a batch set preset:**
 

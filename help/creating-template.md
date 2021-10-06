@@ -15,6 +15,8 @@ exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 
 To create a template, go to **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Select either Designer or Developer. On this page, you can add image and text layers. You can also reorder layers, change the size and position of layers, and apply shadow and glow effects to images and text.
 
+See also [Template Basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) training video.
+
 >[!NOTE]
 >
 >If you edit a template created in an earlier version of Adobe Dynamic Media Classic, a prompt asks you upon saving “Do you want to add a canvas layer?”. Select **[!UICONTROL No]** to avoid adding a base layer. If you accidentally select **[!UICONTROL Yes]**, delete the `&allowCanvasPrompt` and `&layer=0` modifiers in the URL and press **[!UICONTROL Enter]** or **[!UICONTROL Return]**.

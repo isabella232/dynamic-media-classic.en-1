@@ -43,7 +43,9 @@ Users watch videos in the Video Viewer. How the Video Viewer behaves, what it lo
 
 Adobe Dynamic Media Classic comes with many predefined Viewer Presets for playing video, and if you are an administrator, you can create custom Viewer Presets. There are more than a dozen different settings for configuring the Video Viewer. You can configure its size, color, video and audio controls, progress bar, user-interface skin, and social features.
 
-See also [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+See [Preview videos in a video viewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+
+See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
 ### Add or edit a video viewer preset {#adding-or-editing-a-video-viewer-preset}
 
@@ -52,6 +54,8 @@ You can use Viewer Presets to see various viewer types and their pre-defined set
 In Viewer Presets you can activate, filter, sort, and preview Viewer Presets.
 
 See [Viewer Presets](application-setup.md#viewer_presets).
+
+See also [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) training video.
 
 **To add or edit a video viewer preset:**
 

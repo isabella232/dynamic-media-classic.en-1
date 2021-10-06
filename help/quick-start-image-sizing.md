@@ -21,7 +21,9 @@ Image Sizing refers to the ability of Adobe Dynamic Media Classic to create mult
 
 ![You can create multiple derivative images at different sized from the same high-resolution master file.](/help/assets/is_derivative_sizes_popup.png)
 
-This Image Sizing Quick Start is designed to help you get up and running quickly with Image Sizing techniques in Adobe Dynamic Media Classic. Follow steps 1-5. After each step is a cross-reference where you can find more information if you need it.
+See [Image sizing: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/557_Image%20Sizing_converted%20renamed_Dynamic%20Imaging-AVS) training video.
+
+The following Image Sizing Quick Start is designed to help you get up and running quickly with Image Sizing techniques in Adobe Dynamic Media Classic. Follow steps 1-5. After each step is a cross-reference where you can find more information if you need it.
 
 ## 1. Upload master images
 

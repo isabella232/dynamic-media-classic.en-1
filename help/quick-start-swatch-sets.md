@@ -15,7 +15,7 @@ exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
 
 Adobe Dynamic Media Classic Swatch Sets give users an integrated viewing experience. In the dynamic Swatch Set Viewer, users can see an item rendered in a different color, material, texture, finish, or fabric merely by clicking a thumbnail.
 
-This Swatch Sets Quick Start is designed to get up and running quickly with Swatch Set techniques in Adobe Dynamic Media Classic.
+This Swatch Sets Quick Start is designed to get you up and running quickly with Swatch Set techniques in Adobe Dynamic Media Classic.
 
 ## 1. Upload the images and swatch files
 

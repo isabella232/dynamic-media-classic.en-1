@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic Help
-description: Adobe Dynamic Media Classic overview
+description: Welcome to Adobe Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens.
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
@@ -16,6 +16,12 @@ Welcome to Adobe Adobe Dynamic Media Classic, the leading on-demand cross-media 
 * eVideo: Upload final videos in any format, manage, edit, create hot spots and video templates, publish and stream into configurable video viewers
 * Visual Configurators: Real-time rendering technology to enable online visual configuration for personalization and customization effects such as real-time rendering of colors textures, surfaces, patterns, monograms, and engravings into product images or scenes.
 * Target email and print: Deliver visually targeted, personalized email campaigns tied to customer profile, product, and channel databases.
+
+See also the following training videos:
+
+* [Introduction](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/570_Introduction_converted%20renamed_Getting%20Started-AVS)
+* [What is Adobe Dynamic Media Classic](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/577_What%20is%20Scene7_converted%20renamed_Getting%20Started-AVS)
+* [Platform overview](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS)
 
 ## Key resources
 
