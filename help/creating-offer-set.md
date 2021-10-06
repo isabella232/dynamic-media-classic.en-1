@@ -70,7 +70,7 @@ See also [Manually publishing assets](publishing-files.md#manually_publishing_as
 1. When you finish, near the lower-right corner of the page, ensure that **[!UICONTROL Publish after save*]** is selected (default).
 1. Select **[!UICONTROL Close]**, enter a name for the offer set, and then select **[!UICONTROL Save]**.
 
-Before you close the Test&Target Offer Set page, push the offer set to Adobe Target Standard/Premium. See [Pushing offer sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Before you close the Test&Target Offer Set page, push the offer set to Adobe Target Standard/Premium. See [Push offer sets to Test&Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Create an offer set with images or videos {#creating-an-offer-set-with-images-or-videos}
 
