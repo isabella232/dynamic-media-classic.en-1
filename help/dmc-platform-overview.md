@@ -25,7 +25,7 @@ The key Adobe Dynamic Media Classic workflow steps are:
 
 * **Create rich media** - Create different configurations of your assets such as eCatalogs, Image Sets, Spin Sets, Swatch Sets, Mixed Media Sets, basic Templates, and FXG Templates.
 
-* **Publish and administer** - Publish assets to the Adobe Dynamic Media Classic SaaS network, as well as monitor the status of assets when they are published, administer user rights, and maintain security.
+* **Publish and administer** - Publish assets to the Adobe Dynamic Media Classic SaaS network. Monitor the status of assets when they are published. Administer user rights and maintain security.
 
 * **Serve** - Deliver media from Adobe Dynamic Media Classic SaaS network to web pages, applications, and mobile devices; the media are performance-optimized and are delivered with CDN caching. Adobe Dynamic Media Classic provides you with a URL for each asset. After you publish the asset, the URL becomes active.
 
