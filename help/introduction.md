@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic Help
-description: Welcome to Adobe Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens.
+description: Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens.
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
@@ -8,7 +8,7 @@ exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 ---
 # Adobe Dynamic Media Classic Help {#scene7-overview}
 
-Welcome to Adobe Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens. Adobe Dynamic Media Classic solutions include the following:
+Welcome to Adobe Dynamic Media Classic, the leading on-demand cross-media publishing system for uploading, managing, enhancing, and publishing dynamic rich content to all devices and screens. Adobe Dynamic Media Classic solutions include the following:
 
 * Dynamic Imaging: Real-time editing, formatting and sizing, interactive zoom and pan; color swatching and texture swatching; 360° spin; image templates; multimedia viewers.
 * eCatalogs: Author, hotspot linking, search-enabled, publish, and deliver dynamically served online catalogs into configurable viewers.
