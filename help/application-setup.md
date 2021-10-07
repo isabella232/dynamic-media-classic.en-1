@@ -85,7 +85,7 @@ See also [Test the Secure Testing service](testing-assets-making-them-public.md#
 
    You can also go to **[!UICONTROL File]** > **[!UICONTROL Reprocess]** to create more encoded “child” videos directly from an Adaptive Video Set. Adobe Dynamic Media Classic automatically finds the “parent” Master Video of the Adaptive Video Set and uses that as the source video for transcoding. When you save the new individual encoded videos, however, they are not seen when you search or browse. However, they are still accessible from the Encoded Videos tab in Detail View.
 
-   See [Upload and transcode video](uploading-encoding-videos.md#uploading_and_encoding_videos).
+   See [Upload and transcode videos](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
    To continue the ability to access all your encoded video derivatives when you search and browse, select **[!UICONTROL Show Encoded Videos]**.
 
