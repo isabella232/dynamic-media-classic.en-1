@@ -85,9 +85,14 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
 
    >[!NOTE]
    >
-   >By default, the user must be aware of the fact that both **[!UICONTROL COMPANIES]** and **[!UICONTROL SUITES]** drop-down lists are empty. As such, the user must select a value from each list. -->
+   >By default, the user must be aware of the fact that both **[!UICONTROL COMPANIES]** and **[!UICONTROL SUITES]** drop-down lists are empty. As such, the user must select a value from each list.
 
 1. Select **[!UICONTROL OK]** so you can save the configuration.
+
+   >[!NOTE]
+   >
+   >The **[!UICONTROL Adobe Analytics Server]** field gets populated with a suggested third-party tracking server that matches your analytics namespace when you select **[!UICONTROL OK]**. If you use a different tracking server, update it in this field to avoid data loss.
+
 1. In the lower-left corner of the Adobe Analytics Configuration page, select **[!UICONTROL Save]** to ensure that your Adobe Analytics account configuration is updated.
 
 >[!MORELIKETHIS]
