@@ -21,7 +21,7 @@ When you log in, you have the option of entering your Experience Cloud Org ID to
 >
 >If your Adobe Analytics account has been migrated to Adobe IMS-based authentication (Identity Management System) for login, entering direct credentials does not work.
 
-**To log in to Adobe Analytics from Adobe Dynamic Media Classic:**
+## Log in to Adobe Analytics from Adobe Dynamic Media Classic {#log-in-to-analytics-from-dmc}
 
 Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe Analytics OAuth integration with Dynamic Media Classic is typically only done once per user.
 
@@ -58,7 +58,7 @@ Begin by integrating Dynamic Media Classic with Adobe Analytics OAuth. The Adobe
    * Under **[!UICONTROL Client ID]**, select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Analytics configuration in the Dynamic Media Classic desktop application that is to follow.
    * Under **[!UICONTROL Client Secret]**, select **[!UICONTROL Retrieve client secret]** to reveal the associated value. Select **[!UICONTROL Copy]** to copy the value. You need this value for the subsequent Adobe Analytics configuration in Dynamic Media Classic desktop application that is to follow.
 
-**Configure Adobe Analytics in Dynamic Media Classic desktop application**
+## Configure Adobe Analytics in Adobe Dynamic Media Classic {#configure-analytics-in-dmc}
 
 >[!NOTE]
 >
