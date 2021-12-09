@@ -8,12 +8,12 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 feature: Dynamic Media Classic,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: ce49e4ce-8dc0-41e1-865a-249f23757553
 ---
 # Best practices for using the HTML5 Video viewer{#best-practice-using-the-html-video-viewer}
 
-The Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create the video player’s entire functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.
+The Adobe Dynamic Media Classic HTML5 Video viewer presets are robust video players. On the design side of the player, you can create the video player’s entire functionality using standard web development tools. For example, you can design the buttons, controls, and custom poster image background using HTML5 and CSS to help you reach your customers with a customized appearance.
 
 On the playback side of the viewer, it automatically detects the browser’s video capability. It then serves the video using HLS (HTTP Live Streaming), also known as adaptive video streaming. Or, if that delivery method is not present then HTML5 progressive is used instead.
 
@@ -27,13 +27,15 @@ You extend the reach of your rich media content to desktop and mobile users. You
 
 See also [About HTML5 Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in the Adobe Viewers Reference Guide.
 
-## Playback of video on desktop computers and mobile devices using the Dynamic Media Classic Video Viewer {#playback-of-video-on-desktop-computers-and-mobile-devices-using-the-scene-video-viewer}
+See also [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) training video.
+
+## Playback of video on desktop computers and mobile devices using the Adobe Dynamic Media Classic Video Viewer {#playback-of-video-on-desktop-computers-and-mobile-devices-using-the-scene-video-viewer}
 
 For desktop and mobile adaptive video streaming, the videos used for bit rate switching are based on all MP4 videos in the Adaptive Video Set.
 
 Video playback occurs using either HLS or progressive video. HLS (HTTP Live Streaming) is an Apple standard for adaptive video streaming that automatically adjusts playback based on network bandwidth capacity. It also lets the customer “seek” to any point in the video without the need to wait for the rest of the video to download. See also [HTTP Live Streaming](https://developer.apple.com/streaming/). Progressive video is delivered by downloading and storing the video locally to a user’s desktop screen or mobile device.
 
-The following table describes the device, browser, and playback method of videos on desktop computers and mobile devices using the Dynamic Media Classic Video Viewer.
+The following table describes the device, browser, and playback method of videos on desktop computers and mobile devices using the Adobe Dynamic Media Classic Video Viewer.
 
 |Device|Browser|Video playback mode|
 |--- |--- |--- |

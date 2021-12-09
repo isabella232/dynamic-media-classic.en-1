@@ -1,16 +1,16 @@
 ---
-title: Getting disk usage information
-description: Learn how to get disk usage information.
+title: Get disk usage information
+description: Learn how to get disk usage information in Adobe Dynamic Media Classic.
 uuid: 01361693-53d0-4072-b7c3-f284631d28cf
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 337a4681-ac9a-40d9-82e8-1999bbed980c
 ---
-# Getting disk usage information {#getting-disk-usage-information}
+# Get disk usage information {#getting-disk-usage-information}
 
 You can use the `disk_info` parameter to retrieve information about a company’s disk space usage, as shown in the following example:
 
@@ -38,10 +38,10 @@ A sample response looks like the following:
 
 You can use the following fields in the URL query string to get disk usage information:
 
-|URL parameter|Required/optional|Value|
-|--- |--- |--- |
-|op|Required|disk_info|
-|shared_secret|Required|The shared-secret key for the company|
+| URL parameter | Required/optional | Value |
+| --- | --- | --- |
+| op | Required | disk_info |
+| shared_secret | Required | The shared-secret key for the company |
 
 The following sample code gets disk information for 000Company:
 

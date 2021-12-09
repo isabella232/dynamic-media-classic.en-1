@@ -6,14 +6,14 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
 ---
 # Best practices for optimizing the quality of your images{#best-practices-for-optimizing-the-quality-of-your-images}
 
 Optimizing image quality can be a time consuming process as many factors contribute to rendering acceptable results. The outcome is partly subjective because individuals perceive image quality differently. Structured experimentation is key.
 
-Dynamic Media Classic includes more than 100 image serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
+Adobe Dynamic Media Classic includes more than 100 image serving commands for tuning and optimizing images and rendering results. The following guidelines can help you streamline the process and achieve good results quickly using some essential commands and best practices.
 
 See also [Smart imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
@@ -39,13 +39,13 @@ As a best practice for image sizing, use `&wid=<value>&hei=<value>&resMode=sharp
 
 ## Best practices for image sharpening {#best-practices-for-image-sharpening}
 
-Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Dynamic Media Classic by referring to the following helpful resources:
+Image sharpening is the most complex aspect of controlling images on your website, and where many mistakes are made. Take the time to learn more about how sharpening and unsharp masking works in Adobe Dynamic Media Classic by referring to the following helpful resources:
 
-Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
+Best practices white paper [Sharpen images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
-With Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. Usually, however, you sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
+With Adobe Dynamic Media Classic, you can sharpen images on ingestion, on delivery, or both. Usually, however, you sharpen images using only one method or the other, but not both. Sharpening images on delivery, on a URL, typically gives you the best results.
 
 There are two image sharpening methods that you can use:
 
@@ -63,9 +63,9 @@ There are two image sharpening methods that you can use:
 
       This parameter determines how different the sharpened pixels must be from the surrounding area before they are considered edge pixels and the filter sharpens them. Threshold helps to avoid over-sharpening areas with similar colors, such as skin tones. For example, a threshold value of 12 ignores slight variations in skin tone brightness to avoid adding "noise", while still adding edge contrast to high contrast areas, such as where eyelashes meet skin.
 
-      For more information about how you set these three parameters, including best practices to use with the filter, see [Sharpening images in Adobe Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
+      For more information about how you set these three parameters, including best practices to use with the filter, see [Sharpen images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
-    * Dynamic Media Classic also lets you control a fourth parameter: monochrome ( `0,1`). This parameter determines if unsharp masking is applied to each color component separately using the value `0` or to the image brightness/intensity using the value `1`.
+    * Adobe Dynamic Media Classic also lets you control a fourth parameter: monochrome ( `0,1`). This parameter determines if unsharp masking is applied to each color component separately using the value `0` or to the image brightness/intensity using the value `1`.
 
 As a best practice, start with the unsharp mask radius parameter. Radius settings that you can start with are the following:
 
@@ -114,6 +114,6 @@ If sharpening results are still not satisfactory, increase the radius in decimal
 
 As you experiment, the following general suggestions are helpful to optimize your workflow:
 
-* Try out and test different parameters in real time, either directly on a Dynamic Media Classic URL or using the Dynamic Media Classic's image adjustment functionality. The latter provides real-time previews for adjustment operations.
+* Try out and test different parameters in real time, either directly on a URL or using the Adobe Dynamic Media Classic's image adjustment functionality. The latter provides real-time previews for adjustment operations.
 * As a best practice, remember that you can group Dynamic Media Image Serving commands into an image preset. An image preset is basically URL command macros with custom preset names such as `$thumb_low$` and `&product_high$`. The custom preset name in a URL path calls these presets. Such functionality helps you manage commands and quality settings for different usage patterns of images on your website and shortens the overall length of URLs.
-* Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying image sharpening on ingestion. For advanced use cases where further tuning and optimizing of rendered results is an option, Adobe Professional Services can help you with customized insight and best practices.
+* Adobe Dynamic Media Classic also provides more advanced ways to tune image quality, such as applying image sharpening on ingestion. For advanced use cases where further tuning and optimizing of rendered results is an option, Adobe Professional Services can help you with customized insight and best practices.

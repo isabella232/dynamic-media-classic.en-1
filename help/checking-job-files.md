@@ -1,6 +1,6 @@
 ---
-title: Checking job files
-description: Learn how to check job files.
+title: Check job files
+description: Learn how to check job files in Adobe Dynamic Media Classic.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference
@@ -8,96 +8,96 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 ---
-# Checking job files{#checking-job-files}
+# Check job files{#checking-job-files}
 
-To monitor file uploads to the Dynamic Media Classic and files you publish to Dynamic Media Classic servers, Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
+To monitor file uploads to the Adobe Dynamic Media Classic and files you publish to Adobe Dynamic Media Classic servers, Adobe Dynamic Media Classic offers the Jobs page. You can review upload and publish jobs on the Jobs page, check the status of jobs, and cancel publishing jobs from this page. You can also schedule upload and publishing jobs.
 
-When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can click the icon to see more information about the active job.
+When you upload assets, a spinning icon appears next to the Jobs menu, indicating a job is in progress, and the number of files in progress. You can select the icon to see more information about the active job.
 
 >[!NOTE]
 >
->A list of your recently published jobs is also available on the Recent Activity page. Click **[!UICONTROL Recent]** on the Global Navigation bar to open this page.
+>A list of your recently published jobs is also available on the Recent Activity page. Select **[!UICONTROL Recent]** on the Global Navigation bar.
 
 ## About the Jobs page {#about-the-jobs-page}
 
-Select **[!UICONTROL Jobs]** on the Global Navigation bar to open the Jobs page. By default, jobs are listed starting with the most recent.
+Select **[!UICONTROL Jobs]** on the Global Navigation bar so the Jobs page opens. By default, jobs are listed starting with the most recent.
 
 Jobs are listed in these categories on the History tab of the Jobs page:
 
-**Job Type** An icon indicates the job type: Upload and Publish are the most common job types.
+* **[!UICONTROL Job Type]** - An icon indicates the job type: Upload and Publish are the most common job types.
 
-**Job Name** The name of the job. The name includes the user-entered portion of the name and the date-and-time.
+* **[!UICONTROL Job Name]** - The name of the job. The name includes the user-entered portion of the name and the date-and-time.
 
-**Started** When the job started.
+* **[!UICONTROL Started]** - When the job started.
 
-**Total** The number of files transferred.
+* **[!UICONTROL Total]** - The number of files transferred.
 
-**W (warnings)** The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows®) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
+* **[!UICONTROL W (warnings)]** - The number of warnings in the job (if any). Warnings indicate problems with the job that did not affect overall job completion. These warnings can usually be ignored because they report on hidden files. For example, `.DS_store` files (Macintosh) and Thumbs.db files (Windows®) contain information about how to display image files to users. Warning entries regarding these files, however, can be ignored because they don’t pertain to how these files are used in Adobe Dynamic Media Classic. You can double-click a job name to get detailed information about warnings.
 
-**E (errors)** Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
+* **[!UICONTROL E (errors)]** - Lists the number of errors in the job (if any). You can double-click a job name to get detailed information about errors.
 
-**Duration** How long it took to complete the job.
+* **[!UICONTROL Duration]** - How long it took to complete the job.
 
-**Status** Shows the status of the job.
+* **[!UICONTROL Status]** - Shows the status of the job.
 
-**Destination** For upload jobs, the company name, and folder to which the files were uploaded. This category doesn’t apply to publish jobs.
+* **[!UICONTROL Destination]** - For upload jobs, the company name, and folder to which the files were uploaded. This category doesn’t apply to publish jobs.
 
-**Submitted By** Lists who uploaded the assets.
+* **[!UICONTROL Submitted By]** - Lists who uploaded the assets.
 
 >[!NOTE]
 >
->You can cancel in-progress publish and upload jobs by clicking the Cancel button next to the progress bar.
+>You can cancel in-progress publish and upload jobs by selecting the **[!UICONTROL Cancel]** button next to the progress bar.
 
-## Changing views on the Jobs page {#changing-views-on-the-jobs-page}
+## Change views on the Jobs page {#changing-views-on-the-jobs-page}
 
 Use these techniques to sort jobs or change your view of the History tab of the Jobs page:
 
-**Sorting** Select a column name to sort the list by a particular column. You can select the switch beside the column name to sort in descending or ascending order.
+* **[!UICONTROL Sorting]** - Select a column name to sort the list by a particular column. You can select the switch beside the column name to sort in descending or ascending order.
 
-**Date Range** Select the Date Range menu and choose an option to narrow the list of jobs to the current date, the previous week, or the previous month. Choose Custom Date Range, then enter a specific date range.
+* **[!UICONTROL Date Range]** - Select the **[!UICONTROL Date Range]** menu and choose an option to narrow the list of jobs to the current date, the previous week, or the previous month. Select **[!UICONTROL Custom Date Range]**, then enter a specific date range.
 
-**Job Type** Select the Job Type menu and choose Publish or Upload to narrow the list to publish jobs or upload jobs. Choose All to see both types of jobs.
+* **[!UICONTROL Job Type]** - Select the **[!UICONTROL Job Type]** menu and choose **[!UICONTROL Publish]** or **[!UICONTROL Upload]** to narrow the list to publish jobs or upload jobs. Select **[!UICONTROL All]** to see both types of jobs.
 
-**Show** Choose Show > My Jobs or Show > All Jobs to narrow the list to jobs you ordered or jobs that people in your company ordered.
+* **[!UICONTROL Show]** - Go to **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** or **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** to narrow the list to jobs you ordered or jobs that people in your company ordered.
 
-## Viewing, copying, or printing a Job Details report {#viewing-copying-or-printing-a-job-details-report}
+## View, copy, or print a Job Details report {#viewing-copying-or-printing-a-job-details-report}
 
-Double-click the name of a report on the Jobs page to open the Job Details page. This page provides a summary report about the files in the job. Click View Detail to see an entry’s Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Dynamic Media Classic, the report lists the missing fonts.
+Double-click the name of a report on the Jobs page so the Job Details page opens. This page provides a summary report about the files in the job. Select **[!UICONTROL View Detail]** so you can see an entry’s Adobe Dynamic Media Classic ID, destination path, and status information. If you uploaded a PDF or PostScript file that requires fonts that are not available in Adobe Dynamic Media Classic, the report lists the missing fonts.
 
 You can copy this information to the Clipboard.
 
-1. Double-click the name of a report on the Jobs page to open the Job Details page.
-1. Click View Detail to get a detailed report about an entry.
-1. Click Copy to Clipboard.
+1. Double-click the name of a report on the Jobs page.
+1. On the Job Details page, select **[!UICONTROL View Detail]** to get a detailed report about an entry.
+1. Select **[!UICONTROL Copy to Clipboard]**.
 
-## Handling recurring upload and publish jobs {#handling-recurring-upload-and-publish-jobs}
+## Handle recurring upload and publish jobs {#handling-recurring-upload-and-publish-jobs}
 
 Recurring upload and publish jobs that you create on the Upload and Publish pages are listed on the Scheduled tab of the Jobs page. You can edit and delete recurring jobs on the Scheduled tab.
 
-Select the Jobs button on the Global Navigation bar and, on the Jobs page, select the Scheduled tab to edit and delete recurring jobs.
+Select the Jobs button on the Global Navigation bar and, on the Jobs page, select the **[!UICONTROL Scheduled]** tab so you can edit and delete recurring jobs.
 
 >[!NOTE]
 >
->You can filter the job list on the Scheduled tab with the Job Type and Show menus. Choose a Job Type to narrow the list to publish jobs of a specific kind. Choose a Show option to display jobs you created or jobs created by everyone in your company.
+>You can filter the job list on the **[!UICONTROL Scheduled]** tab with the **[!UICONTROL Job Type]** and **[!UICONTROL Show]** menus. Select a job type so you can narrow the list to publish jobs of a specific kind. Select a **[!UICONTROL Show]** option if you want to display jobs you created or jobs created by everyone in your company.
 
-### Editing, deleting, pausing, and resuming recurring jobs {#editing-deleting-pausing-and-resuming-recurring-jobs}
+### Edit, delete, pause, and resume recurring jobs {#editing-deleting-pausing-and-resuming-recurring-jobs}
 
-Select a recurring job on the Jobs page and follow these instructions to edit or delete it:
+Select a recurring job on the Jobs page and follow these instructions if you want to edit or delete it:
 
-**Editing a recurring job** Select the Edit button and enter schedule information in the Edit Scheduled Job dialog box. If you want the job to recur at an interval of your choice, choose Repeat > Custom.
+* **Edit a recurring job** - Select the **[!UICONTROL Edit]** button and enter schedule information in the Edit Scheduled Job dialog box. If you want the job to recur at an interval of your choice, go to **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**.
 
-See [Creating a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
+See [Create a custom upload or publish job time interval](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
-**Deleting a recurring job** Select the Delete button.
+* **Deleting a recurring job** - Select the **[!UICONTROL Delete]** button.
 
-**Pausing (and resuming) a recurring job** In the Active column, deselect a check box to pause a job; select a check box to resume a job that was paused.
+* **Pausing (and resuming) a recurring job** - In the Active column, deselect a check box to pause a job; select a check box to resume a job that was paused.
 
-### Creating a custom upload or publish job time interval {#creating-a-custom-upload-or-publish-job-time-interval}
+### Create a custom upload or publish job time interval {#creating-a-custom-upload-or-publish-job-time-interval}
 
-To create a custom time interval for an upload (via FTP) or a publish job, choose Repeat > Custom on the Upload or Publish page. Then enter numbers and wildcards in the Rule box to describe a time interval for the upload or publish jobs to recur.
+To create a custom time interval for an upload (via FTP) or a publish job, on the Upload or Publish page, go to **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**. Then enter numbers and wildcards in the Rule box describing a time interval for the upload or publish jobs to recur.
 
 The syntax for describing custom upload and publish time intervals in the Rule box is:
 
@@ -135,19 +135,19 @@ This table describes the wildcard characters that are allowed in the Rule box an
 
 This list gives examples of describing time intervals in the Rule box:
 
-* 0 0 12 &#42; &#42; ?: Noon every day
-* 0 15 10 ? &#42; &#42;: 10:15 am every day
-* 0 0/5 14 &#42; &#42; ?: Every 5 minutes between 2:00 and 2:55 pm every day
-* 0 0/5 14,18 &#42; &#42; ?: Every 5 minutes between 2:00 and 2:55 pm every day and every 5 minutes between 6:00 and 6:55 pm every day
-* 0 10,44 14 ? 3: Wed at 2:10 pm and 2:44 pm every Wednesday in March
-* 0 15 10 ? &#42;: Mon-Fri at 10:15 am every weekday
-* 0 15 10 20 &#42; ?: At 10:15 am on the 20th day of every month
-* 0 15 10 L &#42; ?: At 10:15 am on the last day of every month
-* 0 15 10 ? &#42; 6L: At 10:15 am on the last Friday of every month
-* 0 15 10 &#42; &#42; 6#3: At 10:15 am on the third Friday of every month
+* `0 0 12 * * ?` : Noon every day
+* `0 15 10 ? * *` : 10:15 am every day
+* `0 0/5 14 * * ?`: Every 5 minutes between 2:00 and 2:55 pm every day
+* `0 0/5 14,18 * * ?` : Every 5 minutes between 2:00 and 2:55 pm every day and every 5 minutes between 6:00 and 6:55 pm every day
+* `0 10,44 14 ? 3` : Wed at 2:10 pm and 2:44 pm every Wednesday in March
+* `0 15 10 ? *` : Mon-Fri at 10:15 am every weekday
+* `0 15 10 20 * ?` : At 10:15 am on the 20th day of every month
+* `0 15 10 L * ?` : At 10:15 am on the last day of every month
+* `0 15 10 ? * 6L` : At 10:15 am on the last Friday of every month
+* `0 15 10 * * 6#3` : At 10:15 am on the third Friday of every month
 
-## Using an upload or publish job as a trigger {#using-an-upload-or-publish-job-as-a-trigger}
+## Use an upload or publish job as a trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
 When you upload assets via FTP or run a publish job, you can schedule a subsequent job to begin when the upload is complete. (If other jobs are scheduled to begin then, the job you schedule here is queued behind them.) The new job sends a notification to the address you specify so that code at that location can be triggered. This follow-on upload job is given the same name as the current upload job, but with the prefix _Pub.
 
-To make one upload or publish job trigger another job, select Advanced on the Upload or Publish page. Then enter the URL in the HTTP Notification text field.
+To make one upload or publish job trigger another job, select **[!UICONTROL Advanced]** on the Upload or Publish page. Then enter the URL in the HTTP Notification text field.
