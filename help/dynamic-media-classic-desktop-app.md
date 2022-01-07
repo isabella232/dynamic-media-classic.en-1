@@ -42,7 +42,7 @@ Image editing **[!UICONTROL Save]** buttons were non-functional.
 * Could not enter `d` and `e` in **[!UICONTROL Username]** and **[!UICONTROL Password]** fields when running macOS Monterey.
 * Moved the remaining analytics APIs to version 2.0.
 
-## Fixes in release (20.21.3) {#release-sept2021}
+## Fixes in release 20.21.3 {#release-sept2021}
 
 * Broken thumbnails for assets seen after a period of inactivity on the desktop app.
 * Desktop app stops responding, typically after Set operations.
