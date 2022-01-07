@@ -34,11 +34,13 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 ## Fixes in the latest release (20.22.1) {#release-jan2022}
 
-* <!-- CQ-4333853 :  -->Image editing **[!UICONTROL Save]** buttons were non-functional.
-* <!-- CQ-4334638 :  -->In the Set editors, the **[!UICONTROL Close]**, **[!UICONTROL Save]**, and **[!UICONTROL Save As]** buttons become disabled after scrolling assets in the **[!UICONTROL Add Assets]** panel.
-* <!-- CQ-4335992 :  -->**[!UICONTROL Play]** button in Video Detail view did not work.
-* <!-- CQ-4336687 :  -->Could not enter `d` and `e` in **[!UICONTROL Username]** and **[!UICONTROL Password]** fields when running macOS Monterey.
-* <!-- CQ-4334197 :  -->Moved the remaining analytics APIs to version 2.0.
+Image editing **[!UICONTROL Save]** buttons were non-functional.
+
+* Image editing **[!UICONTROL Save]** buttons were non-functional.
+* In the Set editors, the **[!UICONTROL Close]**, **[!UICONTROL Save]**, and **[!UICONTROL Save As]** buttons become disabled after scrolling assets in the **[!UICONTROL Add Assets]** panel.
+* **[!UICONTROL Play]** button in Video Detail view did not work.
+* Could not enter `d` and `e` in **[!UICONTROL Username]** and **[!UICONTROL Password]** fields when running macOS Monterey.
+* Moved the remaining analytics APIs to version 2.0.
 
 ## Fixes in release (20.21.3) {#release-sept2021}
 
@@ -144,7 +146,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app for macOS.
 
-    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
+    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
 
 1. Mount the downloaded Disk Image (.DMG) to a mountpoint location using the following command:
 
