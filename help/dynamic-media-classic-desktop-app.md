@@ -32,7 +32,15 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 >
 >Upgrade notification within the Adobe Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
 
-## Fixes in the latest release (20.21.3) {#release-sept2021}
+## Fixes in the latest release (20.22.1) {#release-jan2022}
+
+* <!-- CQ-4333853 :  -->Image editing **[!UICONTROL Save]** buttons were non-functional.
+* <!-- CQ-4334638 :  -->In the Set editors, the **[!UICONTROL Close]**, **[!UICONTROL Save]**, and **[!UICONTROL Save As]** buttons become disabled after scrolling assets in the **[!UICONTROL Add Assets]** panel.
+* <!-- CQ-4335992 :  -->**[!UICONTROL Play]** button in Video Detail view did not work.
+* <!-- CQ-4336687 :  -->Could not enter `d` and `e` in **[!UICONTROL Username]** and **[!UICONTROL Password]** fields when running macOS Monterey.
+* <!-- CQ-4334197 :  -->Moved the remaining analytics APIs to version 2.0.
+
+## Fixes in release (20.21.3) {#release-sept2021}
 
 * Broken thumbnails for assets seen after a period of inactivity on the desktop app.
 * Desktop app stops responding, typically after Set operations.
@@ -77,17 +85,20 @@ See also:
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * The latest version (20.21.3) is available at the following:
+    * The latest version (20.22.1) is available at the following:
+
+        * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
+        * [Windows (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+
+    * The previous version (20.21.3) is available at the following:
 
         * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
         * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
 
-    * The previous version (20.21.2) is available at the following:
+<!--    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
+        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe) -->
 
-        * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
-        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
-
-<!--         * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+<!--    * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
         * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
 
 
@@ -137,7 +148,7 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Mount the downloaded Disk Image (.DMG) to a mountpoint location using the following command:
 
-    `hdiutil attach adobe-dynamic-media-classic-20.21.3.dmg -mountpoint <mount_point_path>`
+    `hdiutil attach adobe-dynamic-media-classic-20.22.1.dmg -mountpoint <mount_point_path>`
 
 1. Copy the .APP file to **[!UICONTROL Applications]** using the following command:
 
@@ -175,19 +186,19 @@ To download and *silent* install the latest version of Adobe Dynamic Media Class
 
 1. Download the latest installer for Adobe Dynamic Media Classic desktop app.
 
-    * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
+    * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
 
 1. Run the installer in record mode using the following command:
 
-    `adobe-dynamic-media-classic-20.21.3.exe /r /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.22.1.exe /r /f1"C:\Setup.iss"`
 
 1. In the GUI installer window, follow the steps to install so that interactions/inputs, like install location, get recorded in `Setup.iss` file.
 
-1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.21.3.exe` to other computer.
+1. Copy the created `Setup.iss` file and `adobe-dynamic-media-classic-20.22.1.exe` to other computer.
 
 1. Run the following command for a silent installation:
 
-    `adobe-dynamic-media-classic-20.21.3.exe /s /f1"C:\Setup.iss"`
+    `adobe-dynamic-media-classic-20.22.1.exe /s /f1"C:\Setup.iss"`
 
     Details about command-line parameters are available at [Setup.exe and Update.exe Command-Line Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
