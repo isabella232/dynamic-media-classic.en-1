@@ -34,8 +34,6 @@ Adobe Dynamic Media Classic desktop app is compatible with the following operati
 
 ## Fixes in the latest release (20.22.1) {#release-jan2022}
 
-Image editing **[!UICONTROL Save]** buttons were non-functional.
-
 * Image editing **[!UICONTROL Save]** buttons were non-functional.
 * In the Set editors, the **[!UICONTROL Close]**, **[!UICONTROL Save]**, and **[!UICONTROL Save As]** buttons become disabled after scrolling assets in the **[!UICONTROL Add Assets]** panel.
 * **[!UICONTROL Play]** button in Video Detail view did not work.
