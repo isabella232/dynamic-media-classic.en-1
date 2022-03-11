@@ -52,7 +52,7 @@ When you create Image Maps, you can do any of the following:
 
    See [to enter JavaScript and URLs](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
-1. To display rollover text when users move the pointer over your Image Map, enter the text in the Image Map list. In the Image Map list, select the **[!UICONTROL Show]** menu and select **[!UICONTROL Rollover Text]**. Then enter the text you want users to see onscreen. You can write the text in a word processor and copy it into the Rollover text field.
+1. To display rollover text when users move the pointer over your Image Map, enter the text in the Image Map list. In the Image Map list, select the **[!UICONTROL Show]** menu and select **[!UICONTROL Rollover Text]**. Then enter the text that you want users to see onscreen. You can write the text in a word processor and copy it into the Rollover text field.
 
 1. If you want another action effect to occur when users move the mouse over an Image Map, define the action. In the **[!UICONTROL Show]** drop-down list, select **[!UICONTROL Other Actions]**. Enter the attributes of the action. (Go to **[!UICONTROL Show]** > **[!UICONTROL Both]** to create rollover text and an action for an Image Map.)
 
@@ -186,13 +186,13 @@ Select the **[!UICONTROL Show]** menu and select **[!UICONTROL Both]** if you wa
 
 You can create Image Maps while designing your eCatalog in Adobe Acrobat or Adobe InDesign.
 
-In Acrobat or InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Adobe Dynamic Media Classic automatically converts the links to Image Maps.
+In Adobe Acrobat or Adobe InDesign, create hyperlink references where you want the Image Maps to appear, and specify URL locations for the image map. Selecting the Extract Links option when uploading the PDF file into Adobe Dynamic Media Classic automatically converts the links to Image Maps.
 
 For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
 ### To create Image Maps in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
-1. In InDesign, go to **[!UICONTROL Windows®]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
+1. In Adobe InDesign, go to **[!UICONTROL Windows®]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
 1. In the Hyperlinks panel, select the text, frame, or graphic that you want to make into an Image Map.
 1. Select **[!UICONTROL New Hyperlink]** from the panel menu. 
 1. In the New Hyperlink dialog box, from the **[!UICONTROL Link To]** menu, choose **[!UICONTROL URL]**.
@@ -210,7 +210,7 @@ For more information, see Adobe InDesign Help or Adobe Acrobat Help.
 
 ### To create Image Maps in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 
-1. In Acrobat, go to **[!UICONTROL Tools]** > **[!UICONTROL Advanced Editing]** > **[!UICONTROL Link Tool]**.
+1. In Adobe Acrobat, go to **[!UICONTROL Tools]** > **[!UICONTROL Advanced Editing]** > **[!UICONTROL Link Tool]**.
 1. Drag to create the Image Map.
 1. In the Create Link box, select **[!UICONTROL Custom Link]**, and select **[!UICONTROL Next]**.
 

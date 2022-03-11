@@ -36,7 +36,7 @@ Depending on the settings you choose for your eCatalog, the viewer can let you d
 
 ![The eCatalog as it appears to users. A) eCatalog opening page. B)eCatalog turned to page 2.](/help/assets/ec_cat_viewer_popup.png)
 
-To create an eCatalog, you typically use high-resolution PDF files created in Adobe® Acrobat® or another print program, but you can also create an eCatalog from image files.
+To create an eCatalog, you typically use high-resolution PDF files created in Adobe Acrobat or another print program, but you can also create an eCatalog from image files.
 
 As part of creating your eCatalog, you can arrange pages or page spreads in the order you choose. You can also declare whether you want single pages, double-page spreads, or multi-page spreads. You can create Image Maps for page regions so that viewers can, for example, select an area on the page and open a new page on your web site. You can manage the rollover text that appears using InfoPanel settings within the eCatalog screen. You can also configure the eCatalog Viewer by choosing from more than 100 different configuration options. You can tailor the features and the appearance of your Viewer for your particular audience.
 
