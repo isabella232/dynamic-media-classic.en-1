@@ -1,7 +1,7 @@
 ---
 title: Adobe Dynamic Media Classic desktop app - Now available
 description: Learn more about Adobe Dynamic Media Classic desktop application.
-contentOwner: admin
+contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
@@ -26,11 +26,14 @@ See the FAQ for the [New Adobe Dynamic Media Classic sign-in experience now avai
 Adobe Dynamic Media Classic desktop app is compatible with the following operating systems:
 
 * macOS 10.10 or newer.
+
+  >[!NOTE]
+  >
+  >Dynamic Media Classic desktop app is seeing degraded functionality when used with macOS Monterey. As such, Adobe is working on releasing a new desktop app version in the coming weeks.
+
 * Windows® 7 or newer.
 
->[!NOTE]
->
->Upgrade notification within the Adobe Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
+Upgrade notification within the Adobe Dynamic Media Classic desktop application is not generated for *minor* releases. Customers who benefit from fixes in a minor release can upgrade.
 
 ## Fixes in the latest release (20.22.1) {#release-jan2022}
 
@@ -102,7 +105,7 @@ See also:
         * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
 
 
-1. Do one of the following based on the installer you downloaded.
+1. Do one of the following based on the installer that you downloaded.
 
     * **macOS** &ndash;In the **[!UICONTROL Drag & drop to install]** dialog box, drag **[!UICONTROL Adobe Dynamic Media Classic]** and drop it onto **[!UICONTROL Applications]**.
 
@@ -129,7 +132,7 @@ See also:
     | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
     | APAC Production (Asia-Pacific) | https://s7sps5.scene7.com/ |
 
-1. Following sign in, notice the familiar browser user interface experience. You can continue your day to day Adobe Dynamic Media Classic activity as usual on the desktop app.
+1. Following sign in, notice the familiar browser user interface experience. You can continue your day-to-day Adobe Dynamic Media Classic activity as usual on the desktop app.
 
 ## Download and *silent* install the latest Adobe Dynamic Media Classic desktop app on macOS {#install-silent-mac-dmc-app}
 
